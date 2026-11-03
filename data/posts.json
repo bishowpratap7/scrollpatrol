@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T21:23:02.737650+00:00",
+ "generated_at": "2026-11-03T21:53:14.823294+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T21:22:57.892261+00:00",
+   "fetched_at": "2026-11-03T21:53:10.425379+00:00",
    "stale": false,
    "items": [
     {
@@ -44,20 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "UPDATE: My boss canceled my already approved vacation because a coworker got sick.",
+     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xmx2yz/update_my_boss_canceled_my_already_approved/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "An accurate prediction.",
      "url": "https://www.reddit.com/r/PoursTea/comments/1xn2byi/an_accurate_prediction/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/ep7gxwmw6gzh1.jpeg?width=640&crop=smart&auto=webp&s=01e106c2893776b37dae6276ab694ca331e844bf"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Caught on cam. Immediately took control of the situation and saved this kids life.",
-     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xn0dnm/caught_on_cam_immediately_took_control_of_the/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YW91OXU4OWR1ZnpoMd402-kGaDugzoi7wFvmjSc0R4XvE1JyB4EhUfcw4Y34.png?width=640&crop=smart&auto=webp&s=9eabdc15220f761568fa612a2aaa737bb1c9e1c8"
     },
     {
      "source": "Reddit",
@@ -71,53 +71,60 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\ud83d\udd25 gorilla signaling peace to humans",
-     "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xmyr4h/gorilla_signaling_peace_to_humans/",
+     "title": "People who work alongside very high achieving people, what traits/characteristics do they have that the average person doesn\u2019t?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xmoppr/people_who_work_alongside_very_high_achieving/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/ZG5rMnpiZTBrZnpoMZCXXYAfQX6xpYFZra3r7-6JiT0exfGvaSZDUsizUnOw.jpeg?width=320&crop=smart&auto=webp&s=d0aa0f7df5e74d09467bc477af08d8974645b657"
+     "image": ""
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "UPDATE: My boss canceled my already approved vacation because a coworker got sick.",
-     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xmx2yz/update_my_boss_canceled_my_already_approved/",
+     "title": "TES6 official announcement is LIVE!",
+     "url": "https://www.reddit.com/r/skyrim/comments/1xmvnl4/tes6_official_announcement_is_live/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/usnB6QJWcaYVBB2gVP16lyVVoL9rpInYGxSyaGuY1QQ.jpeg?width=320&crop=smart&auto=webp&s=f8ea9517beddb56c8870030ddaa0c3ca26e0050e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T21:22:59.279654+00:00",
+   "fetched_at": "2026-11-03T21:53:11.972185+00:00",
    "stale": false,
    "items": [
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 223,
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 134,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 640,
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 373,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1015,
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 412,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "lowTokens",
-     "image": "https://i.redd.it/w9957z8au5zh1.gif",
-     "url": "https://redd.it/1xlrukx",
-     "ups": 7023,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1182,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 40,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,58 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 134,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Where's the love for bald women at?",
-     "image": "https://i.redd.it/n24s6mlprazh1.png",
-     "url": "https://redd.it/1xmfcib",
-     "ups": 35,
+     "title": "Nintendo's Legal Department",
+     "image": "https://i.redd.it/dsul79qew4zh1.png",
+     "url": "https://redd.it/1xlorsv",
+     "ups": 6231,
      "sub": "r/memes"
     },
     {
-     "title": "Album experience",
-     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
-     "url": "https://redd.it/1xmmdkc",
-     "ups": 68,
+     "title": "They can take our lives - but they can never take our RAM",
+     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
+     "url": "https://redd.it/1xlvkvd",
+     "ups": 4246,
      "sub": "r/memes"
     },
     {
-     "title": "Everything has to be extreme",
-     "image": "https://i.redd.it/yha0hy9q18zh1.png",
-     "url": "https://redd.it/1xm0zcl",
-     "ups": 193,
+     "title": "The real body count nobody talks about",
+     "image": "https://i.redd.it/m2j3gwhy5czh1.png",
+     "url": "https://redd.it/1xmkxlj",
+     "ups": 285,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Whats going on over there",
+     "image": "https://i.redd.it/rnurgby3l6zh1.gif",
+     "url": "https://redd.it/1xlu8sz",
+     "ups": 3641,
      "sub": "r/memes"
     },
     {
      "title": "Dark psychology",
      "image": "https://i.redd.it/qj3dc2d6wczh1.png",
      "url": "https://redd.it/1xmnceb",
-     "ups": 5782,
+     "ups": 6168,
      "sub": "r/memes"
     },
     {
-     "title": "Real footage btw",
-     "image": "https://i.redd.it/cso14rg58fzh1.gif",
-     "url": "https://redd.it/1xmwywn",
-     "ups": 220,
-     "sub": "r/memes"
-    },
-    {
-     "title": "All the dedicated ram",
-     "image": "https://i.redd.it/dj1lya5ugfzh1.png",
-     "url": "https://redd.it/1xmy9di",
-     "ups": 9,
+     "title": "just found it today",
+     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
+     "url": "https://redd.it/1xmqx9h",
+     "ups": 1577,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T21:23:00.916427+00:00",
+   "fetched_at": "2026-11-03T21:53:13.127267+00:00",
    "stale": false,
    "items": [
     {
@@ -187,38 +187,6 @@
      "text": "DeSantis on gas, Trump's war",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/675a2d97bdd5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "First cars for learning stick shift",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "DOJ sends 1,000 election monitors",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0fecb3388891",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Daylight saving time",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/81e1924a345d",
      "likes": 0,
      "image": ""
     },
@@ -232,41 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "New York Times drops Olivia Waite",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3903ba4b704",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AO3 outage extends to weeks",
+     "text": "First cars for learning stick shift",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0bd5156ab3",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Patrick Stewart dies at 86",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e356fa1ee727",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nordic nations refuse to play Russia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4d0ef7b02a2d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Haley Stevens defends Republican endorsement",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/701c37d104d0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
      "likes": 0,
      "image": ""
     },
@@ -279,77 +223,133 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Binance alleged fake-interview hack",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/75ea9cd73a96",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Daylight saving time",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/81e1924a345d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Zelda: Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f1499cbdfac2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Arc Raiders uses AI voice lines",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/949105a02518",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Right-wing Anakin Skywalker posting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "DOJ sends 1,000 election monitors",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0fecb3388891",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump offers Musk preemptive pardon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b190661e8338",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "yearly reminder rule",
      "author": "Political Memes",
      "url": "https://piefed.social/c/politicalmemes@lemmy.world/p/2561941/yearly-reminder-rule",
-     "likes": 58,
+     "likes": 114,
      "image": "https://lemmy.world/pictrs/image/9b7cba3a-9cf0-44b4-9695-11428b7b1b61.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Amazon Is Gutting Its AI Division After Sustained Failure",
-     "author": "News",
-     "url": "https://shredderfood.net/post/139839",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/46dba55f-d186-4721-b7b9-f2bd0b826db3.jpeg"
+     "text": "Gotta grow fast!",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/62734202",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/068b6479-bec9-41da-b15b-7078b97ead7a.png"
     },
     {
      "kind": "Lemmy post",
      "text": "vegan rule",
      "author": "196",
      "url": "https://piefed.zip/c/onehundredninetysix@lemmy.blahaj.zone/p/1967659/vegan-rule",
-     "likes": 19,
+     "likes": 46,
      "image": "https://lemmy.world/pictrs/image/ed2575b8-0456-45c2-ad4f-6857605897eb.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "You've Just Been Hit By The Metric System Boys",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/53954689",
+     "text": "A Former Sega Developer Has Helped Recover Games Lost for More Than 30 Years",
+     "author": "Games",
+     "url": "https://lemmy.world/post/53955520",
      "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/03ec4c1f-1e59-4c17-bb53-4f349081c0b6.jpeg"
+     "image": "https://lemmy.world/pictrs/image/e84dcf59-7acc-494a-9ae8-1fa291598b2a.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T21:23:01.405782+00:00",
+   "fetched_at": "2026-11-03T21:53:13.827122+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "An apple a day keeps the bullies away. If you throw it hard enough.",
+     "text": "Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.",
      "source": "Dad joke"
     },
     {
-     "text": "What did Yoda say when he saw himself in 4K? \"HDMI\"",
+     "text": "Conjunctivitis.com \u2013 now that\u2019s a site for sore eyes.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
+     "text": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.",
      "source": "Dad joke"
     }
    ]
