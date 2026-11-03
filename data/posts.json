@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T23:23:35.801830+00:00",
+ "generated_at": "2026-11-03T23:23:55.564242+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T23:23:30.645775+00:00",
+   "fetched_at": "2026-11-03T23:23:49.001530+00:00",
    "stale": false,
    "items": [
     {
@@ -89,21 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T23:23:32.001442+00:00",
+   "fetched_at": "2026-11-03T23:23:50.862310+00:00",
    "stale": false,
    "items": [
     {
-     "title": "handbookAfterBubbleBurst",
-     "image": "https://i.redd.it/5gvw4cv058yh1.png",
-     "url": "https://redd.it/1xhqpzg",
-     "ups": 163,
+     "title": "helloWorld",
+     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
+     "url": "https://redd.it/1xkukx5",
+     "ups": 12893,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "readAndWeepDotJpeg",
-     "image": "https://i.redd.it/y9g09mbv4fyh1.png",
-     "url": "https://redd.it/1xilxoz",
-     "ups": 0,
+     "title": "disRespect",
+     "image": "https://i.redd.it/77lnl3em4zxh1.png",
+     "url": "https://redd.it/1xgnasq",
+     "ups": 326,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 44,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,31 +121,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1171,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 95,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 243,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 645,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
-     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
-     "url": "https://redd.it/1xjyyyn",
-     "ups": 411,
-     "sub": "r/ProgrammerHumor"
+     "title": "Listening to foreign songs like I understand every single word \ud83d\udc80",
+     "image": "https://i.redd.it/e7275n39oazh1.png",
+     "url": "https://redd.it/1xmeuaf",
+     "ups": 340,
+     "sub": "r/memes"
     },
     {
-     "title": "Album experience",
-     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
-     "url": "https://redd.it/1xmmdkc",
-     "ups": 68,
+     "title": "Whats going on over there",
+     "image": "https://i.redd.it/rnurgby3l6zh1.gif",
+     "url": "https://redd.it/1xlu8sz",
+     "ups": 3641,
      "sub": "r/memes"
     },
     {
@@ -149,6 +156,13 @@
      "sub": "r/memes"
     },
     {
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 329,
+     "sub": "r/memes"
+    },
+    {
      "title": "Nintendo's Legal Department",
      "image": "https://i.redd.it/dsul79qew4zh1.png",
      "url": "https://redd.it/1xlorsv",
@@ -156,30 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "The real body count nobody talks about",
-     "image": "https://i.redd.it/m2j3gwhy5czh1.png",
-     "url": "https://redd.it/1xmkxlj",
-     "ups": 285,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Listening to foreign songs like I understand every single word \ud83d\udc80",
-     "image": "https://i.redd.it/e7275n39oazh1.png",
-     "url": "https://redd.it/1xmeuaf",
-     "ups": 340,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The struggle",
-     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
-     "url": "https://redd.it/1xmytm3",
-     "ups": 6,
+     "title": "They can take our lives - but they can never take our RAM",
+     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
+     "url": "https://redd.it/1xlvkvd",
+     "ups": 4246,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T23:23:34.000566+00:00",
+   "fetched_at": "2026-11-03T23:23:53.798911+00:00",
    "stale": false,
    "items": [
     {
@@ -291,7 +291,7 @@
      "text": "Anon loves Kebab",
      "author": "> Greentext",
      "url": "https://lemmy.ml/post/54875690",
-     "likes": 39,
+     "likes": 40,
      "image": "https://lemmy.world/pictrs/image/7407f5d1-49d4-4372-a46d-39c7d5d6ad4d.jpeg"
     },
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T23:23:34.915321+00:00",
+   "fetched_at": "2026-11-03T23:23:54.774450+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Hostess: Do you have a preference of where you sit?\r\nDad: Down.",
+     "text": "Why did the barber win the race? He took a short cut.",
      "source": "Dad joke"
     },
     {
-     "text": "\"Why do seagulls fly over the ocean?\" \"Because if they flew over the bay, we'd call them bagels.\"",
+     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "Milk is also the fastest liquid on earth \u2013 its pasteurized before you even see it",
+     "text": "Why is Peter Pan always flying? Because he Neverlands.",
      "source": "Dad joke"
     }
    ]
