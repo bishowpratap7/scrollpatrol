@@ -1,0 +1,57 @@
+name: Scroll Patrol Scan
+
+# Runs inside GitHub itself (GitHub Actions scheduled workflow).
+# GitHub cron uses UTC. Two slots per hour (:08 and :38): GitHub is known to
+# delay or drop individual scheduled runs, so a dropped slot costs ~30 min.
+on:
+  schedule:
+    - cron: "8,38 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scroll-patrol-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    name: Patrol the feeds and update the board
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the site repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan public feeds
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: python3 tools/scan.py
+
+      - name: Commit and push patrol updates
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/posts.json index.html feed.xml sitemap.xml
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No patrol changes to commit."
+            exit 0
+          fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          git commit -m "Patrol update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+      - name: Ping IndexNow
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          if [ -f "3c9e99244209a87d2c2ae08169a37a22.txt" ]; then
+            KEY=$(tr -d '\r\n' < "3c9e99244209a87d2c2ae08169a37a22.txt")
+            curl -s --max-time 20 "https://api.indexnow.org/indexnow?url=https%3A%2F%2Fbishowpratap7.github.io%2Fscrollpatrol%2F&key=${KEY}" >/dev/null || true
+          fi
