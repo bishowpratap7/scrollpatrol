@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T17:57:32.366832+00:00",
+ "generated_at": "2026-11-03T17:57:59.026465+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T17:57:27.381213+00:00",
+   "fetched_at": "2026-11-03T17:57:55.843075+00:00",
    "stale": false,
    "items": [
     {
@@ -89,42 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T17:57:28.661809+00:00",
+   "fetched_at": "2026-11-03T17:57:56.537739+00:00",
    "stale": false,
    "items": [
     {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 93,
+     "title": "completeBrainRewire",
+     "image": "https://i.redd.it/6bf6lbtfgyyh1.gif",
+     "url": "https://redd.it/1xkx5ig",
+     "ups": 863,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itMeetup",
-     "image": "https://i.redd.it/66dnfjji4uxh1.png",
-     "url": "https://redd.it/1xg0zon",
-     "ups": 4634,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "lowTokens",
-     "image": "https://i.redd.it/w9957z8au5zh1.gif",
-     "url": "https://redd.it/1xlrukx",
-     "ups": 6834,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisPythonShitIsSoEasy",
-     "image": "https://i.redd.it/e8ak96gkodyh1.png",
-     "url": "https://redd.it/1xifkge",
-     "ups": 22,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 639,
+     "title": "heapBig",
+     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
+     "url": "https://redd.it/1xihrez",
+     "ups": 204,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,10 +114,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 319,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 639,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 138,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
      "title": "Listening to foreign songs like I understand every single word \ud83d\udc80",
      "image": "https://i.redd.it/e7275n39oazh1.png",
      "url": "https://redd.it/1xmeuaf",
      "ups": 331,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Why doesn't he do the same?",
+     "image": "https://i.redd.it/izy2tlx9f6zh1.png",
+     "url": "https://redd.it/1xltotl",
+     "ups": 461,
+     "sub": "r/memes"
+    },
+    {
+     "title": "All the dedicated ram",
+     "image": "https://i.redd.it/dj1lya5ugfzh1.png",
+     "url": "https://redd.it/1xmy9di",
+     "ups": 7,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 252,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Not today, Sam",
+     "image": "https://i.redd.it/9eeithp3n5zh1.gif",
+     "url": "https://redd.it/1xlr7wg",
+     "ups": 510,
      "sub": "r/memes"
     },
     {
@@ -147,39 +175,11 @@
      "url": "https://redd.it/1xmytm3",
      "ups": 4,
      "sub": "r/memes"
-    },
-    {
-     "title": "They can take our lives - but they can never take our RAM",
-     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
-     "url": "https://redd.it/1xlvkvd",
-     "ups": 4186,
-     "sub": "r/memes"
-    },
-    {
-     "title": "RAM Altman wants to Randomly Access your Memory",
-     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
-     "url": "https://redd.it/1xmvcc7",
-     "ups": 36,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Where's the love for bald women at?",
-     "image": "https://i.redd.it/n24s6mlprazh1.png",
-     "url": "https://redd.it/1xmfcib",
-     "ups": 32,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Everything has to be extreme",
-     "image": "https://i.redd.it/yha0hy9q18zh1.png",
-     "url": "https://redd.it/1xm0zcl",
-     "ups": 186,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T17:57:30.741242+00:00",
+   "fetched_at": "2026-11-03T17:57:58.194736+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "HELP ME BROTHER, I AM PINNED HERE",
      "author": "cats",
      "url": "https://lemmy.world/post/53947974",
-     "likes": 54,
+     "likes": 55,
      "image": "https://lemmy.world/pictrs/image/ffb812a7-538d-4ed7-9128-47a4fa065fcb.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Psssst",
      "author": "Political Memes",
      "url": "https://sh.itjust.works/post/69368360",
-     "likes": 121,
+     "likes": 122,
      "image": "https://lemmy.world/pictrs/image/1461d84c-2f4a-4795-afca-74884dfced0b.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T17:57:31.331176+00:00",
+   "fetched_at": "2026-11-03T17:57:58.620661+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "What happens to a frog's car when it breaks down? It gets toad.",
+     "text": "What did Yoda say when he saw himself in 4K? \"HDMI\"",
      "source": "Dad joke"
     },
     {
-     "text": "How many seconds are in a year?\r\n12.\r\nJanuary 2nd, February 2nd, March 2nd, April 2nd.... etc",
+     "text": "How do you make a hankie dance? Put a little boogie in it.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you fix a damaged jack-o-lantern? You use a pumpkin patch.",
+     "text": "People who don't eat gluten are really going against the grain.",
      "source": "Dad joke"
     }
    ]
