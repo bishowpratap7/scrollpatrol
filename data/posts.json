@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T18:20:11.396086+00:00",
+ "generated_at": "2026-11-03T18:20:45.128394+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T18:20:07.263023+00:00",
+   "fetched_at": "2026-11-03T18:20:39.141595+00:00",
    "stale": false,
    "items": [
     {
@@ -89,21 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T18:20:08.016201+00:00",
+   "fetched_at": "2026-11-03T18:20:40.617740+00:00",
    "stale": false,
    "items": [
     {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 205,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1176,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
-     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
-     "url": "https://redd.it/1xlu08b",
-     "ups": 5,
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 69,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itMeetup",
+     "image": "https://i.redd.it/66dnfjji4uxh1.png",
+     "url": "https://redd.it/1xg0zon",
+     "ups": 4634,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,59 +121,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itsAiFaultISwear",
-     "image": "https://i.redd.it/5yq29a7jszxh1.png",
-     "url": "https://redd.it/1xgpkkj",
-     "ups": 79,
+     "title": "helloWorld",
+     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
+     "url": "https://redd.it/1xkukx5",
+     "ups": 12813,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "completeBrainRewire",
-     "image": "https://i.redd.it/6bf6lbtfgyyh1.gif",
-     "url": "https://redd.it/1xkx5ig",
-     "ups": 869,
+     "title": "magicQuotes",
+     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
+     "url": "https://redd.it/1ximxha",
+     "ups": 2383,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "eMudhraBrainstormingSesh",
-     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
-     "url": "https://redd.it/1xh1lm8",
-     "ups": 239,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1341,
+     "title": "Where's the love for bald women at?",
+     "image": "https://i.redd.it/n24s6mlprazh1.png",
+     "url": "https://redd.it/1xmfcib",
+     "ups": 32,
      "sub": "r/memes"
     },
     {
-     "title": "Real footage btw",
-     "image": "https://i.redd.it/cso14rg58fzh1.gif",
-     "url": "https://redd.it/1xmwywn",
-     "ups": 39,
+     "title": "The struggle",
+     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
+     "url": "https://redd.it/1xmytm3",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
-     "title": "i am both the financial advisor and the client ignoring the financial advisor",
-     "image": "https://i.redd.it/wgg9z386obzh1.png",
-     "url": "https://redd.it/1xmj2yb",
-     "ups": 7,
+     "title": "meowmeowww",
+     "image": "https://i.redd.it/3i9796m429zh1.gif",
+     "url": "https://redd.it/1xm6ow4",
+     "ups": 94,
      "sub": "r/memes"
     },
     {
-     "title": "Listening to foreign songs like I understand every single word \ud83d\udc80",
-     "image": "https://i.redd.it/e7275n39oazh1.png",
-     "url": "https://redd.it/1xmeuaf",
-     "ups": 331,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Everything has to be extreme",
-     "image": "https://i.redd.it/yha0hy9q18zh1.png",
-     "url": "https://redd.it/1xm0zcl",
-     "ups": 186,
+     "title": "literaly 1984",
+     "image": "https://i.redd.it/jrsa0k4ze1zh1.png",
+     "url": "https://redd.it/1xl97ca",
+     "ups": 6013,
      "sub": "r/memes"
     },
     {
@@ -175,11 +168,18 @@
      "url": "https://redd.it/1xlvkvd",
      "ups": 4186,
      "sub": "r/memes"
+    },
+    {
+     "title": "Why doesn't he do the same?",
+     "image": "https://i.redd.it/izy2tlx9f6zh1.png",
+     "url": "https://redd.it/1xltotl",
+     "ups": 461,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T18:20:10.075728+00:00",
+   "fetched_at": "2026-11-03T18:20:43.278576+00:00",
    "stale": false,
    "items": [
     {
@@ -283,16 +283,8 @@
      "text": "No need to reproduce \ud83d\udc9c",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/53948318",
-     "likes": 87,
+     "likes": 89,
      "image": "https://lemmy.world/pictrs/image/39363153-7543-4779-9f4b-7f1de76347cb.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "HELP ME BROTHER, I AM PINNED HERE",
-     "author": "cats",
-     "url": "https://lemmy.world/post/53947974",
-     "likes": 81,
-     "image": "https://lemmy.world/pictrs/image/ffb812a7-538d-4ed7-9128-47a4fa065fcb.jpeg"
     },
     {
      "kind": "Lemmy post",
@@ -301,6 +293,14 @@
      "url": "https://lemmy.zip/post/74385283",
      "likes": 37,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "HELP ME BROTHER, I AM PINNED HERE",
+     "author": "cats",
+     "url": "https://lemmy.world/post/53947974",
+     "likes": 81,
+     "image": "https://lemmy.world/pictrs/image/ffb812a7-538d-4ed7-9128-47a4fa065fcb.jpeg"
     },
     {
      "kind": "Lemmy post",
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T18:20:10.825580+00:00",
+   "fetched_at": "2026-11-03T18:20:44.069404+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
     {
      "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What animal is always at a game of cricket? A bat.",
+     "text": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
      "source": "Dad joke"
     },
     {
-     "text": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+     "text": "Have you heard about corduroy pillows?  They're making headlines!",
      "source": "Dad joke"
     },
     {
-     "text": "Why are basketball players messy eaters? Because they are always dribbling.",
+     "text": "Why did the chicken get a penalty? For fowl play.",
      "source": "Dad joke"
     }
    ]
