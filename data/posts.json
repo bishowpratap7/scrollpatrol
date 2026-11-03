@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T18:20:45.128394+00:00",
+ "generated_at": "2026-11-03T18:51:03.740728+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T18:20:39.141595+00:00",
+   "fetched_at": "2026-11-03T18:50:56.619904+00:00",
    "stale": false,
    "items": [
     {
@@ -44,20 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "\ud83d\udd25 gorilla signaling peace to humans",
+     "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xmyr4h/gorilla_signaling_peace_to_humans/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZG5rMnpiZTBrZnpoMZCXXYAfQX6xpYFZra3r7-6JiT0exfGvaSZDUsizUnOw.jpeg?width=320&crop=smart&auto=webp&s=d0aa0f7df5e74d09467bc477af08d8974645b657"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "An different view of the Florida plane crash",
      "url": "https://www.reddit.com/r/interestingasfuck/comments/1xmfhm4/an_different_view_of_the_florida_plane_crash/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/YzlpandzZGp0YXpoMUbgljt1SWj1T_iyqeHZCduFQ6Vl8qX5TITh0QcBT4BJ.jpeg?width=640&crop=smart&auto=webp&s=951f5bb98ca9da54998fcf7531abce7038cc3412"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Took my dog for a walk today and some woman said he was ugly",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xmmu7f/took_my_dog_for_a_walk_today_and_some_woman_said/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/g6z26svcqczh1.jpeg?width=640&crop=smart&auto=webp&s=1fd79df6c8670bca23942e5751ec91d6dddb6d41"
     },
     {
      "source": "Reddit",
@@ -80,32 +80,18 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Going to the polls",
-     "url": "https://www.reddit.com/r/pics/comments/1xmt3i9/going_to_the_polls/",
+     "title": "Go bankrupt.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xmxxnw/go_bankrupt/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/flhqwh1jhezh1.jpeg?width=640&crop=smart&auto=webp&s=617269576a0001ae84635ccdc0d8c322f67ae310"
+     "image": "https://preview.redd.it/ghcg7pdoefzh1.jpeg?width=640&crop=smart&auto=webp&s=01a3b845df0501bea36f35ccc14cee3b648cebaa"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T18:20:40.617740+00:00",
+   "fetched_at": "2026-11-03T18:50:57.967430+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1176,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 69,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "itMeetup",
      "image": "https://i.redd.it/66dnfjji4uxh1.png",
@@ -114,45 +100,73 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1167,
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 9991,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "helloWorld",
-     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
-     "url": "https://redd.it/1xkukx5",
-     "ups": 12813,
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 44,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2383,
+     "title": "itsAiFaultISwear",
+     "image": "https://i.redd.it/5yq29a7jszxh1.png",
+     "url": "https://redd.it/1xgpkkj",
+     "ups": 79,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Where's the love for bald women at?",
-     "image": "https://i.redd.it/n24s6mlprazh1.png",
-     "url": "https://redd.it/1xmfcib",
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
      "ups": 32,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 773,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "All the dedicated ram",
+     "image": "https://i.redd.it/dj1lya5ugfzh1.png",
+     "url": "https://redd.it/1xmy9di",
+     "ups": 7,
      "sub": "r/memes"
     },
     {
-     "title": "The struggle",
-     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
-     "url": "https://redd.it/1xmytm3",
-     "ups": 4,
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 252,
      "sub": "r/memes"
     },
     {
-     "title": "meowmeowww",
-     "image": "https://i.redd.it/3i9796m429zh1.gif",
-     "url": "https://redd.it/1xm6ow4",
-     "ups": 94,
+     "title": "just found it today",
+     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
+     "url": "https://redd.it/1xmqx9h",
+     "ups": 1341,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Listening to foreign songs like I understand every single word \ud83d\udc80",
+     "image": "https://i.redd.it/e7275n39oazh1.png",
+     "url": "https://redd.it/1xmeuaf",
+     "ups": 331,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Real footage btw",
+     "image": "https://i.redd.it/cso14rg58fzh1.gif",
+     "url": "https://redd.it/1xmwywn",
+     "ups": 39,
      "sub": "r/memes"
     },
     {
@@ -161,40 +175,26 @@
      "url": "https://redd.it/1xl97ca",
      "ups": 6013,
      "sub": "r/memes"
-    },
-    {
-     "title": "They can take our lives - but they can never take our RAM",
-     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
-     "url": "https://redd.it/1xlvkvd",
-     "ups": 4186,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Why doesn't he do the same?",
-     "image": "https://i.redd.it/izy2tlx9f6zh1.png",
-     "url": "https://redd.it/1xltotl",
-     "ups": 461,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T18:20:43.278576+00:00",
+   "fetched_at": "2026-11-03T18:51:00.079710+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Josh Turek's Republican ballot votes",
+     "text": "First cars for learning stick shift",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f5b303178988",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE re-arrests released immigrants",
+     "text": "Josh Turek's Republican ballot votes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d4d474a3759",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f5b303178988",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Arc Raiders uses AI voice lines",
+     "text": "Haley Stevens defends Republican endorsement",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/949105a02518",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Daylight saving time",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/81e1924a345d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/701c37d104d0",
      "likes": 0,
      "image": ""
     },
@@ -232,33 +224,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Daylight saving time",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/81e1924a345d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jesus de Miguel dies at 30",
+     "text": "Arc Raiders uses AI voice lines",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79a2af91f6a3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/949105a02518",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FBI attribution in Binance hack",
+     "text": "Final Fantasy Resonance",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/75ea9cd73a96",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f2b49023ecb8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Patrick Stewart dies at 86",
+     "text": "Right-wing Anakin Skywalker posting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e356fa1ee727",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "European supermarket freezers hacked",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Israel a \"helper\"",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9342a127afc2",
      "likes": 0,
      "image": ""
     },
@@ -271,11 +279,19 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Midterm campaigns enter final days",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a478bd2b6a1b",
-     "likes": 0,
+     "kind": "Lemmy post",
+     "text": "Only one each, but they add up",
+     "author": "Comic Strips",
+     "url": "https://lemmy.zip/post/74386757",
+     "likes": 34,
+     "image": "https://lemmy.zip/pictrs/image/538b35af-6654-4900-a0c4-3d4db55bf923.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Google Will Turn Off Search for Schools That Reject A.I.",
+     "author": "Technology",
+     "url": "https://lemmy.zip/post/74385283",
+     "likes": 78,
      "image": ""
     },
     {
@@ -283,73 +299,57 @@
      "text": "No need to reproduce \ud83d\udc9c",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/53948318",
-     "likes": 89,
+     "likes": 133,
      "image": "https://lemmy.world/pictrs/image/39363153-7543-4779-9f4b-7f1de76347cb.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Google Will Turn Off Search for Schools That Reject A.I.",
-     "author": "Technology",
-     "url": "https://lemmy.zip/post/74385283",
-     "likes": 37,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "HELP ME BROTHER, I AM PINNED HERE",
-     "author": "cats",
-     "url": "https://lemmy.world/post/53947974",
-     "likes": 81,
-     "image": "https://lemmy.world/pictrs/image/ffb812a7-538d-4ed7-9128-47a4fa065fcb.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-     "author": "Politics",
-     "url": "https://sh.itjust.works/post/69370282",
-     "likes": 37,
-     "image": "https://lemmy.world/pictrs/image/1f89bbe2-5d83-474b-bedc-ba1bc69d5547.jpeg"
+     "text": "Sanders Calls for 'Fundamental and Immediate Reform' to Democratic Party If It Wins Elections",
+     "author": "Pravda News!",
+     "url": "https://news.abolish.capital/post/90478",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/5c345b9e-9ea7-4562-9296-2a224040bd43.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T18:20:44.069404+00:00",
+   "fetched_at": "2026-11-03T18:51:02.542100+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
+     "text": "Can I watch the TV? Dad: Yes, but don\u2019t turn it on.",
      "source": "Dad joke"
     },
     {
-     "text": "Have you heard about corduroy pillows?  They're making headlines!",
+     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the chicken get a penalty? For fowl play.",
+     "text": "Why are fish so smart? Because they live in schools!",
      "source": "Dad joke"
     }
    ]
