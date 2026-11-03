@@ -202,12 +202,16 @@ def publish_static(wire):
     s = wire["sections"]; q = wire.get("quips", {})
     gen = wire["generated_at"]
     def card_mw(it):
+        img = (f'<img loading="lazy" src="{esc(it.get("image"))}" alt="{esc(it.get("title"))}">'
+               if it.get("image") else "")
         return (f'<div class="baked-card"><span class="src">REDDIT · {esc(it.get("sub"))}</span>'
-                f'<a href="{esc(it.get("url"))}">{esc(it.get("title"))}</a>'
+                f'<a href="{esc(it.get("url"))}">{esc(it.get("title"))}</a>{img}'
                 f'<span class="meta">▲ {it.get("score", 0)} · {it.get("comments", 0)} comments</span></div>')
     def card_meme(it):
+        img = (f'<img loading="lazy" src="{esc(it.get("image"))}" alt="{esc(it.get("title"))} — meme from {esc(it.get("sub"))}">'
+               if it.get("image") else "")
         return (f'<div class="baked-card"><span class="src">MEME · {esc(it.get("sub"))}</span>'
-                f'<a href="{esc(it.get("url"))}">{esc(it.get("title"))}</a>'
+                f'<a href="{esc(it.get("url"))}">{esc(it.get("title"))}</a>{img}'
                 f'<span class="meta">▲ {it.get("ups", 0)}</span></div>')
     def card_el(it):
         return (f'<div class="baked-card"><span class="src">{esc(it.get("kind","").upper())}</span>'
@@ -229,6 +233,16 @@ def publish_static(wire):
         else:
             blocks.append('<p>Patrol came back empty-handed this hour. The streets are quiet… suspiciously quiet.</p>')
         blocks.append('</section>')
+    ld_items = []
+    for it in (s.get("most_wanted", {}).get("items") or []) + (s.get("meme_stash", {}).get("items") or []):
+        if it.get("url"):
+            ld_items.append({"@type": "ListItem", "position": len(ld_items) + 1,
+                             "name": it.get("title", ""), "url": it.get("url", "")})
+    if ld_items:
+        ld = json.dumps({"@context": "https://schema.org", "@type": "ItemList",
+                         "name": "Trending posts and memes right now — Scroll Patrol",
+                         "itemListElement": ld_items}).replace("</", "<\\/")
+        blocks.append(f'<script type="application/ld+json">{ld}</script>')
     baked = "\n".join(blocks)
     idx = os.path.join(ROOT, "index.html")
     html = open(idx).read()
@@ -248,7 +262,7 @@ def publish_static(wire):
             f'<id>{SITE}</id><updated>{gen}</updated>' + "".join(entries) + "</feed>")
     open(os.path.join(ROOT, "feed.xml"), "w").write(feed)
     sm = ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-          f'<url><loc>{SITE}</loc><lastmod>{gen[:10]}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url></urlset>')
+          f'<url><loc>{SITE}</loc><lastmod>{gen}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url></urlset>')
     open(os.path.join(ROOT, "sitemap.xml"), "w").write(sm)
     print("  static: index.html baked, feed.xml + sitemap.xml regenerated")
 
