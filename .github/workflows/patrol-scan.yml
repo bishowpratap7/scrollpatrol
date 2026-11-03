@@ -4,8 +4,6 @@ name: Scroll Patrol Scan
 # GitHub cron uses UTC. Two slots per hour (:08 and :38): GitHub is known to
 # delay or drop individual scheduled runs, so a dropped slot costs ~30 min.
 on:
-  schedule:
-    - cron: "8,38 * * * *"
   workflow_dispatch:
   push:
     branches: [pinger]
