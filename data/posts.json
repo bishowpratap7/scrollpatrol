@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-03T11:51:45.684625+00:00",
+ "generated_at": "2026-11-03T11:54:25.523928+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T11:51:26.913390+00:00",
+   "fetched_at": "2026-11-03T11:54:20.377631+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "20 year old Learjet co-pilot's last words before Florida plane crash revealed, 'we're out of time..'",
-     "url": "https://www.reddit.com/r/TopTrendingNewsUSA/comments/1xm51xj/20_year_old_learjet_copilots_last_words_before/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/z44tvxfsr8zh1.jpeg?width=640&crop=smart&auto=webp&s=59f03076a00f4a6e4af3a99e0e39d7557b1ae49f"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -26,29 +17,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "20 year old Learjet co-pilot's last words before Florida plane crash revealed, 'we're out of time..'",
+     "url": "https://www.reddit.com/r/TopTrendingNewsUSA/comments/1xm51xj/20_year_old_learjet_copilots_last_words_before/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/z44tvxfsr8zh1.jpeg?width=640&crop=smart&auto=webp&s=59f03076a00f4a6e4af3a99e0e39d7557b1ae49f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Does anyone even wear these?",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xlzsn9/does_anyone_even_wear_these/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/9x6zjqmut7zh1.jpeg?width=640&crop=smart&auto=webp&s=ae6bfb9dfb325c28ab09c460b4d4563cabe30eb2"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Valve \"played capitalism so well they broke it\" and now Steam can never be replaced, former Epic dev says: \"I don't think this is fixable\"",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xm4a2c/valve_played_capitalism_so_well_they_broke_it_and/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/p-_lDFH3zxVUfOVFbQeDvNzkgIBZy0a8ICWVqsh749M.jpeg?width=640&crop=smart&auto=webp&s=302639c561e5e4c9dc1086dab1f9c1207a445d87"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Do they know something we don't?",
-     "url": "https://www.reddit.com/r/interesting/comments/1xm0dku/do_they_know_something_we_dont/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/cTB2bjFkcmt4N3poMS6rJ0_aYLW-L30y5plYYR_AN8eD7YkFizliH8MdgkKr.png?width=640&crop=smart&auto=webp&s=a5104f046e418fc2113e4126b70ed00007584217"
     },
     {
      "source": "Reddit",
@@ -80,44 +62,41 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Someone's a little impatient I see...",
-     "url": "https://www.reddit.com/r/dashcams/comments/1xm3zza/someones_a_little_impatient_i_see/",
+     "title": "Valve \"played capitalism so well they broke it\" and now Steam can never be replaced, former Epic dev says: \"I don't think this is fixable\"",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xm4a2c/valve_played_capitalism_so_well_they_broke_it_and/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/dWJvMjRydnJqOHpoMcrTJ1pF7FxjIzdyfmaU6j7Vs5VLG8dN1XW4uQzMO7v5.png?width=640&crop=smart&auto=webp&s=dffdc30a968fe0de6ab797c6596b19a7170d7c29"
+     "image": "https://external-preview.redd.it/p-_lDFH3zxVUfOVFbQeDvNzkgIBZy0a8ICWVqsh749M.jpeg?width=640&crop=smart&auto=webp&s=302639c561e5e4c9dc1086dab1f9c1207a445d87"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Do they know something we don't?",
+     "url": "https://www.reddit.com/r/interesting/comments/1xm0dku/do_they_know_something_we_dont/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/cTB2bjFkcmt4N3poMS6rJ0_aYLW-L30y5plYYR_AN8eD7YkFizliH8MdgkKr.png?width=640&crop=smart&auto=webp&s=a5104f046e418fc2113e4126b70ed00007584217"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "TIL Google pays Mozilla roughly $400 \u2013 500 million USD a year to be Firefox\u2019s default search engine, a deal that makes up over 80% of Mozilla\u2019s revenue and that its executives have testified Firefox might not survive without.",
+     "url": "https://www.reddit.com/r/todayilearned/comments/1xmhsrv/til_google_pays_mozilla_roughly_400_500_million/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/6TM5EF3pT6KyL6lHcoCLD9wURu_RQfCJ-LL5CMIwqz8.jpeg?width=640&crop=smart&auto=webp&s=7d34e4dc01538c987dd0dec6e9e73e3165b8d37b"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T11:51:36.773235+00:00",
+   "fetched_at": "2026-11-03T11:54:21.676104+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itMeetup",
-     "image": "https://i.redd.it/66dnfjji4uxh1.png",
-     "url": "https://redd.it/1xg0zon",
-     "ups": 4624,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "whenTheImpossibleMeetsTheScalable",
-     "image": "https://i.redd.it/5o1uya56z6yh1.png",
-     "url": "https://redd.it/1xhl91p",
-     "ups": 6396,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "helloWorld",
-     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
-     "url": "https://redd.it/1xkukx5",
-     "ups": 12673,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "eMudhraBrainstormingSesh",
-     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
-     "url": "https://redd.it/1xh1lm8",
-     "ups": 237,
+     "title": "completeBrainRewire",
+     "image": "https://i.redd.it/6bf6lbtfgyyh1.gif",
+     "url": "https://redd.it/1xkx5ig",
+     "ups": 840,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,25 +107,32 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 1,
+     "title": "itsAiFaultISwear",
+     "image": "https://i.redd.it/5yq29a7jszxh1.png",
+     "url": "https://redd.it/1xgpkkj",
+     "ups": 73,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "You were supposed to be on my side",
-     "image": "https://i.redd.it/vr5xyx3es8zh1.gif",
-     "url": "https://redd.it/1xm55dh",
-     "ups": 47,
-     "sub": "r/memes"
+     "title": "readAndWeepDotJpeg",
+     "image": "https://i.redd.it/y9g09mbv4fyh1.png",
+     "url": "https://redd.it/1xilxoz",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Everything has to be extreme",
-     "image": "https://i.redd.it/yha0hy9q18zh1.png",
-     "url": "https://redd.it/1xm0zcl",
-     "ups": 172,
-     "sub": "r/memes"
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 631,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "fuckFuckFuckFuckFuckFuck",
+     "image": "https://i.redd.it/5290sx5ej4zh1.gif",
+     "url": "https://redd.it/1xlng1f",
+     "ups": 1022,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Dark psychology",
@@ -156,30 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "Album experience",
-     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
-     "url": "https://redd.it/1xmmdkc",
-     "ups": 35,
+     "title": "This month will be a wild ride",
+     "image": "https://i.redd.it/t3p35a1jg1zh1.png",
+     "url": "https://redd.it/1xl9fq7",
+     "ups": 1504,
      "sub": "r/memes"
     },
     {
-     "title": "it's coming",
-     "image": "https://i.redd.it/v98k8xrdr8zh1.gif",
-     "url": "https://redd.it/1xm4zo0",
-     "ups": 15,
+     "title": "someone please help this poor man",
+     "image": "https://i.redd.it/xpzc4dx9b6zh1.png",
+     "url": "https://redd.it/1xltbl6",
+     "ups": 93,
      "sub": "r/memes"
     },
     {
-     "title": "Please tell me it isn't only me",
-     "image": "https://i.redd.it/anvbvpxs37zh1.png",
-     "url": "https://redd.it/1xlw9xh",
-     "ups": 82,
+     "title": "Kiss your ram",
+     "image": "https://i.redd.it/ccsip41btyyh1.png",
+     "url": "https://redd.it/1xky93a",
+     "ups": 53375,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Where's the love for bald women at?",
+     "image": "https://i.redd.it/n24s6mlprazh1.png",
+     "url": "https://redd.it/1xmfcib",
+     "ups": 20,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The barber's mirror vs my bathroom mirror \ud83d\ude2d",
+     "image": "https://i.redd.it/li5t3jni31zh1.png",
+     "url": "https://redd.it/1xl7j62",
+     "ups": 1876,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T11:51:41.459049+00:00",
+   "fetched_at": "2026-11-03T11:54:24.256763+00:00",
    "stale": false,
    "items": [
     {
@@ -291,7 +291,7 @@
      "text": "A Beloved Boreal",
      "author": "Superbowl",
      "url": "https://lemmy.world/post/53936415",
-     "likes": 26,
+     "likes": 27,
      "image": "https://lemmy.world/pictrs/image/7c801d7f-aaab-45f0-b804-5daac07f9de0.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Netanyahu lost his majority in parliament. Now he claims elections were stolen",
      "author": "World News",
      "url": "https://lemmy.world/post/53935554",
-     "likes": 63,
+     "likes": 68,
      "image": "https://lemmy.world/pictrs/image/6d9cd898-9cd7-4418-8a94-d2c658ced3b9.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T11:51:43.358961+00:00",
+   "fetched_at": "2026-11-03T11:54:24.700721+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
     {
      "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why do bees have sticky hair? Because they use honey combs!",
+     "text": "What do computers and air conditioners have in common? They both become useless when you open windows.",
      "source": "Dad joke"
     },
     {
-     "text": "I'd like to start a diet, but I've got too much on my plate right now.",
+     "text": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.\r\n\r\n",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a droid that takes the long way around? R2 detour.",
+     "text": "Egyptians claimed to invent the guitar, but they were such lyres.\ufeff",
      "source": "Dad joke"
     }
    ]
