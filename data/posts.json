@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T21:53:14.823294+00:00",
+ "generated_at": "2026-11-03T22:23:21.549654+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T21:53:10.425379+00:00",
+   "fetched_at": "2026-11-03T22:23:17.103135+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Took my dog for a walk today and some woman said he was ugly",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xmmu7f/took_my_dog_for_a_walk_today_and_some_woman_said/",
+     "title": "An accurate prediction.",
+     "url": "https://www.reddit.com/r/PoursTea/comments/1xn2byi/an_accurate_prediction/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/g6z26svcqczh1.jpeg?width=640&crop=smart&auto=webp&s=1fd79df6c8670bca23942e5751ec91d6dddb6d41"
+     "image": "https://preview.redd.it/ep7gxwmw6gzh1.jpeg?width=640&crop=smart&auto=webp&s=01e106c2893776b37dae6276ab694ca331e844bf"
     },
     {
      "source": "Reddit",
@@ -44,29 +44,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Took my dog for a walk today and some woman said he was ugly",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xmmu7f/took_my_dog_for_a_walk_today_and_some_woman_said/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/g6z26svcqczh1.jpeg?width=640&crop=smart&auto=webp&s=1fd79df6c8670bca23942e5751ec91d6dddb6d41"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Caught on cam. Immediately took control of the situation and saved this kids life.",
+     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xn0dnm/caught_on_cam_immediately_took_control_of_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/YW91OXU4OWR1ZnpoMd402-kGaDugzoi7wFvmjSc0R4XvE1JyB4EhUfcw4Y34.png?width=640&crop=smart&auto=webp&s=9eabdc15220f761568fa612a2aaa737bb1c9e1c8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "UPDATE: My boss canceled my already approved vacation because a coworker got sick.",
      "url": "https://www.reddit.com/r/whatdoIdo/comments/1xmx2yz/update_my_boss_canceled_my_already_approved/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "An accurate prediction.",
-     "url": "https://www.reddit.com/r/PoursTea/comments/1xn2byi/an_accurate_prediction/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/ep7gxwmw6gzh1.jpeg?width=640&crop=smart&auto=webp&s=01e106c2893776b37dae6276ab694ca331e844bf"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Mom confiscated my Christmas Pok\u00e9mon cards decades ago. Just found them. Still sealed.",
-     "url": "https://www.reddit.com/r/PokemonTCG/comments/1xmhsit/mom_confiscated_my_christmas_pok\u00e9mon_cards/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/bjswckgvcbzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=591ebd5e470b9498b470245e192d1117eaaecb79"
     },
     {
      "source": "Reddit",
@@ -89,70 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T21:53:11.972185+00:00",
+   "fetched_at": "2026-11-03T22:23:18.423472+00:00",
    "stale": false,
    "items": [
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 134,
+     "title": "magicQuotes",
+     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
+     "url": "https://redd.it/1ximxha",
+     "ups": 2380,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pageThrasher",
-     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
-     "url": "https://redd.it/1xhl0de",
-     "ups": 373,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
-     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
-     "url": "https://redd.it/1xjyyyn",
-     "ups": 412,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1182,
+     "title": "completeBrainRewire",
+     "image": "https://i.redd.it/6bf6lbtfgyyh1.gif",
+     "url": "https://redd.it/1xkx5ig",
+     "ups": 883,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
      "image": "https://i.redd.it/s8ktjklfliyh1.png",
      "url": "https://redd.it/1xj3i23",
-     "ups": 40,
+     "ups": 44,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 97,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 148,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Nintendo's Legal Department",
-     "image": "https://i.redd.it/dsul79qew4zh1.png",
-     "url": "https://redd.it/1xlorsv",
-     "ups": 6231,
-     "sub": "r/memes"
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1043,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "They can take our lives - but they can never take our RAM",
-     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
-     "url": "https://redd.it/1xlvkvd",
-     "ups": 4246,
-     "sub": "r/memes"
+     "title": "thisPythonShitIsSoEasy",
+     "image": "https://i.redd.it/e8ak96gkodyh1.png",
+     "url": "https://redd.it/1xifkge",
+     "ups": 20,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "The real body count nobody talks about",
      "image": "https://i.redd.it/m2j3gwhy5czh1.png",
      "url": "https://redd.it/1xmkxlj",
      "ups": 285,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Everything has to be extreme",
+     "image": "https://i.redd.it/yha0hy9q18zh1.png",
+     "url": "https://redd.it/1xm0zcl",
+     "ups": 197,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Listening to foreign songs like I understand every single word \ud83d\udc80",
+     "image": "https://i.redd.it/e7275n39oazh1.png",
+     "url": "https://redd.it/1xmeuaf",
+     "ups": 340,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Real footage btw",
+     "image": "https://i.redd.it/cso14rg58fzh1.gif",
+     "url": "https://redd.it/1xmwywn",
+     "ups": 845,
      "sub": "r/memes"
     },
     {
@@ -163,38 +170,31 @@
      "sub": "r/memes"
     },
     {
-     "title": "Dark psychology",
-     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
-     "url": "https://redd.it/1xmnceb",
-     "ups": 6168,
-     "sub": "r/memes"
-    },
-    {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1577,
+     "title": "Album experience",
+     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
+     "url": "https://redd.it/1xmmdkc",
+     "ups": 68,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T21:53:13.127267+00:00",
+   "fetched_at": "2026-11-03T22:23:19.965550+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "DeSantis on gas, Trump's war",
+     "text": "\"I voted\" stickers on ICE memorials",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/675a2d97bdd5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a19c71e2838",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "DeSantis on gas, Trump's war",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/675a2d97bdd5",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Israel a \"helper\"",
+     "text": "Right-wing Anakin Skywalker posting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9342a127afc2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Binance alleged fake-interview hack",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/75ea9cd73a96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Daylight saving time",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/81e1924a345d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
      "likes": 0,
      "image": ""
     },
@@ -248,6 +232,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Binance alleged fake-interview hack",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/75ea9cd73a96",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Arc Raiders uses AI voice lines",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/949105a02518",
@@ -256,76 +256,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Right-wing Anakin Skywalker posting",
+     "text": "Xbox unveils alligator console giveaway",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d46425b42faf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "DOJ sends 1,000 election monitors",
+     "text": "Haley Stevens defends Republican endorsement",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0fecb3388891",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/701c37d104d0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump offers Musk preemptive pardon",
+     "text": "Trump calls Israel a \"helper\"",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b190661e8338",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9342a127afc2",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Polish Prime Minister Donald Tusk accuses Russia of seeking to fuel \"instability\" in Poland by \u200bmeddling in a dispute between his government and the president \u200cover the Constitutional Tribunal",
+     "author": "World News",
+     "url": "https://lemy.lol/post/73739161",
+     "likes": 32,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "the right to street race",
+     "author": "The Shitpost Office",
+     "url": "https://lemmy.dbzer0.com/post/77942167",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/aeb56419-cbb4-475f-8047-b870e9a65be0.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "yearly reminder rule",
      "author": "Political Memes",
      "url": "https://piefed.social/c/politicalmemes@lemmy.world/p/2561941/yearly-reminder-rule",
-     "likes": 114,
+     "likes": 136,
      "image": "https://lemmy.world/pictrs/image/9b7cba3a-9cf0-44b4-9695-11428b7b1b61.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Gotta grow fast!",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/62734202",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/068b6479-bec9-41da-b15b-7078b97ead7a.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "vegan rule",
-     "author": "196",
-     "url": "https://piefed.zip/c/onehundredninetysix@lemmy.blahaj.zone/p/1967659/vegan-rule",
-     "likes": 46,
-     "image": "https://lemmy.world/pictrs/image/ed2575b8-0456-45c2-ad4f-6857605897eb.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "A Former Sega Developer Has Helped Recover Games Lost for More Than 30 Years",
-     "author": "Games",
-     "url": "https://lemmy.world/post/53955520",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/e84dcf59-7acc-494a-9ae8-1fa291598b2a.png"
+     "text": "im so desolate yet so desiring, like a pearl in an oyster \ud83d\ude42\u200d\u2195\ufe0f",
+     "author": "Femcel Memes",
+     "url": "https://sh.itjust.works/post/69380385",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/f141b218-f83b-4d3b-b816-b7ebd5ab3911.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T21:53:13.827122+00:00",
+   "fetched_at": "2026-11-03T22:23:20.613430+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
@@ -333,32 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
      "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.",
      "source": "Dad joke"
     },
     {
-     "text": "Conjunctivitis.com \u2013 now that\u2019s a site for sore eyes.",
+     "text": "When will the little snake arrive? I don't know but he won't be long...",
      "source": "Dad joke"
     },
     {
-     "text": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.",
+     "text": "How come the stadium got hot after the game? Because all of the fans left.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
