@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-04T19:29:39.201646+00:00",
+ "generated_at": "2026-11-04T19:29:55.354497+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T19:29:29.631676+00:00",
+   "fetched_at": "2026-11-04T19:29:51.940583+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "BYE!",
+     "url": "https://www.reddit.com/r/PoursTea/comments/1xnunce/bye/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/gdhi1yimumzh1.jpeg?width=320&crop=smart&auto=webp&s=7c977aba98e2ba1eb8c50683ce28ea3261d01930"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Gen Z is abandoning alcohol",
-     "url": "https://www.reddit.com/r/interesting/comments/1xnfl4u/gen_z_is_abandoning_alcohol/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/vvil8ast2jzh1.png?width=320&crop=smart&auto=webp&s=96cb07ee354db55040b00da6857def188d100d7a"
     },
     {
      "source": "Reddit",
@@ -35,11 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "BYE!",
-     "url": "https://www.reddit.com/r/PoursTea/comments/1xnunce/bye/",
+     "title": "Gen Z is abandoning alcohol",
+     "url": "https://www.reddit.com/r/interesting/comments/1xnfl4u/gen_z_is_abandoning_alcohol/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/gdhi1yimumzh1.jpeg?width=320&crop=smart&auto=webp&s=7c977aba98e2ba1eb8c50683ce28ea3261d01930"
+     "image": "https://preview.redd.it/vvil8ast2jzh1.png?width=320&crop=smart&auto=webp&s=96cb07ee354db55040b00da6857def188d100d7a"
     },
     {
      "source": "Reddit",
@@ -53,20 +53,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "We Did It.",
-     "url": "https://www.reddit.com/r/FortWorth/comments/1xnf213/we_did_it/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/wktcv7x3yizh1.png?width=216&crop=smart&auto=webp&s=35b7a2c034422fc02c707bd8a15568327613c9cf"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Mike Johnson Quits Republican Leadership After Midterms Humiliation",
      "url": "https://www.reddit.com/r/politics/comments/1xnsgl1/mike_johnson_quits_republican_leadership_after/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/1WsAvzJkj4Kb5S-kvPV5z643pnMi_vrCC4XVMDrmirc.jpeg?width=640&crop=smart&auto=webp&s=bf94ee1f842ef7821a3598e2e16eb719c58575d6"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "We Did It.",
+     "url": "https://www.reddit.com/r/FortWorth/comments/1xnf213/we_did_it/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wktcv7x3yizh1.png?width=216&crop=smart&auto=webp&s=35b7a2c034422fc02c707bd8a15568327613c9cf"
     },
     {
      "source": "Reddit",
@@ -80,30 +80,23 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Jeffries: Americans \u2018don\u2019t want us to get even, they want us to get things done on their behalf\u2019",
-     "url": "https://www.reddit.com/r/politics/comments/1xnqbtw/jeffries_americans_dont_want_us_to_get_even_they/",
+     "title": "My dad has trouble with buttons and zippers bco Parkinson's so I made him a coat with magnetic snaps",
+     "url": "https://www.reddit.com/r/sewing/comments/1xnuvwn/my_dad_has_trouble_with_buttons_and_zippers_bco/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/vzlkEAyI_MkoaJ5Mw2RI3LfW9Ty6vNulqO-e_7RAl10.jpeg?width=640&crop=smart&auto=webp&s=a8a830f7c3917d5e5f3b3ef11f505d60fef34a8c"
+     "image": "https://preview.redd.it/ux40h6rgtmzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8ca9f7a961e1a62939c835a8ace8f5338a812d3e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T19:29:30.656490+00:00",
+   "fetched_at": "2026-11-04T19:29:52.605762+00:00",
    "stale": false,
    "items": [
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 9,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 156,
+     "title": "thisPythonShitIsSoEasy",
+     "image": "https://i.redd.it/e8ak96gkodyh1.png",
+     "url": "https://redd.it/1xifkge",
+     "ups": 27,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,6 +107,20 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 151,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 316,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
      "title": "ncisWasAccurateAfterAll",
      "image": "https://i.redd.it/i5vysfd8ngyh1.png",
      "url": "https://redd.it/1xiu4oi",
@@ -121,18 +128,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 374,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "helloWorld",
-     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
-     "url": "https://redd.it/1xkukx5",
-     "ups": 13109,
-     "sub": "r/ProgrammerHumor"
+     "title": "repetition is key",
+     "image": "https://i.redd.it/agk0rqmgjlzh1.png",
+     "url": "https://redd.it/1xno00r",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Maybe it was all a dream",
+     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
+     "url": "https://redd.it/1xnr7oi",
+     "ups": 1006,
+     "sub": "r/memes"
     },
     {
      "title": "Guilty as charged",
@@ -149,37 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "I am something of a Einstein myself",
-     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
-     "url": "https://redd.it/1xmq8h9",
-     "ups": 410,
+     "title": "If only life was a game",
+     "image": "https://i.redd.it/xk4vdeasclzh1.png",
+     "url": "https://redd.it/1xnn7sn",
+     "ups": 70,
      "sub": "r/memes"
     },
     {
-     "title": "God damn it again",
-     "image": "https://i.redd.it/1kezkcb4igzh1.png",
-     "url": "https://redd.it/1xn421c",
-     "ups": 797,
-     "sub": "r/memes"
-    },
-    {
-     "title": "If you can't beat em...",
-     "image": "https://i.redd.it/63lfdyvx4mzh1.png",
-     "url": "https://redd.it/1xnqvhe",
-     "ups": 0,
-     "sub": "r/memes"
-    },
-    {
-     "title": "really got his interest",
-     "image": "https://i.redd.it/1bh27opiyjzh1.png",
-     "url": "https://redd.it/1xnikcz",
-     "ups": 19049,
+     "title": "Ain't America great?",
+     "image": "https://i.redd.it/yqg22nkxajzh1.png",
+     "url": "https://redd.it/1xngefk",
+     "ups": 3459,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T19:29:33.150760+00:00",
+   "fetched_at": "2026-11-04T19:29:54.242541+00:00",
    "stale": false,
    "items": [
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T19:29:38.382623+00:00",
+   "fetched_at": "2026-11-04T19:29:54.888717+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Why are ghosts bad liars? Because you can see right through them!",
+     "text": "If at first you don't succeed, sky diving is not for you!",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a beehive without the b's? An eehive.",
+     "text": "Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a chicken with a skunk? A fowl smell!",
+     "text": "Archaeology really is a career in ruins.",
      "source": "Dad joke"
     }
    ]
