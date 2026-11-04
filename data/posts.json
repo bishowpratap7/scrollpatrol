@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T14:28:08.841627+00:00",
+ "generated_at": "2026-11-04T14:28:25.199592+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T14:28:04.054212+00:00",
+   "fetched_at": "2026-11-04T14:28:21.238942+00:00",
    "stale": false,
    "items": [
     {
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T14:28:05.680268+00:00",
+   "fetched_at": "2026-11-04T14:28:22.256144+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 311,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 107,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "refactoringComplete",
      "image": "https://i.redd.it/pkmrs4913fzh1.png",
@@ -100,24 +121,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 1863,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 153,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "mySourceCodeLiterally",
-     "image": "https://i.redd.it/x47p93go5eyh1.png",
-     "url": "https://redd.it/1xihblk",
-     "ups": 326,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 30,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +135,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10032,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The real body count nobody talks about",
-     "image": "https://i.redd.it/m2j3gwhy5czh1.png",
-     "url": "https://redd.it/1xmkxlj",
-     "ups": 316,
+     "title": "Our Christmas (might be offensive)",
+     "image": "https://i.redd.it/qutew6se3kzh1.png",
+     "url": "https://redd.it/1xnizsa",
+     "ups": 28,
      "sub": "r/memes"
     },
     {
-     "title": "Every software update lately",
-     "image": "https://i.redd.it/th8xy6weekzh1.png",
-     "url": "https://redd.it/1xnjx1r",
-     "ups": 490,
+     "title": "If only life was a game",
+     "image": "https://i.redd.it/xk4vdeasclzh1.png",
+     "url": "https://redd.it/1xnn7sn",
+     "ups": 38,
      "sub": "r/memes"
     },
     {
@@ -156,10 +156,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "RAM Altman wants to Randomly Access your Memory",
-     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
-     "url": "https://redd.it/1xmvcc7",
-     "ups": 154,
+     "title": "repetition is key",
+     "image": "https://i.redd.it/agk0rqmgjlzh1.png",
+     "url": "https://redd.it/1xno00r",
+     "ups": 7,
      "sub": "r/memes"
     },
     {
@@ -170,16 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "I am something of a Einstein myself",
-     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
-     "url": "https://redd.it/1xmq8h9",
-     "ups": 409,
+     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
+     "image": "https://i.redd.it/uex4699f9hzh1.png",
+     "url": "https://redd.it/1xn7xlc",
+     "ups": 237,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T14:28:07.819848+00:00",
+   "fetched_at": "2026-11-04T14:28:24.138976+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "\"Just checking in\"",
      "author": "memes",
      "url": "https://lemmy.world/post/53981254",
-     "likes": 114,
+     "likes": 115,
      "image": "https://lemmy.world/pictrs/image/77da0e1a-aa2e-4d61-b3f4-2a037c37e6ea.png"
     },
     {
@@ -299,7 +299,7 @@
      "text": "C:\\Sierra\\run",
      "author": "Programmer Humor",
      "url": "https://lemmy.world/post/53980953",
-     "likes": 89,
+     "likes": 91,
      "image": "https://lemmy.world/pictrs/image/1c584324-6261-47e1-a15f-dad6558bfd04.jpeg"
     },
     {
@@ -307,25 +307,25 @@
      "text": "The land of extremes",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/53981305",
-     "likes": 59,
+     "likes": 60,
      "image": "https://lemmy.world/pictrs/image/f581d32a-b112-4876-99a3-b2790ec8366a.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T14:28:08.281009+00:00",
+   "fetched_at": "2026-11-04T14:28:24.488422+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
     {
      "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
      "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The urge to sing the Lion King song is just a whim away.",
+     "text": "Why don\u2019t skeletons ever go trick or treating? Because they have nobody to go with.",
      "source": "Dad joke"
     },
     {
-     "text": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
+     "text": "My wife said I was immature. So I told her to get out of my fort.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to be addicted to soap, but I'm clean now.",
+     "text": "Got a new suit recently made entirely of living plants. I wasn\u2019t sure at first, but it\u2019s grown on me",
      "source": "Dad joke"
     }
    ]
