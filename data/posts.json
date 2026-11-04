@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-03T23:54:05.917994+00:00",
+ "generated_at": "2026-11-04T00:24:14.208334+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-03T23:53:57.557250+00:00",
+   "fetched_at": "2026-11-04T00:24:07.271288+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "An accurate prediction.",
-     "url": "https://www.reddit.com/r/PoursTea/comments/1xn2byi/an_accurate_prediction/",
+     "title": "Respect! \ud83d\udc99",
+     "url": "https://www.reddit.com/r/PoursTea/comments/1xn6fk7/respect/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/ep7gxwmw6gzh1.jpeg?width=640&crop=smart&auto=webp&s=01e106c2893776b37dae6276ab694ca331e844bf"
+     "image": "https://preview.redd.it/es9rr58lygzh1.jpeg?width=640&crop=smart&auto=webp&s=b658e7f64589dce653b9ff92106452fe23456a7a"
     },
     {
      "source": "Reddit",
@@ -26,6 +26,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "A simple meal vs a mandatory math test",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xmtbc5/a_simple_meal_vs_a_mandatory_math_test/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/eq7vbf09jezh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=81e7489ad478d790f9f09bb69c45b25f4470f8df"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "[OC] Street light by the Alex Pretti memorial today",
      "url": "https://www.reddit.com/r/pics/comments/1xn6m2q/oc_street_light_by_the_alex_pretti_memorial_today/",
      "score": 0,
@@ -35,11 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A simple meal vs a mandatory math test",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xmtbc5/a_simple_meal_vs_a_mandatory_math_test/",
+     "title": "Perfectly calculated",
+     "url": "https://www.reddit.com/r/funny/comments/1xn730t/perfectly_calculated/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/eq7vbf09jezh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=81e7489ad478d790f9f09bb69c45b25f4470f8df"
+     "image": "https://external-preview.redd.it/aHJxZ2J0NjYzaHpoMciBHAjjmYQB5dPizzbUR6JYvykRkW4cuHCUhWfS_UQY.png?width=320&crop=smart&auto=webp&s=696aa6f195f0d0523b179000c27d006b47a45fb7"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Bus drivers in Mexico experiencing a cyclist's perspective as part of their training",
+     "url": "https://www.reddit.com/r/interesting/comments/1xn5aa7/bus_drivers_in_mexico_experiencing_a_cyclists/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/cGl4aDEzaGdxZ3poMYXzZBHT1vyv9IlZ2iVq7XkBRtaZm4LBMy6zT8v3kDge.png?width=640&crop=smart&auto=webp&s=05117946206a39d80bc649957753f35c1d965426"
     },
     {
      "source": "Reddit",
@@ -67,92 +85,67 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/g6z26svcqczh1.jpeg?width=640&crop=smart&auto=webp&s=1fd79df6c8670bca23942e5751ec91d6dddb6d41"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Democrats Appear to Flip 1st Midterm Seat as Guam Drops Unofficial Results",
-     "url": "https://www.reddit.com/r/politics/comments/1xn40wn/democrats_appear_to_flip_1st_midterm_seat_as_guam/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/-6l7dGc88gj17lW-68JCrYtbt1jIj-V6pDNgALsGRqE.jpeg?width=640&crop=smart&auto=webp&s=4e1b068d741a91afd1448223cafdd5a917660d1c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "UPDATE: My boss canceled my already approved vacation because a coworker got sick.",
-     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xmx2yz/update_my_boss_canceled_my_already_approved/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-03T23:53:59.295745+00:00",
+   "fetched_at": "2026-11-04T00:24:09.611992+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thisPythonShitIsSoEasy",
-     "image": "https://i.redd.it/e8ak96gkodyh1.png",
-     "url": "https://redd.it/1xifkge",
-     "ups": 20,
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 379,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "fuckFuckFuckFuckFuckFuck",
+     "image": "https://i.redd.it/5290sx5ej4zh1.gif",
+     "url": "https://redd.it/1xlng1f",
+     "ups": 1155,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 3160,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "whenTheImpossibleMeetsTheScalable",
      "image": "https://i.redd.it/5o1uya56z6yh1.png",
      "url": "https://redd.it/1xhl91p",
-     "ups": 6467,
+     "ups": 6479,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1190,
+     "title": "heapBig",
+     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
+     "url": "https://redd.it/1xihrez",
+     "ups": 210,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "sPoNgEbObMoCkInGCaSeIsALlOwEd",
-     "image": "https://i.redd.it/touy92n6qsyh1.png",
-     "url": "https://redd.it/1xk8ww0",
-     "ups": 38,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "eMudhraBrainstormingSesh",
-     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
-     "url": "https://redd.it/1xh1lm8",
-     "ups": 239,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 136,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Dark psychology",
-     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
-     "url": "https://redd.it/1xmnceb",
-     "ups": 6422,
+     "title": "The struggle",
+     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
+     "url": "https://redd.it/1xmytm3",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
-     "title": "Only in Texas",
-     "image": "https://i.redd.it/zj9d5wbv1hzh1.png",
-     "url": "https://redd.it/1xn6wh9",
-     "ups": 5,
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 345,
      "sub": "r/memes"
     },
     {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1639,
+     "title": "Nintendo's Legal Department",
+     "image": "https://i.redd.it/dsul79qew4zh1.png",
+     "url": "https://redd.it/1xlorsv",
+     "ups": 6248,
      "sub": "r/memes"
     },
     {
@@ -163,30 +156,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "RAM Altman wants to Randomly Access your Memory",
-     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
-     "url": "https://redd.it/1xmvcc7",
-     "ups": 97,
+     "title": "Album experience",
+     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
+     "url": "https://redd.it/1xmmdkc",
+     "ups": 74,
      "sub": "r/memes"
     },
     {
-     "title": "God damn it again",
-     "image": "https://i.redd.it/1kezkcb4igzh1.png",
-     "url": "https://redd.it/1xn421c",
-     "ups": 303,
+     "title": "They can take our lives - but they can never take our RAM",
+     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
+     "url": "https://redd.it/1xlvkvd",
+     "ups": 4272,
      "sub": "r/memes"
+    },
+    {
+     "title": "yum!",
+     "image": "https://i.redd.it/i7ttvfi207zh1.png",
+     "url": "https://redd.it/1xlvssc",
+     "ups": 239,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-03T23:54:02.201442+00:00",
+   "fetched_at": "2026-11-04T00:24:12.479408+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "\"I voted\" stickers on ICE memorials",
+     "text": "Kentucky votes in Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a19c71e2838",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bee527342f32",
      "likes": 0,
      "image": ""
     },
@@ -195,22 +195,6 @@
      "text": "Trump calls into Fox & Friends",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af5b34514c6f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nordic nations refuse to play Russia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4d0ef7b02a2d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Arc Raiders uses AI voice lines",
+     "text": "Nordic nations refuse to play Russia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/949105a02518",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4d0ef7b02a2d",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Final Fantasy Resonance",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f2b49023ecb8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Arc Raiders uses AI voice lines",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/949105a02518",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Half of new Steam games use AI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
      "likes": 0,
      "image": ""
     },
@@ -272,93 +272,93 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's space freedom proclamation",
+     "text": "Haley Stevens defends Republican endorsement",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93bec4e7a084",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/701c37d104d0",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Nearly a third of Canadians skipping meals due to food insecurity: survey",
-     "author": "Canada",
-     "url": "https://lemmy.ca/post/73339813",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/8f152419-4be1-45f1-bdd5-546eb0b90138.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The king is back",
-     "author": "Linux",
-     "url": "https://lemmy.ml/post/54877044",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/f6065961-c092-474a-a163-e9b4aa146345.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "New Jersey's governor warns ports against accepting Russian diesel",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/53959810",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/21b4bc83-2c0d-438a-a9b2-614eaa791718.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Cats: the original fascists",
      "author": "Lemmy Shitpost",
      "url": "https://leminal.space/post/41602999",
-     "likes": 20,
+     "likes": 53,
      "image": "https://lemmy.world/pictrs/image/5f053dcc-e89d-416b-9775-05d50ba869f8.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Nearly a third of Canadians skipping meals due to food insecurity: survey",
+     "author": "Canada",
+     "url": "https://lemmy.ca/post/73339813",
+     "likes": 47,
+     "image": "https://lemmy.world/pictrs/image/8f152419-4be1-45f1-bdd5-546eb0b90138.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "New Jersey's governor warns ports against accepting Russian diesel",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53959810",
+     "likes": 57,
+     "image": "https://lemmy.world/pictrs/image/21b4bc83-2c0d-438a-a9b2-614eaa791718.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The king is back",
+     "author": "Linux",
+     "url": "https://lemmy.ml/post/54877044",
+     "likes": 64,
+     "image": "https://lemmy.world/pictrs/image/f6065961-c092-474a-a163-e9b4aa146345.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-03T23:54:05.244529+00:00",
+   "fetched_at": "2026-11-04T00:24:13.196678+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "What is the hardest part about sky diving? The ground.",
+     "text": "Why did the miner get fired from his job? He took it for granite...",
      "source": "Dad joke"
     },
     {
-     "text": "Why do pirates not know the alphabet? They always get stuck at \"C\".",
+     "text": "Two parrots are sitting on a perch. One turns to the other and asks, \"do you smell fish?\"",
      "source": "Dad joke"
     },
     {
-     "text": "This furniture store keeps emailing me, all I wanted was one night stand!",
+     "text": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
