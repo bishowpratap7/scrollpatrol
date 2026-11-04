@@ -1,55 +1,10 @@
 {
- "generated_at": "2026-11-04T21:00:09.583758+00:00",
+ "generated_at": "2026-11-04T21:30:14.917102+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T21:00:05.204445+00:00",
+   "fetched_at": "2026-11-04T21:30:11.128926+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "House and Senate are Blue, how are we feeling?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xnf4do/house_and_senate_are_blue_how_are_we_feeling/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Gen Z is abandoning alcohol",
-     "url": "https://www.reddit.com/r/interesting/comments/1xnfl4u/gen_z_is_abandoning_alcohol/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/vvil8ast2jzh1.png?width=320&crop=smart&auto=webp&s=96cb07ee354db55040b00da6857def188d100d7a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "How Holy Water is made",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xno4du/how_holy_water_is_made/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/dGd6aTFibGhrbHpoMStcZWdjGJApaDHudvNLnrO26AhB7k0QXP7hH8o5cuaQ.png?width=320&crop=smart&auto=webp&s=4d43a26da591a67cab359f25e7ea4a3249e72853"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "We Did It.",
-     "url": "https://www.reddit.com/r/FortWorth/comments/1xnf213/we_did_it/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/wktcv7x3yizh1.png?width=216&crop=smart&auto=webp&s=35b7a2c034422fc02c707bd8a15568327613c9cf"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Jeffries: Americans \u2018don\u2019t want us to get even, they want us to get things done on their behalf\u2019",
-     "url": "https://www.reddit.com/r/politics/comments/1xnqbtw/jeffries_americans_dont_want_us_to_get_even_they/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/vzlkEAyI_MkoaJ5Mw2RI3LfW9Ty6vNulqO-e_7RAl10.jpeg?width=640&crop=smart&auto=webp&s=a8a830f7c3917d5e5f3b3ef11f505d60fef34a8c"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -58,15 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/0p4ya0ad1nzh1.png?width=320&crop=smart&auto=webp&s=2ff6ca64598d9dca3b9ea2b352c373f1c152e55b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Democrat Gina Hinojosa takes down Texas Gov. Greg Abbott in stunning result",
-     "url": "https://www.reddit.com/r/news/comments/1xnejkt/democrat_gina_hinojosa_takes_down_texas_gov_greg/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     },
     {
      "source": "Reddit",
@@ -80,121 +26,175 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Kid Rock",
-     "url": "https://www.reddit.com/r/stupidpeoplefacebook/comments/1xnf5ww/kid_rock/",
+     "title": "House and Senate are Blue, how are we feeling?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xnf4do/house_and_senate_are_blue_how_are_we_feeling/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/157m09v4zizh1.jpeg?width=640&crop=smart&auto=webp&s=4d323016bbe0484bf74998ec4f3b9a1334fecb31"
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "2 day-old baby donkey",
+     "url": "https://www.reddit.com/r/Awww/comments/1xnwoh6/2_dayold_baby_donkey/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/MXRqMnZ2bWE4bnpoMQys1I4OVDK0BG_h-5P0L0Pm752V47IUs5ete1D8Yhzq.png?width=640&crop=smart&auto=webp&s=8470cb118ccbaf7332304e9a6db9d4b7dfd6ba0f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "BYE!",
+     "url": "https://www.reddit.com/r/PoursTea/comments/1xnunce/bye/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/gdhi1yimumzh1.jpeg?width=320&crop=smart&auto=webp&s=7c977aba98e2ba1eb8c50683ce28ea3261d01930"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "How Holy Water is made",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xno4du/how_holy_water_is_made/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/dGd6aTFibGhrbHpoMStcZWdjGJApaDHudvNLnrO26AhB7k0QXP7hH8o5cuaQ.png?width=320&crop=smart&auto=webp&s=4d43a26da591a67cab359f25e7ea4a3249e72853"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xnwz8t/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/h8ta0zweanzh1.jpeg?width=640&crop=smart&auto=webp&s=6487c330be03b04cbbd3566ffb395d7cd21c92e3"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My dad has trouble with buttons and zippers bco Parkinson's so I made him a coat with magnetic snaps",
+     "url": "https://www.reddit.com/r/sewing/comments/1xnuvwn/my_dad_has_trouble_with_buttons_and_zippers_bco/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/ux40h6rgtmzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8ca9f7a961e1a62939c835a8ace8f5338a812d3e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Jeffries: Americans \u2018don\u2019t want us to get even, they want us to get things done on their behalf\u2019",
+     "url": "https://www.reddit.com/r/politics/comments/1xnqbtw/jeffries_americans_dont_want_us_to_get_even_they/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/vzlkEAyI_MkoaJ5Mw2RI3LfW9Ty6vNulqO-e_7RAl10.jpeg?width=640&crop=smart&auto=webp&s=a8a830f7c3917d5e5f3b3ef11f505d60fef34a8c"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T21:00:06.153021+00:00",
+   "fetched_at": "2026-11-04T21:30:11.696385+00:00",
    "stale": false,
    "items": [
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 23,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "lowTokens",
+     "image": "https://i.redd.it/w9957z8au5zh1.gif",
+     "url": "https://redd.it/1xlrukx",
+     "ups": 7533,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 1979,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 50,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 4823,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "If only life was a game",
+     "image": "https://i.redd.it/xk4vdeasclzh1.png",
+     "url": "https://redd.it/1xnn7sn",
+     "ups": 74,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Maybe it was all a dream",
+     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
+     "url": "https://redd.it/1xnr7oi",
+     "ups": 1887,
+     "sub": "r/memes"
+    },
+    {
+     "title": "repetition is key",
+     "image": "https://i.redd.it/agk0rqmgjlzh1.png",
+     "url": "https://redd.it/1xno00r",
+     "ups": 30,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Im just pretending",
+     "image": "https://i.redd.it/x5hrfkiw9lzh1.png",
+     "url": "https://redd.it/1xnmwhl",
+     "ups": 51,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
+     "image": "https://i.redd.it/uex4699f9hzh1.png",
+     "url": "https://redd.it/1xn7xlc",
+     "ups": 273,
+     "sub": "r/memes"
+    },
+    {
+     "title": "just found it today",
+     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
+     "url": "https://redd.it/1xmqx9h",
+     "ups": 1908,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They never do it...",
+     "image": "https://i.redd.it/4p7hgchgq6zh1.png",
+     "url": "https://redd.it/1xlurp1",
      "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 150,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "eMudhraBrainstormingSesh",
-     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
-     "url": "https://redd.it/1xh1lm8",
-     "ups": 239,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 223,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 26,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1201,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Guilty as charged",
-     "image": "https://i.redd.it/y8rdx470eizh1.png",
-     "url": "https://redd.it/1xncupd",
-     "ups": 781,
-     "sub": "r/memes"
-    },
-    {
-     "title": "made this with pure spite and hatred in my heart",
-     "image": "https://i.redd.it/bep6mzslmlzh1.png",
-     "url": "https://redd.it/1xnodzi",
-     "ups": 993,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I am something of a Einstein myself",
-     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
-     "url": "https://redd.it/1xmq8h9",
-     "ups": 413,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Our Christmas (might be offensive)",
-     "image": "https://i.redd.it/qutew6se3kzh1.png",
-     "url": "https://redd.it/1xnizsa",
-     "ups": 40,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Dark psychology",
-     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
-     "url": "https://redd.it/1xmnceb",
-     "ups": 7647,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Ain't America great?",
-     "image": "https://i.redd.it/yqg22nkxajzh1.png",
-     "url": "https://redd.it/1xngefk",
-     "ups": 3859,
-     "sub": "r/memes"
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T21:00:08.431018+00:00",
+   "fetched_at": "2026-11-04T21:30:13.912007+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Texas education board election",
+     "text": "Democratic picks for House speaker",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7f1160b2b1e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9de937b0d9b5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reportedly hits Russian bot farms",
+     "text": "Blue wave election memes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab712efdecae",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "State weapons for British counties",
+     "text": "European supermarket freezers hacked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed0c0b379e93",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "WoW Forever launches",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0ecbbf954e20",
      "likes": 0,
      "image": ""
     },
@@ -232,41 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Half of new Steam games use AI",
+     "text": "Sonic appears in Angry Birds 3",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2e3f0f8df226",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "God of War Laufey delayed",
+     "text": "Xbox unveils alligator console giveaway",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db3862560f2f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d46425b42faf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "State weapons for British counties",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed0c0b379e93",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "Texas education board election",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump reacts to midterm results",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c48ce18cc92b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7f1160b2b1e4",
      "likes": 0,
      "image": ""
     },
@@ -283,53 +283,49 @@
      "text": "Truth Social Stock Crashes to All-Time Low After MAGA\u2019s Massive Defeat: Just when you thought it couldn't sink any lower.",
      "author": "Technology",
      "url": "https://lemmy.world/post/53995074",
-     "likes": 64,
+     "likes": 139,
      "image": "https://lemmy.world/pictrs/image/470643fe-1145-41fc-a657-b88e039ab774.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Poor ladybug",
+     "author": "Political Memes",
+     "url": "https://reddthat.com/post/76078095",
+     "likes": 45,
+     "image": "https://lemmy.world/pictrs/image/d98be1ab-5b0c-4b64-8608-9a33ec18ae13.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "The Tech Industry Went All in on Trump, and Now They\u2019re in Serious Danger Now That Americans Have Turned on Him: They gambled... and lost.",
      "author": "Technology",
      "url": "https://lemmy.world/post/53994873",
-     "likes": 69,
+     "likes": 136,
      "image": "https://lemmy.world/pictrs/image/3d8ad8d2-8f67-41dd-88ef-4eabeafeda0f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mitch McConnell speechless after US Midterm Elections",
-     "author": "The Onion and other satire w/ layers",
-     "url": "https://lemmy.ca/post/73379995",
-     "likes": 96,
-     "image": "https://lemmy.world/pictrs/image/94a95f8b-284c-477a-83b4-8796ecbcaf99.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Elon Musk in Real Trouble After Humiliating Defeat: \"Guess my election-interfering space lasers didn\u2019t work this time.\"",
      "author": "Technology",
      "url": "https://lemmy.world/post/53994896",
-     "likes": 45,
+     "likes": 100,
      "image": "https://lemmy.world/pictrs/image/a033c3d7-bba8-4d06-9e2b-a7ed345d3135.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T21:00:09.009471+00:00",
+   "fetched_at": "2026-11-04T21:30:14.374956+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "How many seconds are in a year?\r\n12.\r\nJanuary 2nd, February 2nd, March 2nd, April 2nd.... etc",
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What kind of music do planets listen to? Nep-tunes.",
      "source": "Dad joke"
     },
     {
-     "text": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
+     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the hat say to the scarf?\r\nYou can hang around. I'll just go on ahead.\r\n",
+     "text": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
      "source": "Dad joke"
     }
    ]
