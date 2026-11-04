@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T09:26:50.324610+00:00",
+ "generated_at": "2026-11-04T09:56:54.936509+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T09:26:46.839185+00:00",
+   "fetched_at": "2026-11-04T09:56:51.670114+00:00",
    "stale": false,
    "items": [
     {
@@ -26,15 +26,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Advice?",
-     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xn7a02/advice/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Democrats have won control of both the U.S. House and the U.S. Senate",
      "url": "https://www.reddit.com/r/PoursTea/comments/1xnf41k/democrats_have_won_control_of_both_the_us_house/",
      "score": 0,
@@ -44,26 +35,8 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "I am a complete and utter idiot. RIP 5090.",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xn2zjn/i_am_a_complete_and_utter_idiot_rip_5090/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/zjk3v1e3bgzh1.jpeg?width=140&height=105&auto=webp&s=29c7eaa66e1f830a8b4b5698a691207db43e5bb2"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "House and Senate are Blue, how are we feeling?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xnf4do/house_and_senate_are_blue_how_are_we_feeling/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Democrat Gina Hinojosa takes down Texas Gov. Greg Abbott in stunning result",
-     "url": "https://www.reddit.com/r/news/comments/1xnejkt/democrat_gina_hinojosa_takes_down_texas_gov_greg/",
+     "title": "Abdul El-Sayed triumphs in bitter US Senate contest over Mike Rogers",
+     "url": "https://www.reddit.com/r/news/comments/1xnhv9x/abdul_elsayed_triumphs_in_bitter_us_senate/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -80,121 +53,140 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "The type of things you will be voting for in Idaho",
-     "url": "https://www.reddit.com/r/mildyinteresting/comments/1xmzphx/the_type_of_things_you_will_be_voting_for_in_idaho/",
+     "title": "Greg Abbott concedes to Gina Hinojosa",
+     "url": "https://www.reddit.com/r/FortWorth/comments/1xnexg2/greg_abbott_concedes_to_gina_hinojosa/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/c8iqo810qfzh1.png?width=320&crop=smart&auto=webp&s=5b3161486752a7aa4646a8abc725bbf5f7f43145"
+     "image": "https://external-preview.redd.it/cTVtMDV6OHh3aXpoMVyapQ-hX_TdJ3lZ756Sfk6J4jqu13knsB1xCd_Bwr32.jpeg?width=640&crop=smart&auto=webp&s=4d7b3eb0dc7dda7fb083b8476ff40a5b9b35f9f1"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Advice?",
+     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xn7a02/advice/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "House and Senate are Blue, how are we feeling?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xnf4do/house_and_senate_are_blue_how_are_we_feeling/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Democrat Dr. Abdul El-Sayed is projected to win the Michigan Senate race, becoming the first Muslim senator in US history!",
+     "url": "https://www.reddit.com/r/Fauxmoi/comments/1xngmn3/democrat_dr_abdul_elsayed_is_projected_to_win_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/ldj8ry4gdjzh1.jpeg?width=640&crop=smart&auto=webp&s=f7327b243cc107c14f8126e13b73411a55c8ed36"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T09:26:47.629662+00:00",
+   "fetched_at": "2026-11-04T09:56:52.467964+00:00",
    "stale": false,
    "items": [
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 287,
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 42,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
-     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
-     "url": "https://redd.it/1xjyyyn",
-     "ups": 415,
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 375,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "lowTokens",
-     "image": "https://i.redd.it/w9957z8au5zh1.gif",
-     "url": "https://redd.it/1xlrukx",
-     "ups": 7380,
+     "title": "helloWorld",
+     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
+     "url": "https://redd.it/1xkukx5",
+     "ups": 12990,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1174,
+     "title": "thisPythonShitIsSoEasy",
+     "image": "https://i.redd.it/e8ak96gkodyh1.png",
+     "url": "https://redd.it/1xifkge",
+     "ups": 27,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 142,
+     "title": "hittingMyTokenLimit",
+     "image": "https://i.redd.it/f3ise1l4djzh1.png",
+     "url": "https://redd.it/1xngm6v",
+     "ups": 625,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 29,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1192,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1804,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The struggle",
-     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
-     "url": "https://redd.it/1xmytm3",
-     "ups": 9,
+     "title": "Real footage btw",
+     "image": "https://i.redd.it/cso14rg58fzh1.gif",
+     "url": "https://redd.it/1xmwywn",
+     "ups": 8067,
      "sub": "r/memes"
     },
     {
      "title": "God damn it again",
      "image": "https://i.redd.it/1kezkcb4igzh1.png",
      "url": "https://redd.it/1xn421c",
-     "ups": 610,
+     "ups": 669,
      "sub": "r/memes"
     },
     {
-     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
-     "image": "https://i.redd.it/uex4699f9hzh1.png",
-     "url": "https://redd.it/1xn7xlc",
-     "ups": 193,
+     "title": "RAM Altman wants to Randomly Access your Memory",
+     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
+     "url": "https://redd.it/1xmvcc7",
+     "ups": 154,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 396,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Ain't America great?",
+     "image": "https://i.redd.it/yqg22nkxajzh1.png",
+     "url": "https://redd.it/1xngefk",
+     "ups": 1303,
      "sub": "r/memes"
     },
     {
      "title": "Whats going on over there",
      "image": "https://i.redd.it/rnurgby3l6zh1.gif",
      "url": "https://redd.it/1xlu8sz",
-     "ups": 3657,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The canon event",
-     "image": "https://i.redd.it/pl9nlf9ztizh1.png",
-     "url": "https://redd.it/1xnem2u",
-     "ups": 18,
+     "ups": 3664,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T09:26:49.242156+00:00",
+   "fetched_at": "2026-11-04T09:56:54.018561+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "GOP state supermajority races",
+     "text": "White House: Trump off ballot",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/85a227d68692",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "JD Ford's Indiana congressional race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f91cbeda09d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fddae6ead0b",
      "likes": 0,
      "image": ""
     },
@@ -208,33 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Washington votes on trans sports ban",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "First College Football Playoff rankings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tech stocks lose $1 trillion",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Half of new Steam games use AI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
      "likes": 0,
      "image": ""
     },
@@ -248,88 +216,120 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Right-wing Anakin Skywalker posting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "First cars for learning stick shift",
+     "text": "College basketball season opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c79f9c465",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington votes on trans sports ban",
+     "text": "First College Football Playoff rankings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "California billionaire wealth tax",
+     "text": "Half of new Steam games use AI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tech stocks lose $1 trillion",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "GOP state supermajority races",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/85a227d68692",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israel's war in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Peace and quiet",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.today/post/62758935",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/5d431ded-0f9f-4a35-a67c-d3b082aa6dd9.jpeg"
+     "text": "Netanyahu lost his majority in parliament. Now he claims elections were stolen",
+     "author": "World News",
+     "url": "https://lemy.lol/post/73760358",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/6f9622c4-ab3b-4214-b5b4-5ddd864bc953.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Proton Employees are starting a unionization drive",
+     "author": "Technology",
+     "url": "https://lemmy.ml/post/54892199",
+     "likes": 17,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Resounding wins for Democrats a wholesale rebuke of Trump\u2019s MAGA movement",
      "author": "politics ",
      "url": "https://lemmy.world/post/53974325",
-     "likes": 11,
+     "likes": 26,
      "image": "https://lemmy.world/pictrs/image/ca71ca03-303b-48c0-9e6f-b178845e2c8d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "What a night",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/53972533",
-     "likes": 145,
-     "image": "https://lemmy.world/pictrs/image/e39a8dee-3179-4404-8003-901b1d32b76b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I washed some dishes",
-     "author": "Dull Men's Club",
-     "url": "https://feddit.uk/post/57915645",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/88269927-908d-4dff-9f2b-8c97f5a451cb.webp"
+     "text": "egg\ud83d\ude28irl",
+     "author": "egg_irl \u2014 Memes about being trans people in denial and other eggy topics",
+     "url": "https://lemmy.blahaj.zone/post/50070708",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/aa61d930-0c68-46dc-9473-5f29aa042c2d.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T09:26:49.920916+00:00",
+   "fetched_at": "2026-11-04T09:56:54.564615+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -337,19 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "You know that cemetery up the road? People are dying to get in there.",
+     "text": "Who is the coolest Doctor in the hospital? The hip Doctor!",
      "source": "Dad joke"
     },
     {
-     "text": "What is this movie about? It is about 2 hours long.",
+     "text": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.",
      "source": "Dad joke"
     },
     {
-     "text": "How does a dyslexic poet write? Inverse.",
+     "text": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
      "source": "Dad joke"
     }
    ]
