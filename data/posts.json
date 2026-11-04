@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T11:27:34.572322+00:00",
+ "generated_at": "2026-11-04T11:57:40.905533+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T11:27:31.224651+00:00",
+   "fetched_at": "2026-11-04T11:57:36.138231+00:00",
    "stale": false,
    "items": [
     {
@@ -13,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "El-Sayed defeats Rogers to win Michigan Senate race",
+     "url": "https://www.reddit.com/r/politics/comments/1xngyoi/elsayed_defeats_rogers_to_win_michigan_senate_race/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/8maGsE7eQJiqeD1TE3iLaaO8d6JVCc_86cQZReVQg94.jpeg?width=640&crop=smart&auto=webp&s=80c56000dcb0e834934c0235296283df7d84220d"
     },
     {
      "source": "Reddit",
@@ -35,20 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "El-Sayed defeats Rogers to win Michigan Senate race",
-     "url": "https://www.reddit.com/r/politics/comments/1xngyoi/elsayed_defeats_rogers_to_win_michigan_senate_race/",
+     "title": "Expeditiously",
+     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xnhf7a/expeditiously/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/8maGsE7eQJiqeD1TE3iLaaO8d6JVCc_86cQZReVQg94.jpeg?width=640&crop=smart&auto=webp&s=80c56000dcb0e834934c0235296283df7d84220d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Democrats have won control of both the U.S. House and the U.S. Senate",
-     "url": "https://www.reddit.com/r/PoursTea/comments/1xnf41k/democrats_have_won_control_of_both_the_us_house/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/96fnap0nyizh1.jpeg?width=640&crop=smart&auto=webp&s=aae45aaa424e83d507422d1a5d288c04c52066bc"
+     "image": "https://preview.redd.it/rj4fdwzuljzh1.jpeg?width=640&crop=smart&auto=webp&s=c0e2317a679da5ffcbeed716c9f872c55eccdb42"
     },
     {
      "source": "Reddit",
@@ -62,20 +62,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Need a light, Micah Player, Digital mixed media, 2026",
+     "url": "https://www.reddit.com/r/Art/comments/1xnii77/need_a_light_micah_player_digital_mixed_media_2026/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/hiic8ccxxjzh1.jpeg?width=640&crop=smart&auto=webp&s=2f743d5f92dbf55b0f46128dffed39ebc8882fe8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "everything has gotten so greedy",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xmxzut/everything_has_gotten_so_greedy/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/qnfuh7p3ffzh1.jpeg?width=640&crop=smart&auto=webp&s=74adfc2b74785c9b835951777af76b48fad042a0"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Expeditiously",
-     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xnhf7a/expeditiously/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/rj4fdwzuljzh1.jpeg?width=640&crop=smart&auto=webp&s=c0e2317a679da5ffcbeed716c9f872c55eccdb42"
     },
     {
      "source": "Reddit",
@@ -89,152 +89,112 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T11:27:31.953637+00:00",
+   "fetched_at": "2026-11-04T11:57:38.110215+00:00",
    "stale": false,
    "items": [
     {
-     "title": "hittingMyTokenLimit",
-     "image": "https://i.redd.it/f3ise1l4djzh1.png",
-     "url": "https://redd.it/1xngm6v",
-     "ups": 1049,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2386,
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 45,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 213,
+     "title": "whenTheImpossibleMeetsTheScalable",
+     "image": "https://i.redd.it/5o1uya56z6yh1.png",
+     "url": "https://redd.it/1xhl91p",
+     "ups": 6514,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1188,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 1765,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 657,
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 65,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCompilerBugs",
-     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
-     "url": "https://redd.it/1xk4xh6",
-     "ups": 20,
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 374,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Dark psychology",
-     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
-     "url": "https://redd.it/1xmnceb",
-     "ups": 7332,
-     "sub": "r/memes"
-    },
-    {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1821,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Real footage btw",
-     "image": "https://i.redd.it/cso14rg58fzh1.gif",
-     "url": "https://redd.it/1xmwywn",
-     "ups": 8067,
-     "sub": "r/memes"
-    },
-    {
-     "title": "really got his interest",
-     "image": "https://i.redd.it/1bh27opiyjzh1.png",
-     "url": "https://redd.it/1xnikcz",
-     "ups": 2044,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I am something of a Einstein myself",
-     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
-     "url": "https://redd.it/1xmq8h9",
-     "ups": 396,
-     "sub": "r/memes"
     },
     {
      "title": "They can take our lives - but they can never take our RAM",
      "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
      "url": "https://redd.it/1xlvkvd",
-     "ups": 4321,
+     "ups": 4325,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every software update lately",
+     "image": "https://i.redd.it/th8xy6weekzh1.png",
+     "url": "https://redd.it/1xnjx1r",
+     "ups": 277,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Dolly Forever!",
+     "image": "https://i.redd.it/hklh1k8tbjzh1.png",
+     "url": "https://redd.it/1xnggus",
+     "ups": 3,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Our Christmas (might be offensive)",
+     "image": "https://i.redd.it/qutew6se3kzh1.png",
+     "url": "https://redd.it/1xnizsa",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "RAM Altman wants to Randomly Access your Memory",
+     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
+     "url": "https://redd.it/1xmvcc7",
+     "ups": 159,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Dark psychology",
+     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
+     "url": "https://redd.it/1xmnceb",
+     "ups": 7448,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T11:27:33.624314+00:00",
+   "fetched_at": "2026-11-04T11:57:39.755931+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Abdul El-Sayed confronts British journalist",
+     "text": "Texas Democrats' full control bid",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/403cc00c7534",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9e6b16a3ed9d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mississippi votes in close Senate race",
+     "text": "Political fights over data centers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dcab276fb97",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "European supermarket freezers hacked",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "College basketball season opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c79f9c465",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "First College Football Playoff rankings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tech stocks lose $1 trillion",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Right-wing Anakin Skywalker posting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "First cars for learning stick shift",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "College basketball season opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c79f9c465",
      "likes": 0,
      "image": ""
     },
@@ -264,68 +240,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington votes on trans sports ban",
+     "text": "Tech stocks lose $1 trillion",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Texas Democrats' full control bid",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9e6b16a3ed9d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "AI is a religion",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/74423922",
-     "likes": 47,
-     "image": "https://lemmy.zip/pictrs/image/1412d190-cad4-4302-9592-dea9cc887381.avif"
+     "kind": "Bluesky trend",
+     "text": "European supermarket freezers hacked",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Abdul El-Sayed confronts British journalist",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/403cc00c7534",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "GOP state supermajority races",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/85a227d68692",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "relationship",
      "author": "Lemmy Shitpost",
      "url": "https://sopuli.xyz/post/54123768",
-     "likes": 30,
+     "likes": 75,
      "image": "https://lemmy.world/pictrs/image/97f880a3-383f-4fb7-ab3a-9a65c4765d8a.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Ten European countries share evidence on alleged torture of Gaza flotilla activists",
-     "author": "World News",
-     "url": "https://lemy.lol/post/73762325",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/f2eed6b0-4330-4ec0-92bd-fbcc5223d8d1.jpeg"
+     "text": "Trump Is Melting Down In Real Time And Frantically Calling Reporters",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53976753",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/8e9c5a8e-d31f-45b6-8515-10d132a16a95.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "AI is a religion",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/74423922",
+     "likes": 76,
+     "image": "https://lemmy.zip/pictrs/image/1412d190-cad4-4302-9592-dea9cc887381.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "You hate to see it",
      "author": "Political Memes",
      "url": "https://piefed.social/c/politicalmemes@lemmy.world/p/2564072/you-hate-to-see-it",
-     "likes": 16,
+     "likes": 37,
      "image": "https://lemmy.world/pictrs/image/2e35a39d-7da7-4f8b-93cb-19e2323d0dac.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T11:27:34.185963+00:00",
+   "fetched_at": "2026-11-04T11:57:40.354982+00:00",
    "stale": false,
    "items": [
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why are snake races so exciting? They're always neck and neck.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why is the new Kindle screen textured to look like paper? So you feel write at home.",
      "source": "Dad joke"
     },
     {
-     "text": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
+     "text": "Why did the Clydesdale give the pony a glass of water? \u2028Because he was a little horse!",
      "source": "Dad joke"
     },
     {
-     "text": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
+     "text": "What do you call an old snowman? Water.",
      "source": "Dad joke"
     }
    ]
