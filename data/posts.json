@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T14:58:31.286265+00:00",
+ "generated_at": "2026-11-04T15:28:36.926698+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T14:58:26.844324+00:00",
+   "fetched_at": "2026-11-04T15:28:33.117373+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Turning Point USA activist gets slapped. (Laconia, NH)",
-     "url": "https://www.reddit.com/r/newhampshire/comments/1xn81n8/turning_point_usa_activist_gets_slapped_laconia_nh/",
+     "title": "John Fetterman doesn\u2019t matter anymore",
+     "url": "https://www.reddit.com/r/politics/comments/1xnoq0g/john_fetterman_doesnt_matter_anymore/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/Zm5kYTZsdXI5aHpoMUjRWrsL0mZNQyGe6fqCTurenhiKKl-71bJTczpt8m1T.png?width=640&crop=smart&auto=webp&s=9e8614c82d86c442dbddfd4244b65e07118b54cc"
+     "image": "https://external-preview.redd.it/ZzBI1h3oXRAsqHdSL5ZRrcEQDY7lkvUDB9ixBvBxJUY.jpeg?width=640&crop=smart&auto=webp&s=337ff58de314855b92a13b8a32b2f655809454f8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "All candidates endorsed by Nicki Minaj suffer landslide losses in midterm elections",
+     "url": "https://www.reddit.com/r/Music/comments/1xnlucu/all_candidates_endorsed_by_nicki_minaj_suffer/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -71,34 +80,18 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "All candidates endorsed by Nicki Minaj suffer landslide losses in midterm elections",
-     "url": "https://www.reddit.com/r/Music/comments/1xnlucu/all_candidates_endorsed_by_nicki_minaj_suffer/",
+     "title": "Let the reckoning begin.",
+     "url": "https://www.reddit.com/r/PoursTea/comments/1xnmiow/let_the_reckoning_begin/",
      "score": 0,
      "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Rules for thee, the joke's on me, 'cause I can't read y'all.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xng3l0/rules_for_thee_the_jokes_on_me_cause_i_cant_read/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/69q8sqyy7jzh1.jpeg?width=640&crop=smart&auto=webp&s=fafb196dfd1751dc401d7cfc1b7da30a50d6c367"
+     "image": "https://preview.redd.it/vxnf69yb6lzh1.jpeg?width=640&crop=smart&auto=webp&s=4cdfd967fee7ad263a26781a1b6c12ff385df33c"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T14:58:27.854970+00:00",
+   "fetched_at": "2026-11-04T15:28:34.141769+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "eMudhraBrainstormingSesh",
-     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
-     "url": "https://redd.it/1xh1lm8",
-     "ups": 244,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "emacsToVim",
      "image": "https://i.redd.it/02lqs4uaa3zh1.png",
@@ -107,102 +100,101 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1178,
+     "title": "helloWorld",
+     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
+     "url": "https://redd.it/1xkukx5",
+     "ups": 13064,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1134,
+     "title": "completeBrainRewire",
+     "image": "https://i.redd.it/6bf6lbtfgyyh1.gif",
+     "url": "https://redd.it/1xkx5ig",
+     "ups": 903,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 149,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenTheImpossibleMeetsTheScalable",
-     "image": "https://i.redd.it/5o1uya56z6yh1.png",
-     "url": "https://redd.it/1xhl91p",
-     "ups": 6515,
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 24,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "repetition is key",
-     "image": "https://i.redd.it/agk0rqmgjlzh1.png",
-     "url": "https://redd.it/1xno00r",
-     "ups": 7,
+     "title": "thisPythonShitIsSoEasy",
+     "image": "https://i.redd.it/e8ak96gkodyh1.png",
+     "url": "https://redd.it/1xifkge",
+     "ups": 23,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Every software update lately",
+     "image": "https://i.redd.it/th8xy6weekzh1.png",
+     "url": "https://redd.it/1xnjx1r",
+     "ups": 490,
      "sub": "r/memes"
     },
     {
-     "title": "Real footage btw",
-     "image": "https://i.redd.it/cso14rg58fzh1.gif",
-     "url": "https://redd.it/1xmwywn",
-     "ups": 9568,
+     "title": "Uncle Sam wants you(r ram)",
+     "image": "https://i.redd.it/3u0zda28jlzh1.png",
+     "url": "https://redd.it/1xnnz0l",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
-     "title": "If only life was a game",
-     "image": "https://i.redd.it/xk4vdeasclzh1.png",
-     "url": "https://redd.it/1xnn7sn",
-     "ups": 38,
+     "title": "God damn it again",
+     "image": "https://i.redd.it/1kezkcb4igzh1.png",
+     "url": "https://redd.it/1xn421c",
+     "ups": 756,
      "sub": "r/memes"
     },
     {
-     "title": "Our Christmas (might be offensive)",
-     "image": "https://i.redd.it/qutew6se3kzh1.png",
-     "url": "https://redd.it/1xnizsa",
-     "ups": 28,
+     "title": "The real body count nobody talks about",
+     "image": "https://i.redd.it/m2j3gwhy5czh1.png",
+     "url": "https://redd.it/1xmkxlj",
+     "ups": 316,
      "sub": "r/memes"
     },
     {
-     "title": "RAM Altman wants to Randomly Access your Memory",
-     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
-     "url": "https://redd.it/1xmvcc7",
-     "ups": 154,
+     "title": "The canon event",
+     "image": "https://i.redd.it/pl9nlf9ztizh1.png",
+     "url": "https://redd.it/1xnem2u",
+     "ups": 73,
      "sub": "r/memes"
     },
     {
-     "title": "Im just pretending",
-     "image": "https://i.redd.it/x5hrfkiw9lzh1.png",
-     "url": "https://redd.it/1xnmwhl",
-     "ups": 19,
+     "title": "They can take our lives - but they can never take our RAM",
+     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
+     "url": "https://redd.it/1xlvkvd",
+     "ups": 4328,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T14:58:30.276873+00:00",
+   "fetched_at": "2026-11-04T15:28:35.729348+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Washington votes on trans sports ban",
+     "text": "Mike Johnson's speakership",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27ebd227c19d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Flanagan vows to dismantle ICE",
+     "text": "GOP state supermajority races",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8526d5cf5a3b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tech stocks lose $1 trillion",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/85a227d68692",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "European supermarket freezers hacked",
+     "text": "State weapons for British counties",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed0c0b379e93",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "State weapons for British counties",
+     "text": "European supermarket freezers hacked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed0c0b379e93",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
      "likes": 0,
      "image": ""
     },
@@ -240,96 +232,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "First College Football Playoff rankings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Tech stocks lose $1 trillion",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Xbox unveils alligator console giveaway",
+     "text": "College basketball season opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d46425b42faf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c79f9c465",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Lauren Boebert's House race",
+     "text": "Half of new Steam games use AI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b5530b3272b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries rules out retribution after midterms",
+     "text": "Onion headline on Abdul El-Sayed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c37f2f289bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ec62af0bdeff",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Flanagan vows to dismantle ICE",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8526d5cf5a3b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Looks like he has to move again",
+     "text": "10 States With Data Centers on the Ballot All Voted to Ban Them",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53983294",
+     "likes": 82,
+     "image": "https://lemmy.world/pictrs/image/bdc2492b-24f4-47da-8527-91d1b90659ce.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I did that",
      "author": "Political Memes",
-     "url": "https://lemmy.zip/post/74431213",
-     "likes": 86,
-     "image": "https://lemmy.zip/pictrs/image/dce7b064-5b87-4321-933f-8b2b4a6644a1.avif"
+     "url": "https://lemmy.ca/post/73367878",
+     "likes": 76,
+     "image": "https://lemmy.world/pictrs/image/ece8e3bf-beab-4aa2-8ee0-ac1e34da3f34.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Alabama elects first out trans lawmaker",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53983296",
+     "likes": 69,
+     "image": "https://lemmy.world/pictrs/image/979e7d47-74fc-4475-b352-a7d575d074f5.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "John Fetterman doesn\u2019t matter anymore",
      "author": "politics ",
      "url": "https://lemmy.world/post/53982711",
-     "likes": 39,
+     "likes": 110,
      "image": "https://lemmy.world/pictrs/image/879da1da-2413-49b0-a0bd-96612c42e09d.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "New $100 bill",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/53982129",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/2f0186df-17e2-4193-bf01-395e388570fe.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "MAGA waking up and seeing the election results",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/53982504",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/179550d3-3559-4775-b8d6-ecadbcc11c32.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T14:58:30.666771+00:00",
+   "fetched_at": "2026-11-04T15:28:36.203706+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
@@ -337,28 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I had a dream that I was a muffler last night. I woke up exhausted!",
+     "text": "Why do you never see elephants hiding in trees? Because they're so good at it.",
      "source": "Dad joke"
     },
     {
-     "text": "What is the best way to carve?\r\nWhittle by whittle.",
+     "text": "What do you call two barracuda fish?  A Pairacuda!",
      "source": "Dad joke"
     },
     {
-     "text": "Some people say that I never got over my obsession with Phil Collins.\r\nBut take a look at me now.",
+     "text": "What do you call a fly without wings? A walk.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
