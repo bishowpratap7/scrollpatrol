@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-04T00:54:20.954551+00:00",
+ "generated_at": "2026-11-04T01:24:28.542465+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T00:54:15.846953+00:00",
+   "fetched_at": "2026-11-04T01:24:22.405408+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Ossoff wins reelection in battleground Georgia",
+     "url": "https://www.reddit.com/r/politics/comments/1xna1ou/ossoff_wins_reelection_in_battleground_georgia/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/fGBBOhyB-lJmaBIEacswOX4N3z4XXBGS8YWQ_P161Fk.jpeg?width=640&crop=smart&auto=webp&s=e6f2fb6ef5d6fd03cbdbb0d2b338dd147bf2004d"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/gsyfrh75zezh1.png?width=640&crop=smart&auto=webp&s=61bbb9ceed01a83060f483ed7d0693d0db9953b7"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Respect! \ud83d\udc99",
-     "url": "https://www.reddit.com/r/PoursTea/comments/1xn6fk7/respect/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/es9rr58lygzh1.jpeg?width=640&crop=smart&auto=webp&s=b658e7f64589dce653b9ff92106452fe23456a7a"
     },
     {
      "source": "Reddit",
@@ -35,15 +35,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "[OC] Street light by the Alex Pretti memorial today",
-     "url": "https://www.reddit.com/r/pics/comments/1xn6m2q/oc_street_light_by_the_alex_pretti_memorial_today/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/iqc1lx6vzgzh1.jpeg?width=640&crop=smart&auto=webp&s=c45a2952b52197c04721e8be60aa74715d4815bc"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Toddler disappears from sight in just a few seconds",
      "url": "https://www.reddit.com/r/interestingasfuck/comments/1xmpb7q/toddler_disappears_from_sight_in_just_a_few/",
      "score": 0,
@@ -53,20 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "[OC] Street light by the Alex Pretti memorial today",
+     "url": "https://www.reddit.com/r/pics/comments/1xn6m2q/oc_street_light_by_the_alex_pretti_memorial_today/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/iqc1lx6vzgzh1.jpeg?width=640&crop=smart&auto=webp&s=c45a2952b52197c04721e8be60aa74715d4815bc"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Took my dog for a walk today and some woman said he was ugly",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xmmu7f/took_my_dog_for_a_walk_today_and_some_woman_said/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/g6z26svcqczh1.jpeg?width=640&crop=smart&auto=webp&s=1fd79df6c8670bca23942e5751ec91d6dddb6d41"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Everyone cheer for Arlo! He is tumor free!",
-     "url": "https://www.reddit.com/r/cats/comments/1xn6lzi/everyone_cheer_for_arlo_he_is_tumor_free/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/4wuoc85uzgzh1.jpeg?width=640&crop=smart&auto=webp&s=8e8387fc985f11ba0b10fe501cff62f2475e3a3c"
     },
     {
      "source": "Reddit",
@@ -85,53 +76,62 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/c8iqo810qfzh1.png?width=320&crop=smart&auto=webp&s=5b3161486752a7aa4646a8abc725bbf5f7f43145"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What do you think Donald Trump's reaction will be if the Democrats win both the House and Senate tonight?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xmwqjz/what_do_you_think_donald_trumps_reaction_will_be/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T00:54:17.242155+00:00",
+   "fetched_at": "2026-11-04T01:24:23.707359+00:00",
    "stale": false,
    "items": [
     {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 210,
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 379,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 66,
+     "title": "fuckFuckFuckFuckFuckFuck",
+     "image": "https://i.redd.it/5290sx5ej4zh1.gif",
+     "url": "https://redd.it/1xlng1f",
+     "ups": 1155,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "refactoringComplete",
-     "image": "https://i.redd.it/pkmrs4913fzh1.png",
-     "url": "https://redd.it/1xmw6nu",
-     "ups": 3160,
+     "title": "whenTheImpossibleMeetsTheScalable",
+     "image": "https://i.redd.it/5o1uya56z6yh1.png",
+     "url": "https://redd.it/1xhl91p",
+     "ups": 6479,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 26,
+     "title": "sPoNgEbObMoCkInGCaSeIsALlOwEd",
+     "image": "https://i.redd.it/touy92n6qsyh1.png",
+     "url": "https://redd.it/1xk8ww0",
+     "ups": 39,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySourceCodeLiterally",
-     "image": "https://i.redd.it/x47p93go5eyh1.png",
-     "url": "https://redd.it/1xihblk",
-     "ups": 322,
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 141,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCompilerBugs",
-     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
-     "url": "https://redd.it/1xk4xh6",
-     "ups": 22,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1192,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -142,17 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "Only in Texas",
-     "image": "https://i.redd.it/zj9d5wbv1hzh1.png",
-     "url": "https://redd.it/1xn6wh9",
-     "ups": 5,
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 345,
      "sub": "r/memes"
     },
     {
-     "title": "Nintendo's Legal Department",
-     "image": "https://i.redd.it/dsul79qew4zh1.png",
-     "url": "https://redd.it/1xlorsv",
-     "ups": 6248,
+     "title": "RAM Altman wants to Randomly Access your Memory",
+     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
+     "url": "https://redd.it/1xmvcc7",
+     "ups": 97,
      "sub": "r/memes"
     },
     {
@@ -163,46 +163,38 @@
      "sub": "r/memes"
     },
     {
-     "title": "Whats going on over there",
-     "image": "https://i.redd.it/rnurgby3l6zh1.gif",
-     "url": "https://redd.it/1xlu8sz",
-     "ups": 3652,
-     "sub": "r/memes"
-    },
-    {
      "title": "Dark psychology",
      "image": "https://i.redd.it/qj3dc2d6wczh1.png",
      "url": "https://redd.it/1xmnceb",
      "ups": 6422,
      "sub": "r/memes"
+    },
+    {
+     "title": "Only in Texas",
+     "image": "https://i.redd.it/zj9d5wbv1hzh1.png",
+     "url": "https://redd.it/1xn6wh9",
+     "ups": 5,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T00:54:19.597016+00:00",
+   "fetched_at": "2026-11-04T01:24:26.603377+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Florida votes for governor and Senate",
+     "text": "GOP gerrymandered district results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c6218621485d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/84b48208d675",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Flooding moves Florida polling places",
+     "text": "Illinois votes in Senate, governor races",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fbd202c88f85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "First cars for learning stick shift",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/75872e9bda5e",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "First College Football Playoff rankings",
+     "text": "First cars for learning stick shift",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
      "likes": 0,
      "image": ""
     },
@@ -227,6 +219,14 @@
      "text": "Godzilla Minus Zero opens",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "First College Football Playoff rankings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Half of new Steam games use AI",
+     "text": "European supermarket freezers hacked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Binance alleged fake-interview hack",
+     "text": "Arc Raiders uses AI voice lines",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/75ea9cd73a96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls into Fox & Friends",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af5b34514c6f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/949105a02518",
      "likes": 0,
      "image": ""
     },
@@ -279,11 +271,19 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "\"I voted\" stickers on ICE memorials",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a19c71e2838",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "Cats: the original fascists",
      "author": "Lemmy Shitpost",
      "url": "https://leminal.space/post/41602999",
-     "likes": 91,
+     "likes": 115,
      "image": "https://lemmy.world/pictrs/image/5f053dcc-e89d-416b-9775-05d50ba869f8.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Nearly a third of Canadians skipping meals due to food insecurity: survey",
      "author": "Canada",
      "url": "https://lemmy.ca/post/73339813",
-     "likes": 67,
+     "likes": 85,
      "image": "https://lemmy.world/pictrs/image/8f152419-4be1-45f1-bdd5-546eb0b90138.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "New Jersey's governor warns ports against accepting Russian diesel",
      "author": "politics ",
      "url": "https://lemmy.world/post/53959810",
-     "likes": 69,
+     "likes": 92,
      "image": "https://lemmy.world/pictrs/image/21b4bc83-2c0d-438a-a9b2-614eaa791718.jpeg"
     },
     {
@@ -307,17 +307,25 @@
      "text": "The king is back",
      "author": "Linux",
      "url": "https://lemmy.ml/post/54877044",
-     "likes": 87,
+     "likes": 101,
      "image": "https://lemmy.world/pictrs/image/f6065961-c092-474a-a163-e9b4aa146345.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T00:54:20.313543+00:00",
+   "fetched_at": "2026-11-04T01:24:27.623848+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
@@ -325,15 +333,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "What's the worst thing about ancient history class? The teachers tend to Babylon.",
+     "text": "How many seconds are in a year?\r\n12.\r\nJanuary 2nd, February 2nd, March 2nd, April 2nd.... etc",
      "source": "Dad joke"
     },
     {
-     "text": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
+     "text": "Two fish are in a tank, one turns to the other and says, \"how do you drive this thing?\"",
      "source": "Dad joke"
     },
     {
-     "text": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+     "text": "Wife: Honey I\u2019m pregnant.\r\n\r\nMe: Well\u2026. what do we do now?\r\n\r\nWife: Well, I guess we should go to a baby doctor.\r\n\r\nMe: Hm.. I think I\u2019d be a lot more comfortable going to an adult doctor.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
