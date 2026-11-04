@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-04T03:55:06.487175+00:00",
+ "generated_at": "2026-11-04T04:25:13.831610+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T03:55:01.071402+00:00",
+   "fetched_at": "2026-11-04T04:25:08.007682+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "James Talarico wins Texas Senate race in massive midterm upset",
+     "url": "https://www.reddit.com/r/news/comments/1xndwrd/james_talarico_wins_texas_senate_race_in_massive/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +31,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/FQglvUUPn6xU9QrUeL3rrQpkWsax17EXtE5pkhvqdGQ.jpeg?width=640&crop=smart&auto=webp&s=a116174ec74f246e0ab657e4b2ce83b5da3977b2"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "CNN calls the victory for Amy Acton. WE DID IT!!!",
+     "url": "https://www.reddit.com/r/Ohio/comments/1xne6bl/cnn_calls_the_victory_for_amy_acton_we_did_it/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/8j2g1ekzpizh1.jpeg?width=640&crop=smart&auto=webp&s=818b31ac237c8c539313a39646c4a082399c090c"
     },
     {
      "source": "Reddit",
@@ -53,15 +71,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Former Atlanta Mayor Keisha Lance Bottoms has officially won Georgia\u2019s Governor\u2019s election, making history! For the first time, Georgia will have a Female Governor. Even more historic, Bottoms has become the first Black woman ever elected as governor in US history!",
-     "url": "https://www.reddit.com/r/Atlanta/comments/1xnc40p/former_atlanta_mayor_keisha_lance_bottoms_has/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/wj7khzjl7izh1.jpeg?width=640&crop=smart&auto=webp&s=eeb6c7e51c08e070707764c27a9a0d379dd98e97"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Vote because they can't.",
      "url": "https://www.reddit.com/r/FortWorth/comments/1xmvuo1/vote_because_they_cant/",
      "score": 0,
@@ -71,95 +80,79 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "UPDATE: My boss canceled my already approved vacation because a coworker got sick.",
-     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xmx2yz/update_my_boss_canceled_my_already_approved/",
+     "title": "Former Atlanta Mayor Keisha Lance Bottoms has officially won Georgia\u2019s Governor\u2019s election, making history! For the first time, Georgia will have a Female Governor. Even more historic, Bottoms has become the first Black woman ever elected as governor in US history!",
+     "url": "https://www.reddit.com/r/Atlanta/comments/1xnc40p/former_atlanta_mayor_keisha_lance_bottoms_has/",
      "score": 0,
      "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The type of things you will be voting for in Idaho",
-     "url": "https://www.reddit.com/r/mildyinteresting/comments/1xmzphx/the_type_of_things_you_will_be_voting_for_in_idaho/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/c8iqo810qfzh1.png?width=320&crop=smart&auto=webp&s=5b3161486752a7aa4646a8abc725bbf5f7f43145"
+     "image": "https://preview.redd.it/wj7khzjl7izh1.jpeg?width=640&crop=smart&auto=webp&s=eeb6c7e51c08e070707764c27a9a0d379dd98e97"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T03:55:02.482914+00:00",
+   "fetched_at": "2026-11-04T04:25:09.541962+00:00",
    "stale": false,
    "items": [
     {
-     "title": "postFrom12YAgo",
-     "image": "https://i.redd.it/wgcl3pboihzh1.png",
-     "url": "https://redd.it/1xn93qp",
-     "ups": 610,
+     "title": "handbookAfterBubbleBurst",
+     "image": "https://i.redd.it/5gvw4cv058yh1.png",
+     "url": "https://redd.it/1xhqpzg",
+     "ups": 168,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisPythonShitIsSoEasy",
-     "image": "https://i.redd.it/e8ak96gkodyh1.png",
-     "url": "https://redd.it/1xifkge",
-     "ups": 23,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 44,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 652,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
      "image": "https://i.redd.it/yxf6tvnmupyh1.png",
      "url": "https://redd.it/1xjyyyn",
-     "ups": 409,
+     "ups": 412,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 211,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 101,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 1501,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1104,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The struggle",
-     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
-     "url": "https://redd.it/1xmytm3",
-     "ups": 6,
+     "title": "eMudhraBrainstormingSesh",
+     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
+     "url": "https://redd.it/1xh1lm8",
+     "ups": 240,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "They can take our lives - but they can never take our RAM",
+     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
+     "url": "https://redd.it/1xlvkvd",
+     "ups": 4291,
      "sub": "r/memes"
     },
     {
-     "title": "Album experience",
-     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
-     "url": "https://redd.it/1xmmdkc",
-     "ups": 75,
+     "title": "Whats going on over there",
+     "image": "https://i.redd.it/rnurgby3l6zh1.gif",
+     "url": "https://redd.it/1xlu8sz",
+     "ups": 3652,
      "sub": "r/memes"
     },
     {
-     "title": "All the dedicated ram",
-     "image": "https://i.redd.it/dj1lya5ugfzh1.png",
-     "url": "https://redd.it/1xmy9di",
-     "ups": 8,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The real body count nobody talks about",
-     "image": "https://i.redd.it/m2j3gwhy5czh1.png",
-     "url": "https://redd.it/1xmkxlj",
-     "ups": 305,
+     "title": "I remembered that specific show coming on after Arthur.",
+     "image": "https://i.redd.it/pr5obzflxhzh1.png",
+     "url": "https://redd.it/1xnaynw",
+     "ups": 0,
      "sub": "r/memes"
     },
     {
@@ -170,31 +163,38 @@
      "sub": "r/memes"
     },
     {
-     "title": "Nintendo's Legal Department",
-     "image": "https://i.redd.it/dsul79qew4zh1.png",
-     "url": "https://redd.it/1xlorsv",
-     "ups": 6324,
+     "title": "Guilty as charged",
+     "image": "https://i.redd.it/y8rdx470eizh1.png",
+     "url": "https://redd.it/1xncupd",
+     "ups": 105,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Album experience",
+     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
+     "url": "https://redd.it/1xmmdkc",
+     "ups": 75,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T03:55:05.345923+00:00",
+   "fetched_at": "2026-11-04T04:25:12.508681+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "White House: Trump off ballot",
+     "text": "Sherrod Brown's Ohio Senate run",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fddae6ead0b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a5f131e48fb0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mike Johnson's speakership",
+     "text": "Ohio statehood jokes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27ebd227c19d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b5006694d2e",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "First cars for learning stick shift",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
@@ -224,22 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AO3 outage extends to weeks",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0bd5156ab3",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "First College Football Playoff rankings",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
@@ -248,92 +232,104 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Xbox unveils alligator console giveaway",
+     "text": "Nordic nations refuse to play Russia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d46425b42faf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4d0ef7b02a2d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Half of new Steam games use AI",
+     "text": "First cars for learning stick shift",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sherrod Brown's Ohio Senate run",
+     "text": "College basketball season opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a5f131e48fb0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c79f9c465",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "JD Ford's Indiana congressional race",
+     "text": "European supermarket freezers hacked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f91cbeda09d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's promised $5,000 checks",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a672c3ad543c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "State and local ballot measures",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/506df5e45963",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Georgia elects the nation's first Black female governor",
-     "author": "News",
-     "url": "https://lemmy.world/post/53966671",
-     "likes": 67,
-     "image": "https://lemmy.world/pictrs/image/a88737d6-5fab-45e1-aad0-01a418edc49f.webp"
+     "text": "Amy Acton defeats Vivek Ramaswamy in Ohio governor\u2019s race",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53966955",
+     "likes": 77,
+     "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Photo_Split.png?w=640&h=360&crop=1"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Gov. Greg Abbott concedes to Gina Hinojosa in stunning Texas upset",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53967357",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/979dfb61-488a-4961-bfed-df87016b11e8.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "James Talarico turns Texas blue in historic win for Democrats",
      "author": "politics ",
      "url": "https://lemmy.world/post/53966680",
-     "likes": 60,
+     "likes": 142,
      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/talarico_james_texas_03042026_AP26064080316890-1.jpg?w=1280&h=720&crop=1"
     },
     {
      "kind": "Lemmy post",
-     "text": "Friendly Reminder Regarding the Midterm Election Results",
+     "text": "GA election results",
      "author": "Political Memes",
-     "url": "https://lemmy.world/post/53966588",
-     "likes": 56,
-     "image": "https://lemmy.world/pictrs/image/7f8eec18-adab-4326-9110-9668744ae9ae.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Democrat Annie Andrews defeats GOP Sen. Darline Graham in South Carolina, a major upset",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/53966187",
-     "likes": 111,
-     "image": "https://lemmy.world/pictrs/image/ffcd774a-2eb5-4749-8c57-7913e62b327c.jpeg"
+     "url": "https://lemmy.world/post/53966957",
+     "likes": 46,
+     "image": "https://lemmy.world/pictrs/image/aff851d0-8486-4112-9ea3-bb081042780b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T03:55:05.867164+00:00",
+   "fetched_at": "2026-11-04T04:25:13.132610+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why are basketball players messy eaters? Because they are always dribbling.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hostess: Do you have a preference of where you sit?\r\nDad: Down.",
      "source": "Dad joke"
     },
     {
-     "text": "I was just looking at my ceiling. Not sure if it\u2019s the best ceiling in the world, but it\u2019s definitely up there.",
+     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
      "source": "Dad joke"
     },
     {
-     "text": "I used to work for a soft drink can crusher. It was soda pressing.",
+     "text": "I invented a new word! Plagiarism!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
