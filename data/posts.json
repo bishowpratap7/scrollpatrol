@@ -1,28 +1,10 @@
 {
- "generated_at": "2026-11-04T16:28:49.012386+00:00",
+ "generated_at": "2026-11-04T16:58:55.410678+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T16:28:44.332088+00:00",
+   "fetched_at": "2026-11-04T16:58:50.557081+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "John Fetterman doesn\u2019t matter anymore",
-     "url": "https://www.reddit.com/r/politics/comments/1xnoq0g/john_fetterman_doesnt_matter_anymore/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZzBI1h3oXRAsqHdSL5ZRrcEQDY7lkvUDB9ixBvBxJUY.jpeg?width=640&crop=smart&auto=webp&s=337ff58de314855b92a13b8a32b2f655809454f8"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Money\u2019s tight, but my 4 yr old called last night\u2019s dinner \u201cthe best meal Mama\u2019s ever made.\u201d Just rice, beans, cheese, and hot dogs. Bless her heart.",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xnq283/moneys_tight_but_my_4_yr_old_called_last_nights/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/3vkjs9u3zlzh1.png?width=640&crop=smart&auto=webp&s=29be9e27974b657e2cb49c5c93337dd4941cf6a7"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -31,15 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Canada displays their support for the outcome of the midterms.",
-     "url": "https://www.reddit.com/r/PoursTea/comments/1xnotng/canada_displays_their_support_for_the_outcome_of/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/w4q0l9u5qlzh1.jpeg?width=640&crop=smart&auto=webp&s=e655ebee745fc047186d4f448f33fa5057791f90"
     },
     {
      "source": "Reddit",
@@ -53,11 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Gen Z is abandoning alcohol",
-     "url": "https://www.reddit.com/r/interesting/comments/1xnfl4u/gen_z_is_abandoning_alcohol/",
+     "title": "Happy Blue Wave!",
+     "url": "https://www.reddit.com/r/comics/comments/1xnsg5o/happy_blue_wave/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/vvil8ast2jzh1.png?width=320&crop=smart&auto=webp&s=96cb07ee354db55040b00da6857def188d100d7a"
+     "image": "https://preview.redd.it/bhw02e0xfmzh1.png?width=640&crop=smart&auto=webp&s=47c038e0e07acb415f3850a2551190e17d41268a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Money\u2019s tight, but my 4 yr old called last night\u2019s dinner \u201cthe best meal Mama\u2019s ever made.\u201d Just rice, beans, cheese, and hot dogs. Bless her heart.",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xnq283/moneys_tight_but_my_4_yr_old_called_last_nights/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/3vkjs9u3zlzh1.png?width=640&crop=smart&auto=webp&s=29be9e27974b657e2cb49c5c93337dd4941cf6a7"
     },
     {
      "source": "Reddit",
@@ -71,25 +53,43 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Gen Z is abandoning alcohol",
+     "url": "https://www.reddit.com/r/interesting/comments/1xnfl4u/gen_z_is_abandoning_alcohol/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/vvil8ast2jzh1.png?width=320&crop=smart&auto=webp&s=96cb07ee354db55040b00da6857def188d100d7a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "John Fetterman doesn\u2019t matter anymore",
+     "url": "https://www.reddit.com/r/politics/comments/1xnoq0g/john_fetterman_doesnt_matter_anymore/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZzBI1h3oXRAsqHdSL5ZRrcEQDY7lkvUDB9ixBvBxJUY.jpeg?width=640&crop=smart&auto=webp&s=337ff58de314855b92a13b8a32b2f655809454f8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Roughly 75% Americans now live under Democratic Governors",
+     "url": "https://www.reddit.com/r/MapPorn/comments/1xnrcdl/roughly_75_americans_now_live_under_democratic/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/ds35ffi98mzh1.jpeg?width=640&crop=smart&auto=webp&s=636f22283edd28a44905bfcfc3599754f5534735"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Democrats Win Majority in the US Senate | Live Megathread",
      "url": "https://www.reddit.com/r/politics/comments/1xnexi4/democrats_win_majority_in_the_us_senate_live/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Georgia's results!",
-     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xnob6h/georgias_results/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/7hub9jnzllzh1.jpeg?width=640&crop=smart&auto=webp&s=28bfb806c019fbce91d7171130584442b1c5d4bc"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T16:28:45.290305+00:00",
+   "fetched_at": "2026-11-04T16:58:51.597786+00:00",
    "stale": false,
    "items": [
     {
@@ -100,66 +100,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 28,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1198,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 148,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
-     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
-     "url": "https://redd.it/1xlu08b",
-     "ups": 6,
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 4524,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 33,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The canon event",
-     "image": "https://i.redd.it/pl9nlf9ztizh1.png",
-     "url": "https://redd.it/1xnem2u",
-     "ups": 113,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I am something of a Einstein myself",
-     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
-     "url": "https://redd.it/1xmq8h9",
-     "ups": 409,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Ain't America great?",
-     "image": "https://i.redd.it/yqg22nkxajzh1.png",
-     "url": "https://redd.it/1xngefk",
-     "ups": 2991,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Our Christmas (might be offensive)",
-     "image": "https://i.redd.it/qutew6se3kzh1.png",
-     "url": "https://redd.it/1xnizsa",
-     "ups": 36,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The real body count nobody talks about",
-     "image": "https://i.redd.it/m2j3gwhy5czh1.png",
-     "url": "https://redd.it/1xmkxlj",
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
      "ups": 322,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Twitter accounts with 0 followers be like",
+     "image": "https://i.redd.it/sanh4po7ylzh1.png",
+     "url": "https://redd.it/1xnpxmv",
+     "ups": 2,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
+     "image": "https://i.redd.it/uex4699f9hzh1.png",
+     "url": "https://redd.it/1xn7xlc",
+     "ups": 253,
+     "sub": "r/memes"
+    },
+    {
+     "title": "God damn it again",
+     "image": "https://i.redd.it/1kezkcb4igzh1.png",
+     "url": "https://redd.it/1xn421c",
+     "ups": 784,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Maybe it was all a dream",
+     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
+     "url": "https://redd.it/1xnr7oi",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
@@ -170,47 +163,38 @@
      "sub": "r/memes"
     },
     {
-     "title": "LosAngeles",
-     "image": "https://i.redd.it/wa2o88emxtyh1.png",
-     "url": "https://redd.it/1xkelyt",
-     "ups": 2295,
+     "title": "Our Christmas (might be offensive)",
+     "image": "https://i.redd.it/qutew6se3kzh1.png",
+     "url": "https://redd.it/1xnizsa",
+     "ups": 36,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Sips RAM",
+     "image": "https://i.redd.it/pwgepgdf88zh1.png",
+     "url": "https://redd.it/1xm20x8",
+     "ups": 456,
      "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T16:28:47.761750+00:00",
+   "fetched_at": "2026-11-04T16:58:54.069261+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Onion headline on Abdul El-Sayed",
+     "text": "JD Vance's 2028 prospects",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ec62af0bdeff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4aa9b55d68",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Blue wave election memes",
+     "text": "Iran war and regime change",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab712efdecae",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bluesky traffic surges to double",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sonic appears in Angry Birds 3",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2e3f0f8df226",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89986f6bd9f9",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +208,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "European supermarket freezers hacked",
+     "text": "Sonic appears in Angry Birds 3",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2e3f0f8df226",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Right-wing Anakin Skywalker posting",
+     "text": "Bluesky traffic surges to double",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "European supermarket freezers hacked",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "State weapons for British counties",
+     "text": "Right-wing Anakin Skywalker posting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed0c0b379e93",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tech stocks lose $1 trillion",
+     "text": "BirdOfTheDay B, C, D theme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Post says Niagara Falls lit blue",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/60e5563ed9b0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22aba73c302e",
      "likes": 0,
      "image": ""
     },
@@ -279,45 +271,57 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Mike Johnson's speakership",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27ebd227c19d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "MANDATORY!",
+     "author": "Political Memes",
+     "url": "https://sh.itjust.works/post/69416843",
+     "likes": 62,
+     "image": "https://lemmy.world/pictrs/image/bffb2a0c-580e-41b4-a816-23a88ca91dba.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "To the, \"My vote don't matter!\" crowd:",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53985663",
+     "likes": 70,
+     "image": "https://lemmy.world/pictrs/image/e22c8faa-8a6d-4938-b21a-4cda4a0739c6.png"
+    },
+    {
      "kind": "Lemmy post",
      "text": "Pete Hegseth stares down likely impeachment vote. And he's not the only one",
      "author": "politics ",
      "url": "https://lemmy.world/post/53985439",
-     "likes": 44,
+     "likes": 95,
      "image": "https://lemmy.world/pictrs/image/30c96976-a2c2-4f14-aae7-70678ae23caf.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Evolution",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/69415161",
-     "likes": 64,
-     "image": "https://lemmy.world/pictrs/image/a2824eb1-2be9-4b75-a832-8c110526f934.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Netflix: \"TOTALLY RAD!\"",
-     "author": "Animemes",
-     "url": "https://piefed.world/c/animemes/p/1512496/netflix-totally-rad",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/db318af0-76ac-4522-8372-9015691c3f30.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Auto-balance",
+     "text": "What a night",
      "author": "Political Memes",
-     "url": "https://lemmy.zip/post/74434528",
-     "likes": 89,
-     "image": "https://lemmy.zip/pictrs/image/66b3afd4-2c4c-464d-87f6-6609a418b9f2.avif"
+     "url": "https://sh.itjust.works/post/69416903",
+     "likes": 44,
+     "image": "https://lemmy.world/pictrs/image/aa56036a-0eb8-411f-adf1-8a5776eb4c1e.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T16:28:48.308481+00:00",
+   "fetched_at": "2026-11-04T16:58:54.770338+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +329,27 @@
      "source": "Programming joke"
     },
     {
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
      "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
+     "text": "My sea sickness comes in waves.",
      "source": "Dad joke"
     },
     {
-     "text": "Where was the Declaration of Independence signed?\r\n\r\nAt the bottom! ",
+     "text": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
      "source": "Dad joke"
     },
     {
-     "text": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
+     "text": "How does a scientist freshen their breath? With experi-mints!",
      "source": "Dad joke"
     }
    ]
