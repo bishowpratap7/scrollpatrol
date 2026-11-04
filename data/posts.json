@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T18:59:27.953342+00:00",
+ "generated_at": "2026-11-04T19:29:39.201646+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T18:59:23.475885+00:00",
+   "fetched_at": "2026-11-04T19:29:29.631676+00:00",
    "stale": false,
    "items": [
     {
@@ -44,6 +44,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Texas just went blue, and the tech bros are sad",
+     "url": "https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/rBamd598cMa-CshX5S_tgwP9DD461eEP9hrtYNr5yxY.jpeg?width=640&crop=smart&auto=webp&s=9a38761dca36a43656747d82651df86cf30c58ec"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "We Did It.",
      "url": "https://www.reddit.com/r/FortWorth/comments/1xnf213/we_did_it/",
      "score": 0,
@@ -53,99 +62,104 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Democrats Win Majority in the US Senate | Live Megathread",
-     "url": "https://www.reddit.com/r/politics/comments/1xnexi4/democrats_win_majority_in_the_us_senate_live/",
+     "title": "Mike Johnson Quits Republican Leadership After Midterms Humiliation",
+     "url": "https://www.reddit.com/r/politics/comments/1xnsgl1/mike_johnson_quits_republican_leadership_after/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/1WsAvzJkj4Kb5S-kvPV5z643pnMi_vrCC4XVMDrmirc.jpeg?width=640&crop=smart&auto=webp&s=bf94ee1f842ef7821a3598e2e16eb719c58575d6"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Democrat Gina Hinojosa takes down Texas Gov. Greg Abbott in stunning result",
-     "url": "https://www.reddit.com/r/news/comments/1xnejkt/democrat_gina_hinojosa_takes_down_texas_gov_greg/",
+     "title": "Happy Blue Wave!",
+     "url": "https://www.reddit.com/r/comics/comments/1xnsg5o/happy_blue_wave/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/bhw02e0xfmzh1.png?width=640&crop=smart&auto=webp&s=47c038e0e07acb415f3850a2551190e17d41268a"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Kid Rock",
-     "url": "https://www.reddit.com/r/stupidpeoplefacebook/comments/1xnf5ww/kid_rock/",
+     "title": "Jeffries: Americans \u2018don\u2019t want us to get even, they want us to get things done on their behalf\u2019",
+     "url": "https://www.reddit.com/r/politics/comments/1xnqbtw/jeffries_americans_dont_want_us_to_get_even_they/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/157m09v4zizh1.jpeg?width=640&crop=smart&auto=webp&s=4d323016bbe0484bf74998ec4f3b9a1334fecb31"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Asmongold crashes out over the midterm results \"I think Trump should've gone a thousand times harder\"",
-     "url": "https://www.reddit.com/r/LivestreamFail/comments/1xni4cl/asmongold_crashes_out_over_the_midterm_results_i/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/cTFlMG0yeGh0anpoMZCPdaQp89SqdVUUHRKFr4cTZXJVOxTABxLtDobXPHqn.png?width=640&crop=smart&auto=webp&s=9488bc613f5171562e2a96aded0ad9d83792c4f4"
+     "image": "https://external-preview.redd.it/vzlkEAyI_MkoaJ5Mw2RI3LfW9Ty6vNulqO-e_7RAl10.jpeg?width=640&crop=smart&auto=webp&s=a8a830f7c3917d5e5f3b3ef11f505d60fef34a8c"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T18:59:24.471631+00:00",
+   "fetched_at": "2026-11-04T19:29:30.656490+00:00",
    "stale": false,
    "items": [
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 1944,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 9,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 43,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 156,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 222,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 320,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1196,
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 10047,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 37,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 72,
+     "title": "helloWorld",
+     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
+     "url": "https://redd.it/1xkukx5",
+     "ups": 13109,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The canon event",
-     "image": "https://i.redd.it/pl9nlf9ztizh1.png",
-     "url": "https://redd.it/1xnem2u",
-     "ups": 155,
+     "title": "Guilty as charged",
+     "image": "https://i.redd.it/y8rdx470eizh1.png",
+     "url": "https://redd.it/1xncupd",
+     "ups": 763,
      "sub": "r/memes"
     },
     {
-     "title": "Every software update lately",
-     "image": "https://i.redd.it/th8xy6weekzh1.png",
-     "url": "https://redd.it/1xnjx1r",
-     "ups": 733,
+     "title": "Yeah, he went there",
+     "image": "https://i.redd.it/9hthed72dmzh1.gif",
+     "url": "https://redd.it/1xns1m9",
+     "ups": 51,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 410,
+     "sub": "r/memes"
+    },
+    {
+     "title": "God damn it again",
+     "image": "https://i.redd.it/1kezkcb4igzh1.png",
+     "url": "https://redd.it/1xn421c",
+     "ups": 797,
      "sub": "r/memes"
     },
     {
@@ -153,20 +167,6 @@
      "image": "https://i.redd.it/63lfdyvx4mzh1.png",
      "url": "https://redd.it/1xnqvhe",
      "ups": 0,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
-     "image": "https://i.redd.it/uex4699f9hzh1.png",
-     "url": "https://redd.it/1xn7xlc",
-     "ups": 261,
-     "sub": "r/memes"
-    },
-    {
-     "title": "made this with pure spite and hatred in my heart",
-     "image": "https://i.redd.it/bep6mzslmlzh1.png",
-     "url": "https://redd.it/1xnodzi",
-     "ups": 674,
      "sub": "r/memes"
     },
     {
@@ -179,9 +179,17 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T18:59:26.847504+00:00",
+   "fetched_at": "2026-11-04T19:29:33.150760+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Lame-duck Supreme Court retirement talk",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/80b2a55f98e4",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "US data center ban votes",
@@ -192,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Talarico vs. Paxton Senate race",
+     "text": "Ocarina of Time remake reviews",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1fe7a18ecc86",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake reviews",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "State weapons for British counties",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed0c0b379e93",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tech stocks lose $1 trillion",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "God of War Laufey delayed",
+     "text": "First cars for learning stick shift",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db3862560f2f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Playing Deadlock",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump discusses ballroom after midterms",
+     "text": "Tech stocks lose $1 trillion",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0b9f4aab3f8a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
      "likes": 0,
      "image": ""
     },
@@ -279,41 +271,49 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Texas Democrats' full control bid",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9e6b16a3ed9d",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
-     "text": "He\u2019s shaken off our strongest str(ule)ategies",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50087171",
-     "likes": 104,
-     "image": "https://lemmy.world/pictrs/image/3f0db689-378a-4a5f-9cf0-37b486396f3c.webp"
+     "text": "Texans today...",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/53992526",
+     "likes": 68,
+     "image": "https://lemmy.world/pictrs/image/a5bc9031-b848-4106-b3d2-1c6b383eb868.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Mike Johnson Quits Republican Leadership After Midterms Humiliation",
+     "author": "politics ",
+     "url": "https://sh.itjust.works/post/69422396",
+     "likes": 95,
+     "image": "https://lemmy.world/pictrs/image/028e6d9f-ceec-4119-b550-54d7656a42fa.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "At least let me sit",
      "author": "Programmer Humor",
      "url": "https://gregtech.eu/post/38738961",
-     "likes": 87,
+     "likes": 151,
      "image": "https://lemmy.world/pictrs/image/32792858-9de9-433a-80f3-dbcc7435c7dc.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
-     "author": "Programmer Humor",
-     "url": "https://gregtech.eu/post/38739216",
-     "likes": 51,
-     "image": "https://gregtech.eu/pictrs/image/518b68f1-63f9-4688-859f-575ab0f972d0.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I need bad things to happen to corrupt people",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/53990145",
-     "likes": 84,
-     "image": "https://lemmy.world/pictrs/image/75041746-fa26-48c8-9a68-43363e33ff31.jpeg"
+     "text": "He\u2019s shaken off our strongest str(ule)ategies",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50087171",
+     "likes": 157,
+     "image": "https://lemmy.world/pictrs/image/3f0db689-378a-4a5f-9cf0-37b486396f3c.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T18:59:27.248359+00:00",
+   "fetched_at": "2026-11-04T19:29:38.382623+00:00",
    "stale": false,
    "items": [
     {
@@ -321,19 +321,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why are ghosts bad liars? Because you can see right through them!",
      "source": "Dad joke"
     },
     {
-     "text": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
+     "text": "What do you call a beehive without the b's? An eehive.",
      "source": "Dad joke"
     },
     {
-     "text": "what happens when you cross a sheep with a kangaroo ? A woolly jumper!",
+     "text": "What do you get when you cross a chicken with a skunk? A fowl smell!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
