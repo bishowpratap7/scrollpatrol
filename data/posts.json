@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T04:25:13.831610+00:00",
+ "generated_at": "2026-11-04T04:25:30.931798+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T04:25:08.007682+00:00",
+   "fetched_at": "2026-11-04T04:25:25.851653+00:00",
    "stale": false,
    "items": [
     {
@@ -89,14 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T04:25:09.541962+00:00",
+   "fetched_at": "2026-11-04T04:25:26.920191+00:00",
    "stale": false,
    "items": [
     {
-     "title": "handbookAfterBubbleBurst",
-     "image": "https://i.redd.it/5gvw4cv058yh1.png",
-     "url": "https://redd.it/1xhqpzg",
-     "ups": 168,
+     "title": "whenTheImpossibleMeetsTheScalable",
+     "image": "https://i.redd.it/5o1uya56z6yh1.png",
+     "url": "https://redd.it/1xhl91p",
+     "ups": 6499,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 24,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "magicQuotes",
+     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
+     "url": "https://redd.it/1ximxha",
+     "ups": 2384,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 3601,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,48 +128,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
-     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
-     "url": "https://redd.it/1xjyyyn",
-     "ups": 412,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 101,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1104,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "eMudhraBrainstormingSesh",
-     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
-     "url": "https://redd.it/1xh1lm8",
-     "ups": 240,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "They can take our lives - but they can never take our RAM",
-     "image": "https://i.redd.it/nw4nwvc3y6zh1.gif",
-     "url": "https://redd.it/1xlvkvd",
-     "ups": 4291,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Whats going on over there",
-     "image": "https://i.redd.it/rnurgby3l6zh1.gif",
-     "url": "https://redd.it/1xlu8sz",
-     "ups": 3652,
-     "sub": "r/memes"
-    },
-    {
      "title": "I remembered that specific show coming on after Arthur.",
      "image": "https://i.redd.it/pr5obzflxhzh1.png",
      "url": "https://redd.it/1xnaynw",
@@ -156,30 +135,51 @@
      "sub": "r/memes"
     },
     {
-     "title": "Only in Texas",
-     "image": "https://i.redd.it/zj9d5wbv1hzh1.png",
-     "url": "https://redd.it/1xn6wh9",
-     "ups": 11,
+     "title": "just found it today",
+     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
+     "url": "https://redd.it/1xmqx9h",
+     "ups": 1724,
      "sub": "r/memes"
     },
     {
-     "title": "Guilty as charged",
-     "image": "https://i.redd.it/y8rdx470eizh1.png",
-     "url": "https://redd.it/1xncupd",
-     "ups": 105,
+     "title": "The struggle",
+     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
+     "url": "https://redd.it/1xmytm3",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
-     "title": "Album experience",
-     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
-     "url": "https://redd.it/1xmmdkc",
-     "ups": 75,
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 372,
      "sub": "r/memes"
+    },
+    {
+     "title": "God damn it again",
+     "image": "https://i.redd.it/1kezkcb4igzh1.png",
+     "url": "https://redd.it/1xn421c",
+     "ups": 480,
+     "sub": "r/memes"
+    },
+    {
+     "title": "RAM Altman wants to Randomly Access your Memory",
+     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
+     "url": "https://redd.it/1xmvcc7",
+     "ups": 121,
+     "sub": "r/memes"
+    },
+    {
+     "title": "MY FUGGIN BACK",
+     "image": "https://i.redd.it/qknao027rezh1.gif",
+     "url": "https://redd.it/1xmufk1",
+     "ups": 1726,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T04:25:12.508681+00:00",
+   "fetched_at": "2026-11-04T04:25:29.283627+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Amy Acton defeats Vivek Ramaswamy in Ohio governor\u2019s race",
      "author": "politics ",
      "url": "https://lemmy.world/post/53966955",
-     "likes": 77,
+     "likes": 78,
      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Photo_Split.png?w=640&h=360&crop=1"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Gov. Greg Abbott concedes to Gina Hinojosa in stunning Texas upset",
      "author": "politics ",
      "url": "https://lemmy.world/post/53967357",
-     "likes": 33,
+     "likes": 35,
      "image": "https://lemmy.world/pictrs/image/979dfb61-488a-4961-bfed-df87016b11e8.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "GA election results",
      "author": "Political Memes",
      "url": "https://lemmy.world/post/53966957",
-     "likes": 46,
+     "likes": 47,
      "image": "https://lemmy.world/pictrs/image/aff851d0-8486-4112-9ea3-bb081042780b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T04:25:13.132610+00:00",
+   "fetched_at": "2026-11-04T04:25:30.215948+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
     {
      "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hostess: Do you have a preference of where you sit?\r\nDad: Down.",
+     "text": "No matter how kind you are, German children are kinder.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
+     "text": "My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.",
      "source": "Dad joke"
     },
     {
-     "text": "I invented a new word! Plagiarism!",
+     "text": "Geology rocks, but Geography is where it's at!",
      "source": "Dad joke"
     }
    ]
