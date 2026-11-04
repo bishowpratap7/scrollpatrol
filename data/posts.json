@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-04T05:55:49.919210+00:00",
+ "generated_at": "2026-11-04T06:25:57.272022+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T05:55:45.430880+00:00",
+   "fetched_at": "2026-11-04T06:25:51.597931+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "2026 Midterms News and Updates, November 3 (Thread 17) (Election Day Part 2) | Live Discussion",
-     "url": "https://www.reddit.com/r/politics/comments/1xn80eu/2026_midterms_news_and_updates_november_3_thread/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,15 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/gsyfrh75zezh1.png?width=640&crop=smart&auto=webp&s=61bbb9ceed01a83060f483ed7d0693d0db9953b7"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "A simple meal vs a mandatory math test",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xmtbc5/a_simple_meal_vs_a_mandatory_math_test/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/eq7vbf09jezh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=81e7489ad478d790f9f09bb69c45b25f4470f8df"
     },
     {
      "source": "Reddit",
@@ -44,20 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What do you think Donald Trump's reaction will be if the Democrats win both the House and Senate tonight?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xmwqjz/what_do_you_think_donald_trumps_reaction_will_be/",
+     "title": "A simple meal vs a mandatory math test",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xmtbc5/a_simple_meal_vs_a_mandatory_math_test/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/eq7vbf09jezh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=81e7489ad478d790f9f09bb69c45b25f4470f8df"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "The type of things you will be voting for in Idaho",
-     "url": "https://www.reddit.com/r/mildyinteresting/comments/1xmzphx/the_type_of_things_you_will_be_voting_for_in_idaho/",
+     "title": "Democrats have won control of both the U.S. House and the U.S. Senate",
+     "url": "https://www.reddit.com/r/PoursTea/comments/1xnf41k/democrats_have_won_control_of_both_the_us_house/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/c8iqo810qfzh1.png?width=320&crop=smart&auto=webp&s=5b3161486752a7aa4646a8abc725bbf5f7f43145"
+     "image": "https://preview.redd.it/96fnap0nyizh1.jpeg?width=640&crop=smart&auto=webp&s=aae45aaa424e83d507422d1a5d288c04c52066bc"
     },
     {
      "source": "Reddit",
@@ -80,6 +62,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "What do you think Donald Trump's reaction will be if the Democrats win both the House and Senate tonight?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xmwqjz/what_do_you_think_donald_trumps_reaction_will_be/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The type of things you will be voting for in Idaho",
+     "url": "https://www.reddit.com/r/mildyinteresting/comments/1xmzphx/the_type_of_things_you_will_be_voting_for_in_idaho/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/c8iqo810qfzh1.png?width=320&crop=smart&auto=webp&s=5b3161486752a7aa4646a8abc725bbf5f7f43145"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "I am a complete and utter idiot. RIP 5090.",
      "url": "https://www.reddit.com/r/pcmasterrace/comments/1xn2zjn/i_am_a_complete_and_utter_idiot_rip_5090/",
      "score": 0,
@@ -89,7 +89,7 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T05:55:46.459682+00:00",
+   "fetched_at": "2026-11-04T06:25:53.535136+00:00",
    "stale": false,
    "items": [
     {
@@ -100,86 +100,86 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "lowTokens",
-     "image": "https://i.redd.it/w9957z8au5zh1.gif",
-     "url": "https://redd.it/1xlrukx",
-     "ups": 7285,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 65,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "whenTheImpossibleMeetsTheScalable",
-     "image": "https://i.redd.it/5o1uya56z6yh1.png",
-     "url": "https://redd.it/1xhl91p",
-     "ups": 6499,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 39,
+     "title": "readAndWeepDotJpeg",
+     "image": "https://i.redd.it/y9g09mbv4fyh1.png",
+     "url": "https://redd.it/1xilxoz",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "refactoringComplete",
      "image": "https://i.redd.it/pkmrs4913fzh1.png",
      "url": "https://redd.it/1xmw6nu",
-     "ups": 3601,
+     "ups": 3747,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
-     "image": "https://i.redd.it/uex4699f9hzh1.png",
-     "url": "https://redd.it/1xn7xlc",
-     "ups": 160,
+     "title": "wontGoDownWithoutAFight",
+     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
+     "url": "https://redd.it/1xiot5h",
+     "ups": 1171,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 64,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "eMudhraBrainstormingSesh",
+     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
+     "url": "https://redd.it/1xh1lm8",
+     "ups": 244,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "All the dedicated ram",
+     "image": "https://i.redd.it/dj1lya5ugfzh1.png",
+     "url": "https://redd.it/1xmy9di",
+     "ups": 13,
      "sub": "r/memes"
     },
     {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1769,
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 380,
      "sub": "r/memes"
     },
     {
-     "title": "The struggle",
-     "image": "https://i.redd.it/t8q7z47fkfzh1.png",
-     "url": "https://redd.it/1xmytm3",
-     "ups": 6,
+     "title": "Album experience",
+     "image": "https://i.redd.it/6ib6jqa3lczh1.png",
+     "url": "https://redd.it/1xmmdkc",
+     "ups": 80,
      "sub": "r/memes"
     },
     {
-     "title": "I remembered that specific show coming on after Arthur.",
-     "image": "https://i.redd.it/pr5obzflxhzh1.png",
-     "url": "https://redd.it/1xnaynw",
-     "ups": 0,
+     "title": "RAM Altman wants to Randomly Access your Memory",
+     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
+     "url": "https://redd.it/1xmvcc7",
+     "ups": 133,
      "sub": "r/memes"
     },
     {
-     "title": "God damn it again",
-     "image": "https://i.redd.it/1kezkcb4igzh1.png",
-     "url": "https://redd.it/1xn421c",
-     "ups": 535,
+     "title": "Dark psychology",
+     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
+     "url": "https://redd.it/1xmnceb",
+     "ups": 6983,
      "sub": "r/memes"
     },
     {
-     "title": "Guilty as charged",
-     "image": "https://i.redd.it/y8rdx470eizh1.png",
-     "url": "https://redd.it/1xncupd",
-     "ups": 364,
+     "title": "Nintendo's Legal Department",
+     "image": "https://i.redd.it/dsul79qew4zh1.png",
+     "url": "https://redd.it/1xlorsv",
+     "ups": 6353,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T05:55:48.767197+00:00",
+   "fetched_at": "2026-11-04T06:25:55.966687+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "JD Ford's Indiana congressional race",
+     "text": "County-by-county election vote map",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f91cbeda09d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1014be959251",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Right-wing Anakin Skywalker posting",
+     "text": "Tech stocks lose $1 trillion",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +224,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "First College Football Playoff rankings",
+     "text": "Playing Deadlock",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Half of new Steam games use AI",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98430a54e31f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Right-wing Anakin Skywalker posting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AO3 outage extends to weeks",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0bd5156ab3",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +264,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "College basketball season opens",
+     "text": "Mississippi votes in close Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c79f9c465",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tech stocks lose $1 trillion",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27eb500ebfa1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dcab276fb97",
      "likes": 0,
      "image": ""
     },
@@ -271,57 +279,49 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "State and local ballot measures",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/506df5e45963",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
-     "text": "Democrat Sherrod Brown wins Ohio Senate race in major blow to Republicans",
+     "text": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
      "author": "politics ",
-     "url": "https://lemmy.world/post/53968460",
-     "likes": 102,
-     "image": "https://lemmy.world/pictrs/image/3acb49a0-143b-47ab-aef5-d1eaa2b2bbcd.jpeg"
+     "url": "https://lemmy.world/post/53969679",
+     "likes": 68,
+     "image": "https://lemmy.world/pictrs/image/fb989f5f-7bd5-43c2-89c3-b22d35ca3515.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "A broken clock is right twice every ten years",
+     "text": "RIP",
      "author": "Political Memes",
-     "url": "https://ani.social/post/39023004",
-     "likes": 70,
-     "image": "https://lemmy.world/pictrs/image/9a893ffa-551c-4fcd-932d-6a8bc7e01ff4.webp"
+     "url": "https://lemmy.world/post/53969919",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/2ec15c6e-30a2-4afb-8937-7fb9559a3798.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Do you tend to think long or short term?",
-     "author": "Autism",
-     "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1053195/do-you-tend-to-think-long-or-short-term",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/f0676ec3-09ec-463b-a706-c6dbf7556544.jpeg"
+     "text": "QUIET PIGGY!!!",
+     "author": "Political Humor",
+     "url": "https://lemmy.world/post/53970168",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/b99d3e81-aa1c-46fd-b871-8ac34f1b709d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Democrat Gina Hinojosa defeats Greg Abbott for Texas governor",
-     "author": "politics ",
-     "url": "https://reddthat.com/post/76043756",
-     "likes": 113,
-     "image": "https://lemmy.world/pictrs/image/9c71d637-2142-48a5-bb48-852b01c7bfa3.jpeg"
+     "text": "Democrats win Senate majority",
+     "author": "News",
+     "url": "https://lemmy.world/post/53969632",
+     "likes": 47,
+     "image": "https://lemmy.world/pictrs/image/f7bd9dd2-3a78-4ad8-9020-f95527f0256b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T05:55:49.282198+00:00",
+   "fetched_at": "2026-11-04T06:25:56.577190+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "My boss told me to have a good day. So I went home...",
+     "text": "I couldn't figure out how the seat belt worked. Then it just clicked.",
      "source": "Dad joke"
     },
     {
-     "text": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
+     "text": "My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.",
      "source": "Dad joke"
     },
     {
-     "text": "How does a French skeleton say hello? Bone-jour.",
+     "text": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
