@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T17:29:07.901282+00:00",
+ "generated_at": "2026-11-04T17:59:14.586787+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-04T17:28:57.000652+00:00",
+   "fetched_at": "2026-11-04T17:59:10.173134+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Happy Blue Wave!",
-     "url": "https://www.reddit.com/r/comics/comments/1xnsg5o/happy_blue_wave/",
+     "title": "Gen Z is abandoning alcohol",
+     "url": "https://www.reddit.com/r/interesting/comments/1xnfl4u/gen_z_is_abandoning_alcohol/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/bhw02e0xfmzh1.png?width=640&crop=smart&auto=webp&s=47c038e0e07acb415f3850a2551190e17d41268a"
+     "image": "https://preview.redd.it/vvil8ast2jzh1.png?width=320&crop=smart&auto=webp&s=96cb07ee354db55040b00da6857def188d100d7a"
     },
     {
      "source": "Reddit",
@@ -35,29 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Happy Blue Wave!",
+     "url": "https://www.reddit.com/r/comics/comments/1xnsg5o/happy_blue_wave/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/bhw02e0xfmzh1.png?width=640&crop=smart&auto=webp&s=47c038e0e07acb415f3850a2551190e17d41268a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "We Did It.",
      "url": "https://www.reddit.com/r/FortWorth/comments/1xnf213/we_did_it/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/wktcv7x3yizh1.png?width=216&crop=smart&auto=webp&s=35b7a2c034422fc02c707bd8a15568327613c9cf"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Gen Z is abandoning alcohol",
-     "url": "https://www.reddit.com/r/interesting/comments/1xnfl4u/gen_z_is_abandoning_alcohol/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/vvil8ast2jzh1.png?width=320&crop=smart&auto=webp&s=96cb07ee354db55040b00da6857def188d100d7a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Democrats Win Majority in the US Senate | Live Megathread",
-     "url": "https://www.reddit.com/r/politics/comments/1xnexi4/democrats_win_majority_in_the_us_senate_live/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     },
     {
      "source": "Reddit",
@@ -80,6 +71,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Democrats Win Majority in the US Senate | Live Megathread",
+     "url": "https://www.reddit.com/r/politics/comments/1xnexi4/democrats_win_majority_in_the_us_senate_live/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Democrat Gina Hinojosa takes down Texas Gov. Greg Abbott in stunning result",
      "url": "https://www.reddit.com/r/news/comments/1xnejkt/democrat_gina_hinojosa_takes_down_texas_gov_greg/",
      "score": 0,
@@ -89,14 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-04T17:28:58.053597+00:00",
+   "fetched_at": "2026-11-04T17:59:11.253613+00:00",
    "stale": false,
    "items": [
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 156,
+     "title": "completeBrainRewire",
+     "image": "https://i.redd.it/6bf6lbtfgyyh1.gif",
+     "url": "https://redd.it/1xkx5ig",
+     "ups": 905,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,94 +107,86 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySourceCodeLiterally",
-     "image": "https://i.redd.it/x47p93go5eyh1.png",
-     "url": "https://redd.it/1xihblk",
-     "ups": 322,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 33,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1198,
+     "title": "hittingMyTokenLimit",
+     "image": "https://i.redd.it/f3ise1l4djzh1.png",
+     "url": "https://redd.it/1xngm6v",
+     "ups": 2557,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 221,
+     "title": "postFrom12YAgo",
+     "image": "https://i.redd.it/wgcl3pboihzh1.png",
+     "url": "https://redd.it/1xn93qp",
+     "ups": 4100,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 1896,
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 28,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "repetition is key",
-     "image": "https://i.redd.it/agk0rqmgjlzh1.png",
-     "url": "https://redd.it/1xno00r",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1893,
-     "sub": "r/memes"
     },
     {
      "title": "really got his interest",
      "image": "https://i.redd.it/1bh27opiyjzh1.png",
      "url": "https://redd.it/1xnikcz",
-     "ups": 16424,
+     "ups": 19049,
      "sub": "r/memes"
     },
     {
-     "title": "The canon event",
-     "image": "https://i.redd.it/pl9nlf9ztizh1.png",
-     "url": "https://redd.it/1xnem2u",
-     "ups": 113,
+     "title": "Every software update lately",
+     "image": "https://i.redd.it/th8xy6weekzh1.png",
+     "url": "https://redd.it/1xnjx1r",
+     "ups": 733,
      "sub": "r/memes"
     },
     {
-     "title": "Our Christmas (might be offensive)",
-     "image": "https://i.redd.it/qutew6se3kzh1.png",
-     "url": "https://redd.it/1xnizsa",
-     "ups": 36,
+     "title": "Yeah, he went there",
+     "image": "https://i.redd.it/9hthed72dmzh1.gif",
+     "url": "https://redd.it/1xns1m9",
+     "ups": 51,
      "sub": "r/memes"
     },
     {
-     "title": "Twitter accounts with 0 followers be like",
-     "image": "https://i.redd.it/sanh4po7ylzh1.png",
-     "url": "https://redd.it/1xnpxmv",
-     "ups": 2,
+     "title": "If only life was a game",
+     "image": "https://i.redd.it/xk4vdeasclzh1.png",
+     "url": "https://redd.it/1xnn7sn",
+     "ups": 70,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I am something of a Einstein myself",
+     "image": "https://i.redd.it/sjbxondxrdzh1.gif",
+     "url": "https://redd.it/1xmq8h9",
+     "ups": 410,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Im just pretending",
+     "image": "https://i.redd.it/x5hrfkiw9lzh1.png",
+     "url": "https://redd.it/1xnmwhl",
+     "ups": 39,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-04T17:29:06.590850+00:00",
+   "fetched_at": "2026-11-04T17:59:13.092441+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Iran war and regime change",
+     "text": "Washington votes on trans sports ban",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89986f6bd9f9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "JD Vance's 2028 prospects",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4aa9b55d68",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sonic appears in Angry Birds 3",
+     "text": "Jeffries dismisses impeachment talk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2e3f0f8df226",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5291d6fc1b2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Sonic appears in Angry Birds 3",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2e3f0f8df226",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "State weapons for British counties",
+     "text": "First cars for learning stick shift",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed0c0b379e93",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4cf9b815d7db",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "European supermarket freezers hacked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington votes on trans sports ban",
+     "text": "Iran war and regime change",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89986f6bd9f9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "GOP state supermajority races",
+     "text": "Democratic picks for House speaker",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/85a227d68692",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9de937b0d9b5",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Montana Voters Overwhelmingly Pass Ballot Initiative to Ban Corporate Cash From Political Campaigns",
      "author": "politics ",
      "url": "https://lemmy.zip/post/74438678",
-     "likes": 59,
+     "likes": 122,
      "image": "https://lemmy.world/pictrs/image/f3d1376e-4c2a-48e6-8046-35b0b84964b6.jpeg"
     },
     {
@@ -291,65 +291,65 @@
      "text": "Buh (and I can't stress this enough) bye!",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/53987317",
-     "likes": 43,
+     "likes": 89,
      "image": "https://lemmy.world/pictrs/image/5715ef73-fa12-47f8-96a0-6b6a8b17752c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "It was one time OK!",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/76066519",
-     "likes": 79,
-     "image": "https://lemmy.world/pictrs/image/10feaf75-31b5-43fe-9f73-b9b70f144801.jpeg"
+     "text": "Lemmy users logging on to level set the Blue Wave enjoyers",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/53987469",
+     "likes": 64,
+     "image": "https://lemmy.world/pictrs/image/4fff8bc8-8da1-4ef9-acbd-96561e13fb6a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Made me smile",
-     "author": "196",
-     "url": "https://reddthat.com/post/76066411",
-     "likes": 79,
-     "image": "https://lemmy.world/pictrs/image/585835bf-bdf4-42f2-a406-3623bed1062e.jpeg"
+     "text": "Prop. 142, Republican-backed DEI ban, fails with Arizona voters",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/53987738",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/f75c5cf5-e98a-45b2-b244-96d403f6bd11.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-04T17:29:07.198599+00:00",
+   "fetched_at": "2026-11-04T17:59:13.901065+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
     {
      "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two guys walked into a bar, the third one ducked.",
+     "text": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
      "source": "Dad joke"
     },
     {
-     "text": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.",
+     "text": "Why don't you find hippopotamuses hiding in trees?\r\nThey're really good at it.",
      "source": "Dad joke"
     },
     {
-     "text": "How do hens stay fit? They always egg-cercise!",
+     "text": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
      "source": "Dad joke"
     }
    ]
