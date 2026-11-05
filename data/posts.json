@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T10:38:57.085653+00:00",
+ "generated_at": "2026-11-05T10:39:15.513794+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T10:38:52.390340+00:00",
+   "fetched_at": "2026-11-05T10:39:10.138778+00:00",
    "stale": false,
    "items": [
     {
@@ -89,35 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T10:38:53.699340+00:00",
+   "fetched_at": "2026-11-05T10:39:11.752635+00:00",
    "stale": false,
    "items": [
     {
-     "title": "eMudhraBrainstormingSesh",
-     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
-     "url": "https://redd.it/1xh1lm8",
-     "ups": 243,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1203,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
-     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
-     "url": "https://redd.it/1xlu08b",
-     "ups": 5,
+     "title": "helloWorld",
+     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
+     "url": "https://redd.it/1xkukx5",
+     "ups": 13230,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 173,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "refactoringComplete",
-     "image": "https://i.redd.it/pkmrs4913fzh1.png",
-     "url": "https://redd.it/1xmw6nu",
-     "ups": 5166,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +121,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1948,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 669,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 173,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Something something Sam Altman",
+     "image": "https://i.redd.it/51puyl82pnzh1.png",
+     "url": "https://redd.it/1xnz3xc",
+     "ups": 93,
      "sub": "r/memes"
     },
     {
-     "title": "Ain't America great?",
-     "image": "https://i.redd.it/yqg22nkxajzh1.png",
-     "url": "https://redd.it/1xngefk",
-     "ups": 5060,
+     "title": "Joy Vs Order",
+     "image": "https://i.redd.it/u67v967xkpzh1.png",
+     "url": "https://redd.it/1xo7q0u",
+     "ups": 86,
      "sub": "r/memes"
     },
     {
-     "title": "God damn it again",
-     "image": "https://i.redd.it/1kezkcb4igzh1.png",
-     "url": "https://redd.it/1xn421c",
-     "ups": 865,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 3022,
+     "title": "repetition is key",
+     "image": "https://i.redd.it/agk0rqmgjlzh1.png",
+     "url": "https://redd.it/1xno00r",
+     "ups": 87,
      "sub": "r/memes"
     },
     {
@@ -163,23 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Yeah, he went there",
-     "image": "https://i.redd.it/9hthed72dmzh1.gif",
-     "url": "https://redd.it/1xns1m9",
-     "ups": 122,
+     "title": "And it's just Wednesday ...",
+     "image": "https://i.redd.it/queyjamb6ozh1.gif",
+     "url": "https://redd.it/1xo1jdg",
+     "ups": 117,
      "sub": "r/memes"
     },
     {
-     "title": "Sips RAM",
-     "image": "https://i.redd.it/pwgepgdf88zh1.png",
-     "url": "https://redd.it/1xm20x8",
-     "ups": 477,
-     "sub": "r/dankmemes"
+     "title": "Im just pretending",
+     "image": "https://i.redd.it/x5hrfkiw9lzh1.png",
+     "url": "https://redd.it/1xnmwhl",
+     "ups": 87,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T10:38:55.598838+00:00",
+   "fetched_at": "2026-11-05T10:39:14.101042+00:00",
    "stale": false,
    "items": [
     {
@@ -307,49 +307,49 @@
      "text": "1 Mississippi....2 Mississippi...",
      "author": "Political Memes",
      "url": "https://lemmy.zip/post/74476662",
-     "likes": 18,
+     "likes": 19,
      "image": "https://lemmy.zip/pictrs/image/ea2c7309-db63-4039-a744-b308b11965a4.avif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T10:38:56.355818+00:00",
+   "fetched_at": "2026-11-05T10:39:14.781713+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.",
+     "text": "What do you get if you cross a turkey with a ghost? A poultry-geist!",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the cookie cry? It was feeling crumby.",
+     "text": "I cut my finger chopping cheese, but I think that I may have grater problems.",
      "source": "Dad joke"
     },
     {
-     "text": "What musical instrument is found in the bathroom? A tuba toothpaste.",
+     "text": "I tried to write a chemistry joke, but could never get a reaction.",
      "source": "Dad joke"
     }
    ]
