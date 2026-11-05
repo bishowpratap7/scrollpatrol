@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T23:12:53.899890+00:00",
+ "generated_at": "2026-11-05T23:42:59.737541+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T23:12:49.939800+00:00",
+   "fetched_at": "2026-11-05T23:42:55.627856+00:00",
    "stale": false,
    "items": [
     {
@@ -13,15 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/ukz9le18uszh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5f3f2839686cdf0ff7914b86c32a551af4e25c41"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "El-Sayed says he\u2019d back Van Hollen as majority leader over Schumer",
-     "url": "https://www.reddit.com/r/politics/comments/1xorsvi/elsayed_says_hed_back_van_hollen_as_majority/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/VQYuawQ7Ig_J7_rT_lkJtRJEfmZ7woS1IOioLq6weH4.jpeg?width=640&crop=smart&auto=webp&s=7349d68f32a872c56d0ca7857ea9dc42f88b51bc"
     },
     {
      "source": "Reddit",
@@ -62,62 +53,57 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Isn\u2019t this risky? \ud83e\udd14",
-     "url": "https://www.reddit.com/r/aviation/comments/1xoasxk/isnt_this_risky/",
+     "title": "Don\u2019t try this at home. What am I saying, of course you should try it.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xoi2wk/dont_try_this_at_home_what_am_i_saying_of_course/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/NDhrY2xtcGJlcXpoMbhXLps_6vfS2LgRB8636qHYEc-RYV4lpXYVG5ryvG8u.jpeg?width=640&crop=smart&auto=webp&s=3f0f000e5e5d5b1578e4a4ae6abb723badf34dd1"
+     "image": "https://external-preview.redd.it/dHN1c3JidmJsc3poMVuaPqXWisnGP0onEojPDjWbVfVcKjh8wXsMC4TAuCZt.png?width=320&crop=smart&auto=webp&s=56d66cc1e06de93e84ad001f5730a6eeb23e27ad"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Secretary of State Marco Rubio reportedly considering resignation following Republican midterm defeat.",
-     "url": "https://www.reddit.com/r/anticapitalism/comments/1xolnyl/secretary_of_state_marco_rubio_reportedly/",
+     "title": "El-Sayed says he\u2019d back Van Hollen as majority leader over Schumer",
+     "url": "https://www.reddit.com/r/politics/comments/1xorsvi/elsayed_says_hed_back_van_hollen_as_majority/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/XnGWxp-KIVXYwKsnbrz1xoHXgIO93UhbbsioG9mB8wE.jpeg?width=640&crop=smart&auto=webp&s=09867b2c1a6b29b9fc4e64e38e87078b5626f9f5"
+     "image": "https://external-preview.redd.it/VQYuawQ7Ig_J7_rT_lkJtRJEfmZ7woS1IOioLq6weH4.jpeg?width=640&crop=smart&auto=webp&s=7349d68f32a872c56d0ca7857ea9dc42f88b51bc"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A honey badger squares up with an elephant... and loses badly",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xojocy/a_honey_badger_squares_up_with_an_elephant_and/",
+     "title": "California Gov. Gavin Newsom commutes all death sentences",
+     "url": "https://www.reddit.com/r/news/comments/1xosd4l/california_gov_gavin_newsom_commutes_all_death/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/bXlpd2lyMjF5c3poMc82aON25W7VIV2uwn-dNXJTQjDPzqzKCENCsfvXW5S5.png?width=320&crop=smart&auto=webp&s=2e8a9067eeeb7a05845adeb4cd8329bde8d7dc64"
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My goodness .",
+     "url": "https://www.reddit.com/r/HolUp/comments/1xorvag/my_goodness/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/8vk8zlkeiuzh1.jpeg?width=640&crop=smart&auto=webp&s=f874faaaa872eac1b67262d9e70ca9a462309915"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T23:12:51.085016+00:00",
+   "fetched_at": "2026-11-05T23:42:56.832323+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 3496,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 662,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1201,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pageThrasher",
-     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
-     "url": "https://redd.it/1xhl0de",
-     "ups": 377,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 220,
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 689,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,60 +114,82 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 200,
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 10092,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Its not looking good brev",
-     "image": "https://i.redd.it/k8sa760vptzh1.png",
-     "url": "https://redd.it/1xonmou",
-     "ups": 24,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1183,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 46,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Ed won't know what hit him",
+     "image": "https://i.redd.it/9d4olozfgtzh1.png",
+     "url": "https://redd.it/1xomcdv",
+     "ups": 30,
      "sub": "r/memes"
     },
     {
-     "title": "made this with pure spite and hatred in my heart",
-     "image": "https://i.redd.it/bep6mzslmlzh1.png",
-     "url": "https://redd.it/1xnodzi",
-     "ups": 2519,
+     "title": "The 2nd Amendment of IT",
+     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
+     "url": "https://redd.it/1xoxjc5",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
-     "title": "Every software update lately",
-     "image": "https://i.redd.it/th8xy6weekzh1.png",
-     "url": "https://redd.it/1xnjx1r",
-     "ups": 1483,
+     "title": "And it's just Wednesday ...",
+     "image": "https://i.redd.it/queyjamb6ozh1.gif",
+     "url": "https://redd.it/1xo1jdg",
+     "ups": 138,
      "sub": "r/memes"
     },
     {
-     "title": "Something something Sam Altman",
-     "image": "https://i.redd.it/51puyl82pnzh1.png",
-     "url": "https://redd.it/1xnz3xc",
-     "ups": 105,
+     "title": "Yeah, he went there",
+     "image": "https://i.redd.it/9hthed72dmzh1.gif",
+     "url": "https://redd.it/1xns1m9",
+     "ups": 141,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Guess I'm taking the bus",
+     "image": "https://i.redd.it/22lozkwtotzh1.gif",
+     "url": "https://redd.it/1xonh8q",
+     "ups": 77,
      "sub": "r/memes"
     },
     {
      "title": "broo is gonna steal every ram",
      "image": "https://i.redd.it/v9jbncinmszh1.png",
      "url": "https://redd.it/1xoi95k",
-     "ups": 15,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'll see myself out",
-     "image": "https://i.redd.it/wvddzahhhtzh1.png",
-     "url": "https://redd.it/1xomeif",
-     "ups": 6079,
+     "ups": 14,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T23:12:52.631860+00:00",
+   "fetched_at": "2026-11-05T23:42:58.420600+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Corporate money ballot measures",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0b377e400fc6",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Trump declares Oval Office national monument",
@@ -195,14 +203,6 @@
      "text": "One actor movie marathon prompt",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce21c7867e8d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump meets Putin's envoy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c9a371cb86bc",
      "likes": 0,
      "image": ""
     },
@@ -224,9 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Guy Fawkes Night celebrations",
+     "text": "Curry Barker pitches R-rated Indiana Jones",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9b5fa84b6f8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9b20c42a22c4",
      "likes": 0,
      "image": ""
     },
@@ -240,96 +240,96 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "LIV Golf shuts down",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0acc7fc1fb33",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "OpenSSH flaw on musl Linux",
+     "text": "Guy Fawkes Night celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1f2e18a3004a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9b5fa84b6f8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Bank of England rate decision",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77cccde8eca8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Lauren Boebert's congressional race",
+     "text": "Early 2028 election speculation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/49ec834b7e63",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/046b9951a23c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US war with Iran",
+     "text": "Trump meets Putin's envoy",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/faa3544839db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c9a371cb86bc",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Hegseth\u2019s Wife Was Paid by Consulting Firm Whose Clients Include Lockheed Martin",
+     "author": "News",
+     "url": "https://lemmy.ca/post/73433953",
+     "likes": 50,
+     "image": "https://lemmy.world/pictrs/image/2c1ffab6-4b47-42be-b94b-053aa9d6a117.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "GOP kicks off bid to throw out votes in Mississippi Senate race",
      "author": "politics ",
      "url": "https://lemmy.world/post/54039574",
-     "likes": 31,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/3f210f1c-234f-4008-ba58-d300efece349.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Cleaning up 2 old cast iron skillets",
-     "author": "Dull Men's Club",
-     "url": "https://sh.itjust.works/post/69482430",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/8682c7b3-2037-4bb1-947c-72eab2200717.jpeg"
+     "text": "Democrat Who Dropped Out Still Beat Republican in Deep Trump Country",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54040108",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/7b685dec-6d88-4b5c-84db-9f4bb4aa7c9d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "'No Blank Checks for Big Tech': Schumer Faces Protest Over 'Dirty Data Center Deal'",
-     "author": "News",
-     "url": "https://lemmy.ca/post/73432620",
-     "likes": 59,
-     "image": "https://lemmy.world/pictrs/image/4acde6b6-93c8-4b7b-86d8-27264039b71e.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Just a reminder this dude wants to fuck kids!",
-     "author": "Cyberstuck",
-     "url": "https://lemmy.ca/post/73432375",
-     "likes": 66,
-     "image": "https://lemmy.world/pictrs/image/7d5be953-1bab-42c7-9570-8ad17b56c4cc.jpeg"
+     "text": "TIL that some dude in California running a 3-person company got voters to give him $4.2 billion by authoring a ballot measure, which passed",
+     "author": "Today I Learned",
+     "url": "https://programming.dev/post/59026691",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/4bf3b198-5c74-4ad6-93f4-8c9a95185aa5.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T23:12:53.501740+00:00",
+   "fetched_at": "2026-11-05T23:42:59.315141+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
     {
      "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
+     "text": "What kind of music do planets listen to? Nep-tunes.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are snake races so exciting? They're always neck and neck.",
+     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
      "source": "Dad joke"
     },
     {
-     "text": "How are false teeth like stars? They come out at night!",
+     "text": "How do you steal a coat? You jacket.",
      "source": "Dad joke"
     }
    ]
