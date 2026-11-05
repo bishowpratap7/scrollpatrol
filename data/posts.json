@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T20:42:08.958537+00:00",
+ "generated_at": "2026-11-05T20:42:24.295859+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T20:42:04.879417+00:00",
+   "fetched_at": "2026-11-05T20:42:20.804607+00:00",
    "stale": false,
    "items": [
     {
@@ -89,63 +89,84 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T20:42:05.980922+00:00",
+   "fetched_at": "2026-11-05T20:42:22.091668+00:00",
    "stale": false,
    "items": [
     {
-     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
-     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
-     "url": "https://redd.it/1xjyyyn",
-     "ups": 436,
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 453,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySourceCodeLiterally",
-     "image": "https://i.redd.it/x47p93go5eyh1.png",
-     "url": "https://redd.it/1xihblk",
-     "ups": 332,
+     "title": "whenTheImpossibleMeetsTheScalable",
+     "image": "https://i.redd.it/5o1uya56z6yh1.png",
+     "url": "https://redd.it/1xhl91p",
+     "ups": 6519,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10089,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1205,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1188,
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 46,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 668,
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 113,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 175,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 119,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Real footage btw",
-     "image": "https://i.redd.it/cso14rg58fzh1.gif",
-     "url": "https://redd.it/1xmwywn",
-     "ups": 12292,
+     "title": "RAM Franks diary",
+     "image": "https://i.redd.it/5f3at4z84uzh1.png",
+     "url": "https://redd.it/1xopu4n",
+     "ups": 8,
      "sub": "r/memes"
     },
     {
-     "title": "Maybe it was all a dream",
-     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
-     "url": "https://redd.it/1xnr7oi",
-     "ups": 7089,
+     "title": "broo is gonna steal every ram",
+     "image": "https://i.redd.it/v9jbncinmszh1.png",
+     "url": "https://redd.it/1xoi95k",
+     "ups": 18,
+     "sub": "r/memes"
+    },
+    {
+     "title": "If only life was a game",
+     "image": "https://i.redd.it/xk4vdeasclzh1.png",
+     "url": "https://redd.it/1xnn7sn",
+     "ups": 142,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Its not looking good brev",
+     "image": "https://i.redd.it/k8sa760vptzh1.png",
+     "url": "https://redd.it/1xonmou",
+     "ups": 21,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Love me a feminist king",
+     "image": "https://i.redd.it/d2v9gu4hutzh1.png",
+     "url": "https://redd.it/1xoobb3",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
@@ -154,32 +175,11 @@
      "url": "https://redd.it/1xol1m1",
      "ups": 119,
      "sub": "r/memes"
-    },
-    {
-     "title": "I know what you did",
-     "image": "https://i.redd.it/su5elzq8hrzh1.png",
-     "url": "https://redd.it/1xoe7oz",
-     "ups": 7876,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Guess I'm taking the bus",
-     "image": "https://i.redd.it/22lozkwtotzh1.gif",
-     "url": "https://redd.it/1xonh8q",
-     "ups": 39,
-     "sub": "r/memes"
-    },
-    {
-     "title": "And it's just Wednesday ...",
-     "image": "https://i.redd.it/queyjamb6ozh1.gif",
-     "url": "https://redd.it/1xo1jdg",
-     "ups": 135,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T20:42:07.709876+00:00",
+   "fetched_at": "2026-11-05T20:42:23.120408+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Bernie Sanders: Winning the Midterms Is Not Enough. Here's What We Must Do",
      "author": "politics ",
      "url": "https://lazysoci.al/post/56237628",
-     "likes": 29,
+     "likes": 31,
      "image": "https://lemmy.world/pictrs/image/a53d74c9-1eab-4ab3-8257-0ae05e5569a2.jpeg"
     },
     {
@@ -313,15 +313,23 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T20:42:08.320200+00:00",
+   "fetched_at": "2026-11-05T20:42:23.938814+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What did one nut say as he chased another nut?  I'm a cashew!",
+     "text": "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
      "source": "Dad joke"
     },
     {
-     "text": "What was the pumpkin\u2019s favorite sport?\r\n\r\nSquash.",
+     "text": "Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.",
      "source": "Dad joke"
     },
     {
-     "text": "Why don't eggs tell jokes? They'd crack each other up",
+     "text": "My New Years resolution is to stop leaving things so late.",
      "source": "Dad joke"
     }
    ]
