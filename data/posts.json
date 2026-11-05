@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T04:06:57.530617+00:00",
+ "generated_at": "2026-11-05T04:37:04.038323+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T04:06:52.666630+00:00",
+   "fetched_at": "2026-11-05T04:36:59.520204+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Jeffries: Americans \u2018don\u2019t want us to get even, they want us to get things done on their behalf\u2019",
-     "url": "https://www.reddit.com/r/politics/comments/1xnqbtw/jeffries_americans_dont_want_us_to_get_even_they/",
+     "title": "Today is my toilet's 25th birthday",
+     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xo5pyf/today_is_my_toilets_25th_birthday/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/vzlkEAyI_MkoaJ5Mw2RI3LfW9Ty6vNulqO-e_7RAl10.jpeg?width=640&crop=smart&auto=webp&s=a8a830f7c3917d5e5f3b3ef11f505d60fef34a8c"
+     "image": "https://preview.redd.it/ih45k27d3pzh1.jpeg?width=640&crop=smart&auto=webp&s=c31bf4dd46ea01033a4852c4950a65f5d3b715ae"
     },
     {
      "source": "Reddit",
@@ -35,11 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Today is my toilet's 25th birthday",
-     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xo5pyf/today_is_my_toilets_25th_birthday/",
+     "title": "Jeffries: Americans \u2018don\u2019t want us to get even, they want us to get things done on their behalf\u2019",
+     "url": "https://www.reddit.com/r/politics/comments/1xnqbtw/jeffries_americans_dont_want_us_to_get_even_they/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/ih45k27d3pzh1.jpeg?width=640&crop=smart&auto=webp&s=c31bf4dd46ea01033a4852c4950a65f5d3b715ae"
+     "image": "https://external-preview.redd.it/vzlkEAyI_MkoaJ5Mw2RI3LfW9Ty6vNulqO-e_7RAl10.jpeg?width=640&crop=smart&auto=webp&s=a8a830f7c3917d5e5f3b3ef11f505d60fef34a8c"
     },
     {
      "source": "Reddit",
@@ -62,20 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "ILhan Omar wins reelection and will remain in Congress \u203c\ufe0f",
-     "url": "https://www.reddit.com/r/joebuddennetwork/comments/1xnn6lz/ilhan_omar_wins_reelection_and_will_remain_in/",
+     "title": "Congressman Robert Garcia says no one in Trump's family is off limits after party's historic midterm election win",
+     "url": "https://www.reddit.com/r/law/comments/1xo4wrp/congressman_robert_garcia_says_no_one_in_trumps/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/bzp8bm0iclzh1.jpeg?width=640&crop=smart&auto=webp&s=eed82e809c987f62b9fc895d8c0d2bbeab701593"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "[USA] Why is she wearing a tire?",
-     "url": "https://www.reddit.com/r/dashcams/comments/1xnrm2e/usa_why_is_she_wearing_a_tire/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/d2RrdHoxYm45bXpoMdqODS1ucqb-Ck-kJ3PzfM_CVGeoM2IUqSZposrg-yeY.png?width=640&crop=smart&auto=webp&s=c90191c7127da3194d138c0685ea72bf431d9f93"
+     "image": "https://external-preview.redd.it/gk5luCKDgQiCfUBC-0980kT5_92A524PXttSyZxMAXk.jpeg?width=640&crop=smart&auto=webp&s=5e0465e309e7cd3b18db1116d6940247277f0ddc"
     },
     {
      "source": "Reddit",
@@ -85,81 +76,96 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/aNqgCz9AOglpdSRDUZivfhcxYzwg19v-adtosTjnklA.jpeg?width=640&crop=smart&auto=webp&s=7facde55b65a3962b3827f95492c0649392e9bbc"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "ILhan Omar wins reelection and will remain in Congress \u203c\ufe0f",
+     "url": "https://www.reddit.com/r/joebuddennetwork/comments/1xnn6lz/ilhan_omar_wins_reelection_and_will_remain_in/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/bzp8bm0iclzh1.jpeg?width=640&crop=smart&auto=webp&s=eed82e809c987f62b9fc895d8c0d2bbeab701593"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+     "url": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "[OC] cringe",
+     "url": "https://www.reddit.com/r/funny/comments/1xnu9g5/oc_cringe/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/w2uiax33smzh1.jpeg?width=640&crop=smart&auto=webp&s=52daff15f0de26b2de2a8a043ef366b225e71400"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "Asian ads will never be topped",
+     "url": "https://www.reddit.com/r/funny/comments/1xo7wm4/asian_ads_will_never_be_topped/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZGIzajc1OWttcHpoMbhsdc_T8VtI_OxvUPcGD5UnJpKvCilmojUiCPDCoKo4.png?width=640&crop=smart&auto=webp&s=adeae50c6a64e99aca93d47de4e6fa71b9b6cb10"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T04:06:53.472207+00:00",
+   "fetched_at": "2026-11-05T04:37:00.498702+00:00",
    "stale": false,
    "items": [
     {
      "title": "hittingMyTokenLimit",
      "image": "https://i.redd.it/f3ise1l4djzh1.png",
      "url": "https://redd.it/1xngm6v",
-     "ups": 4790,
+     "ups": 4985,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
-     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
-     "url": "https://redd.it/1xjyyyn",
-     "ups": 430,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 383,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 222,
+     "title": "lowTokens",
+     "image": "https://i.redd.it/w9957z8au5zh1.gif",
+     "url": "https://redd.it/1xlrukx",
+     "ups": 7635,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 69,
+     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
+     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
+     "url": "https://redd.it/1xlu08b",
+     "ups": 3,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 330,
+     "title": "wontGoDownWithoutAFight",
+     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
+     "url": "https://redd.it/1xiot5h",
+     "ups": 1188,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2399,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 329,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "God damn it again",
-     "image": "https://i.redd.it/1kezkcb4igzh1.png",
-     "url": "https://redd.it/1xn421c",
-     "ups": 848,
-     "sub": "r/memes"
-    },
-    {
-     "title": "made this with pure spite and hatred in my heart",
-     "image": "https://i.redd.it/bep6mzslmlzh1.png",
-     "url": "https://redd.it/1xnodzi",
-     "ups": 1938,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
-     "image": "https://i.redd.it/uex4699f9hzh1.png",
-     "url": "https://redd.it/1xn7xlc",
-     "ups": 319,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Might wanna close that curtain",
-     "image": "https://i.redd.it/n80uebj1qozh1.gif",
-     "url": "https://redd.it/1xo43hr",
-     "ups": 51,
+     "title": "Maybe it was all a dream",
+     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
+     "url": "https://redd.it/1xnr7oi",
+     "ups": 5215,
      "sub": "r/memes"
     },
     {
@@ -175,26 +181,63 @@
      "url": "https://redd.it/1xngefk",
      "ups": 4806,
      "sub": "r/memes"
+    },
+    {
+     "title": "I just really like little guys",
+     "image": "https://i.redd.it/08z2kmo5gozh1.png",
+     "url": "https://redd.it/1xo2ukx",
+     "ups": 938,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I'm startin the agenda that Ness could cook Superman because of this line in the JP Earthbound",
+     "image": "https://i.redd.it/uex4699f9hzh1.png",
+     "url": "https://redd.it/1xn7xlc",
+     "ups": 319,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Something something Sam Altman",
+     "image": "https://i.redd.it/51puyl82pnzh1.png",
+     "url": "https://redd.it/1xnz3xc",
+     "ups": 66,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T04:06:55.910099+00:00",
+   "fetched_at": "2026-11-05T04:37:02.980767+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine reportedly hits Russian bot farms",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Bluesky adds pronouns to profiles",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae9862391a0b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake reviews",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Texas education board election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7f1160b2b1e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Onion headline on Abdul El-Sayed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ec62af0bdeff",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +251,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "GOP state supermajority races",
+     "text": "Bob Dylan meets Pope Leo XIV",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/85a227d68692",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bluesky traffic surges to double",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "European supermarket freezers hacked",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Right-wing Anakin Skywalker posting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77ebd10af54e",
      "likes": 0,
      "image": ""
     },
@@ -232,41 +291,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bob Dylan meets Pope Leo XIV",
+     "text": "Los Angeles votes for mayor",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sonic appears in Angry Birds 3",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2e3f0f8df226",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "BirdOfTheDay B, C, D theme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22aba73c302e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "College basketball season opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c79f9c465",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Texas Democrats' full control bid",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9e6b16a3ed9d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2220520c23a6",
      "likes": 0,
      "image": ""
     },
@@ -280,44 +307,52 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "group effort rule",
-     "author": "196",
-     "url": "https://sh.itjust.works/post/69442396",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/e2e78d81-7a05-4a06-8094-ea2db88355cb.jpeg"
+     "text": "Musk be like...",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54008012",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/d5530d2f-44cc-46f1-b9f0-bbabcd7358c2.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
      "author": "World News",
      "url": "https://sh.itjust.works/post/69442746",
-     "likes": 21,
+     "likes": 43,
      "image": "https://lemmy.world/pictrs/image/2680cc78-c8f9-4ebe-a9eb-50b8a3b13aa3.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "We have moved on.",
-     "author": "Eh Buddy Hoser",
-     "url": "https://lemmy.ca/post/73394701",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/0fa36495-802c-48ed-ac55-2bb4598f8fae.png"
+     "text": "Iran's leaders say midterm results show US voters have rejected Trump's war",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54008140",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/fad5e7d6-26d0-455c-85d7-f9e0ce1d8041.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Nithya Raman Projected to Win Los Angeles Mayor\u2019s Race, Defeating Karen Bass",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54007544",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/345485bd-f3cb-486a-95ee-82687d1b20bf.jpeg"
+     "text": "group effort rule",
+     "author": "196",
+     "url": "https://sh.itjust.works/post/69442396",
+     "likes": 63,
+     "image": "https://lemmy.world/pictrs/image/e2e78d81-7a05-4a06-8094-ea2db88355cb.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T04:06:56.965870+00:00",
+   "fetched_at": "2026-11-05T04:37:03.590665+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +364,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"We messed up the keming again guys.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
+     "text": "The invention of the wheel was what got things rolling",
      "source": "Dad joke"
     },
     {
-     "text": "How do you get a baby alien to sleep?  You rocket.",
+     "text": "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face.",
      "source": "Dad joke"
     },
     {
-     "text": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
+     "text": "What did one nut say as he chased another nut?  I'm a cashew!",
      "source": "Dad joke"
     }
    ]
