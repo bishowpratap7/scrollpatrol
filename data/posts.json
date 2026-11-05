@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-05T11:09:21.825196+00:00",
+ "generated_at": "2026-11-05T11:39:28.394768+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T11:09:17.262680+00:00",
+   "fetched_at": "2026-11-05T11:39:23.956045+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The Book of Disk explains why Windows starts at C:",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xoe203/the_book_of_disk_explains_why_windows_starts_at_c/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/ux2dhu8efrzh1.jpeg?width=640&crop=smart&auto=webp&s=8a8d84384899c8f5c459cf2ca4ecf5824e73e0d6"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,24 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/7EzmIzONUnyX5oLFtjCfYYF3Tyeskq6tERmqUspUAw8.jpeg?width=640&crop=smart&auto=webp&s=36ab3200ebed61474a00c1dd43a8ea7bc20969ef"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My knees \ud83d\ude0c",
-     "url": "https://www.reddit.com/r/BeAmazed/comments/1xo9500/my_knees/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/OWNhMXdjNHF4cHpoMfSKH1ZGyiD_uC5lJe9buCd_tbRifzvB4EcUjIRzwp6E.png?width=320&crop=smart&auto=webp&s=4e015014d9479402877751ac374ebcd2cb9ae217"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "How Holy Water is made",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xno4du/how_holy_water_is_made/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/dGd6aTFibGhrbHpoMStcZWdjGJApaDHudvNLnrO26AhB7k0QXP7hH8o5cuaQ.png?width=320&crop=smart&auto=webp&s=4d43a26da591a67cab359f25e7ea4a3249e72853"
     },
     {
      "source": "Reddit",
@@ -44,11 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "The Book of Disk explains why Windows starts at C:",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xoe203/the_book_of_disk_explains_why_windows_starts_at_c/",
+     "title": "Cat eats anything",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xoc46q/cat_eats_anything/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/ux2dhu8efrzh1.jpeg?width=640&crop=smart&auto=webp&s=8a8d84384899c8f5c459cf2ca4ecf5824e73e0d6"
+     "image": "https://external-preview.redd.it/cG54N2d6MWhzcXpoMeOh4iCI-PK3DNbhNaTAfoiBu6Vo_YzpKAb_4n8WGn2A.png?width=320&crop=smart&auto=webp&s=af6496e48e68c2b0b49f4e32518545327d053d6e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My knees \ud83d\ude0c",
+     "url": "https://www.reddit.com/r/BeAmazed/comments/1xo9500/my_knees/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/OWNhMXdjNHF4cHpoMfSKH1ZGyiD_uC5lJe9buCd_tbRifzvB4EcUjIRzwp6E.png?width=320&crop=smart&auto=webp&s=4e015014d9479402877751ac374ebcd2cb9ae217"
     },
     {
      "source": "Reddit",
@@ -62,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Cat eats anything",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xoc46q/cat_eats_anything/",
+     "title": "Europe is making all phones come with replaceable batteries",
+     "url": "https://www.reddit.com/r/interesting/comments/1xoad9h/europe_is_making_all_phones_come_with_replaceable/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/cG54N2d6MWhzcXpoMeOh4iCI-PK3DNbhNaTAfoiBu6Vo_YzpKAb_4n8WGn2A.png?width=320&crop=smart&auto=webp&s=af6496e48e68c2b0b49f4e32518545327d053d6e"
+     "image": "https://preview.redd.it/f3thvs6h9qzh1.png?width=320&crop=smart&auto=webp&s=56524981ed42e317a1e888fdef75c28b603ec2d2"
     },
     {
      "source": "Reddit",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T11:09:18.249834+00:00",
+   "fetched_at": "2026-11-05T11:39:25.261479+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "hittingMyTokenLimit",
-     "image": "https://i.redd.it/f3ise1l4djzh1.png",
-     "url": "https://redd.it/1xngm6v",
-     "ups": 5468,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "textToBrailleConvertorForBlindPeopleToHelpThemSee",
      "image": "https://i.redd.it/oq8ih7x1iozh1.png",
@@ -114,6 +107,13 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
      "title": "gettingPromotedFromProgrammerToClaudeDelegator",
      "image": "https://i.redd.it/tx20kggzj9zh1.png",
      "url": "https://redd.it/1xm9d3b",
@@ -121,88 +121,72 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 346,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 322,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "handbookAfterBubbleBurst",
-     "image": "https://i.redd.it/5gvw4cv058yh1.png",
-     "url": "https://redd.it/1xhqpzg",
-     "ups": 169,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Im just pretending",
-     "image": "https://i.redd.it/x5hrfkiw9lzh1.png",
-     "url": "https://redd.it/1xnmwhl",
-     "ups": 87,
+     "title": "just found it today",
+     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
+     "url": "https://redd.it/1xmqx9h",
+     "ups": 1946,
      "sub": "r/memes"
     },
     {
-     "title": "why I gave up dating",
-     "image": "https://i.redd.it/bmvmazzw9ozh1.png",
-     "url": "https://redd.it/1xo20zx",
-     "ups": 3323,
+     "title": "I just really like little guys",
+     "image": "https://i.redd.it/08z2kmo5gozh1.png",
+     "url": "https://redd.it/1xo2ukx",
+     "ups": 3651,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Joy Vs Order",
+     "image": "https://i.redd.it/u67v967xkpzh1.png",
+     "url": "https://redd.it/1xo7q0u",
+     "ups": 104,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Ain't America great?",
+     "image": "https://i.redd.it/yqg22nkxajzh1.png",
+     "url": "https://redd.it/1xngefk",
+     "ups": 5085,
      "sub": "r/memes"
     },
     {
      "title": "Maybe it was all a dream",
      "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
      "url": "https://redd.it/1xnr7oi",
-     "ups": 6348,
+     "ups": 6539,
      "sub": "r/memes"
     },
     {
-     "title": "just found it today",
-     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
-     "url": "https://redd.it/1xmqx9h",
-     "ups": 1948,
+     "title": "Might wanna close that curtain",
+     "image": "https://i.redd.it/n80uebj1qozh1.gif",
+     "url": "https://redd.it/1xo43hr",
+     "ups": 138,
      "sub": "r/memes"
     },
     {
-     "title": "really got his interest",
-     "image": "https://i.redd.it/1bh27opiyjzh1.png",
-     "url": "https://redd.it/1xnikcz",
-     "ups": 25652,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Dark psychology",
-     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
-     "url": "https://redd.it/1xmnceb",
-     "ups": 7766,
-     "sub": "r/memes"
+     "title": "Two parties go brrrr",
+     "image": "https://i.redd.it/cyq03zku0ozh1.gif",
+     "url": "https://redd.it/1xo0s22",
+     "ups": 0,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T11:09:20.675848+00:00",
+   "fetched_at": "2026-11-05T11:39:27.098461+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake reviews",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Jeffries opposes abolishing ICE",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b4fe5a983117",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US data center ban votes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
      "likes": 0,
      "image": ""
     },
@@ -216,6 +200,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Vance on Iran war, midterms",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4aa9b55d68",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nintendo and Sony report sales figures",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f9b3b370d6b9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Bluesky's first cultural decree",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fa80221ff697",
@@ -224,17 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bob Dylan meets Pope Leo XIV",
+     "text": "French blood bank freezers hacked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bluesky traffic surges to double",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
      "likes": 0,
      "image": ""
     },
@@ -248,88 +256,68 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sonic appears in Angry Birds 3",
+     "text": "Bluesky traffic surges to double",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2e3f0f8df226",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Golden State Valkyries parade",
+     "text": "Bomb threats divert European flights",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db081ca55cf4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a43efea0ae49",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reportedly hits Russian bot farms",
+     "text": "Southern states voting data",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/abcfbe858397",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "California votes on billionaire tax",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Christmas wish",
+     "author": "Linux Phones",
+     "url": "https://piefed.zip/c/linuxphones@lemmy.ca/p/1971646/christmas-wish",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/966f998c-8452-4e5a-a256-72a4c6e63d9e.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Black Banded Owl",
+     "author": "Superbowl",
+     "url": "https://lemmy.world/post/54017219",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/25ef7cc1-1fb4-4f23-bb57-860bb9a9798c.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Sachsen-Anhalt: Schulamt streicht Abmahnung eines Lehrers f\u00fcr Kritik an AfD",
+     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
+     "url": "https://feddit.org/post/37640738",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/d1d52ff7-c9a3-4777-90bc-627ebf4bab48.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Bear with me...",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.zip/post/74476659",
-     "likes": 54,
+     "likes": 80,
      "image": "https://lemmy.zip/pictrs/image/cef070ed-ed58-43bd-8155-5f16a8ef7609.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Progressive group calls for Senate Dems to replace Schumer as leader",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54015868",
-     "likes": 60,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "1 Mississippi....2 Mississippi...",
-     "author": "Political Memes",
-     "url": "https://lemmy.zip/post/74476662",
-     "likes": 41,
-     "image": "https://lemmy.zip/pictrs/image/ea2c7309-db63-4039-a744-b308b11965a4.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Luigi Mangione\u2019s Cousin Elected in Baltimore",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54016384",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/d1a9fbb8-fe42-4caf-bcd8-4506a1de2b8e.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T11:09:21.137553+00:00",
+   "fetched_at": "2026-11-05T11:39:27.662228+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +325,31 @@
      "source": "Programming joke"
     },
     {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
      "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "I went to a Foo Fighters Concert once... It was Everlong...",
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Where does batman go to the bathroom? The batroom.",
      "source": "Dad joke"
     },
     {
-     "text": "How much does a hipster weigh? An instagram.",
+     "text": "To be Frank, I'd have to change my name.",
      "source": "Dad joke"
     },
     {
-     "text": "I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.",
+     "text": "Why did the feline fail the lie detector test? Because he be lion.",
      "source": "Dad joke"
     }
    ]
