@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T13:39:56.313693+00:00",
+ "generated_at": "2026-11-05T14:10:03.130572+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T13:39:51.020474+00:00",
+   "fetched_at": "2026-11-05T14:09:58.079211+00:00",
    "stale": false,
    "items": [
     {
@@ -53,6 +53,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Time after time",
+     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xogz6u/time_after_time/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/cXI5bXhtcDZic3poMd8lmZfBXX5V2iK9HwVfDlumwEXBCU5xmsU1RlhwSol_.jpeg?width=640&crop=smart&auto=webp&s=655852a81e72004428f957390ae0cefbee208dd7"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Destiny makes a tweet laying out all his claims about Hasan, directly asking to be sued.",
      "url": "https://www.reddit.com/r/LivestreamFail/comments/1xo8d1n/destiny_makes_a_tweet_laying_out_all_his_claims/",
      "score": 0,
@@ -71,53 +80,23 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Happy Blue Wave!",
-     "url": "https://www.reddit.com/r/comics/comments/1xnsg5o/happy_blue_wave/",
+     "title": "Doja Cat changes the lyrics to \"Paint The Town Red\" to \"I don't care, I paint the town BLUE\" after Texas is flipped blue",
+     "url": "https://www.reddit.com/r/popculturechat/comments/1xoe68r/doja_cat_changes_the_lyrics_to_paint_the_town_red/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/bhw02e0xfmzh1.png?width=640&crop=smart&auto=webp&s=47c038e0e07acb415f3850a2551190e17d41268a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Why is Elon frantically deleting some of his tweets from twitter?",
-     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1xntur4/why_is_elon_frantically_deleting_some_of_his/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/dnh2MjNpbHJncnpoMZPpg46xXXd35auJyHBz8fPBUXYEY-E33DQfn4AOXhGK.png?width=320&crop=smart&auto=webp&s=431d3fe85efd667c4afa0e464c90a5c861a09582"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T13:39:52.216894+00:00",
+   "fetched_at": "2026-11-05T14:09:59.334545+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thisPythonShitIsSoEasy",
-     "image": "https://i.redd.it/e8ak96gkodyh1.png",
-     "url": "https://redd.it/1xifkge",
-     "ups": 24,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 42,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 21,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "heapBig",
-     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
-     "url": "https://redd.it/1xihrez",
-     "ups": 222,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 176,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,10 +107,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "God damn it again",
-     "image": "https://i.redd.it/1kezkcb4igzh1.png",
-     "url": "https://redd.it/1xn421c",
-     "ups": 871,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 120,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 348,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 435,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "textToBrailleConvertorForBlindPeopleToHelpThemSee",
+     "image": "https://i.redd.it/oq8ih7x1iozh1.png",
+     "url": "https://redd.it/1xo37sc",
+     "ups": 61,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Dark psychology",
+     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
+     "url": "https://redd.it/1xmnceb",
+     "ups": 7794,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Might wanna close that curtain",
+     "image": "https://i.redd.it/n80uebj1qozh1.gif",
+     "url": "https://redd.it/1xo43hr",
+     "ups": 169,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Our Christmas (might be offensive)",
+     "image": "https://i.redd.it/qutew6se3kzh1.png",
+     "url": "https://redd.it/1xnizsa",
+     "ups": 53,
+     "sub": "r/memes"
+    },
+    {
+     "title": "If only life was a game",
+     "image": "https://i.redd.it/xk4vdeasclzh1.png",
+     "url": "https://redd.it/1xnn7sn",
+     "ups": 136,
      "sub": "r/memes"
     },
     {
@@ -142,51 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Maybe it was all a dream",
-     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
-     "url": "https://redd.it/1xnr7oi",
-     "ups": 6706,
+     "title": "I know what you did",
+     "image": "https://i.redd.it/su5elzq8hrzh1.png",
+     "url": "https://redd.it/1xoe7oz",
+     "ups": 3646,
      "sub": "r/memes"
-    },
-    {
-     "title": "Im just pretending",
-     "image": "https://i.redd.it/x5hrfkiw9lzh1.png",
-     "url": "https://redd.it/1xnmwhl",
-     "ups": 87,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The canon event",
-     "image": "https://i.redd.it/pl9nlf9ztizh1.png",
-     "url": "https://redd.it/1xnem2u",
-     "ups": 343,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Something something Sam Altman",
-     "image": "https://i.redd.it/51puyl82pnzh1.png",
-     "url": "https://redd.it/1xnz3xc",
-     "ups": 101,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Don't listen to them, listen to me",
-     "image": "https://i.redd.it/52rwl6xk18zh1.png",
-     "url": "https://redd.it/1xm0yf9",
-     "ups": 69,
-     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T13:39:54.743687+00:00",
+   "fetched_at": "2026-11-05T14:10:01.252226+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Southern states voting data",
+     "text": "Abdul El-Sayed's Michigan Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/abcfbe858397",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ec62af0bdeff",
      "likes": 0,
      "image": ""
     },
@@ -200,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ronaldo retires from international football",
+     "text": "Nintendo and Sony report sales figures",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68bc87c36d64",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f9b3b370d6b9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Southern states voting data",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/abcfbe858397",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Abdul El-Sayed's Michigan Senate race",
+     "text": "Bluesky's first cultural decree",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ec62af0bdeff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fa80221ff697",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ronaldo retires from international football",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68bc87c36d64",
      "likes": 0,
      "image": ""
     },
@@ -240,14 +256,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Guy Fawkes Night celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9b5fa84b6f8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Bluesky traffic surges to double",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
@@ -256,26 +264,26 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "Ukraine reportedly hits Russian bot farms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bomb threats divert European flights",
+     "text": "LAPD union warns about Nithya Raman",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a43efea0ae49",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1339e42f9376",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Union battle songs after election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1f735b7b9ab",
-     "likes": 0,
+     "kind": "Lemmy post",
+     "text": "Peggy Flanagan wants new Senate Democratic leader to replace Chuck Schumer",
+     "author": "News",
+     "url": "https://lemmy.world/post/54020603",
+     "likes": 79,
      "image": ""
     },
     {
@@ -283,82 +291,74 @@
      "text": "Let it all hang out",
      "author": "memes",
      "url": "https://lemmy.ca/post/73410262",
-     "likes": 51,
+     "likes": 99,
      "image": "https://lemmy.world/pictrs/image/0acdd4d8-eb11-4717-8c35-dced049c27c5.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Peggy Flanagan wants new Senate Democratic leader to replace Chuck Schumer",
-     "author": "News",
-     "url": "https://lemmy.world/post/54020603",
-     "likes": 28,
-     "image": ""
+     "text": "shitpost",
+     "author": "Lemmy Shitpost",
+     "url": "https://thelemmy.club/post/58486988",
+     "likes": 39,
+     "image": "https://thelemmy.club/pictrs/image/402885cb-b843-45b9-9f4d-2b4cb6f775d2.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Parent Meme",
-     "author": "Star Wars Memes",
-     "url": "https://lemmy.world/post/54019772",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/82b31f10-e2d4-413e-95e2-c869cee84d1c.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Progressive Caucus Wants to Deliver on Democratic Promises",
-     "author": "News",
-     "url": "https://lemmy.world/post/54020706",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/664a23db-4caa-432b-b4ff-fb252732bdf3.jpeg"
+     "text": "Alcohol is a solution",
+     "author": "me_irl",
+     "url": "https://feddit.org/post/37644706",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/600a347d-95a3-4ac8-b25f-31d0fca5e529.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T13:39:55.519104+00:00",
+   "fetched_at": "2026-11-05T14:10:01.938306+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+     "text": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.\r\nI have no words to describe how angry I am.",
      "source": "Dad joke"
     },
     {
-     "text": "When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.",
+     "text": "What\u2019s the difference between an African elephant and an Indian elephant? About 5000 miles.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was the picture sent to prison? It was framed.",
+     "text": "What did the shy pebble wish for? That she was a little boulder.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
