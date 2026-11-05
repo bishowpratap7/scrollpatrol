@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-05T09:08:37.333178+00:00",
+ "generated_at": "2026-11-05T09:38:44.338837+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T09:08:33.033945+00:00",
+   "fetched_at": "2026-11-05T09:38:39.354728+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My knees \ud83d\ude0c",
-     "url": "https://www.reddit.com/r/BeAmazed/comments/1xo9500/my_knees/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/OWNhMXdjNHF4cHpoMfSKH1ZGyiD_uC5lJe9buCd_tbRifzvB4EcUjIRzwp6E.png?width=320&crop=smart&auto=webp&s=4e015014d9479402877751ac374ebcd2cb9ae217"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,24 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "How Holy Water is made",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xno4du/how_holy_water_is_made/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/dGd6aTFibGhrbHpoMStcZWdjGJApaDHudvNLnrO26AhB7k0QXP7hH8o5cuaQ.png?width=320&crop=smart&auto=webp&s=4d43a26da591a67cab359f25e7ea4a3249e72853"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The Navy Admiral who Pete Hegseth fired, Nancy Lacore, a 35-year Navy veteran, last night defeated her MAGA republican opponent to win a House seat - South Carolina District 1. Now he has to answer to her in Congress",
-     "url": "https://www.reddit.com/r/PoursTea/comments/1xo6fwd/the_navy_admiral_who_pete_hegseth_fired_nancy/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/v19r6s5s9pzh1.jpeg?width=640&crop=smart&auto=webp&s=560ef2876a042ff0f45216b2dfe84ac669c0fa27"
     },
     {
      "source": "Reddit",
@@ -53,6 +26,51 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "How Holy Water is made",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xno4du/how_holy_water_is_made/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/dGd6aTFibGhrbHpoMStcZWdjGJApaDHudvNLnrO26AhB7k0QXP7hH8o5cuaQ.png?width=320&crop=smart&auto=webp&s=4d43a26da591a67cab359f25e7ea4a3249e72853"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My knees \ud83d\ude0c",
+     "url": "https://www.reddit.com/r/BeAmazed/comments/1xo9500/my_knees/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/OWNhMXdjNHF4cHpoMfSKH1ZGyiD_uC5lJe9buCd_tbRifzvB4EcUjIRzwp6E.png?width=320&crop=smart&auto=webp&s=4e015014d9479402877751ac374ebcd2cb9ae217"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "King Charles angry about getting rain on him \ud83d\ude24",
+     "url": "https://www.reddit.com/r/TikTokCringe/comments/1xnx7eb/king_charles_angry_about_getting_rain_on_him/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/b2JuaXd1MnlibnpoMTOrM8yH0IPqbiXrtEyUfv5p5E_gaSZYqesFu4LfbZ8j.jpeg?width=320&crop=smart&auto=webp&s=efa9f937df75da517f4fec488ba6ec7c355e037c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The Navy Admiral who Pete Hegseth fired, Nancy Lacore, a 35-year Navy veteran, last night defeated her MAGA republican opponent to win a House seat - South Carolina District 1. Now he has to answer to her in Congress",
+     "url": "https://www.reddit.com/r/PoursTea/comments/1xo6fwd/the_navy_admiral_who_pete_hegseth_fired_nancy/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/v19r6s5s9pzh1.jpeg?width=640&crop=smart&auto=webp&s=560ef2876a042ff0f45216b2dfe84ac669c0fa27"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "How a tourist from Japan greets the Royal Guard",
+     "url": "https://www.reddit.com/r/interesting/comments/1xnnp6t/how_a_tourist_from_japan_greets_the_royal_guard/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/d2YyazZqeXJnbHpoMTR0kS7ggdsorEOT9wsLKWWdB5uE2LcirdOR8OzbYqXd.png?width=640&crop=smart&auto=webp&s=8fce878b939fbbc84dc61b7b25c24753adb4267e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Massie gives Hegseth ultimatum of resignation or impeachment",
      "url": "https://www.reddit.com/r/politics/comments/1xo8jk2/massie_gives_hegseth_ultimatum_of_resignation_or/",
      "score": 0,
@@ -62,62 +80,44 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "The good fight",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xo809z/the_good_fight/",
+     "title": "Texas just went blue, and the tech bros are sad",
+     "url": "https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/9fp8bo8inpzh1.jpeg?width=640&crop=smart&auto=webp&s=fdd2a4bef12bd2d26b0aa475b08c6bb2ddd022ad"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Bro looks like he is devastated",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xnt08z/bro_looks_like_he_is_devastated/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZGdrYWliM29qbXpoMZdPmQhmu25u_yb_B0MlMb5HqLNAaB7E-xvfUHir9gfI.jpeg?width=640&crop=smart&auto=webp&s=6527c24e973411d6547908bc477c8663b18343c8"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Best WALL-E cosplay ever",
-     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xo9swr/best_walle_cosplay_ever/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aXBvcW13dXkzcXpoMeAxn7mcXqLoMFBdml4rVmE6ex0to443q_1a_ocpN4bs.png?width=640&crop=smart&auto=webp&s=c5279a4688ed9a45aaba52c8a49001141d1de860"
+     "image": "https://external-preview.redd.it/rBamd598cMa-CshX5S_tgwP9DD461eEP9hrtYNr5yxY.jpeg?width=640&crop=smart&auto=webp&s=9a38761dca36a43656747d82651df86cf30c58ec"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T09:08:34.232712+00:00",
+   "fetched_at": "2026-11-05T09:38:40.722598+00:00",
    "stale": false,
    "items": [
     {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10063,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2063,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "readAndWeepDotJpeg",
-     "image": "https://i.redd.it/y9g09mbv4fyh1.png",
-     "url": "https://redd.it/1xilxoz",
-     "ups": 0,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 22,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2400,
+     "title": "heapBig",
+     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
+     "url": "https://redd.it/1xihrez",
+     "ups": 223,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 165,
+     "title": "wontGoDownWithoutAFight",
+     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
+     "url": "https://redd.it/1xiot5h",
+     "ups": 1189,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,58 +128,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "God damn it again",
-     "image": "https://i.redd.it/1kezkcb4igzh1.png",
-     "url": "https://redd.it/1xn421c",
-     "ups": 867,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 690,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Im just pretending",
+     "image": "https://i.redd.it/x5hrfkiw9lzh1.png",
+     "url": "https://redd.it/1xnmwhl",
+     "ups": 87,
      "sub": "r/memes"
     },
     {
-     "title": "really got his interest",
-     "image": "https://i.redd.it/1bh27opiyjzh1.png",
-     "url": "https://redd.it/1xnikcz",
-     "ups": 25309,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Our Christmas (might be offensive)",
-     "image": "https://i.redd.it/qutew6se3kzh1.png",
-     "url": "https://redd.it/1xnizsa",
-     "ups": 44,
-     "sub": "r/memes"
-    },
-    {
-     "title": "RAM Altman wants to Randomly Access your Memory",
-     "image": "https://i.redd.it/fhv7a3mnwezh1.png",
-     "url": "https://redd.it/1xmvcc7",
-     "ups": 168,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Ain't America great?",
-     "image": "https://i.redd.it/yqg22nkxajzh1.png",
-     "url": "https://redd.it/1xngefk",
-     "ups": 4999,
+     "title": "just found it today",
+     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
+     "url": "https://redd.it/1xmqx9h",
+     "ups": 1948,
      "sub": "r/memes"
     },
     {
      "title": "Yeah, he went there",
      "image": "https://i.redd.it/9hthed72dmzh1.gif",
      "url": "https://redd.it/1xns1m9",
-     "ups": 119,
+     "ups": 122,
      "sub": "r/memes"
     },
     {
-     "title": "waste the rest of the day",
-     "image": "https://i.redd.it/upbqvoejy8zh1.gif",
-     "url": "https://redd.it/1xm64ul",
-     "ups": 407,
-     "sub": "r/dankmemes"
+     "title": "I just really like little guys",
+     "image": "https://i.redd.it/08z2kmo5gozh1.png",
+     "url": "https://redd.it/1xo2ukx",
+     "ups": 3022,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Our Christmas (might be offensive)",
+     "image": "https://i.redd.it/qutew6se3kzh1.png",
+     "url": "https://redd.it/1xnizsa",
+     "ups": 50,
+     "sub": "r/memes"
+    },
+    {
+     "title": "really got his interest",
+     "image": "https://i.redd.it/1bh27opiyjzh1.png",
+     "url": "https://redd.it/1xnikcz",
+     "ups": 25652,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T09:08:35.689357+00:00",
+   "fetched_at": "2026-11-05T09:38:42.663011+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Ocarina of Time remake reviews",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine reportedly hits Russian bot farms",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,49 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Washington votes on trans sports ban",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Bluesky traffic surges to double",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "World of Warcraft: Forever launches",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea113d5ba1a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Playing Deadlock",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bob Dylan meets Pope Leo XIV",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Golden State Valkyries parade",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db081ca55cf4",
      "likes": 0,
      "image": ""
     },
@@ -232,49 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "European supermarket freezers hacked",
+     "text": "Speculation Trump allies will flee",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7937333696e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Vance on Iran war, midterms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bob Dylan meets Pope Leo XIV",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "World of Warcraft: Forever launches",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea113d5ba1a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jeffries opposes abolishing ICE",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b4fe5a983117",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Haaland's New Mexico governor race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/165b088a10c2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4aa9b55d68",
      "likes": 0,
      "image": ""
     },
@@ -283,49 +283,41 @@
      "text": "Total fabrication",
      "author": "Memes",
      "url": "https://reddthat.com/post/76102525",
-     "likes": 27,
+     "likes": 70,
      "image": "https://lemmy.world/pictrs/image/77424ab4-cbd8-4ea1-b327-621949634b65.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "happens every time",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.ml/post/54930320",
-     "likes": 24,
-     "image": "https://lemmy.world/pictrs/image/20cda2dd-2bcd-4923-aaf0-0e7edd22e2a8.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Silly Spock",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54013869",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/5202dc26-afd2-4775-bd12-0dbb0850718e.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Lost knowledge",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/62809211",
-     "likes": 11,
+     "likes": 28,
      "image": "https://lemmy.world/pictrs/image/d48fda45-3197-4b3d-b9be-4feceddaa799.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "THE STAR TREK FRANCHISE REWATCH PARTY #86: \"Is There in Truth No Beauty?\"",
+     "author": "Star Trek ",
+     "url": "https://lemmy.world/post/54014883",
+     "likes": 7,
+     "image": "https://lemmy.world/pictrs/image/93f4ab86-c649-4126-ac96-4ba78dba641f.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Aer Lingus flight to Rome diverted to military base after latest bomb threat, France says \u2013 Europe live",
+     "author": "World News",
+     "url": "https://sh.itjust.works/post/69451917",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/6fa1aa8a-fe2a-457f-9f98-025d4dc8a4b1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T09:08:36.293368+00:00",
+   "fetched_at": "2026-11-05T09:38:43.260994+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a cow with two legs? Lean beef.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Can I watch the TV? Dad: Yes, but don\u2019t turn it on.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a guy lying on your doorstep? Matt.",
+     "text": "People are making apocalypse jokes like there\u2019s no tomorrow.",
      "source": "Dad joke"
     },
     {
-     "text": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
+     "text": "What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.",
      "source": "Dad joke"
     }
    ]
