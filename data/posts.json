@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T05:07:10.342261+00:00",
+ "generated_at": "2026-11-05T05:37:17.613087+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T05:07:05.721304+00:00",
+   "fetched_at": "2026-11-05T05:37:13.224720+00:00",
    "stale": false,
    "items": [
     {
@@ -71,48 +71,27 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Congressman Robert Garcia says no one in Trump's family is off limits after party's historic midterm election win",
-     "url": "https://www.reddit.com/r/law/comments/1xo4wrp/congressman_robert_garcia_says_no_one_in_trumps/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/gk5luCKDgQiCfUBC-0980kT5_92A524PXttSyZxMAXk.jpeg?width=640&crop=smart&auto=webp&s=5e0465e309e7cd3b18db1116d6940247277f0ddc"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "[USA] Why is she wearing a tire?",
      "url": "https://www.reddit.com/r/dashcams/comments/1xnrm2e/usa_why_is_she_wearing_a_tire/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/d2RrdHoxYm45bXpoMdqODS1ucqb-Ck-kJ3PzfM_CVGeoM2IUqSZposrg-yeY.png?width=640&crop=smart&auto=webp&s=c90191c7127da3194d138c0685ea72bf431d9f93"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "How a tourist from Japan greets the Royal Guard",
+     "url": "https://www.reddit.com/r/interesting/comments/1xnnp6t/how_a_tourist_from_japan_greets_the_royal_guard/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/d2YyazZqeXJnbHpoMTR0kS7ggdsorEOT9wsLKWWdB5uE2LcirdOR8OzbYqXd.png?width=640&crop=smart&auto=webp&s=8fce878b939fbbc84dc61b7b25c24753adb4267e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T05:07:06.444026+00:00",
+   "fetched_at": "2026-11-05T05:37:14.035529+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "textToBrailleConvertorForBlindPeopleToHelpThemSee",
-     "image": "https://i.redd.it/oq8ih7x1iozh1.png",
-     "url": "https://redd.it/1xo37sc",
-     "ups": 33,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "mySourceCodeLiterally",
-     "image": "https://i.redd.it/x47p93go5eyh1.png",
-     "url": "https://redd.it/1xihblk",
-     "ups": 329,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "handbookAfterBubbleBurst",
-     "image": "https://i.redd.it/5gvw4cv058yh1.png",
-     "url": "https://redd.it/1xhqpzg",
-     "ups": 167,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "thisPythonShitIsSoEasy",
      "image": "https://i.redd.it/e8ak96gkodyh1.png",
@@ -121,52 +100,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 69,
+     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
+     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
+     "url": "https://redd.it/1xlu08b",
+     "ups": 3,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "helloWorld",
-     "image": "https://i.redd.it/vg3u0rlsnxyh1.png",
-     "url": "https://redd.it/1xkukx5",
-     "ups": 13176,
+     "title": "eMudhraBrainstormingSesh",
+     "image": "https://i.redd.it/uv1dsk4x52yh1.png",
+     "url": "https://redd.it/1xh1lm8",
+     "ups": 241,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Every software update lately",
-     "image": "https://i.redd.it/th8xy6weekzh1.png",
-     "url": "https://redd.it/1xnjx1r",
-     "ups": 1252,
+     "title": "readAndWeepDotJpeg",
+     "image": "https://i.redd.it/y9g09mbv4fyh1.png",
+     "url": "https://redd.it/1xilxoz",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 330,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 110,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Yeah, he went there",
+     "image": "https://i.redd.it/9hthed72dmzh1.gif",
+     "url": "https://redd.it/1xns1m9",
+     "ups": 109,
      "sub": "r/memes"
     },
     {
-     "title": "made this with pure spite and hatred in my heart",
-     "image": "https://i.redd.it/bep6mzslmlzh1.png",
-     "url": "https://redd.it/1xnodzi",
-     "ups": 1938,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 938,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Dark psychology",
-     "image": "https://i.redd.it/qj3dc2d6wczh1.png",
-     "url": "https://redd.it/1xmnceb",
-     "ups": 7700,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The canon event",
-     "image": "https://i.redd.it/pl9nlf9ztizh1.png",
-     "url": "https://redd.it/1xnem2u",
-     "ups": 295,
+     "title": "just found it today",
+     "image": "https://i.redd.it/hhqmlm4tydzh1.png",
+     "url": "https://redd.it/1xmqx9h",
+     "ups": 1937,
      "sub": "r/memes"
     },
     {
@@ -175,11 +154,32 @@
      "url": "https://redd.it/1xo7q0u",
      "ups": 5,
      "sub": "r/memes"
+    },
+    {
+     "title": "really got his interest",
+     "image": "https://i.redd.it/1bh27opiyjzh1.png",
+     "url": "https://redd.it/1xnikcz",
+     "ups": 24279,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Something something Sam Altman",
+     "image": "https://i.redd.it/51puyl82pnzh1.png",
+     "url": "https://redd.it/1xnz3xc",
+     "ups": 66,
+     "sub": "r/memes"
+    },
+    {
+     "title": "God damn it again",
+     "image": "https://i.redd.it/1kezkcb4igzh1.png",
+     "url": "https://redd.it/1xn421c",
+     "ups": 848,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T05:07:08.872758+00:00",
+   "fetched_at": "2026-11-05T05:37:16.438722+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Ocarina of Time remake reviews",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bluesky's first cultural decree",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fa80221ff697",
      "likes": 0,
      "image": ""
     },
@@ -208,41 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "LGBTQ Madison County candidates",
+     "text": "Bluesky's first cultural decree",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aae4c293540",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fa80221ff697",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bob Dylan meets Pope Leo XIV",
+     "text": "Ukraine reportedly hits Russian bot farms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "Bluesky traffic surges to double",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "European supermarket freezers hacked",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
      "likes": 0,
      "image": ""
     },
@@ -256,100 +232,124 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "First College Football Playoff rankings",
+     "text": "God of War Laufey delayed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba9ff70d375",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db3862560f2f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ohio statehood jokes",
+     "text": "Bob Dylan meets Pope Leo XIV",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b5006694d2e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Iran war and regime change",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89986f6bd9f9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "European supermarket freezers hacked",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afe949efb622",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Union battle songs after election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1f735b7b9ab",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Los Angeles votes for mayor",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2220520c23a6",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Musk be like...",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54008012",
-     "likes": 56,
-     "image": "https://lemmy.world/pictrs/image/d5530d2f-44cc-46f1-b9f0-bbabcd7358c2.jpeg"
+     "text": "Exit, stage left!",
+     "author": "Dad Jokes",
+     "url": "https://lemmy.zip/post/74467755",
+     "likes": 17,
+     "image": "https://lemmy.zip/pictrs/image/be81de9c-a5c4-4bb8-9ef7-e85ff1906c1e.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
-     "author": "World News",
-     "url": "https://lemmy.zip/post/74466256",
+     "text": "Colorado rejects conservative effort to require police to cooperate with immigration officers",
+     "author": "News",
+     "url": "https://lemmy.world/post/54008771",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/f1291806-f968-403c-b097-8f082477883d.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Young voters led a sharp shift toward Democrats in the 2026 midterms, The AP Voter Poll finds",
+     "author": "News",
+     "url": "https://lemmy.world/post/54009200",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/9ccb031b-4af4-484a-9fef-46673ac46e45.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Figured this one technically counts \ud83d\ude09",
+     "author": "Dad Jokes",
+     "url": "https://lemmy.dbzer0.com/post/78002581",
      "likes": 21,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Iran's leaders say midterm results show US voters have rejected Trump's war",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54008140",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/fad5e7d6-26d0-455c-85d7-f9e0ce1d8041.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Elon Musk\u2019s nearly half a billion dollars in midterms spending was a flop",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54008639",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/8c5802a7-345f-4f31-b05c-1e9ec2e8f0ef.jpeg"
+     "image": "https://lemmy.world/pictrs/image/deeab56f-fd43-4f72-9664-53d283be3923.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T05:07:09.913614+00:00",
+   "fetched_at": "2026-11-05T05:37:17.166444+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "They laughed when I said I wanted to be a comedian \u2013 they\u2019re not laughing now.",
+     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
      "source": "Dad joke"
     },
     {
-     "text": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
+     "text": "What do you call a fat psychic? A four-chin teller.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
+     "text": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
      "source": "Dad joke"
     }
    ]
