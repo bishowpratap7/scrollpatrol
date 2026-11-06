@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T02:43:54.164463+00:00",
+ "generated_at": "2026-11-06T03:14:00.950506+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T02:43:48.619784+00:00",
+   "fetched_at": "2026-11-06T03:13:55.808834+00:00",
    "stale": false,
    "items": [
     {
@@ -26,15 +26,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Don\u2019t try this at home. What am I saying, of course you should try it.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xoi2wk/dont_try_this_at_home_what_am_i_saying_of_course/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/dHN1c3JidmJsc3poMVuaPqXWisnGP0onEojPDjWbVfVcKjh8wXsMC4TAuCZt.png?width=320&crop=smart&auto=webp&s=56d66cc1e06de93e84ad001f5730a6eeb23e27ad"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "He got weeded out.",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xoyef4/he_got_weeded_out/",
      "score": 0,
@@ -44,11 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms",
-     "url": "https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in/",
+     "title": "Don\u2019t try this at home. What am I saying, of course you should try it.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xoi2wk/dont_try_this_at_home_what_am_i_saying_of_course/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/BFowk3HwrUn0jMVPkcVBRBqTLlgtZq61M580DlpozNM.jpeg?width=640&crop=smart&auto=webp&s=506a49dca8e64a16af99285bbae13f78e4de94fd"
+     "image": "https://external-preview.redd.it/dHN1c3JidmJsc3poMVuaPqXWisnGP0onEojPDjWbVfVcKjh8wXsMC4TAuCZt.png?width=320&crop=smart&auto=webp&s=56d66cc1e06de93e84ad001f5730a6eeb23e27ad"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "An old man called the police on me because i threw away a paper after he left.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xozhf1/an_old_man_called_the_police_on_me_because_i/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/b3iaku7x3wzh1.jpeg?width=640&crop=smart&auto=webp&s=3735761bdfaef5476e3a33f1db726509ebe16ab8"
     },
     {
      "source": "Reddit",
@@ -62,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "The leader of a German conservative party is found dead at a Berlin hotel",
-     "url": "https://www.reddit.com/r/news/comments/1xojq0u/the_leader_of_a_german_conservative_party_is/",
+     "title": "Fan gets ejected for passing the ball at the referee. Thoughts on this?",
+     "url": "https://www.reddit.com/r/sportsgossips/comments/1xoxi6j/fan_gets_ejected_for_passing_the_ball_at_the/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/eGxkOXZkeXJudnpoMdtY9dmF064IshRiQQ_cSfoaiKe4u13T16-qkOeSLNMk.png?width=320&crop=smart&auto=webp&s=08dcbc61b1f67936dd38385a066c45f29f971557"
     },
     {
      "source": "Reddit",
@@ -80,23 +80,51 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Perkz terminated from G2 due to yesterday's X post",
-     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xoitjw/perkz_terminated_from_g2_due_to_yesterdays_x_post/",
+     "title": "Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms",
+     "url": "https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/BFowk3HwrUn0jMVPkcVBRBqTLlgtZq61M580DlpozNM.jpeg?width=640&crop=smart&auto=webp&s=506a49dca8e64a16af99285bbae13f78e4de94fd"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T02:43:50.113766+00:00",
+   "fetched_at": "2026-11-06T03:13:57.297922+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 325,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 379,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "handbookAfterBubbleBurst",
+     "image": "https://i.redd.it/5gvw4cv058yh1.png",
+     "url": "https://redd.it/1xhqpzg",
+     "ups": 163,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "heapBig",
      "image": "https://i.redd.it/eh7iaunf9eyh1.png",
      "url": "https://redd.it/1xihrez",
      "ups": 220,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1217,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,62 +135,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1195,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 846,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 176,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Love me a feminist king",
-     "image": "https://i.redd.it/d2v9gu4hutzh1.png",
-     "url": "https://redd.it/1xoobb3",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "why I gave up dating",
-     "image": "https://i.redd.it/bmvmazzw9ozh1.png",
-     "url": "https://redd.it/1xo20zx",
-     "ups": 4724,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Every software update lately",
-     "image": "https://i.redd.it/th8xy6weekzh1.png",
-     "url": "https://redd.it/1xnjx1r",
-     "ups": 1483,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'll see myself out",
-     "image": "https://i.redd.it/wvddzahhhtzh1.png",
-     "url": "https://redd.it/1xomeif",
-     "ups": 8132,
-     "sub": "r/memes"
-    },
-    {
-     "title": "RAM Franks diary",
-     "image": "https://i.redd.it/5f3at4z84uzh1.png",
-     "url": "https://redd.it/1xopu4n",
-     "ups": 11,
-     "sub": "r/memes"
-    },
-    {
      "title": "The 2nd Amendment of IT",
      "image": "https://i.redd.it/vgbrp0iznvzh1.png",
      "url": "https://redd.it/1xoxjc5",
@@ -170,31 +142,51 @@
      "sub": "r/memes"
     },
     {
-     "title": "tale as old as time",
-     "image": "https://i.redd.it/n0pq1yjchmzh1.gif",
-     "url": "https://redd.it/1xnsnug",
-     "ups": 10509,
-     "sub": "r/dankmemes"
+     "title": "Guess I'm taking the bus",
+     "image": "https://i.redd.it/22lozkwtotzh1.gif",
+     "url": "https://redd.it/1xonh8q",
+     "ups": 117,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Its not looking good brev",
+     "image": "https://i.redd.it/k8sa760vptzh1.png",
+     "url": "https://redd.it/1xonmou",
+     "ups": 30,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I know what you did",
+     "image": "https://i.redd.it/su5elzq8hrzh1.png",
+     "url": "https://redd.it/1xoe7oz",
+     "ups": 10258,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I just really like little guys",
+     "image": "https://i.redd.it/08z2kmo5gozh1.png",
+     "url": "https://redd.it/1xo2ukx",
+     "ups": 5568,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Might wanna close that curtain",
+     "image": "https://i.redd.it/n80uebj1qozh1.gif",
+     "url": "https://redd.it/1xo43hr",
+     "ups": 296,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T02:43:52.768121+00:00",
+   "fetched_at": "2026-11-06T03:13:59.678254+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Erick Erickson's GOP 'weirdos' op-ed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "ICE detentions of US citizens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2f854acc860",
      "likes": 0,
      "image": ""
     },
@@ -216,33 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump declares Oval Office national monument",
+     "text": "ICE detentions of US citizens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ed05fd66b9a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "One actor movie marathon prompt",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce21c7867e8d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Saudi fund's Unity buyout talks",
+     "text": "Authors share books with newcomers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea4cf160755e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Your role in a heist",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Salon shuts down",
+     "text": "Your role in a heist",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3e8d9271275",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Popular vote compact nears 270 threshold",
+     "text": "LIV Golf shuts down",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b597ab026cda",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0acc7fc1fb33",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Southern states voting data",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/abcfbe858397",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump declares Oval Office national monument",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ed05fd66b9a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Early 2028 election speculation",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/046b9951a23c",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Democrat Who Dropped Out Still Beat Republican in Deep Trump Country",
      "author": "politics ",
      "url": "https://lemmy.world/post/54040108",
-     "likes": 248,
+     "likes": 276,
      "image": "https://lemmy.world/pictrs/image/7b685dec-6d88-4b5c-84db-9f4bb4aa7c9d.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Hegseth\u2019s Wife Was Paid by Consulting Firm Whose Clients Include Lockheed Martin",
      "author": "News",
      "url": "https://lemmy.ca/post/73433953",
-     "likes": 224,
+     "likes": 238,
      "image": "https://lemmy.world/pictrs/image/2c1ffab6-4b47-42be-b94b-053aa9d6a117.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Since we're doing lap cat shots",
      "author": "cats",
      "url": "https://lemmy.world/post/54040227",
-     "likes": 95,
+     "likes": 107,
      "image": "https://lemmy.world/pictrs/image/10bf5d91-ae8a-4dc0-ae06-d59415584191.jpeg"
     },
     {
@@ -307,58 +307,58 @@
      "text": "GOP kicks off bid to throw out votes in Mississippi Senate race",
      "author": "politics ",
      "url": "https://lemmy.world/post/54039574",
-     "likes": 206,
+     "likes": 216,
      "image": "https://lemmy.world/pictrs/image/3f210f1c-234f-4008-ba58-d300efece349.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T02:43:53.503876+00:00",
+   "fetched_at": "2026-11-06T03:14:00.286702+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.\r\n\r\nSo, I got a job at a travel agency.  Now, I know I'll be going places.",
+     "text": "Two parrots are sitting on a perch. One turns to the other and asks, \"do you smell fish?\"",
      "source": "Dad joke"
     },
     {
-     "text": "What creature is smarter than a talking parrot? A spelling bee.",
+     "text": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
