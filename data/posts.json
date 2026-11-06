@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T11:16:08.349567+00:00",
+ "generated_at": "2026-11-06T11:46:14.071785+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T11:16:03.749212+00:00",
+   "fetched_at": "2026-11-06T11:46:09.976745+00:00",
    "stale": false,
    "items": [
     {
@@ -26,11 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Chinese glass manufacturer Hengxinfeng turned the French riots into their free self-advertisement and doubled their sales.",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xp88kw/chinese_glass_manufacturer_hengxinfeng_turned_the/",
+     "title": "New Senator just said what no Democrat dares to say on CNN: We're losing because we're bought by the same billionaires as the GOP",
+     "url": "https://www.reddit.com/r/clevercomebacks/comments/1xp7cha/new_senator_just_said_what_no_democrat_dares_to/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/MWVtcXVrbWxqeXpoMTTZaJQpQMxP09gUGtY-QoRHE25_anLjoQpogLrsSKrm.png?width=320&crop=smart&auto=webp&s=52765cea403c5b6530658a5a14832c622b8920b7"
+     "image": "https://preview.redd.it/ukzcuk9y8yzh1.jpeg?width=640&crop=smart&auto=webp&s=de2b31fc088ecc92fa5bb29fb3aaf619a2ed9e3e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "A Japanese boy noticed his butterflies seemed to recognize him. He spent two years designing an experiment and proved that metamorphosis does not erase memories formed during the caterpillar stage.",
+     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xp92cp/a_japanese_boy_noticed_his_butterflies_seemed_to/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/vfp0peqftyzh1.png?width=640&crop=smart&auto=webp&s=0ab6ba8a3b59c56371766a98560f7572f9dfa3de"
     },
     {
      "source": "Reddit",
@@ -44,15 +53,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "New Senator just said what no Democrat dares to say on CNN: We're losing because we're bought by the same billionaires as the GOP",
-     "url": "https://www.reddit.com/r/clevercomebacks/comments/1xp7cha/new_senator_just_said_what_no_democrat_dares_to/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/ukzcuk9y8yzh1.jpeg?width=640&crop=smart&auto=webp&s=de2b31fc088ecc92fa5bb29fb3aaf619a2ed9e3e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "why you smiling were both single",
      "url": "https://www.reddit.com/r/JustGuysBeingDudes/comments/1xp6ica/why_you_smiling_were_both_single/",
      "score": 0,
@@ -62,20 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "$2.5 TRILLION has been wiped from US stocks.",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+     "title": "Get ready bois",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xp7rcd/get_ready_bois/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The leader of a German conservative party is found dead at a Berlin hotel",
-     "url": "https://www.reddit.com/r/news/comments/1xojq0u/the_leader_of_a_german_conservative_party_is/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/crvuua2wdyzh1.png?width=640&crop=smart&auto=webp&s=bf56156f43b0969d635c1d80390ebd9ff3d3c31d"
     },
     {
      "source": "Reddit",
@@ -85,18 +76,55 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/w9mGOp2418L7fdfucX9MVvWSC896cq-lmNyC7nAq8hQ.jpeg?width=640&crop=smart&auto=webp&s=f3567434fa49e8a7cc0e1cfd205b9b306e9fc8c8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "$2.5 TRILLION has been wiped from US stocks.",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T11:16:04.873401+00:00",
+   "fetched_at": "2026-11-06T11:46:11.173909+00:00",
    "stale": false,
    "items": [
     {
-     "title": "handbookAfterBubbleBurst",
-     "image": "https://i.redd.it/5gvw4cv058yh1.png",
-     "url": "https://redd.it/1xhqpzg",
-     "ups": 166,
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1071,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 71,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5349,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 810,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 374,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,79 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2158,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2413,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 163,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisPythonShitIsSoEasy",
-     "image": "https://i.redd.it/e8ak96gkodyh1.png",
-     "url": "https://redd.it/1xifkge",
-     "ups": 21,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 5804,
+     "title": "Almost 20 years in the making, but now a cereal exists.",
+     "image": "https://i.redd.it/tckkw0d1xvzh1.png",
+     "url": "https://redd.it/1xoyo03",
+     "ups": 16,
      "sub": "r/memes"
     },
     {
-     "title": "Ram altman aahhhh",
-     "image": "https://i.redd.it/7egnc4j2qszh1.png",
-     "url": "https://redd.it/1xoinm6",
-     "ups": 125,
+     "title": "Times change",
+     "image": "https://i.redd.it/vrx5gxq58xzh1.png",
+     "url": "https://redd.it/1xp3xnp",
+     "ups": 52,
      "sub": "r/memes"
     },
     {
-     "title": "Its not looking good brev",
-     "image": "https://i.redd.it/k8sa760vptzh1.png",
-     "url": "https://redd.it/1xonmou",
-     "ups": 32,
+     "title": "made this with pure spite and hatred in my heart",
+     "image": "https://i.redd.it/bep6mzslmlzh1.png",
+     "url": "https://redd.it/1xnodzi",
+     "ups": 2583,
      "sub": "r/memes"
     },
     {
-     "title": "It's been an... interesting experience",
-     "image": "https://i.redd.it/mj4flzd07wzh1.png",
-     "url": "https://redd.it/1xozupw",
-     "ups": 17,
+     "title": "Joy Vs Order",
+     "image": "https://i.redd.it/u67v967xkpzh1.png",
+     "url": "https://redd.it/1xo7q0u",
+     "ups": 193,
      "sub": "r/memes"
     },
     {
-     "title": "Guess I'm taking the bus",
-     "image": "https://i.redd.it/22lozkwtotzh1.gif",
-     "url": "https://redd.it/1xonh8q",
-     "ups": 161,
+     "title": "I'll see myself out",
+     "image": "https://i.redd.it/wvddzahhhtzh1.png",
+     "url": "https://redd.it/1xomeif",
+     "ups": 12432,
      "sub": "r/memes"
     },
     {
-     "title": "Literally me pretending to be happy with my life online",
-     "image": "https://i.redd.it/9stqzrchctzh1.png",
-     "url": "https://redd.it/1xolp35",
-     "ups": 12,
+     "title": "Might wanna close that curtain",
+     "image": "https://i.redd.it/n80uebj1qozh1.gif",
+     "url": "https://redd.it/1xo43hr",
+     "ups": 344,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T11:16:07.114714+00:00",
+   "fetched_at": "2026-11-06T11:46:12.947279+00:00",
    "stale": false,
    "items": [
     {
@@ -208,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Trump declares Oval Office national monument",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Speculation Trump allies will flee",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7937333696e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ed05fd66b9a",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Infant dies of measles in Wisconsin",
+     "text": "Restaurant explains pineapple chef's firing",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/17fa38b5873e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8035f174f0bf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Childhood villain origin stories",
+     "text": "Playing Deadlock",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4868e75e5acd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
      "likes": 0,
      "image": ""
     },
@@ -256,100 +248,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Saudi fund's Unity buyout talks",
+     "text": "Guy Fawkes Night celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea4cf160755e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9b5fa84b6f8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Texas Senate race results",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/de44fc782eab",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reportedly hits Russian bot farms",
+     "text": "Trump's arch federal approval review",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b510e28ae73",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Gina Hinojosa's Texas governor race",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2531944fe349",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Don\u2019t be sick, it\u2019s bad for your health",
-     "author": "Lemmy Shitpost",
-     "url": "https://piefed.world/c/lemmyshitpost/p/1516418/dont-be-sick-its-bad-for-your-health",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/63cac0d6-4874-4174-b538-7a11c6b10d13.jpeg"
+     "text": "I have heard something about the Fediverse liking beans \ud83e\uded8",
+     "author": "cats",
+     "url": "https://nord.pub/c/cat@lemmy.world/p/524270/i-have-heard-something-about-the-fediverse-liking-beans",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/1ea8e613-1772-4f94-a479-faeb1d3a773a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "R*ddit tries to force Age Verification",
-     "author": "Watch Reddit Die",
-     "url": "https://sopuli.xyz/post/54215033",
-     "likes": 15,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Zelenskyy in Berlin: Russia has decided that a peaceful and united Europe is its enemy",
-     "author": "World News",
-     "url": "https://lemmy.zip/post/74534165",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/702c7f8d-df0a-48c8-b1a4-08d45b482284.webp"
+     "text": "Remnants of Industry",
+     "author": "Photography",
+     "url": "https://lemmy.world/post/54058939",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/c80a93eb-02e1-4eaf-9b94-4923e5d49a93.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Lesbian rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50155945",
-     "likes": 12,
+     "likes": 28,
      "image": "https://lemmy.world/pictrs/image/f52557a6-3cce-4336-b5ac-f38f054ed103.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Don\u2019t be sick, it\u2019s bad for your health",
+     "author": "Lemmy Shitpost",
+     "url": "https://piefed.world/c/lemmyshitpost/p/1516418/dont-be-sick-its-bad-for-your-health",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/63cac0d6-4874-4174-b538-7a11c6b10d13.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T11:16:07.609170+00:00",
+   "fetched_at": "2026-11-06T11:46:13.557288+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
     {
      "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I was just looking at my ceiling. Not sure if it\u2019s the best ceiling in the world, but it\u2019s definitely up there.",
+     "text": "How does a penguin build it\u2019s house? Igloos it together.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you do when your bunny gets wet? You get your hare dryer.",
+     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
      "source": "Dad joke"
     },
     {
-     "text": "R.I.P. boiled water. You will be mist.",
+     "text": "How does a scientist freshen their breath? With experi-mints!",
      "source": "Dad joke"
     }
    ]
