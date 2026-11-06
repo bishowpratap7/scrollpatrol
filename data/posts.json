@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-06T02:13:47.225454+00:00",
+ "generated_at": "2026-11-06T02:43:54.164463+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T02:13:41.352155+00:00",
+   "fetched_at": "2026-11-06T02:43:48.619784+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My dad refuses to refrigerate left overs until at least 24hrs after dinner has been cooked",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xoj5qa/my_dad_refuses_to_refrigerate_left_overs_until_at/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/ukz9le18uszh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5f3f2839686cdf0ff7914b86c32a551af4e25c41"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/nj1iwxrmrvzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=e0fcae32a0cd86a56488054a65e7ef4627128b74"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My dad refuses to refrigerate left overs until at least 24hrs after dinner has been cooked",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xoj5qa/my_dad_refuses_to_refrigerate_left_overs_until_at/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/ukz9le18uszh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5f3f2839686cdf0ff7914b86c32a551af4e25c41"
     },
     {
      "source": "Reddit",
@@ -71,88 +71,81 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\u201cFellowship and love\u201d\ufffc",
-     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xowzzl/fellowship_and_love/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/t0aatf1ujvzh1.jpeg?width=640&crop=smart&auto=webp&s=0c31df88e282fcd5af7ede2a0757ae537269ba44"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "$2.5 TRILLION has been wiped from US stocks.",
      "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Perkz terminated from G2 due to yesterday's X post",
+     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xoitjw/perkz_terminated_from_g2_due_to_yesterdays_x_post/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T02:13:42.830899+00:00",
+   "fetched_at": "2026-11-06T02:43:50.113766+00:00",
    "stale": false,
    "items": [
     {
-     "title": "everyNetworkAPIOnThePlanetToday",
-     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
-     "url": "https://redd.it/1xoir0t",
-     "ups": 578,
+     "title": "heapBig",
+     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
+     "url": "https://redd.it/1xihrez",
+     "ups": 220,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "fascistDegreeFactory",
-     "image": "https://i.redd.it/pfpnkd351wzh1.png",
-     "url": "https://redd.it/1xoz8aq",
-     "ups": 118,
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5303,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 280,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 263,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
+     "title": "wontGoDownWithoutAFight",
+     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
+     "url": "https://redd.it/1xiot5h",
      "ups": 1195,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 159,
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 846,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "really got his interest",
-     "image": "https://i.redd.it/1bh27opiyjzh1.png",
-     "url": "https://redd.it/1xnikcz",
-     "ups": 27756,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 176,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Love me a feminist king",
+     "image": "https://i.redd.it/d2v9gu4hutzh1.png",
+     "url": "https://redd.it/1xoobb3",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 5568,
+     "title": "why I gave up dating",
+     "image": "https://i.redd.it/bmvmazzw9ozh1.png",
+     "url": "https://redd.it/1xo20zx",
+     "ups": 4724,
      "sub": "r/memes"
     },
     {
-     "title": "Its not looking good brev",
-     "image": "https://i.redd.it/k8sa760vptzh1.png",
-     "url": "https://redd.it/1xonmou",
-     "ups": 30,
+     "title": "Every software update lately",
+     "image": "https://i.redd.it/th8xy6weekzh1.png",
+     "url": "https://redd.it/1xnjx1r",
+     "ups": 1483,
      "sub": "r/memes"
     },
     {
@@ -163,25 +156,40 @@
      "sub": "r/memes"
     },
     {
-     "title": "Maybe it was all a dream",
-     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
-     "url": "https://redd.it/1xnr7oi",
-     "ups": 7332,
+     "title": "RAM Franks diary",
+     "image": "https://i.redd.it/5f3at4z84uzh1.png",
+     "url": "https://redd.it/1xopu4n",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
-     "title": "Hideo Kojima",
-     "image": "https://i.redd.it/ebqvtpdx7tzh1.png",
-     "url": "https://redd.it/1xol1m1",
-     "ups": 141,
+     "title": "The 2nd Amendment of IT",
+     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
+     "url": "https://redd.it/1xoxjc5",
+     "ups": 32,
      "sub": "r/memes"
+    },
+    {
+     "title": "tale as old as time",
+     "image": "https://i.redd.it/n0pq1yjchmzh1.gif",
+     "url": "https://redd.it/1xnsnug",
+     "ups": 10509,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T02:13:45.675070+00:00",
+   "fetched_at": "2026-11-06T02:43:52.768121+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Authors share books with newcomers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "ICE detentions of US citizens",
@@ -192,41 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Your role in a heist",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump declares Oval Office national monument",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ed05fd66b9a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Childhood villain origin stories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4868e75e5acd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "New York Times in talks to buy Letterboxd",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dae6821222ea",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -235,6 +211,14 @@
      "text": "Godzilla Minus Zero opens",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump declares Oval Office national monument",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ed05fd66b9a",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bob Dylan meets Pope Leo XIV",
+     "text": "Your role in a heist",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea8c3145e94f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen vows to redirect ICE funds",
+     "text": "Childhood villain origin stories",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/859ebf5c5802",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4868e75e5acd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand's past left-wing image",
+     "text": "Salon shuts down",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3e8d9271275",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Popular vote compact nears 270 threshold",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b597ab026cda",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Southern states voting data",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/abcfbe858397",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Democrat Who Dropped Out Still Beat Republican in Deep Trump Country",
      "author": "politics ",
      "url": "https://lemmy.world/post/54040108",
-     "likes": 216,
+     "likes": 248,
      "image": "https://lemmy.world/pictrs/image/7b685dec-6d88-4b5c-84db-9f4bb4aa7c9d.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Hegseth\u2019s Wife Was Paid by Consulting Firm Whose Clients Include Lockheed Martin",
      "author": "News",
      "url": "https://lemmy.ca/post/73433953",
-     "likes": 193,
+     "likes": 224,
      "image": "https://lemmy.world/pictrs/image/2c1ffab6-4b47-42be-b94b-053aa9d6a117.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Since we're doing lap cat shots",
      "author": "cats",
      "url": "https://lemmy.world/post/54040227",
-     "likes": 85,
+     "likes": 95,
      "image": "https://lemmy.world/pictrs/image/10bf5d91-ae8a-4dc0-ae06-d59415584191.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "GOP kicks off bid to throw out votes in Mississippi Senate race",
      "author": "politics ",
      "url": "https://lemmy.world/post/54039574",
-     "likes": 182,
+     "likes": 206,
      "image": "https://lemmy.world/pictrs/image/3f210f1c-234f-4008-ba58-d300efece349.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T02:13:46.579599+00:00",
+   "fetched_at": "2026-11-06T02:43:53.503876+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
+     "text": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a criminal going down the stairs? Condescending",
+     "text": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.\r\n\r\nSo, I got a job at a travel agency.  Now, I know I'll be going places.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do birds fly south for the winter? Because it's too far to walk.",
+     "text": "What creature is smarter than a talking parrot? A spelling bee.",
      "source": "Dad joke"
     }
    ]
