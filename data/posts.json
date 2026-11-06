@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T22:32:53.543443+00:00",
+ "generated_at": "2026-11-06T23:03:00.180582+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T22:32:13.283255+00:00",
+   "fetched_at": "2026-11-06T23:02:55.186426+00:00",
    "stale": false,
    "items": [
     {
@@ -44,6 +44,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "I like to make Sam stare at it",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xpmwwi/i_like_to_make_sam_stare_at_it/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/icl67b29v10i1.jpeg?width=640&crop=smart&auto=webp&s=9bab7cdc01efa1a2581d41005d5be4608888dc4d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "How did JD Vance go from this to being one of the biggest bigots in America?",
      "url": "https://www.reddit.com/r/askanything/comments/1xp3v1w/how_did_jd_vance_go_from_this_to_being_one_of_the/",
      "score": 0,
@@ -53,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "I like to make Sam stare at it",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xpmwwi/i_like_to_make_sam_stare_at_it/",
+     "title": "Florida next",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xpocf7/florida_next/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/icl67b29v10i1.jpeg?width=640&crop=smart&auto=webp&s=9bab7cdc01efa1a2581d41005d5be4608888dc4d"
+     "image": "https://preview.redd.it/o5d0yxjt520i1.jpeg?width=640&crop=smart&auto=webp&s=ccea369a8f0ae136976839414f6ba8b564a705e0"
     },
     {
      "source": "Reddit",
@@ -71,60 +80,30 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\"Centrist\"",
-     "url": "https://www.reddit.com/r/comics/comments/1xpkw7b/centrist/",
+     "title": "He is only 18",
+     "url": "https://www.reddit.com/r/sadposting/comments/1xp58h4/he_is_only_18/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/lic4uo9ug10i1.png?width=640&crop=smart&auto=webp&s=9272a0b36ed2e273cf3477535eb2f22692abe8c5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Florida next",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xpocf7/florida_next/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/o5d0yxjt520i1.jpeg?width=640&crop=smart&auto=webp&s=ccea369a8f0ae136976839414f6ba8b564a705e0"
+     "image": "https://external-preview.redd.it/MW9mcTZuaDJseHpoMftfYKCyam87WtFaBcMrH2cy3kL4lpcSaa1ZcOxATIKi.png?width=640&crop=smart&auto=webp&s=609a0ac0976101934bc738d6b210383f871d5651"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T22:32:49.405375+00:00",
+   "fetched_at": "2026-11-06T23:02:56.311150+00:00",
    "stale": false,
    "items": [
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 13797,
+     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
+     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
+     "url": "https://redd.it/1xlu08b",
+     "ups": 6,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 677,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 1551,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1316,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 461,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 1797,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,58 +114,79 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "genuinely me",
-     "image": "https://i.redd.it/s0id0twsm10i1.png",
-     "url": "https://redd.it/1xplqtr",
-     "ups": 2,
+     "title": "heapBig",
+     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
+     "url": "https://redd.it/1xihrez",
+     "ups": 220,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "tryHackMeKindaUnseriousNow",
+     "image": "https://i.redd.it/bggqfn70jlzh1.png",
+     "url": "https://redd.it/1xnnyjx",
+     "ups": 240,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "wontGoDownWithoutAFight",
+     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
+     "url": "https://redd.it/1xiot5h",
+     "ups": 1187,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Guess I\u2019ll have to develop a personality now",
+     "image": "https://i.redd.it/loi2va6o200i1.gif",
+     "url": "https://redd.it/1xpdutu",
+     "ups": 593,
      "sub": "r/memes"
     },
     {
-     "title": "hate this but it's true",
-     "image": "https://i.redd.it/w15dztzhaxzh1.png",
-     "url": "https://redd.it/1xp462c",
-     "ups": 5418,
+     "title": "The 2nd Amendment of IT",
+     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
+     "url": "https://redd.it/1xoxjc5",
+     "ups": 60,
      "sub": "r/memes"
     },
     {
-     "title": "Hideo Kojima",
-     "image": "https://i.redd.it/ebqvtpdx7tzh1.png",
-     "url": "https://redd.it/1xol1m1",
-     "ups": 177,
+     "title": "The honeymoon phase never lasts",
+     "image": "https://i.redd.it/hqwuqlu8900i1.png",
+     "url": "https://redd.it/1xpemqm",
+     "ups": 73,
      "sub": "r/memes"
     },
     {
-     "title": "Guess I'm taking the bus",
-     "image": "https://i.redd.it/22lozkwtotzh1.gif",
-     "url": "https://redd.it/1xonh8q",
-     "ups": 172,
+     "title": "Yes Miss...",
+     "image": "https://i.redd.it/tf1e2ag3ryzh1.gif",
+     "url": "https://redd.it/1xp8v1m",
+     "ups": 10416,
      "sub": "r/memes"
     },
     {
-     "title": "It's been an... interesting experience",
-     "image": "https://i.redd.it/mj4flzd07wzh1.png",
-     "url": "https://redd.it/1xozupw",
-     "ups": 20,
+     "title": "Born Slippy",
+     "image": "https://i.redd.it/ixjkvudc4xzh1.png",
+     "url": "https://redd.it/1xp3ksa",
+     "ups": 2109,
      "sub": "r/memes"
     },
     {
-     "title": "Let me keep some of my dignity",
-     "image": "https://i.redd.it/hi3solake10i1.png",
-     "url": "https://redd.it/1xpkk8k",
-     "ups": 13,
+     "title": "Yea so that\u2019s over",
+     "image": "https://i.redd.it/pbialic3rzzh1.gif",
+     "url": "https://redd.it/1xpccj4",
+     "ups": 13738,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T22:32:52.124809+00:00",
+   "fetched_at": "2026-11-06T23:02:58.967269+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Famous filming locations near home",
+     "text": "Colom vs. Hyde-Smith Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/45a573bac88d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Famous filming locations near home",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/45a573bac88d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Authors share books with newcomers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +248,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Infant dies of measles in Wisconsin",
+     "text": "OpenSSH flaw on musl Linux",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/17fa38b5873e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1f2e18a3004a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "October jobs report beats forecasts",
+     "text": "Apple launches touchscreen MacBook Pro",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cba3b27f69a3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Arizona legislative and governor elections",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3426d3b8b560",
      "likes": 0,
      "image": ""
     },
@@ -271,65 +279,57 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Democrats urge ICE to unmask agents",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "EU rejects Trump\u2019s 'big beautiful' security deal with Russia and 'all of Europe'",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54080658",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/226c0dcc-d2ba-4e4b-aa3e-b95e26a8505b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "*three days",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54079016",
-     "likes": 98,
-     "image": "https://lemmy.world/pictrs/image/95942f64-6b67-44d1-b36a-4446df075593.jpeg"
+     "text": "Hakeem Jeffries, Chuck Schumer say now is not the time to punish convicted rapist Russell Brand",
+     "author": "The Onion and other satire w/ layers",
+     "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1057966/hakeem-jeffries-chuck-schumer-say-now-is-not-the-time-to-punish-convicted-rapist-russell-br",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/5f5688d8-e9f1-4de3-965a-7aa3da9049ef.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Pop pop splash.",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54078742",
-     "likes": 173,
-     "image": "https://lemmy.world/pictrs/image/917d3bb5-24c7-4fda-9f71-dc158a0dcd35.png"
+     "text": "Boredom. [260]",
+     "author": "Mimi.",
+     "url": "https://discuss.tchncs.de/post/70478013",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/2a4d634f-c7c5-4f3c-9b96-368319b692d0.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "He do an big stretch :3",
      "author": "cats",
      "url": "https://piefed.zeromedia.vip/c/cat/p/592333/he-do-an-big-stretch-3",
-     "likes": 23,
+     "likes": 52,
      "image": "https://lemmy.world/pictrs/image/318bd779-60f7-4f80-8f89-eeea39b1ab95.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Urban planner Nithya Raman elected mayor of Los Angeles \ud83e\udd73\ud83c\udf89",
-     "author": "Fuck Cars",
-     "url": "https://lemmy.zip/post/74563597",
-     "likes": 19,
-     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T22:32:52.811142+00:00",
+   "fetched_at": "2026-11-06T23:02:59.573452+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
@@ -337,28 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why was Santa's little helper feeling depressed? Because he has low elf esteem.\n",
+     "text": "Scientists finally did a study on forks. It's about tine!",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of music do planets listen to? Nep-tunes.",
+     "text": "I went to the doctor today and he told me I had type A blood but it was a type O.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to work in a shoe recycling shop. It was sole destroying.",
+     "text": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
