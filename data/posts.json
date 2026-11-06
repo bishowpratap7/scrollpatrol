@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T04:14:14.458350+00:00",
+ "generated_at": "2026-11-06T04:44:20.955730+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T04:14:09.033694+00:00",
+   "fetched_at": "2026-11-06T04:44:15.917786+00:00",
    "stale": false,
    "items": [
     {
@@ -35,6 +35,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "An old man called the police on me because i threw away a paper after he left.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xozhf1/an_old_man_called_the_police_on_me_because_i/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/b3iaku7x3wzh1.jpeg?width=640&crop=smart&auto=webp&s=3735761bdfaef5476e3a33f1db726509ebe16ab8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Married men of Reddit, what's the hardest thing about being a husband?",
      "url": "https://www.reddit.com/r/AskReddit/comments/1xonw2g/married_men_of_reddit_whats_the_hardest_thing/",
      "score": 0,
@@ -53,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "An old man called the police on me because i threw away a paper after he left.",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xozhf1/an_old_man_called_the_police_on_me_because_i/",
+     "title": "$2.5 TRILLION has been wiped from US stocks.",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/b3iaku7x3wzh1.jpeg?width=640&crop=smart&auto=webp&s=3735761bdfaef5476e3a33f1db726509ebe16ab8"
+     "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
     },
     {
      "source": "Reddit",
@@ -71,34 +80,18 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "$2.5 TRILLION has been wiped from US stocks.",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+     "title": "The leader of a German conservative party is found dead at a Berlin hotel",
+     "url": "https://www.reddit.com/r/news/comments/1xojq0u/the_leader_of_a_german_conservative_party_is/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Texas Governor-Elect Requests Pause on Land Talks With SpaceX",
-     "url": "https://www.reddit.com/r/politics/comments/1xp0lph/texas_governorelect_requests_pause_on_land_talks/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/Wa7nTjmYtuCtSrUSGGiwdMGgIWeI3fd6Ym8eRjjxHMI.jpeg?width=640&crop=smart&auto=webp&s=82d06a335c66e9adec6cbb77f7304f24926a96ad"
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T04:14:10.304734+00:00",
+   "fetched_at": "2026-11-06T04:44:17.418350+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
-     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
-     "url": "https://redd.it/1xlu08b",
-     "ups": 4,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
      "image": "https://i.redd.it/s8ktjklfliyh1.png",
@@ -107,52 +100,73 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1194,
+     "title": "pageThrasher",
+     "image": "https://i.redd.it/h3pg1gpsw6yh1.gif",
+     "url": "https://redd.it/1xhl0de",
+     "ups": 375,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "handbookAfterBubbleBurst",
-     "image": "https://i.redd.it/5gvw4cv058yh1.png",
-     "url": "https://redd.it/1xhqpzg",
-     "ups": 167,
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 438,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 173,
+     "title": "whenTheImpossibleMeetsTheScalable",
+     "image": "https://i.redd.it/5o1uya56z6yh1.png",
+     "url": "https://redd.it/1xhl91p",
+     "ups": 6520,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 36,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 667,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 5665,
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 286,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Ain't America great?",
+     "image": "https://i.redd.it/yqg22nkxajzh1.png",
+     "url": "https://redd.it/1xngefk",
+     "ups": 5252,
      "sub": "r/memes"
     },
     {
-     "title": "really got his interest",
-     "image": "https://i.redd.it/1bh27opiyjzh1.png",
-     "url": "https://redd.it/1xnikcz",
-     "ups": 27868,
+     "title": "Maybe it was all a dream",
+     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
+     "url": "https://redd.it/1xnr7oi",
+     "ups": 7396,
      "sub": "r/memes"
     },
     {
-     "title": "It's been an... interesting experience",
-     "image": "https://i.redd.it/mj4flzd07wzh1.png",
-     "url": "https://redd.it/1xozupw",
-     "ups": 12,
+     "title": "Every software update lately",
+     "image": "https://i.redd.it/th8xy6weekzh1.png",
+     "url": "https://redd.it/1xnjx1r",
+     "ups": 1494,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Ed won't know what hit him",
+     "image": "https://i.redd.it/9d4olozfgtzh1.png",
+     "url": "https://redd.it/1xomcdv",
+     "ups": 39,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Guess I'm taking the bus",
+     "image": "https://i.redd.it/22lozkwtotzh1.gif",
+     "url": "https://redd.it/1xonh8q",
+     "ups": 125,
      "sub": "r/memes"
     },
     {
@@ -161,35 +175,13 @@
      "url": "https://redd.it/1xopu4n",
      "ups": 13,
      "sub": "r/memes"
-    },
-    {
-     "title": "I'll see myself out",
-     "image": "https://i.redd.it/wvddzahhhtzh1.png",
-     "url": "https://redd.it/1xomeif",
-     "ups": 9154,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The 2nd Amendment of IT",
-     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
-     "url": "https://redd.it/1xoxjc5",
-     "ups": 38,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T04:14:13.059591+00:00",
+   "fetched_at": "2026-11-06T04:44:19.161761+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump's arch federal approval review",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b510e28ae73",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Films watched more than six times",
@@ -200,33 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Dream public goods wishlist",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7d39a30f0741",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ted Cruz on Hannity",
+     "text": "Trump's arch federal approval review",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bfa69202810",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Childhood villain origin stories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4868e75e5acd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b510e28ae73",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +216,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Childhood villain origin stories",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4868e75e5acd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Authors share books with newcomers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "LIV Golf shuts down",
+     "text": "Saudi fund's Unity buyout talks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0acc7fc1fb33",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea4cf160755e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Erick Erickson's GOP 'weirdos' op-ed",
+     "text": "OpenSSH flaw on musl Linux",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2f854acc860",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1f2e18a3004a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Abdul El-Sayed's Michigan Senate race",
+     "text": "Russell Brand's past left-wing image",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ec62af0bdeff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump declares Oval Office national monument",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ed05fd66b9a",
      "likes": 0,
      "image": ""
     },
@@ -283,41 +283,45 @@
      "text": "Lauren Boebert loses her Colorado House seat",
      "author": "politics ",
      "url": "https://sh.itjust.works/post/69491577",
-     "likes": 123,
+     "likes": 188,
      "image": "https://lemmy.world/pictrs/image/1a1aa78f-5253-4701-8b1d-9df712332047.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Democrats Win in Districts Redrawn in Gerrymandering Efforts Pushed by Trump",
-     "author": "Leopards Ate My Face",
-     "url": "https://lemmy.cafe/post/42244491",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/b29c236a-7d4e-4703-9773-e389f4adcb42.jpeg"
+     "text": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
+     "author": "Progressive Politics",
+     "url": "https://lemmy.world/post/54048052",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/40772a30-2ddb-4db9-aa79-926ab29f9e7c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "me after my banana Runts were laced with fentanyl",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.sdf.org/post/61444252",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/f79e379f-6b70-4bd1-b6b2-81f4117f95c3.png"
+     "text": "Tesla and SpaceX lose over $420B in combined market cap in the two days",
+     "author": "Hacker News",
+     "url": "https://lemmy.bestiver.se/post/1433763",
+     "likes": 14,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "TEXAS IS BLUE NOW",
-     "author": "Political Memes",
-     "url": "https://sh.itjust.works/post/69491251",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/009aeae5-b5b8-4b7d-9d5e-8424078b2d14.webp"
+     "text": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54048053",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/5dafbb50-0688-49d5-b00d-9655369d2492.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T04:14:13.769823+00:00",
+   "fetched_at": "2026-11-06T04:44:20.086398+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why was the picture sent to prison? It was framed.",
+     "text": "What time did the man go to the dentist? Tooth hurt-y.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you teach a kid to climb stairs? There is a step by step guide.",
+     "text": "What is the best way to carve?\r\nWhittle by whittle.",
      "source": "Dad joke"
     },
     {
-     "text": "What creature is smarter than a talking parrot? A spelling bee.",
+     "text": "I used to think I was indecisive, but now I'm not sure.",
      "source": "Dad joke"
     }
    ]
