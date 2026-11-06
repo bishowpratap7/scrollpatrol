@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T21:01:41.559509+00:00",
+ "generated_at": "2026-11-06T21:01:57.452119+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T21:01:36.141399+00:00",
+   "fetched_at": "2026-11-06T21:01:51.812709+00:00",
    "stale": false,
    "items": [
     {
@@ -89,70 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T21:01:37.691391+00:00",
+   "fetched_at": "2026-11-06T21:01:53.006973+00:00",
    "stale": false,
    "items": [
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 176,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 12859,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCompilerBugs",
-     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
-     "url": "https://redd.it/1xk4xh6",
-     "ups": 36,
+     "title": "magicQuotes",
+     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
+     "url": "https://redd.it/1ximxha",
+     "ups": 2410,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1241,
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 378,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 445,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2173,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 43,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1209,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 327,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "It's been an... interesting experience",
-     "image": "https://i.redd.it/mj4flzd07wzh1.png",
-     "url": "https://redd.it/1xozupw",
-     "ups": 21,
-     "sub": "r/memes"
-    },
-    {
-     "title": "[$2.5 trillion wiped out]",
-     "image": "https://i.redd.it/z8e7ud52810i1.gif",
-     "url": "https://redd.it/1xpjm91",
-     "ups": 259,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Maybe it was all a dream",
-     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
-     "url": "https://redd.it/1xnr7oi",
-     "ups": 7661,
+     "title": "Times change",
+     "image": "https://i.redd.it/vrx5gxq58xzh1.png",
+     "url": "https://redd.it/1xp3xnp",
+     "ups": 107,
      "sub": "r/memes"
     },
     {
@@ -163,23 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Guess I'm taking the bus",
-     "image": "https://i.redd.it/22lozkwtotzh1.gif",
-     "url": "https://redd.it/1xonh8q",
-     "ups": 172,
+     "title": "Yea so that\u2019s over",
+     "image": "https://i.redd.it/pbialic3rzzh1.gif",
+     "url": "https://redd.it/1xpccj4",
+     "ups": 11686,
      "sub": "r/memes"
     },
     {
-     "title": "wait what",
-     "image": "https://i.redd.it/0yb1dtmunizh1.png",
-     "url": "https://redd.it/1xndy95",
-     "ups": 65,
-     "sub": "r/dankmemes"
+     "title": "Ram altman aahhhh",
+     "image": "https://i.redd.it/7egnc4j2qszh1.png",
+     "url": "https://redd.it/1xoinm6",
+     "ups": 143,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Let me keep some of my dignity",
+     "image": "https://i.redd.it/hi3solake10i1.png",
+     "url": "https://redd.it/1xpkk8k",
+     "ups": 9,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every year on the wrong month",
+     "image": "https://i.redd.it/c4f8mep00yzh1.png",
+     "url": "https://redd.it/1xp6lgt",
+     "ups": 14,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T21:01:40.288790+00:00",
+   "fetched_at": "2026-11-06T21:01:55.991382+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Shawarma law is coming!",
      "author": "Political Memes",
      "url": "https://lemmy.dbzer0.com/post/78080649",
-     "likes": 46,
+     "likes": 47,
      "image": "https://lemmy.world/pictrs/image/90d3e97b-64ae-41bb-bd7b-de03082d8482.webp"
     },
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T21:01:40.835981+00:00",
+   "fetched_at": "2026-11-06T21:01:56.448817+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a boomerang that won't come back? A stick.",
+     "text": "How do hens stay fit? They always egg-cercise!",
      "source": "Dad joke"
     },
     {
-     "text": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn\u2019t make any cents.",
+     "text": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.",
      "source": "Dad joke"
     },
     {
-     "text": "My New Years resolution is to stop leaving things so late.",
+     "text": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
      "source": "Dad joke"
     }
    ]
