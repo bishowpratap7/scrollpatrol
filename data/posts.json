@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-05T23:42:59.737541+00:00",
+ "generated_at": "2026-11-06T00:13:05.479681+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-05T23:42:55.627856+00:00",
+   "fetched_at": "2026-11-06T00:13:01.808859+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms",
+     "url": "https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/BFowk3HwrUn0jMVPkcVBRBqTLlgtZq61M580DlpozNM.jpeg?width=640&crop=smart&auto=webp&s=506a49dca8e64a16af99285bbae13f78e4de94fd"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,51 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/ukz9le18uszh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5f3f2839686cdf0ff7914b86c32a551af4e25c41"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The leader of a German conservative party is found dead at a Berlin hotel",
-     "url": "https://www.reddit.com/r/news/comments/1xojq0u/the_leader_of_a_german_conservative_party_is/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Perkz terminated from G2 due to yesterday's X post",
-     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xoitjw/perkz_terminated_from_g2_due_to_yesterdays_x_post/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "$2.5 TRILLION has been wiped from US stocks.",
-     "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Married men of Reddit, what's the hardest thing about being a husband?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xonw2g/married_men_of_reddit_whats_the_hardest_thing/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Don\u2019t try this at home. What am I saying, of course you should try it.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xoi2wk/dont_try_this_at_home_what_am_i_saying_of_course/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/dHN1c3JidmJsc3poMVuaPqXWisnGP0onEojPDjWbVfVcKjh8wXsMC4TAuCZt.png?width=320&crop=smart&auto=webp&s=56d66cc1e06de93e84ad001f5730a6eeb23e27ad"
     },
     {
      "source": "Reddit",
@@ -80,113 +44,157 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "The leader of a German conservative party is found dead at a Berlin hotel",
+     "url": "https://www.reddit.com/r/news/comments/1xojq0u/the_leader_of_a_german_conservative_party_is/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "My goodness .",
      "url": "https://www.reddit.com/r/HolUp/comments/1xorvag/my_goodness/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/8vk8zlkeiuzh1.jpeg?width=640&crop=smart&auto=webp&s=f874faaaa872eac1b67262d9e70ca9a462309915"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Perkz terminated from G2 due to yesterday's X post",
+     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xoitjw/perkz_terminated_from_g2_due_to_yesterdays_x_post/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "$2.5 TRILLION has been wiped from US stocks.",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Man frees hare stuck in a fence",
+     "url": "https://www.reddit.com/r/BeAmazed/comments/1xovupm/man_frees_hare_stuck_in_a_fence/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bmY0dzFjcG1hdnpoMcXBa2yj9bF-nJyyI-n2UE7Vly3K8badEuJob8dK6rr5.png?width=640&crop=smart&auto=webp&s=21700eb37151446bb17251849d13c6275f325444"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-05T23:42:56.832323+00:00",
+   "fetched_at": "2026-11-06T00:13:03.095156+00:00",
    "stale": false,
    "items": [
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 662,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 328,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 689,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 125,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 176,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1196,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10092,
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 162,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1183,
+     "title": "thisPythonShitIsSoEasy",
+     "image": "https://i.redd.it/e8ak96gkodyh1.png",
+     "url": "https://redd.it/1xifkge",
+     "ups": 23,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 46,
+     "title": "handbookAfterBubbleBurst",
+     "image": "https://i.redd.it/5gvw4cv058yh1.png",
+     "url": "https://redd.it/1xhqpzg",
+     "ups": 166,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Ed won't know what hit him",
-     "image": "https://i.redd.it/9d4olozfgtzh1.png",
-     "url": "https://redd.it/1xomcdv",
-     "ups": 30,
+     "title": "Maybe it was all a dream",
+     "image": "https://i.redd.it/dv6qcm4a7mzh1.png",
+     "url": "https://redd.it/1xnr7oi",
+     "ups": 7273,
      "sub": "r/memes"
     },
     {
-     "title": "The 2nd Amendment of IT",
-     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
-     "url": "https://redd.it/1xoxjc5",
-     "ups": 6,
+     "title": "Ram altman aahhhh",
+     "image": "https://i.redd.it/7egnc4j2qszh1.png",
+     "url": "https://redd.it/1xoinm6",
+     "ups": 94,
      "sub": "r/memes"
     },
     {
-     "title": "And it's just Wednesday ...",
-     "image": "https://i.redd.it/queyjamb6ozh1.gif",
-     "url": "https://redd.it/1xo1jdg",
-     "ups": 138,
+     "title": "Every software update lately",
+     "image": "https://i.redd.it/th8xy6weekzh1.png",
+     "url": "https://redd.it/1xnjx1r",
+     "ups": 1488,
      "sub": "r/memes"
     },
     {
-     "title": "Yeah, he went there",
-     "image": "https://i.redd.it/9hthed72dmzh1.gif",
-     "url": "https://redd.it/1xns1m9",
-     "ups": 141,
+     "title": "why I gave up dating",
+     "image": "https://i.redd.it/bmvmazzw9ozh1.png",
+     "url": "https://redd.it/1xo20zx",
+     "ups": 4664,
      "sub": "r/memes"
     },
     {
-     "title": "Guess I'm taking the bus",
-     "image": "https://i.redd.it/22lozkwtotzh1.gif",
-     "url": "https://redd.it/1xonh8q",
-     "ups": 77,
+     "title": "Hideo Kojima",
+     "image": "https://i.redd.it/ebqvtpdx7tzh1.png",
+     "url": "https://redd.it/1xol1m1",
+     "ups": 130,
      "sub": "r/memes"
     },
     {
-     "title": "broo is gonna steal every ram",
-     "image": "https://i.redd.it/v9jbncinmszh1.png",
-     "url": "https://redd.it/1xoi95k",
-     "ups": 14,
+     "title": "Might wanna close that curtain",
+     "image": "https://i.redd.it/n80uebj1qozh1.gif",
+     "url": "https://redd.it/1xo43hr",
+     "ups": 288,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-05T23:42:58.420600+00:00",
+   "fetched_at": "2026-11-06T00:13:04.140759+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Corporate money ballot measures",
+     "text": "Joint List backs Eisenkot for government",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0b377e400fc6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d4049a6717b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "One actor movie marathon prompt",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce21c7867e8d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "One actor movie marathon prompt",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce21c7867e8d",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Curry Barker pitches R-rated Indiana Jones",
+     "text": "Your role in a heist",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9b20c42a22c4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Salon shuts down",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3e8d9271275",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
      "likes": 0,
      "image": ""
     },
@@ -248,6 +248,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Bluesky traffic surges to double",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82b11ef28b78",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Guy Fawkes Night celebrations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9b5fa84b6f8",
@@ -256,109 +264,101 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bank of England rate decision",
+     "text": "Flanagan calls to replace Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77cccde8eca8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/590a7b849ea4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Early 2028 election speculation",
+     "text": "Southern states voting data",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/046b9951a23c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/abcfbe858397",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump meets Putin's envoy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c9a371cb86bc",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Hegseth\u2019s Wife Was Paid by Consulting Firm Whose Clients Include Lockheed Martin",
-     "author": "News",
-     "url": "https://lemmy.ca/post/73433953",
-     "likes": 50,
-     "image": "https://lemmy.world/pictrs/image/2c1ffab6-4b47-42be-b94b-053aa9d6a117.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "GOP kicks off bid to throw out votes in Mississippi Senate race",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54039574",
-     "likes": 76,
-     "image": "https://lemmy.world/pictrs/image/3f210f1c-234f-4008-ba58-d300efece349.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Democrat Who Dropped Out Still Beat Republican in Deep Trump Country",
      "author": "politics ",
      "url": "https://lemmy.world/post/54040108",
-     "likes": 25,
+     "likes": 68,
      "image": "https://lemmy.world/pictrs/image/7b685dec-6d88-4b5c-84db-9f4bb4aa7c9d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "TIL that some dude in California running a 3-person company got voters to give him $4.2 billion by authoring a ballot measure, which passed",
-     "author": "Today I Learned",
-     "url": "https://programming.dev/post/59026691",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/4bf3b198-5c74-4ad6-93f4-8c9a95185aa5.jpeg"
+     "text": "Hegseth\u2019s Wife Was Paid by Consulting Firm Whose Clients Include Lockheed Martin",
+     "author": "News",
+     "url": "https://lemmy.ca/post/73433953",
+     "likes": 80,
+     "image": "https://lemmy.world/pictrs/image/2c1ffab6-4b47-42be-b94b-053aa9d6a117.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Since we're doing lap cat shots",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54040227",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/10bf5d91-ae8a-4dc0-ae06-d59415584191.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "GOP kicks off bid to throw out votes in Mississippi Senate race",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54039574",
+     "likes": 101,
+     "image": "https://lemmy.world/pictrs/image/3f210f1c-234f-4008-ba58-d300efece349.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-05T23:42:59.315141+00:00",
+   "fetched_at": "2026-11-06T00:13:05.045628+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "What kind of music do planets listen to? Nep-tunes.",
+     "text": "A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.",
      "source": "Dad joke"
     },
     {
-     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+     "text": "How does Darth Vader like his toast? On the dark side.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you steal a coat? You jacket.",
+     "text": "I got an A on my origami assignment when I turned my paper into my teacher",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
