@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-06T22:02:11.680867+00:00",
+ "generated_at": "2026-11-06T22:32:53.543443+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T22:02:06.521304+00:00",
+   "fetched_at": "2026-11-06T22:32:13.283255+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/0riqb58w6xzh1.png?width=640&crop=smart&auto=webp&s=f4a0db27f7295c7ed9d01f0323883cfaac14ee51"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "A fan gets ejected for passing the ball to the referee.\ud83c\udfc0",
-     "url": "https://www.reddit.com/r/whoathatsinteresting/comments/1xp8thr/a_fan_gets_ejected_for_passing_the_ball_to_the/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZWV5ZmhrM25reXpoMXg3jXdpuB5Kjeus-2-Hwnf-FiEY-j6IgDR58ZUtAACV.png?width=320&crop=smart&auto=webp&s=a2d4c8538c0aead94c703a91ea9e131d6b612857"
     },
     {
      "source": "Reddit",
@@ -35,11 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
+     "title": "A fan gets ejected for passing the ball to the referee.\ud83c\udfc0",
+     "url": "https://www.reddit.com/r/whoathatsinteresting/comments/1xp8thr/a_fan_gets_ejected_for_passing_the_ball_to_the/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
+     "image": "https://external-preview.redd.it/ZWV5ZmhrM25reXpoMXg3jXdpuB5Kjeus-2-Hwnf-FiEY-j6IgDR58ZUtAACV.png?width=320&crop=smart&auto=webp&s=a2d4c8538c0aead94c703a91ea9e131d6b612857"
     },
     {
      "source": "Reddit",
@@ -71,95 +71,88 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "He is only 18",
-     "url": "https://www.reddit.com/r/sadposting/comments/1xp58h4/he_is_only_18/",
+     "title": "\"Centrist\"",
+     "url": "https://www.reddit.com/r/comics/comments/1xpkw7b/centrist/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/MW9mcTZuaDJseHpoMftfYKCyam87WtFaBcMrH2cy3kL4lpcSaa1ZcOxATIKi.png?width=640&crop=smart&auto=webp&s=609a0ac0976101934bc738d6b210383f871d5651"
+     "image": "https://preview.redd.it/lic4uo9ug10i1.png?width=640&crop=smart&auto=webp&s=9272a0b36ed2e273cf3477535eb2f22692abe8c5"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\ud83d\udd25Cobra hatchlings guarded by mother",
-     "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xp8slj/cobra_hatchlings_guarded_by_mother/",
+     "title": "Florida next",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xpocf7/florida_next/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/c2FrM2duOTlxeXpoMf4xKvsrk8_2INBwsjPtuE8CGRE1g8yIOU8bI8J-LHi0.png?width=320&crop=smart&auto=webp&s=5bfb1112f03cb2bce27b3ee0a61b57407244250f"
+     "image": "https://preview.redd.it/o5d0yxjt520i1.jpeg?width=640&crop=smart&auto=webp&s=ccea369a8f0ae136976839414f6ba8b564a705e0"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T22:02:07.907718+00:00",
+   "fetched_at": "2026-11-06T22:32:49.405375+00:00",
    "stale": false,
    "items": [
     {
-     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
-     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
-     "url": "https://redd.it/1xlu08b",
-     "ups": 4,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 13797,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 141,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 677,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2410,
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 1551,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6123,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1316,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 461,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 961,
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1263,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 5939,
+     "title": "genuinely me",
+     "image": "https://i.redd.it/s0id0twsm10i1.png",
+     "url": "https://redd.it/1xplqtr",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
-     "title": "There is only loneliness there",
-     "image": "https://i.redd.it/45pyr7sc910i1.png",
-     "url": "https://redd.it/1xpjtrm",
-     "ups": 361,
+     "title": "hate this but it's true",
+     "image": "https://i.redd.it/w15dztzhaxzh1.png",
+     "url": "https://redd.it/1xp462c",
+     "ups": 5418,
      "sub": "r/memes"
     },
     {
-     "title": "Born Slippy",
-     "image": "https://i.redd.it/ixjkvudc4xzh1.png",
-     "url": "https://redd.it/1xp3ksa",
-     "ups": 2109,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Times change",
-     "image": "https://i.redd.it/vrx5gxq58xzh1.png",
-     "url": "https://redd.it/1xp3xnp",
-     "ups": 109,
+     "title": "Hideo Kojima",
+     "image": "https://i.redd.it/ebqvtpdx7tzh1.png",
+     "url": "https://redd.it/1xol1m1",
+     "ups": 177,
      "sub": "r/memes"
     },
     {
@@ -170,16 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Almost 20 years in the making, but now a cereal exists.",
-     "image": "https://i.redd.it/tckkw0d1xvzh1.png",
-     "url": "https://redd.it/1xoyo03",
-     "ups": 23,
+     "title": "It's been an... interesting experience",
+     "image": "https://i.redd.it/mj4flzd07wzh1.png",
+     "url": "https://redd.it/1xozupw",
+     "ups": 20,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Let me keep some of my dignity",
+     "image": "https://i.redd.it/hi3solake10i1.png",
+     "url": "https://redd.it/1xpkk8k",
+     "ups": 13,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T22:02:10.146914+00:00",
+   "fetched_at": "2026-11-06T22:32:52.124809+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen opposes Schumer as leader",
+     "text": "Trump picks Miller as chief of staff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d4e0d9ec7a1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/480a382c2368",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Your role in a heist",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand trial",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "OpenSSH flaw on musl Linux",
+     "text": "Your role in a heist",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1f2e18a3004a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump picks Miller as chief of staff",
+     "text": "Infant dies of measles in Wisconsin",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/480a382c2368",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/17fa38b5873e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "October jobs report beats forecasts",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Early 2028 election speculation",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/046b9951a23c",
      "likes": 0,
      "image": ""
     },
@@ -280,76 +280,76 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "Pop pop splash.",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54078742",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/917d3bb5-24c7-4fda-9f71-dc158a0dcd35.png"
-    },
-    {
-     "kind": "Lemmy post",
      "text": "*three days",
      "author": "Political Memes",
      "url": "https://lemmy.world/post/54079016",
-     "likes": 35,
+     "likes": 98,
      "image": "https://lemmy.world/pictrs/image/95942f64-6b67-44d1-b36a-4446df075593.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "And Make It A Yummy One",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54078754",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/c0879536-04e7-478f-a531-403367e06251.jpeg"
+     "text": "Pop pop splash.",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54078742",
+     "likes": 173,
+     "image": "https://lemmy.world/pictrs/image/917d3bb5-24c7-4fda-9f71-dc158a0dcd35.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Tell me about your day",
-     "author": "Comic Strips",
-     "url": "https://lemmy.zip/post/74561764",
-     "likes": 45,
-     "image": "https://lemmy.zip/pictrs/image/8b5bf43c-dff3-4a7b-b433-aae765f2c903.avif"
+     "text": "He do an big stretch :3",
+     "author": "cats",
+     "url": "https://piefed.zeromedia.vip/c/cat/p/592333/he-do-an-big-stretch-3",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/318bd779-60f7-4f80-8f89-eeea39b1ab95.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Urban planner Nithya Raman elected mayor of Los Angeles \ud83e\udd73\ud83c\udf89",
+     "author": "Fuck Cars",
+     "url": "https://lemmy.zip/post/74563597",
+     "likes": 19,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T22:02:11.041120+00:00",
+   "fetched_at": "2026-11-06T22:32:52.811142+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Breaking news! Energizer Bunny arrested \u2013 charged with battery.",
+     "text": "Why was Santa's little helper feeling depressed? Because he has low elf esteem.\n",
      "source": "Dad joke"
     },
     {
-     "text": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
+     "text": "What kind of music do planets listen to? Nep-tunes.",
      "source": "Dad joke"
     },
     {
-     "text": "What type of music do balloons hate? Pop music!",
+     "text": "I used to work in a shoe recycling shop. It was sole destroying.",
      "source": "Dad joke"
     }
    ]
