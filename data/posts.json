@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T18:31:03.721815+00:00",
+ "generated_at": "2026-11-06T19:01:10.438174+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T18:30:58.646825+00:00",
+   "fetched_at": "2026-11-06T19:01:05.122414+00:00",
    "stale": false,
    "items": [
     {
@@ -53,11 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "I asked a 70yr old lady for a review of my cafe",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpgfd3/i_asked_a_70yr_old_lady_for_a_review_of_my_cafe/",
+     "title": "Bombshell Transcript Unsealed: Government Lawyer Confirms U.S. Plans to Remove People to Iran, Acknowledging They Will Face Potential Death",
+     "url": "https://www.reddit.com/r/politics/comments/1xphiia/bombshell_transcript_unsealed_government_lawyer/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/5almv1v6m00i1.jpeg?width=640&crop=smart&auto=webp&s=66c7e81d828b680dae19799459e27ef313c0f1cf"
+     "image": "https://external-preview.redd.it/0ifX3vCdZfZrGaoi2MWQu9zBUdQozEp76ILojV58gh4.jpeg?width=640&crop=smart&auto=webp&s=8d6d6c701caaa24652eed888dde68f28b8400f2f"
     },
     {
      "source": "Reddit",
@@ -89,70 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T18:30:59.948977+00:00",
+   "fetched_at": "2026-11-06T19:01:06.463770+00:00",
    "stale": false,
    "items": [
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2173,
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 165,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySourceCodeLiterally",
-     "image": "https://i.redd.it/x47p93go5eyh1.png",
-     "url": "https://redd.it/1xihblk",
-     "ups": 328,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 41,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "askedSixteenLlmsForAPieChartOfPacManOnlyFiveGotTheJoke",
-     "image": "https://i.redd.it/80u3szgfy00i1.png",
-     "url": "https://redd.it/1xpi7m2",
-     "ups": 5,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 176,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1206,
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 132,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2411,
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 74,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Guess I\u2019ll have to develop a personality now",
-     "image": "https://i.redd.it/loi2va6o200i1.gif",
-     "url": "https://redd.it/1xpdutu",
-     "ups": 354,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 672,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Every year on the wrong month",
+     "image": "https://i.redd.it/c4f8mep00yzh1.png",
+     "url": "https://redd.it/1xp6lgt",
+     "ups": 14,
      "sub": "r/memes"
     },
     {
-     "title": "Ed won't know what hit him",
-     "image": "https://i.redd.it/9d4olozfgtzh1.png",
-     "url": "https://redd.it/1xomcdv",
-     "ups": 43,
+     "title": "hate this but it's true",
+     "image": "https://i.redd.it/w15dztzhaxzh1.png",
+     "url": "https://redd.it/1xp462c",
+     "ups": 4804,
      "sub": "r/memes"
     },
     {
-     "title": "Times change",
-     "image": "https://i.redd.it/vrx5gxq58xzh1.png",
-     "url": "https://redd.it/1xp3xnp",
-     "ups": 96,
+     "title": "The 2nd Amendment of IT",
+     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
+     "url": "https://redd.it/1xoxjc5",
+     "ups": 56,
      "sub": "r/memes"
     },
     {
-     "title": "Its not looking good brev",
-     "image": "https://i.redd.it/k8sa760vptzh1.png",
-     "url": "https://redd.it/1xonmou",
-     "ups": 43,
+     "title": "Hideo Kojima",
+     "image": "https://i.redd.it/ebqvtpdx7tzh1.png",
+     "url": "https://redd.it/1xol1m1",
+     "ups": 177,
      "sub": "r/memes"
     },
     {
@@ -163,23 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "I love him so much! I wanna be just like him!",
-     "image": "https://i.redd.it/efurvlwiz00i1.png",
-     "url": "https://redd.it/1xpisnl",
-     "ups": 0,
+     "title": "Born Slippy",
+     "image": "https://i.redd.it/ixjkvudc4xzh1.png",
+     "url": "https://redd.it/1xp3ksa",
+     "ups": 1796,
      "sub": "r/memes"
-    },
-    {
-     "title": "Mixed Signals at the Club",
-     "image": "https://i.redd.it/2v5y3qwqp7zh1.gif",
-     "url": "https://redd.it/1xlz7dx",
-     "ups": 144,
-     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T18:31:02.431988+00:00",
+   "fetched_at": "2026-11-06T19:01:09.053102+00:00",
    "stale": false,
    "items": [
     {
@@ -187,22 +187,6 @@
      "text": "Tesla halts Cybertruck production",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Van Hollen opposes Schumer as leader",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d4e0d9ec7a1",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +200,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Van Hollen opposes Schumer as leader",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d4e0d9ec7a1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand trial",
+     "text": "Texas Senate race results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/de44fc782eab",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "October jobs report beats forecasts",
+     "text": "Restaurant explains pineapple chef's firing",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8035f174f0bf",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Restaurant explains pineapple chef's firing",
+     "text": "Bank of England rate decision",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8035f174f0bf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77cccde8eca8",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +272,26 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Amy Acton declines Ramaswamy's call",
+     "text": "Houston police stop alerting ICE",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bf5d340e2eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0aa72b047374",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Ann Coulter's not happy",
+     "author": "Political Memes",
+     "url": "https://sh.itjust.works/post/69522760",
+     "likes": 53,
+     "image": "https://lemmy.world/pictrs/image/97305e2f-d2e5-45db-88ff-9a817548ccdd.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Fuck you dude",
      "author": "People Twitter",
      "url": "https://lemy.lol/post/73865974",
-     "likes": 42,
+     "likes": 95,
      "image": "https://lemmy.world/pictrs/image/9e807686-63a6-4d7c-a99d-8fbe31411b69.jpeg"
     },
     {
@@ -291,33 +299,25 @@
      "text": "Lauren Boebert Cries Election Fraud as She Trails Behind Democrat",
      "author": "politics ",
      "url": "https://lemmy.world/post/54071873",
-     "likes": 35,
+     "likes": 75,
      "image": "https://lemmy.world/pictrs/image/a8e2b965-209f-49c7-ab55-4e2ee4c292a2.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Before and after the 2026 midterms: Georgia's statewide officers",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54071104",
-     "likes": 87,
-     "image": "https://lemmy.world/pictrs/image/8f69b58d-888e-4a8f-b066-9ed8968fb188.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Add it to the platform",
      "author": "Political Memes",
      "url": "https://piefed.world/c/politicalmemes/p/1517341/add-it-to-the-platform",
-     "likes": 11,
+     "likes": 29,
      "image": "https://lemmy.world/pictrs/image/fa44ee11-3f16-4c50-974d-d1551b3c7146.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T18:31:03.030302+00:00",
+   "fetched_at": "2026-11-06T19:01:09.702569+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
@@ -325,40 +325,40 @@
      "source": "Programming joke"
     },
     {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
      "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I wanted to be a tailor but I didn't suit the job",
+     "text": "To the guy who invented zero... thanks for nothing.",
      "source": "Dad joke"
     },
     {
-     "text": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
+     "text": "Why are basketball players messy eaters? Because they are always dribbling.",
      "source": "Dad joke"
     },
     {
-     "text": "Why is the ocean always blue? Because the shore never waves back.",
+     "text": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"\r\n\"Pop,\" goes the weasel.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
