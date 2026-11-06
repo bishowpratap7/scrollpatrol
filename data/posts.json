@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T09:45:48.759873+00:00",
+ "generated_at": "2026-11-06T10:15:54.195590+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T09:45:44.384592+00:00",
+   "fetched_at": "2026-11-06T10:15:50.166601+00:00",
    "stale": false,
    "items": [
     {
@@ -13,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/ukz9le18uszh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=5f3f2839686cdf0ff7914b86c32a551af4e25c41"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Fan gets ejected for passing the ball at the referee. Thoughts on this?",
+     "url": "https://www.reddit.com/r/sportsgossips/comments/1xoxi6j/fan_gets_ejected_for_passing_the_ball_at_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/eGxkOXZkeXJudnpoMdtY9dmF064IshRiQQ_cSfoaiKe4u13T16-qkOeSLNMk.png?width=320&crop=smart&auto=webp&s=08dcbc61b1f67936dd38385a066c45f29f971557"
     },
     {
      "source": "Reddit",
@@ -35,38 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Me irl",
-     "url": "https://www.reddit.com/r/me_irl/comments/1xp1gtq/me_irl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/4ulxqmmalwzh1.jpeg?width=640&crop=smart&auto=webp&s=b1d6482332dcea5470255f77d6a40cbacd233dc2"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Fan gets ejected for passing the ball at the referee. Thoughts on this?",
-     "url": "https://www.reddit.com/r/sportsgossips/comments/1xoxi6j/fan_gets_ejected_for_passing_the_ball_at_the/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/eGxkOXZkeXJudnpoMdtY9dmF064IshRiQQ_cSfoaiKe4u13T16-qkOeSLNMk.png?width=320&crop=smart&auto=webp&s=08dcbc61b1f67936dd38385a066c45f29f971557"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Don\u2019t try this at home. What am I saying, of course you should try it.",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xoi2wk/dont_try_this_at_home_what_am_i_saying_of_course/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dHN1c3JidmJsc3poMVuaPqXWisnGP0onEojPDjWbVfVcKjh8wXsMC4TAuCZt.png?width=320&crop=smart&auto=webp&s=56d66cc1e06de93e84ad001f5730a6eeb23e27ad"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Massie Says He Has Enough Signatures to Force Vote on Epstein Files",
-     "url": "https://www.reddit.com/r/anticapitalism/comments/1xp1i4s/massie_says_he_has_enough_signatures_to_force/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/sr9I2IQtwQ6lxZpERPtMmCPc1JW-YH9t9aGJhHo3ymA.jpeg?width=640&crop=smart&auto=webp&s=827f2f42e01ab8da401bce71d97e3f0dc0514990"
     },
     {
      "source": "Reddit",
@@ -80,86 +62,97 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Steph Curry poses to the camera near Klay Thompson and points at him",
-     "url": "https://www.reddit.com/r/nba/comments/1xp4sfp/steph_curry_poses_to_the_camera_near_klay/",
+     "title": "Me irl",
+     "url": "https://www.reddit.com/r/me_irl/comments/1xp1gtq/me_irl/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/Z6HoI5TO2-GUucC5XpdravPw2myLx-3IP98HySV-mA8.jpeg?width=640&crop=smart&auto=webp&s=0b72ae8b97dd36f133d664df01fe67c4fcdcef30"
+     "image": "https://preview.redd.it/4ulxqmmalwzh1.jpeg?width=640&crop=smart&auto=webp&s=b1d6482332dcea5470255f77d6a40cbacd233dc2"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Massie Says He Has Enough Signatures to Force Vote on Epstein Files",
+     "url": "https://www.reddit.com/r/anticapitalism/comments/1xp1i4s/massie_says_he_has_enough_signatures_to_force/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/sr9I2IQtwQ6lxZpERPtMmCPc1JW-YH9t9aGJhHo3ymA.jpeg?width=640&crop=smart&auto=webp&s=827f2f42e01ab8da401bce71d97e3f0dc0514990"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "$2.5 TRILLION has been wiped from US stocks.",
+     "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg?width=640&crop=smart&auto=webp&s=f932434ab201fdfbba7e52386f3f7c750cea620f"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T09:45:45.616083+00:00",
+   "fetched_at": "2026-11-06T10:15:51.339387+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 5405,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "wheresTheLove",
      "image": "https://i.redd.it/aas3ndrapozh1.png",
      "url": "https://redd.it/1xo40he",
-     "ups": 1273,
+     "ups": 1275,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 170,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 34,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "mySourceCodeLiterally",
-     "image": "https://i.redd.it/x47p93go5eyh1.png",
-     "url": "https://redd.it/1xihblk",
-     "ups": 331,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 374,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 71,
+     "title": "heapBig",
+     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
+     "url": "https://redd.it/1xihrez",
+     "ups": 222,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 10099,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everyNetworkAPIOnThePlanetToday",
-     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
-     "url": "https://redd.it/1xoir0t",
-     "ups": 666,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I'll see myself out",
-     "image": "https://i.redd.it/wvddzahhhtzh1.png",
-     "url": "https://redd.it/1xomeif",
-     "ups": 11898,
+     "title": "Literally me pretending to be happy with my life online",
+     "image": "https://i.redd.it/9stqzrchctzh1.png",
+     "url": "https://redd.it/1xolp35",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "really got his interest",
-     "image": "https://i.redd.it/1bh27opiyjzh1.png",
-     "url": "https://redd.it/1xnikcz",
-     "ups": 28156,
+     "title": "Hideo Kojima",
+     "image": "https://i.redd.it/ebqvtpdx7tzh1.png",
+     "url": "https://redd.it/1xol1m1",
+     "ups": 159,
      "sub": "r/memes"
     },
     {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 5804,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Love me a feminist king",
-     "image": "https://i.redd.it/d2v9gu4hutzh1.png",
-     "url": "https://redd.it/1xoobb3",
-     "ups": 22,
+     "title": "Might wanna close that curtain",
+     "image": "https://i.redd.it/n80uebj1qozh1.gif",
+     "url": "https://redd.it/1xo43hr",
+     "ups": 336,
      "sub": "r/memes"
     },
     {
@@ -170,23 +163,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "made this with pure spite and hatred in my heart",
-     "image": "https://i.redd.it/bep6mzslmlzh1.png",
-     "url": "https://redd.it/1xnodzi",
-     "ups": 2574,
+     "title": "I just really like little guys",
+     "image": "https://i.redd.it/08z2kmo5gozh1.png",
+     "url": "https://redd.it/1xo2ukx",
+     "ups": 5804,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Almost 20 years in the making, but now a cereal exists.",
+     "image": "https://i.redd.it/tckkw0d1xvzh1.png",
+     "url": "https://redd.it/1xoyo03",
+     "ups": 15,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T09:45:47.321799+00:00",
+   "fetched_at": "2026-11-06T10:15:52.993946+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand's past left-wing image",
+     "text": "Childhood villain origin stories",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4868e75e5acd",
      "likes": 0,
      "image": ""
     },
@@ -200,57 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Your role in a heist",
+     "text": "Russell Brand's past left-wing image",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Israel's war in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Childhood villain origin stories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4868e75e5acd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Saudi fund's Unity buyout talks",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea4cf160755e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "NYC shelter dogs need fosters",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7095a3c48372",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
      "likes": 0,
      "image": ""
     },
@@ -264,64 +216,116 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bomb threats divert European flights",
+     "text": "Trump's arch federal approval review",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a43efea0ae49",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b510e28ae73",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US data center ban votes",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "pet",
-     "author": "Comic Strips",
-     "url": "https://lemmy.blahaj.zone/post/50152487",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/d693c772-1a41-4ef3-a2ee-9f897fdb1379.webp"
+     "kind": "Bluesky trend",
+     "text": "Saudi fund's Unity buyout talks",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea4cf160755e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Authors share books with newcomers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Your role in a heist",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reportedly hits Russian bot farms",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1b0ddc66e08c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Zealand general election campaign",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cd9e77152281",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "The UK has its own network of Flock-style AI cameras. So where\u2019s the outrage?",
      "author": "United Kingdom",
      "url": "https://leminal.space/post/41683569",
-     "likes": 11,
+     "likes": 24,
      "image": "https://lemmy.world/pictrs/image/aec58042-c431-4119-b097-b2ecae35c309.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Unbothered",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.today/post/62862207",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/1f6e66f2-3828-4d59-af2c-92dfaf9c4b4b.jpeg"
+     "text": "pet",
+     "author": "Comic Strips",
+     "url": "https://lemmy.blahaj.zone/post/50152487",
+     "likes": 94,
+     "image": "https://lemmy.world/pictrs/image/d693c772-1a41-4ef3-a2ee-9f897fdb1379.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
-     "author": "World News",
-     "url": "https://lemmy.wtf/post/51570562",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/c743bd1e-cea1-4606-9c09-09f9ca54471a.jpeg"
+     "text": "AI teddy makes unprompted 'I can't help with killing you' remark",
+     "author": "United Kingdom",
+     "url": "https://lemmy.world/post/54057008",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/6b118a92-4e12-4eb2-85a0-0395b2d8239e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Perks of working from home",
+     "author": "Coffee",
+     "url": "https://lemmy.world/post/54057117",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/32b392e6-4d82-4f1d-9c62-15afd696efcc.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T09:45:48.204367+00:00",
+   "fetched_at": "2026-11-06T10:15:53.685075+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
+     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "Yesterday I confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia.",
+     "text": "What do you get when you cross a pig and a pineapple? A porky pine",
      "source": "Dad joke"
     },
     {
-     "text": "A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.",
+     "text": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
