@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T11:46:14.071785+00:00",
+ "generated_at": "2026-11-06T11:46:29.517419+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-06T11:46:09.976745+00:00",
+   "fetched_at": "2026-11-06T11:46:24.413412+00:00",
    "stale": false,
    "items": [
     {
@@ -89,42 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-06T11:46:11.173909+00:00",
+   "fetched_at": "2026-11-06T11:46:25.760337+00:00",
    "stale": false,
    "items": [
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1071,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 71,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "refactoringComplete",
-     "image": "https://i.redd.it/pkmrs4913fzh1.png",
-     "url": "https://redd.it/1xmw6nu",
-     "ups": 5349,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 810,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 374,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,38 +107,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Almost 20 years in the making, but now a cereal exists.",
-     "image": "https://i.redd.it/tckkw0d1xvzh1.png",
-     "url": "https://redd.it/1xoyo03",
-     "ups": 16,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 34,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 126,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 177,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 810,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Literally me pretending to be happy with my life online",
+     "image": "https://i.redd.it/9stqzrchctzh1.png",
+     "url": "https://redd.it/1xolp35",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
-     "title": "Times change",
-     "image": "https://i.redd.it/vrx5gxq58xzh1.png",
-     "url": "https://redd.it/1xp3xnp",
-     "ups": 52,
+     "title": "really got his interest",
+     "image": "https://i.redd.it/1bh27opiyjzh1.png",
+     "url": "https://redd.it/1xnikcz",
+     "ups": 28226,
      "sub": "r/memes"
     },
     {
-     "title": "made this with pure spite and hatred in my heart",
-     "image": "https://i.redd.it/bep6mzslmlzh1.png",
-     "url": "https://redd.it/1xnodzi",
-     "ups": 2583,
+     "title": "RAM Franks diary",
+     "image": "https://i.redd.it/5f3at4z84uzh1.png",
+     "url": "https://redd.it/1xopu4n",
+     "ups": 18,
      "sub": "r/memes"
     },
     {
-     "title": "Joy Vs Order",
-     "image": "https://i.redd.it/u67v967xkpzh1.png",
-     "url": "https://redd.it/1xo7q0u",
-     "ups": 193,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'll see myself out",
-     "image": "https://i.redd.it/wvddzahhhtzh1.png",
-     "url": "https://redd.it/1xomeif",
-     "ups": 12432,
+     "title": "I know that mine look trash but atleast it\u2019s good",
+     "image": "https://i.redd.it/hrpp385u9uzh1.gif",
+     "url": "https://redd.it/1xoqlvs",
+     "ups": 210,
      "sub": "r/memes"
     },
     {
@@ -175,11 +168,18 @@
      "url": "https://redd.it/1xo43hr",
      "ups": 344,
      "sub": "r/memes"
+    },
+    {
+     "title": "Born Slippy",
+     "image": "https://i.redd.it/ixjkvudc4xzh1.png",
+     "url": "https://redd.it/1xp3ksa",
+     "ups": 536,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-06T11:46:12.947279+00:00",
+   "fetched_at": "2026-11-06T11:46:27.874066+00:00",
    "stale": false,
    "items": [
     {
@@ -313,7 +313,7 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-06T11:46:13.557288+00:00",
+   "fetched_at": "2026-11-06T11:46:28.453948+00:00",
    "stale": false,
    "items": [
     {
@@ -321,35 +321,35 @@
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How does a penguin build it\u2019s house? Igloos it together.",
+     "text": "Have you heard about corduroy pillows?  They're making headlines!",
      "source": "Dad joke"
     },
     {
-     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
+     "text": "What do you call a careful wolf? Aware wolf.",
      "source": "Dad joke"
     },
     {
-     "text": "How does a scientist freshen their breath? With experi-mints!",
+     "text": "The best time on a clock is 6:30--hands down.",
      "source": "Dad joke"
     }
    ]
