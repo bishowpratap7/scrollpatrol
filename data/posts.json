@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-07T17:38:07.664821+00:00",
+ "generated_at": "2026-11-07T18:08:12.659764+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T17:38:04.023276+00:00",
+   "fetched_at": "2026-11-07T18:08:09.066870+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Who\u2019s the best?",
+     "url": "https://www.reddit.com/r/BBQ/comments/1xq5slw/whos_the_best/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/67plumiou60i1.jpeg?width=640&crop=smart&auto=webp&s=d92a6aaa9b71cdf2d579a2bc50978e55dd58378d"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,6 +22,24 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meanwhile Gmail on the other hand",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xq88kg/meanwhile_gmail_on_the_other_hand/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/0awtesoaf70i1.jpeg?width=640&crop=smart&auto=webp&s=f20eca281ccda18633a224066a7601083e3bcf9a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What my daughter wanted vs what my son made",
+     "url": "https://www.reddit.com/r/ExpectationVsReality/comments/1xqagju/what_my_daughter_wanted_vs_what_my_son_made/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/iwadbwa7w70i1.jpeg?width=140&height=140&auto=webp&s=d38c2c0598c17dc4a7aab26b516ed226575935b6"
     },
     {
      "source": "Reddit",
@@ -35,29 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Who\u2019s the best?",
-     "url": "https://www.reddit.com/r/BBQ/comments/1xq5slw/whos_the_best/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/67plumiou60i1.jpeg?width=640&crop=smart&auto=webp&s=d92a6aaa9b71cdf2d579a2bc50978e55dd58378d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "What is the best punchline to the old \"I like my men/women like I like my coffee..\" line?",
      "url": "https://www.reddit.com/r/AskReddit/comments/1xq339s/what_is_the_best_punchline_to_the_old_i_like_my/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Meanwhile Gmail on the other hand",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xq88kg/meanwhile_gmail_on_the_other_hand/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/0awtesoaf70i1.jpeg?width=640&crop=smart&auto=webp&s=f20eca281ccda18633a224066a7601083e3bcf9a"
     },
     {
      "source": "Reddit",
@@ -76,27 +85,18 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Stephen Miller's Wife Blames GOP Midterm Losses on Moms, Then Admits She Didn't Vote Herself",
-     "url": "https://www.reddit.com/r/politics/comments/1xq7urh/stephen_millers_wife_blames_gop_midterm_losses_on/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/feoONQ5bz3Nu1Z4YQoH_acg0l6XNs_EQltMN8n_V2lE.png?width=640&crop=smart&auto=webp&s=13f18addfbf0cd784eaaf539bb7718283b2c827e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T17:38:04.665811+00:00",
+   "fetched_at": "2026-11-07T18:08:09.764890+00:00",
    "stale": false,
    "items": [
     {
-     "title": "modernCompilerBugs",
-     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
-     "url": "https://redd.it/1xk4xh6",
-     "ups": 36,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 21,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,17 +107,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10087,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 13023,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 570,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 688,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 5633,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,89 +135,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "It only has instructions for frozen...",
-     "image": "https://i.redd.it/ou8r83hc230i1.png",
-     "url": "https://redd.it/1xpshen",
-     "ups": 22,
-     "sub": "r/memes"
-    },
-    {
-     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
-     "image": "https://i.redd.it/bzadue12g60i1.png",
-     "url": "https://redd.it/1xq4cmy",
-     "ups": 1008,
-     "sub": "r/memes"
-    },
-    {
-     "title": "alright...",
-     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
-     "url": "https://redd.it/1xq0yn7",
-     "ups": 95,
-     "sub": "r/memes"
-    },
-    {
-     "title": "genuinely me",
-     "image": "https://i.redd.it/s0id0twsm10i1.png",
-     "url": "https://redd.it/1xplqtr",
-     "ups": 13,
+     "title": "Swoozie, let's break up",
+     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
+     "url": "https://redd.it/1xprxm7",
+     "ups": 5978,
      "sub": "r/memes"
     },
     {
      "title": "Guess I\u2019ll have to develop a personality now",
      "image": "https://i.redd.it/loi2va6o200i1.gif",
      "url": "https://redd.it/1xpdutu",
-     "ups": 1338,
+     "ups": 1375,
      "sub": "r/memes"
     },
     {
-     "title": "I know what you did",
-     "image": "https://i.redd.it/su5elzq8hrzh1.png",
-     "url": "https://redd.it/1xoe7oz",
-     "ups": 13714,
+     "title": "*  sighs  *",
+     "image": "https://i.redd.it/ck8pjxnrt40i1.png",
+     "url": "https://redd.it/1xpz99f",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "alright...",
+     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
+     "url": "https://redd.it/1xq0yn7",
+     "ups": 114,
+     "sub": "r/memes"
+    },
+    {
+     "title": "FWP - Friends with parentheses?",
+     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
+     "url": "https://redd.it/1xq9zg9",
+     "ups": 61,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Door Symphony",
+     "image": "https://i.redd.it/x7ut4017w60i1.png",
+     "url": "https://redd.it/1xq5yrs",
+     "ups": 103,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T17:38:06.699217+00:00",
+   "fetched_at": "2026-11-07T18:08:11.767089+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Shooting reported in Krakow",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0df2245b26a9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Todd Blanche says he is Stephen Miller's lawyer",
+     "text": "Mass Effect N7 Day celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c0e3eb5cadf",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3279cd7229e2",
      "likes": 0,
      "image": ""
     },
@@ -224,41 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "The \"Mamdani lesson\" for Democrats",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Extra Life charity game day",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f685c59c5d15",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Viral iOS Live Listen warning",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10cd9214a3a8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Apple's hidden predictive text restrictions",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/625b2806056b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
@@ -272,56 +224,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Keep my Captain's name out of your fucking Nazi mouth",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.blahaj.zone/post/50205150",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/29f26745-7909-4019-8086-1d9d72bbbc92.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Vehicles women actually like meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Veterans Day observances",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "WWE calls Crown Jewel remotely",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9b590e63e69c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Laura Loomer reportedly paid for posts",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4548ac5a75da",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Problematic",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/69566992",
-     "likes": 31,
+     "likes": 77,
      "image": "https://lemmy.world/pictrs/image/706c9f38-d0b3-47a6-9223-775ce8d4cee8.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Keep my Captain's name out of your fucking Nazi mouth",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.blahaj.zone/post/50205150",
+     "likes": 118,
+     "image": "https://lemmy.world/pictrs/image/29f26745-7909-4019-8086-1d9d72bbbc92.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "You know what? I can certainly try.",
+     "author": "196",
+     "url": "https://pawb.social/post/52510757",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/9bf17737-291c-4cc2-8b2a-1d210a4bee8a.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Dammit I knew I'd forgotten some Thing",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54109784",
-     "likes": 37,
+     "likes": 57,
      "image": "https://lemmy.world/pictrs/image/f64dd779-a10e-4056-8ab8-e2337483afab.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Regrouping",
-     "author": "Political Memes",
-     "url": "https://sh.itjust.works/post/69565483",
-     "likes": 70,
-     "image": "https://lemmy.world/pictrs/image/49976f9c-547f-4ee9-ac6f-ecd8d833eb6d.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T17:38:07.311649+00:00",
+   "fetched_at": "2026-11-07T18:08:12.330647+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
      "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Two silk worms had a race. They ended up in a tie.",
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The best time on a clock is 6:30--hands down.",
      "source": "Dad joke"
     },
     {
-     "text": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
+     "text": "Why do birds fly south for the winter? Because it's too far to walk.",
      "source": "Dad joke"
     },
     {
-     "text": "Mountains aren't just funny, they are hill areas",
+     "text": "How do you make a water bed more bouncy. You use Spring Water",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
