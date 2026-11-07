@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T13:06:40.147258+00:00",
+ "generated_at": "2026-11-07T13:36:46.460406+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T13:06:35.627107+00:00",
+   "fetched_at": "2026-11-07T13:36:41.680427+00:00",
    "stale": false,
    "items": [
     {
@@ -17,20 +17,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Scientists found a way to help the brain wash out waste while we're awake, which it mostly does while we sleep: a short-acting blood pressure drug plus whole-body vibration. In 29 healthy adults, Alzheimer's-linked proteins like beta-amyloid rose in the blood, a sign they were cleared from the brain",
      "url": "https://www.reddit.com/r/science/comments/1xq2mxe/scientists_found_a_way_to_help_the_brain_wash_out/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/_-JB0QFjynlH8r0jUoMzS9lgtDTuFV_WWQTjr5r1Uos.jpeg?width=640&crop=smart&auto=webp&s=2a5e476e153f644848ba7cb20f3fbc2f1f59e7c7"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "thisFeelingNeverGoesAway",
+     "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1xq28r6/thisfeelingnevergoesaway/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/nkz0obxfr50i1.png?width=640&crop=smart&auto=webp&s=c3442ac05181ba249d5e2a79a5b5f3d8287b686b"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
     },
     {
      "source": "Reddit",
@@ -62,15 +71,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "thisFeelingNeverGoesAway",
-     "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1xq28r6/thisfeelingnevergoesaway/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/nkz0obxfr50i1.png?width=640&crop=smart&auto=webp&s=c3442ac05181ba249d5e2a79a5b5f3d8287b686b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
      "url": "https://www.reddit.com/r/news/comments/1xpemrf/tesla_to_pull_the_plug_on_cybertruck_after_years/",
      "score": 0,
@@ -80,23 +80,23 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Me_irl",
-     "url": "https://www.reddit.com/r/me_irl/comments/1xq0yoj/me_irl/",
+     "title": "why are their no large cities here?",
+     "url": "https://www.reddit.com/r/geography/comments/1xppbv4/why_are_their_no_large_cities_here/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/engxaaoqc50i1.jpeg?width=640&crop=smart&auto=webp&s=c84ae6ce7149925bc9f3e17ab7ee50187c30cfc0"
+     "image": "https://preview.redd.it/f9rc0zn7d20i1.png?width=640&crop=smart&auto=webp&s=a912826681e7bfaa20efa049876428d59972aade"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T13:06:36.823966+00:00",
+   "fetched_at": "2026-11-07T13:36:42.705359+00:00",
    "stale": false,
    "items": [
     {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 48,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 229,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,24 +107,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 545,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2219,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 404,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6444,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 459,
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 2073,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,53 +135,77 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "This is why I go to the theater!",
-     "image": "https://i.redd.it/qakgdw06f40i1.png",
-     "url": "https://redd.it/1xpxt8s",
-     "ups": 36,
+     "title": "alright...",
+     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
+     "url": "https://redd.it/1xq0yn7",
+     "ups": 63,
      "sub": "r/memes"
     },
     {
-     "title": "I wanted to be rich...",
-     "image": "https://i.redd.it/80ewfiiku40i1.gif",
-     "url": "https://redd.it/1xpzbn2",
-     "ups": 228,
+     "title": "For season 29 its episode 3 you like that on your face",
+     "image": "https://i.redd.it/dldtat2ey40i1.gif",
+     "url": "https://redd.it/1xpzqml",
+     "ups": 16,
      "sub": "r/memes"
     },
     {
-     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
-     "image": "https://i.redd.it/bzadue12g60i1.png",
-     "url": "https://redd.it/1xq4cmy",
-     "ups": 2,
+     "title": "Freezes NYC",
+     "image": "https://i.redd.it/q5qpq759d10i1.png",
+     "url": "https://redd.it/1xpkdl7",
+     "ups": 7941,
      "sub": "r/memes"
     },
     {
-     "title": "There are 2 types of players",
-     "image": "https://i.redd.it/y1i9ect5530i1.png",
-     "url": "https://redd.it/1xpssyw",
-     "ups": 12,
+     "title": "Swoozie, let's break up",
+     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
+     "url": "https://redd.it/1xprxm7",
+     "ups": 4424,
      "sub": "r/memes"
     },
     {
-     "title": "Its joe over",
-     "image": "https://i.redd.it/a7b6xax1u30i1.png",
-     "url": "https://redd.it/1xpvlvr",
-     "ups": 22,
+     "title": "Breaking Bad was truly ahead of its time \ud83e\udd79",
+     "image": "https://i.redd.it/63wwhrel2vzh1.png",
+     "url": "https://redd.it/1xouq3r",
+     "ups": 1109,
      "sub": "r/memes"
     },
     {
-     "title": "The honeymoon phase never lasts",
-     "image": "https://i.redd.it/hqwuqlu8900i1.png",
-     "url": "https://redd.it/1xpemqm",
-     "ups": 122,
-     "sub": "r/memes"
+     "title": "Two parties go brrrr",
+     "image": "https://i.redd.it/cyq03zku0ozh1.gif",
+     "url": "https://redd.it/1xo0s22",
+     "ups": 0,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T13:06:39.184396+00:00",
+   "fetched_at": "2026-11-07T13:36:45.013804+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Vehicles women actually like meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israel's war in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Todd Blanche says he is Stephen Miller's lawyer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c0e3eb5cadf",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Films watched more than six times",
@@ -200,49 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
+     "text": "Russell Brand 2015 injunction",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/02e5eb8aa9e1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand trial",
+     "text": "Apple's hidden predictive text restrictions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "New Zealand votes in general election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cd9e77152281",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Israel's war in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/625b2806056b",
      "likes": 0,
      "image": ""
     },
@@ -256,34 +248,50 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "October jobs report beats forecasts",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Southern states voting data",
+     "text": "Ancient cannabis in Siberian tomb",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/abcfbe858397",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3e2a5c364767",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Flamingo missiles reportedly hit Oryol",
+     "text": "Colom vs. Hyde-Smith Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4deeac6e96b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Speculation Trump allies will flee",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7937333696e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I mean ... what are we doing here? [instachaaz]",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54102606",
+     "likes": 45,
+     "image": "https://lemmy.world/pictrs/image/3d4d3167-9410-499b-acc9-21a0ad236eb6.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Pro Tip",
      "author": "memes",
      "url": "https://lemmy.ca/post/73503719",
-     "likes": 41,
+     "likes": 86,
      "image": "https://lemmy.world/pictrs/image/460dc61f-70ec-4aac-8471-65e4b3635273.png"
     },
     {
@@ -291,49 +299,29 @@
      "text": "Punctuation",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/62921298",
-     "likes": 38,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/e2db348e-c802-4b7e-9be8-4fac3d483bf2.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "If you have a 1\u20ac coin from Greece today, you share the same design as someone from Ancient Athens did.",
-     "author": "Europe",
-     "url": "https://sopuli.xyz/post/54262036",
-     "likes": 65,
-     "image": "https://lemmy.world/pictrs/image/f534a230-c903-420f-8306-127a4dde2851.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "U.S. employee engagement below 30% for first time in 15 years",
-     "author": "News",
-     "url": "https://lemmy.world/post/54101541",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/36aa83f3-83e9-4753-9cd1-9fba4a4f0ca7.jpeg"
+     "text": "Stephen Miller calls Trump GOP more popular 'than ever' in first CoS speech",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54102107",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/6366c6f8-6100-4f9b-98b4-ed4e7bea5cea.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T13:06:39.554705+00:00",
+   "fetched_at": "2026-11-07T13:36:45.742254+00:00",
    "stale": false,
    "items": [
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why don\u2019t seagulls fly over the bay? Because then they\u2019d be bay-gulls!",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I decided to sell my Hoover\u2026 well it was just collecting dust.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you steal a coat? You jacket.",
+     "text": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
      "source": "Dad joke"
     },
     {
-     "text": "Where do you learn to make banana splits? At sundae school.",
+     "text": "I\u2019ve got this disease where I can\u2019t stop making airport puns. The doctor says it terminal.",
      "source": "Dad joke"
     }
    ]
