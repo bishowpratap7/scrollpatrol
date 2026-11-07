@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T05:04:33.945631+00:00",
+ "generated_at": "2026-11-07T05:34:39.846374+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T05:04:29.267327+00:00",
+   "fetched_at": "2026-11-07T05:34:35.409625+00:00",
    "stale": false,
    "items": [
     {
@@ -26,20 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Name a US state **HARD MODE** \ud83c\uddfa\ud83c\uddf8",
+     "url": "https://www.reddit.com/r/BunnyTrials/comments/1xpqmqq/name_a_us_state_hard_mode/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Incoming Democratic senators don\u2019t want Chuck Schumer as majority leader",
      "url": "https://www.reddit.com/r/anticapitalism/comments/1xpsigm/incoming_democratic_senators_dont_want_chuck/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/85YOwpF3TqOnGlTaNm7FsW9gb79seExegd1ah8wOuOQ.jpeg?width=640&crop=smart&auto=webp&s=78e70b861405dcfe34d7d82041846248dc463b84"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
     },
     {
      "source": "Reddit",
@@ -53,11 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Amen",
-     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xptoke/amen/",
+     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/s5lbaxafc30i1.jpeg?width=640&crop=smart&auto=webp&s=a075d5897a9b45fa28636783566f1346ff2ca8d7"
+     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
     },
     {
      "source": "Reddit",
@@ -89,70 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T05:04:30.745311+00:00",
+   "fetched_at": "2026-11-07T05:34:36.743610+00:00",
    "stale": false,
    "items": [
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1329,
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 10101,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 135,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1208,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 144,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 204,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 78,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1347,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 330,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Yea so that\u2019s over",
-     "image": "https://i.redd.it/pbialic3rzzh1.gif",
-     "url": "https://redd.it/1xpccj4",
-     "ups": 18173,
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
+     "ups": 757,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I just really like little guys",
+     "image": "https://i.redd.it/08z2kmo5gozh1.png",
+     "url": "https://redd.it/1xo2ukx",
+     "ups": 5978,
      "sub": "r/memes"
     },
     {
-     "title": "355% to 500% increase in cost for ram alone.",
-     "image": "https://i.redd.it/v7fumxoe620i1.png",
-     "url": "https://redd.it/1xpog5s",
-     "ups": 21,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Times change",
-     "image": "https://i.redd.it/vrx5gxq58xzh1.png",
-     "url": "https://redd.it/1xp3xnp",
-     "ups": 115,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Freezes NYC",
-     "image": "https://i.redd.it/q5qpq759d10i1.png",
-     "url": "https://redd.it/1xpkdl7",
-     "ups": 3941,
+     "title": "Breaking Bad was truly ahead of its time \ud83e\udd79",
+     "image": "https://i.redd.it/63wwhrel2vzh1.png",
+     "url": "https://redd.it/1xouq3r",
+     "ups": 1071,
      "sub": "r/memes"
     },
     {
@@ -163,33 +156,32 @@
      "sub": "r/memes"
     },
     {
-     "title": "yum!",
-     "image": "https://i.redd.it/i7ttvfi207zh1.png",
-     "url": "https://redd.it/1xlvssc",
-     "ups": 304,
-     "sub": "r/dankmemes"
+     "title": "355% to 500% increase in cost for ram alone.",
+     "image": "https://i.redd.it/v7fumxoe620i1.png",
+     "url": "https://redd.it/1xpog5s",
+     "ups": 21,
+     "sub": "r/memes"
     },
     {
-     "title": "Sips RAM",
-     "image": "https://i.redd.it/pwgepgdf88zh1.png",
-     "url": "https://redd.it/1xm20x8",
-     "ups": 494,
-     "sub": "r/dankmemes"
+     "title": "It only has instructions for frozen...",
+     "image": "https://i.redd.it/ou8r83hc230i1.png",
+     "url": "https://redd.it/1xpshen",
+     "ups": 9,
+     "sub": "r/memes"
+    },
+    {
+     "title": "why I gave up dating",
+     "image": "https://i.redd.it/bmvmazzw9ozh1.png",
+     "url": "https://redd.it/1xo20zx",
+     "ups": 4975,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T05:04:32.485495+00:00",
+   "fetched_at": "2026-11-07T05:34:38.454108+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Tesla halts Cybertruck production",
@@ -200,65 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Mystery actors audition for James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/400646e954e5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thiel recordings target Pope Leo",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/839c85674eea",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "ICE detains Wisconsin state trooper",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9716d266c42d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Infant dies of measles in Wisconsin",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/17fa38b5873e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Your role in a heist",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "October jobs report beats forecasts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -272,84 +208,148 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Speculation Trump allies will flee",
+     "text": "ICE detains Wisconsin state trooper",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7937333696e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9716d266c42d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thiel recordings target Pope Leo",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/839c85674eea",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Your role in a heist",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Infant dies of measles in Wisconsin",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/17fa38b5873e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Authors share books with newcomers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Arenas decline Macklemore's Palestine tour",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/854f10e1b709",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Todd Blanche says he is Stephen Miller's lawyer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c0e3eb5cadf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Protecting us from fascism",
-     "author": "AMUSING, INTERESTING, OUTRAGEOUS, or PROFOUND",
-     "url": "https://lemmy.world/post/54088153",
-     "likes": 82,
-     "image": "https://lemmy.world/pictrs/image/71411886-5bd8-4dc1-ad15-68ba604608cb.jpeg"
+     "text": "her name is sersi",
+     "author": "Bun Alert System",
+     "url": "https://lemmy.sdf.org/post/61490142",
+     "likes": 13,
+     "image": "https://lemmy.sdf.org/pictrs/image/dde5549e-51c2-4f1f-b086-e15afce738ca.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1055422/me-irl",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/4ded599e-eae1-46e9-ba27-0323b0337c29.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Delivery Robot Causes Car Accident With Nine Injuries: \"The robot fled, if you can put it that way.\"",
      "author": "Technology",
      "url": "https://lemmy.world/post/54088854",
-     "likes": 23,
+     "likes": 49,
      "image": "https://lemmy.world/pictrs/image/32bbe261-c402-42f3-a329-e58191ad9b63.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "US Arenas Cancel Macklemore Benefit Shows",
-     "author": "Whatever",
-     "url": "https://quokk.au/c/whatever/p/1300188/us-arenas-cancel-macklemore-benefit-shows",
-     "likes": 37,
-     "image": "https://lemmy.world/pictrs/image/9c4946ad-615d-4f73-a17d-58999fef8d5f.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Hong Kong democracy campaigner Joshua Wong handed another 10 years in jail",
+     "text": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
      "author": "World News",
-     "url": "https://sh.itjust.works/post/69543285",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/572894d0-230a-4e0d-ac30-e9aa27f7c7cd.jpeg"
+     "url": "https://sh.itjust.works/post/69544289",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/083dd584-17f3-4686-b63c-c7edbd9d6ea5.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T05:04:33.156192+00:00",
+   "fetched_at": "2026-11-07T05:34:38.977765+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "What\u2019s brown and sounds like a bell? Dung!",
+     "text": "My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.",
      "source": "Dad joke"
     },
     {
-     "text": "I just wrote a book on reverse psychology. Do not read it!",
+     "text": "What did the mountain climber name his son? Cliff.",
      "source": "Dad joke"
     },
     {
-     "text": "What\u2019s the longest word in the dictionary? Smiles. Because there\u2019s a mile between the two S\u2019s.",
+     "text": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
      "source": "Dad joke"
     }
    ]
