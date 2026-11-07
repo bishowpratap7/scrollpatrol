@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T08:05:24.191519+00:00",
+ "generated_at": "2026-11-07T08:35:30.503600+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T08:05:20.433957+00:00",
+   "fetched_at": "2026-11-07T08:35:25.760417+00:00",
    "stale": false,
    "items": [
     {
@@ -22,6 +22,42 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Teenage girl held captive for 500 days rescued after secretly asking for help in Among Us",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xpvvtm/teenage_girl_held_captive_for_500_days_rescued/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/Xtk1lt1hcmfKr3BF-SrngmvRZUFLUMErYe3CANZ-tZE.jpeg?width=640&crop=smart&auto=webp&s=a95c9ae4e3d3868240e1ceb4417c76a208fc0cd5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Paraguay's President Santiago Pe\u00f1a impeached and arrested",
+     "url": "https://www.reddit.com/r/news/comments/1xpup2i/paraguays_president_santiago_pe\u00f1a_impeached_and/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xpsm13/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/5866nzmh330i1.jpeg?width=640&crop=smart&auto=webp&s=5ec2c380dbdde51829342e8c2b74e22d0149f783"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Baby Honeysuckle versus 4 year old Honeysuckle",
+     "url": "https://www.reddit.com/r/cats/comments/1xpukx2/baby_honeysuckle_versus_4_year_old_honeysuckle/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/2zrxz7krk30i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a624bc89c3e9ff002cfff5f6b14410356c3a923"
     },
     {
      "source": "Reddit",
@@ -49,137 +85,101 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/d2d0ugel330i1.jpeg?width=640&crop=smart&auto=webp&s=4a415d95d9272362a57c85f34f1ec0417dbf275e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Which popular brand has died that people barely remember?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xpo8y8/which_popular_brand_has_died_that_people_barely/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Paraguay's President Santiago Pe\u00f1a impeached and arrested",
-     "url": "https://www.reddit.com/r/news/comments/1xpup2i/paraguays_president_santiago_pe\u00f1a_impeached_and/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
-     "url": "https://www.reddit.com/r/news/comments/1xpemrf/tesla_to_pull_the_plug_on_cybertruck_after_years/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Macklemore Says Major Arenas Refusing to Host His Tour in US",
-     "url": "https://www.reddit.com/r/Music/comments/1xpjhru/macklemore_says_major_arenas_refusing_to_host_his/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T08:05:21.656538+00:00",
+   "fetched_at": "2026-11-07T08:35:27.185598+00:00",
    "stale": false,
    "items": [
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 172,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 215,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 75,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "visualStudioIsMakingFunOfMe",
      "image": "https://i.redd.it/nkcl8442cszh1.png",
      "url": "https://redd.it/1xoh3fl",
-     "ups": 1036,
+     "ups": 1054,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2205,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 185,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1354,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 327,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1217,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 41,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I wanted to be rich...",
-     "image": "https://i.redd.it/80ewfiiku40i1.gif",
-     "url": "https://redd.it/1xpzbn2",
-     "ups": 28,
+     "title": "Cyberpunk Edgerunners",
+     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
+     "url": "https://redd.it/1xpwaes",
+     "ups": 159,
      "sub": "r/memes"
     },
     {
-     "title": "Good boy...",
-     "image": "https://i.redd.it/3kr81n04d00i1.png",
-     "url": "https://redd.it/1xpf5sn",
-     "ups": 35,
+     "title": "355% to 500% increase in cost for ram alone.",
+     "image": "https://i.redd.it/v7fumxoe620i1.png",
+     "url": "https://redd.it/1xpog5s",
+     "ups": 22,
      "sub": "r/memes"
     },
     {
-     "title": "Swoozie, let's break up",
-     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
-     "url": "https://redd.it/1xprxm7",
-     "ups": 2647,
+     "title": "Its joe over",
+     "image": "https://i.redd.it/a7b6xax1u30i1.png",
+     "url": "https://redd.it/1xpvlvr",
+     "ups": 9,
      "sub": "r/memes"
     },
     {
-     "title": "hate this but it's true",
-     "image": "https://i.redd.it/w15dztzhaxzh1.png",
-     "url": "https://redd.it/1xp462c",
-     "ups": 6328,
+     "title": "Let me keep some of my dignity",
+     "image": "https://i.redd.it/hi3solake10i1.png",
+     "url": "https://redd.it/1xpkk8k",
+     "ups": 32,
      "sub": "r/memes"
     },
     {
-     "title": "Freezes NYC",
-     "image": "https://i.redd.it/q5qpq759d10i1.png",
-     "url": "https://redd.it/1xpkdl7",
-     "ups": 6271,
+     "title": "The honeymoon phase never lasts",
+     "image": "https://i.redd.it/hqwuqlu8900i1.png",
+     "url": "https://redd.it/1xpemqm",
+     "ups": 117,
      "sub": "r/memes"
     },
     {
-     "title": "Guess I\u2019ll have to develop a personality now",
-     "image": "https://i.redd.it/loi2va6o200i1.gif",
-     "url": "https://redd.it/1xpdutu",
-     "ups": 1157,
+     "title": "It only has instructions for frozen...",
+     "image": "https://i.redd.it/ou8r83hc230i1.png",
+     "url": "https://redd.it/1xpshen",
+     "ups": 13,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T08:05:23.109111+00:00",
+   "fetched_at": "2026-11-07T08:35:29.181464+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tesla halts Cybertruck production",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Russell Brand trial",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tesla halts Cybertruck production",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Your role in a heist",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "On-brand childhood stories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bd3f7112a7d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Apple launches touchscreen MacBook Pro",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cba3b27f69a3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Your role in a heist",
+     "text": "October jobs report beats forecasts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "World of Warcraft: Forever launches",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea113d5ba1a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israel's war in Gaza",
+     "text": "US offers reward for Iran nuclear tips",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3769a29e467",
      "likes": 0,
      "image": ""
     },
@@ -283,15 +283,23 @@
      "text": "It Turns Out Binance's $6 Billion Hack Happened Because Its Employees Were Vibe Coding",
      "author": "Technology",
      "url": "https://sh.itjust.works/post/69549049",
-     "likes": 27,
+     "likes": 64,
      "image": "https://lemmy.world/pictrs/image/615b6967-367d-4919-8380-6a761e5e6d05.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "You're going to be lucky!",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54093080",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/ed25f405-6b10-4508-92f7-a10b959de430.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Give me a name!",
      "author": "Programmer Humor",
      "url": "https://sh.itjust.works/post/69548663",
-     "likes": 38,
+     "likes": 68,
      "image": "https://lemmy.world/pictrs/image/d77b73bd-b638-4bf7-b30a-8b176045adac.png"
     },
     {
@@ -299,57 +307,49 @@
      "text": "Changing of the colours [Twonks]",
      "author": "Political Memes",
      "url": "https://sh.itjust.works/post/69548661",
-     "likes": 25,
+     "likes": 42,
      "image": "https://lemmy.world/pictrs/image/fc106392-a789-4fa3-9bbe-b93ddde8be1b.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "You're going to be lucky!",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54093080",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/ed25f405-6b10-4508-92f7-a10b959de430.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T08:05:23.663542+00:00",
+   "fetched_at": "2026-11-07T08:35:29.988042+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.",
+     "text": "You know what they say about cliffhangers...",
      "source": "Dad joke"
     },
     {
-     "text": "Why can't eggs have love? They will break up too soon.",
+     "text": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.",
      "source": "Dad joke"
     },
     {
-     "text": "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\"",
+     "text": "Dad I\u2019m hungry\u2019 \u2026 \u2018Hi hungry I\u2019m dad",
      "source": "Dad joke"
     }
    ]
