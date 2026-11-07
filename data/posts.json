@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T17:08:02.584616+00:00",
+ "generated_at": "2026-11-07T17:38:07.664821+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T17:07:59.010613+00:00",
+   "fetched_at": "2026-11-07T17:38:04.023276+00:00",
    "stale": false,
    "items": [
     {
@@ -44,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "How do you say \"no biting\" to a little criminal who clearly doesn't care? \ud83d\udc95",
-     "url": "https://www.reddit.com/r/cats/comments/1xpl0px/how_do_you_say_no_biting_to_a_little_criminal_who/",
+     "title": "What is the best punchline to the old \"I like my men/women like I like my coffee..\" line?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xq339s/what_is_the_best_punchline_to_the_old_i_like_my/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/eGxzcmVoNm5oMTBpMdbwl8n4YKy-UfVb-1S7qsPsM5IRYc4EIymcAQEYKm36.png?width=320&crop=smart&auto=webp&s=4677ab9670bc6d21e5875a69b53fa14044f79342"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -62,17 +62,17 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Stephen Miller's Wife Blames GOP Midterm Losses on Moms, Then Admits She Didn't Vote Herself",
-     "url": "https://www.reddit.com/r/politics/comments/1xq7urh/stephen_millers_wife_blames_gop_midterm_losses_on/",
+     "title": "James Bond Surprise: Robert Pattinson Screen Tested to Play 007",
+     "url": "https://www.reddit.com/r/movies/comments/1xpusz8/james_bond_surprise_robert_pattinson_screen/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/feoONQ5bz3Nu1Z4YQoH_acg0l6XNs_EQltMN8n_V2lE.png?width=640&crop=smart&auto=webp&s=13f18addfbf0cd784eaaf539bb7718283b2c827e"
+     "image": "https://external-preview.redd.it/-GeU7WaQJ7G9sEwl_tXAMASEGU_N_LVHsIQho3RjbZ8.png?width=640&crop=smart&auto=webp&s=9825ff90eba54dc053281dd3d17f4a54b88efba0"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What is the best punchline to the old \"I like my men/women like I like my coffee..\" line?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xq339s/what_is_the_best_punchline_to_the_old_i_like_my/",
+     "title": "[OC] Handmade Hollow Knight Resin Lamp Giveaway \u2014 We're Doing This Again! \ud83d\udc99",
+     "url": "https://www.reddit.com/r/HollowKnight/comments/1xq4bb4/oc_handmade_hollow_knight_resin_lamp_giveaway/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -80,72 +80,79 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "James Bond Surprise: Robert Pattinson Screen Tested to Play 007",
-     "url": "https://www.reddit.com/r/movies/comments/1xpusz8/james_bond_surprise_robert_pattinson_screen/",
+     "title": "Stephen Miller's Wife Blames GOP Midterm Losses on Moms, Then Admits She Didn't Vote Herself",
+     "url": "https://www.reddit.com/r/politics/comments/1xq7urh/stephen_millers_wife_blames_gop_midterm_losses_on/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/-GeU7WaQJ7G9sEwl_tXAMASEGU_N_LVHsIQho3RjbZ8.png?width=640&crop=smart&auto=webp&s=9825ff90eba54dc053281dd3d17f4a54b88efba0"
+     "image": "https://external-preview.redd.it/feoONQ5bz3Nu1Z4YQoH_acg0l6XNs_EQltMN8n_V2lE.png?width=640&crop=smart&auto=webp&s=13f18addfbf0cd784eaaf539bb7718283b2c827e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T17:07:59.703762+00:00",
+   "fetched_at": "2026-11-07T17:38:04.665811+00:00",
    "stale": false,
    "items": [
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 688,
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 36,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2229,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 246,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 45,
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 10087,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1086,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 570,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 13023,
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 465,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 479,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I know what you did",
-     "image": "https://i.redd.it/su5elzq8hrzh1.png",
-     "url": "https://redd.it/1xoe7oz",
-     "ups": 13714,
+     "title": "It only has instructions for frozen...",
+     "image": "https://i.redd.it/ou8r83hc230i1.png",
+     "url": "https://redd.it/1xpshen",
+     "ups": 22,
      "sub": "r/memes"
     },
     {
-     "title": "Swoozie, let's break up",
-     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
-     "url": "https://redd.it/1xprxm7",
-     "ups": 5591,
+     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
+     "image": "https://i.redd.it/bzadue12g60i1.png",
+     "url": "https://redd.it/1xq4cmy",
+     "ups": 1008,
+     "sub": "r/memes"
+    },
+    {
+     "title": "alright...",
+     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
+     "url": "https://redd.it/1xq0yn7",
+     "ups": 95,
      "sub": "r/memes"
     },
     {
@@ -156,37 +163,38 @@
      "sub": "r/memes"
     },
     {
-     "title": "355% to 500% increase in cost for ram alone.",
-     "image": "https://i.redd.it/v7fumxoe620i1.png",
-     "url": "https://redd.it/1xpog5s",
-     "ups": 27,
+     "title": "Guess I\u2019ll have to develop a personality now",
+     "image": "https://i.redd.it/loi2va6o200i1.gif",
+     "url": "https://redd.it/1xpdutu",
+     "ups": 1338,
      "sub": "r/memes"
     },
     {
-     "title": "Door Symphony",
-     "image": "https://i.redd.it/x7ut4017w60i1.png",
-     "url": "https://redd.it/1xq5yrs",
-     "ups": 75,
-     "sub": "r/memes"
-    },
-    {
-     "title": "alright...",
-     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
-     "url": "https://redd.it/1xq0yn7",
-     "ups": 95,
+     "title": "I know what you did",
+     "image": "https://i.redd.it/su5elzq8hrzh1.png",
+     "url": "https://redd.it/1xoe7oz",
+     "ups": 13714,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T17:08:01.661836+00:00",
+   "fetched_at": "2026-11-07T17:38:06.699217+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Erika Kirk promotes Kirk hot sauce",
+     "text": "Shooting reported in Krakow",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bd9cad8a80d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0df2245b26a9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Todd Blanche says he is Stephen Miller's lawyer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c0e3eb5cadf",
      "likes": 0,
      "image": ""
     },
@@ -200,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Worst graduates from each school",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4b78b3925211",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Ocarina of Time remake release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
@@ -216,17 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand verdict",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -240,17 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Extra Life charity game day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f685c59c5d15",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Viral iOS Live Listen warning",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10cd9214a3a8",
      "likes": 0,
      "image": ""
     },
@@ -264,92 +264,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Democrats urge ICE to unmask agents",
+     "text": "Worst graduates from each school",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4b78b3925211",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Early 2028 election speculation",
+     "text": "Colom vs. Hyde-Smith Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/046b9951a23c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Final Search [Boldjun]",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54108033",
-     "likes": 88,
-     "image": "https://lemmy.world/pictrs/image/3bd05840-53e8-49f6-a93e-7c6030cd99c9.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Yeah, the Harvard Bellevue cemetery",
-     "author": "Lemmy Shitpost",
-     "url": "https://piefed.zip/c/lemmyshitpost@lemmy.world/p/1978128/yeah-the-harvard-bellevue-cemetery",
-     "likes": 80,
-     "image": "https://lemmy.world/pictrs/image/7351e2f7-249d-4336-9234-f376706ee5a0.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Keep my Captain's name out of your fucking Nazi mouth",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://lemmy.blahaj.zone/post/50205150",
-     "likes": 29,
+     "likes": 75,
      "image": "https://lemmy.world/pictrs/image/29f26745-7909-4019-8086-1d9d72bbbc92.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Unrecognizable",
+     "text": "Problematic",
      "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/69564912",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/0efdeb21-4f0c-498f-9736-70f52dc14637.jpeg"
+     "url": "https://sh.itjust.works/post/69566992",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/706c9f38-d0b3-47a6-9223-775ce8d4cee8.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Dammit I knew I'd forgotten some Thing",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54109784",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/f64dd779-a10e-4056-8ab8-e2337483afab.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Regrouping",
+     "author": "Political Memes",
+     "url": "https://sh.itjust.works/post/69565483",
+     "likes": 70,
+     "image": "https://lemmy.world/pictrs/image/49976f9c-547f-4ee9-ac6f-ecd8d833eb6d.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T17:08:02.219246+00:00",
+   "fetched_at": "2026-11-07T17:38:07.311649+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Coffee has a tough time at my house, every morning it gets mugged.",
+     "text": "Two silk worms had a race. They ended up in a tie.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a cow with no legs? Ground beef.",
+     "text": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
      "source": "Dad joke"
     },
     {
-     "text": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
+     "text": "Mountains aren't just funny, they are hill areas",
      "source": "Dad joke"
     }
    ]
