@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T03:04:08.803197+00:00",
+ "generated_at": "2026-11-07T03:34:14.505294+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T03:04:03.308205+00:00",
+   "fetched_at": "2026-11-07T03:34:10.283533+00:00",
    "stale": false,
    "items": [
     {
@@ -89,9 +89,44 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T03:04:04.596290+00:00",
+   "fetched_at": "2026-11-07T03:34:11.457399+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5426,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 492,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "magicQuotes",
+     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
+     "url": "https://redd.it/1ximxha",
+     "ups": 2407,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 407,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
+     "image": "https://i.redd.it/s8ktjklfliyh1.png",
+     "url": "https://redd.it/1xj3i23",
+     "ups": 43,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "wontGoDownWithoutAFight",
      "image": "https://i.redd.it/lr01w8z3ofyh1.png",
@@ -100,73 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 146,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "everyNetworkAPIOnThePlanetToday",
-     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
-     "url": "https://redd.it/1xoir0t",
-     "ups": 1035,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 1761,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 192,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 726,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "[$2.5 trillion wiped out]",
-     "image": "https://i.redd.it/z8e7ud52810i1.gif",
-     "url": "https://redd.it/1xpjm91",
-     "ups": 941,
-     "sub": "r/memes"
-    },
-    {
-     "title": "genuinely me",
-     "image": "https://i.redd.it/s0id0twsm10i1.png",
-     "url": "https://redd.it/1xplqtr",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The honeymoon phase never lasts",
-     "image": "https://i.redd.it/hqwuqlu8900i1.png",
-     "url": "https://redd.it/1xpemqm",
-     "ups": 99,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Freezes NYC",
-     "image": "https://i.redd.it/q5qpq759d10i1.png",
-     "url": "https://redd.it/1xpkdl7",
-     "ups": 2629,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Yea so that\u2019s over",
-     "image": "https://i.redd.it/pbialic3rzzh1.gif",
-     "url": "https://redd.it/1xpccj4",
-     "ups": 17010,
+     "title": "I know what you did",
+     "image": "https://i.redd.it/su5elzq8hrzh1.png",
+     "url": "https://redd.it/1xoe7oz",
+     "ups": 13192,
      "sub": "r/memes"
     },
     {
@@ -175,18 +147,54 @@
      "url": "https://redd.it/1xozupw",
      "ups": 25,
      "sub": "r/memes"
+    },
+    {
+     "title": "Almost 20 years in the making, but now a cereal exists.",
+     "image": "https://i.redd.it/tckkw0d1xvzh1.png",
+     "url": "https://redd.it/1xoyo03",
+     "ups": 26,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The 2nd Amendment of IT",
+     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
+     "url": "https://redd.it/1xoxjc5",
+     "ups": 61,
+     "sub": "r/memes"
+    },
+    {
+     "title": "355% to 500% increase in cost for ram alone.",
+     "image": "https://i.redd.it/v7fumxoe620i1.png",
+     "url": "https://redd.it/1xpog5s",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "There is only loneliness there",
+     "image": "https://i.redd.it/45pyr7sc910i1.png",
+     "url": "https://redd.it/1xpjtrm",
+     "ups": 592,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T03:04:07.418277+00:00",
+   "fetched_at": "2026-11-07T03:34:13.165422+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Tesla halts Cybertruck production",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tesla halts Cybertruck production",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mystery actors audition for James Bond",
+     "text": "ICE detains Wisconsin state trooper",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/400646e954e5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9716d266c42d",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "The \"Mamdani lesson\" for Democrats",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Infant dies of measles in Wisconsin",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/17fa38b5873e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Authors share books with newcomers",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "On-brand childhood stories",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bd3f7112a7d",
      "likes": 0,
      "image": ""
     },
@@ -256,64 +256,64 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "October jobs report beats forecasts",
+     "text": "Your role in a heist",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a99b54dc0dee",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand trial",
+     "text": "Famous filming locations near home",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/45a573bac88d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Todd Blanche says he is Stephen Miller's lawyer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c0e3eb5cadf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Get Buc'ed",
+     "text": "Even Geordi Knows ...",
      "author": "Political Memes",
-     "url": "https://lemmy.world/post/54081393",
-     "likes": 378,
-     "image": "https://lemmy.world/pictrs/image/b3bcf3a5-dc9a-4c16-aa62-ab6ce834f628.jpeg"
+     "url": "https://lemmy.world/post/54087096",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/6818ac51-2a1a-436b-a63f-2abfe43ce54c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Russian President Vladimir Putin has no \u200bveto on European security \u200cmatters and Ukraine must become fully integrated into European \u200bsecurity architecture, says EU's \u200bforeign policy chief Kaja \u2060Kallas",
+     "text": "Cornell faculty declares \u2018no confidence\u2019 in school leaders in fallout from alleged gang-rape",
      "author": "World News",
-     "url": "https://lemmy.wtf/post/51601233",
-     "likes": 98,
-     "image": ""
+     "url": "https://sh.itjust.works/post/69541175",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/8d48444e-5178-4e01-8696-b322864869a2.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Democrats just won control of Georgia Power\u2019s regulator for the first time in 30 years \u2014 and its OpenAI data center contract was entirely redacted",
-     "author": "Fuck AI",
-     "url": "https://lemmy.ca/post/73482040",
-     "likes": 148,
-     "image": "https://lemmy.world/pictrs/image/9120eb5c-3f02-4eba-9974-67563b41e246.jpeg"
+     "text": "So the Iran war isn't going to end...",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54087284",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/25370ef0-49b1-4738-9c39-bab60d411190.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Congressman who opposed congestion pricing is defeated",
-     "author": "Fuck Cars",
-     "url": "https://lemmy.world/post/54081797",
-     "likes": 91,
-     "image": "https://lemmy.world/pictrs/image/c0caad64-2590-4295-a953-bd8b0499dcf7.png"
+     "text": "I\u2019m a professor in Alabama. We\u2019ve been banned from saying \u201cGulf of Mexico.\u201d No, seriously!",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54086641",
+     "likes": 60,
+     "image": "https://lemmy.world/pictrs/image/2184c3b2-2768-4292-896c-a8d315991586.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T03:04:08.132016+00:00",
+   "fetched_at": "2026-11-07T03:34:13.854164+00:00",
    "stale": false,
    "items": [
     {
@@ -321,7 +321,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "What has ears but cannot hear? A field of corn.",
+     "text": "What did the shy pebble wish for? That she was a little boulder.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a nervous javelin thrower? Shakespeare.",
+     "text": "The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a snake who builds houses? A boa constructor!",
+     "text": "Two guys walked into a bar, the third one ducked.",
      "source": "Dad joke"
     }
    ]
