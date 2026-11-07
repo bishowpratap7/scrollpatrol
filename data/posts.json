@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T00:33:19.845377+00:00",
+ "generated_at": "2026-11-07T01:03:26.367341+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T00:33:14.224545+00:00",
+   "fetched_at": "2026-11-07T01:03:21.243165+00:00",
    "stale": false,
    "items": [
     {
@@ -26,6 +26,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Trump signs order preventing future presidents from changing Oval Office. Declares his redesigned Oval Office a national monumen.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xpckuf/trump_signs_order_preventing_future_presidents/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/OTFhOTc3YjN0enpoMZ40Tq3nbN9P4non3whQ1hFWAhNOp1XyVmgQVkJNU9Zx.png?width=640&crop=smart&auto=webp&s=6f2cccf52394d0c518fea64da71caf001cfee3ec"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "The Return of the Epstein Files",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xpqnh1/the_return_of_the_epstein_files/",
      "score": 0,
@@ -35,20 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "\ud83d\udd25 A mole on the move in a rainstorm",
+     "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xpqeca/a_mole_on_the_move_in_a_rainstorm/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aDRsdjYwczdsMjBpMULrXQj4Assl-w-uDO3het7WiZwyykAok9ngWt4PzS_W.png?width=640&crop=smart&auto=webp&s=97591aa891414ac39715037f7ef22b73562dbca6"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "I like to make Sam stare at it",
      "url": "https://www.reddit.com/r/pcmasterrace/comments/1xpmwwi/i_like_to_make_sam_stare_at_it/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/icl67b29v10i1.jpeg?width=640&crop=smart&auto=webp&s=9bab7cdc01efa1a2581d41005d5be4608888dc4d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Trump signs order preventing future presidents from changing Oval Office. Declares his redesigned Oval Office a national monumen.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xpckuf/trump_signs_order_preventing_future_presidents/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/OTFhOTc3YjN0enpoMZ40Tq3nbN9P4non3whQ1hFWAhNOp1XyVmgQVkJNU9Zx.png?width=640&crop=smart&auto=webp&s=6f2cccf52394d0c518fea64da71caf001cfee3ec"
     },
     {
      "source": "Reddit",
@@ -71,122 +80,113 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
-     "url": "https://www.reddit.com/r/news/comments/1xpemrf/tesla_to_pull_the_plug_on_cybertruck_after_years/",
+     "title": "A very distinguished and well-behaved passenger",
+     "url": "https://www.reddit.com/r/Awww/comments/1xppbha/a_very_distinguished_and_wellbehaved_passenger/",
      "score": 0,
      "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "\ud83d\udd25 A mole on the move in a rainstorm",
-     "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xpqeca/a_mole_on_the_move_in_a_rainstorm/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aDRsdjYwczdsMjBpMULrXQj4Assl-w-uDO3het7WiZwyykAok9ngWt4PzS_W.png?width=640&crop=smart&auto=webp&s=97591aa891414ac39715037f7ef22b73562dbca6"
+     "image": "https://external-preview.redd.it/cXhod3lsdjNkMjBpMSi76jUNlMkNJJiKE2wdTK5wkjsNXSGJ1rPe7QCuUuu4.jpeg?width=640&crop=smart&auto=webp&s=be9c8181475783c465680bfc4ee320d59681107d"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T00:33:15.677370+00:00",
+   "fetched_at": "2026-11-07T01:03:22.730285+00:00",
    "stale": false,
    "items": [
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 14420,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 31,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1331,
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 411,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1188,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 183,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10098,
+     "title": "mySourceCodeLiterally",
+     "image": "https://i.redd.it/x47p93go5eyh1.png",
+     "url": "https://redd.it/1xihblk",
+     "ups": 330,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 141,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 41,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 239,
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 996,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Guess I\u2019ll have to develop a personality now",
-     "image": "https://i.redd.it/loi2va6o200i1.gif",
-     "url": "https://redd.it/1xpdutu",
-     "ups": 753,
+     "title": "It's been an... interesting experience",
+     "image": "https://i.redd.it/mj4flzd07wzh1.png",
+     "url": "https://redd.it/1xozupw",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
-     "title": "why I gave up dating",
-     "image": "https://i.redd.it/bmvmazzw9ozh1.png",
-     "url": "https://redd.it/1xo20zx",
-     "ups": 4968,
+     "title": "Times change",
+     "image": "https://i.redd.it/vrx5gxq58xzh1.png",
+     "url": "https://redd.it/1xp3xnp",
+     "ups": 114,
      "sub": "r/memes"
     },
     {
-     "title": "Ed won't know what hit him",
-     "image": "https://i.redd.it/9d4olozfgtzh1.png",
-     "url": "https://redd.it/1xomcdv",
-     "ups": 39,
+     "title": "Every year on the wrong month",
+     "image": "https://i.redd.it/c4f8mep00yzh1.png",
+     "url": "https://redd.it/1xp6lgt",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "355% to 500% increase in cost for ram alone.",
-     "image": "https://i.redd.it/v7fumxoe620i1.png",
-     "url": "https://redd.it/1xpog5s",
-     "ups": 13,
+     "title": "Let me keep some of my dignity",
+     "image": "https://i.redd.it/hi3solake10i1.png",
+     "url": "https://redd.it/1xpkk8k",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 5955,
+     "title": "I know that mine look trash but atleast it\u2019s good",
+     "image": "https://i.redd.it/hrpp385u9uzh1.gif",
+     "url": "https://redd.it/1xoqlvs",
+     "ups": 252,
      "sub": "r/memes"
     },
     {
-     "title": "waste the rest of the day",
-     "image": "https://i.redd.it/upbqvoejy8zh1.gif",
-     "url": "https://redd.it/1xm64ul",
-     "ups": 417,
-     "sub": "r/dankmemes"
+     "title": "Ram altman aahhhh",
+     "image": "https://i.redd.it/7egnc4j2qszh1.png",
+     "url": "https://redd.it/1xoinm6",
+     "ups": 149,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T00:33:18.542692+00:00",
+   "fetched_at": "2026-11-07T01:03:24.409189+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump picks Miller as chief of staff",
+     "text": "The \"Mamdani lesson\" for Democrats",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/480a382c2368",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
@@ -200,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Early 2028 election speculation",
+     "text": "Todd Blanche says he is Stephen Miller's lawyer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/046b9951a23c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c0e3eb5cadf",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russell Brand trial",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
      "likes": 0,
      "image": ""
     },
@@ -211,14 +219,6 @@
      "text": "Ocarina of Time remake release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "October jobs report beats forecasts",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Apple launches touchscreen MacBook Pro",
+     "text": "Guy Fawkes Night celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cba3b27f69a3",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump promises nuclear Mars spacecraft",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9b5fa84b6f8",
      "likes": 0,
      "image": ""
     },
@@ -279,11 +271,19 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Trump picks Miller as chief of staff",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/480a382c2368",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "Get Buc'ed",
      "author": "Political Memes",
      "url": "https://lemmy.world/post/54081393",
-     "likes": 175,
+     "likes": 230,
      "image": "https://lemmy.world/pictrs/image/b3bcf3a5-dc9a-4c16-aa62-ab6ce834f628.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "63 times he said this.....",
      "author": "Political Memes",
      "url": "https://lemmy.ca/post/73481822",
-     "likes": 54,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/26983eeb-ec42-47b6-ba83-33de585d9716.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Russian President Vladimir Putin has no \u200bveto on European security \u200cmatters and Ukraine must become fully integrated into European \u200bsecurity architecture, says EU's \u200bforeign policy chief Kaja \u2060Kallas",
      "author": "World News",
      "url": "https://lemmy.wtf/post/51601233",
-     "likes": 41,
+     "likes": 54,
      "image": ""
     },
     {
@@ -307,58 +307,58 @@
      "text": "Democrats just won control of Georgia Power\u2019s regulator for the first time in 30 years \u2014 and its OpenAI data center contract was entirely redacted",
      "author": "Fuck AI",
      "url": "https://lemmy.ca/post/73482040",
-     "likes": 52,
+     "likes": 77,
      "image": "https://lemmy.world/pictrs/image/9120eb5c-3f02-4eba-9974-67563b41e246.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T00:33:19.163767+00:00",
+   "fetched_at": "2026-11-07T01:03:25.519589+00:00",
    "stale": false,
    "items": [
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Don't tell secrets in corn fields. Too many ears around.",
+     "text": "Why do birds fly south for the winter? Because it's too far to walk.",
      "source": "Dad joke"
     },
     {
-     "text": "When do doctors get angry? When they run out of patients.",
+     "text": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you do when your bunny gets wet? You get your hare dryer.",
+     "text": "Why do scuba divers fall backwards into the water? Because if they fell forwards they\u2019d still be in the boat.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
