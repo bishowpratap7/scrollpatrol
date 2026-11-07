@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T16:07:35.026734+00:00",
+ "generated_at": "2026-11-07T16:37:41.316507+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T16:07:31.048532+00:00",
+   "fetched_at": "2026-11-07T16:37:36.609466+00:00",
    "stale": false,
    "items": [
     {
@@ -35,20 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "why are their no large cities here?",
-     "url": "https://www.reddit.com/r/geography/comments/1xppbv4/why_are_their_no_large_cities_here/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/f9rc0zn7d20i1.png?width=640&crop=smart&auto=webp&s=a912826681e7bfaa20efa049876428d59972aade"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Who\u2019s the best?",
      "url": "https://www.reddit.com/r/BBQ/comments/1xq5slw/whos_the_best/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/67plumiou60i1.jpeg?width=640&crop=smart&auto=webp&s=d92a6aaa9b71cdf2d579a2bc50978e55dd58378d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "why are their no large cities here?",
+     "url": "https://www.reddit.com/r/geography/comments/1xppbv4/why_are_their_no_large_cities_here/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/f9rc0zn7d20i1.png?width=640&crop=smart&auto=webp&s=a912826681e7bfaa20efa049876428d59972aade"
     },
     {
      "source": "Reddit",
@@ -62,15 +62,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A true hero",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xq6gb7/a_true_hero/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/8qymxl0i070i1.jpeg?width=640&crop=smart&auto=webp&s=fb8cffd500c8dd3788ca085b965c7f4e895d7429"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Macklemore Says Major Arenas Refusing to Host His Tour in US",
      "url": "https://www.reddit.com/r/Music/comments/1xpjhru/macklemore_says_major_arenas_refusing_to_host_his/",
      "score": 0,
@@ -80,124 +71,117 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Peak Reflex and awareness",
-     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xq68m6/peak_reflex_and_awareness/",
+     "title": "AMD CEO enrages gamers by saying it's now a 'data center first' company \u2014 and predicts PC sales will plummet by a 'double-digit percentage' in 2027",
+     "url": "https://www.reddit.com/r/gaming/comments/1xpk1zk/amd_ceo_enrages_gamers_by_saying_its_now_a_data/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/cDlmOHgzc215NjBpMdAD8KPZxdQftORM-ytUMNkHCYrNpLxTPIZyH7FboK0c.png?width=640&crop=smart&auto=webp&s=77cbc0702817c2b6e588fc6b9772bfde33657409"
+     "image": "https://external-preview.redd.it/HMQRjSujts0Fc-9WAabhJazy_KJujjbjue6DcIn9Uy0.jpeg?width=640&crop=smart&auto=webp&s=59fd89485829dfc10d2eab4948081d86dc6e2e1d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "A true hero",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xq6gb7/a_true_hero/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/8qymxl0i070i1.jpeg?width=640&crop=smart&auto=webp&s=fb8cffd500c8dd3788ca085b965c7f4e895d7429"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T16:07:32.112437+00:00",
+   "fetched_at": "2026-11-07T16:37:37.642272+00:00",
    "stale": false,
    "items": [
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2233,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 7,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 43,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 5633,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1215,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 185,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 465,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1192,
+     "title": "heapBig",
+     "image": "https://i.redd.it/eh7iaunf9eyh1.png",
+     "url": "https://redd.it/1xihrez",
+     "ups": 227,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Yea so that\u2019s over",
-     "image": "https://i.redd.it/pbialic3rzzh1.gif",
-     "url": "https://redd.it/1xpccj4",
-     "ups": 21683,
+     "title": "tryHackMeKindaUnseriousNow",
+     "image": "https://i.redd.it/bggqfn70jlzh1.png",
+     "url": "https://redd.it/1xnnyjx",
+     "ups": 282,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Let me keep some of my dignity",
+     "image": "https://i.redd.it/hi3solake10i1.png",
+     "url": "https://redd.it/1xpkk8k",
+     "ups": 36,
      "sub": "r/memes"
     },
     {
-     "title": "Breaking Bad was truly ahead of its time \ud83e\udd79",
-     "image": "https://i.redd.it/63wwhrel2vzh1.png",
-     "url": "https://redd.it/1xouq3r",
-     "ups": 1123,
+     "title": "Every restaurant chain meeting in 2026",
+     "image": "https://i.redd.it/7af7whvfu60i1.png",
+     "url": "https://redd.it/1xq5rum",
+     "ups": 69,
      "sub": "r/memes"
     },
     {
-     "title": "Good boy...",
-     "image": "https://i.redd.it/3kr81n04d00i1.png",
-     "url": "https://redd.it/1xpf5sn",
-     "ups": 42,
+     "title": "Guess I\u2019ll have to develop a personality now",
+     "image": "https://i.redd.it/loi2va6o200i1.gif",
+     "url": "https://redd.it/1xpdutu",
+     "ups": 1338,
      "sub": "r/memes"
     },
     {
-     "title": "I know what you did",
-     "image": "https://i.redd.it/su5elzq8hrzh1.png",
-     "url": "https://redd.it/1xoe7oz",
-     "ups": 13714,
+     "title": "There is only loneliness there",
+     "image": "https://i.redd.it/45pyr7sc910i1.png",
+     "url": "https://redd.it/1xpjtrm",
+     "ups": 776,
      "sub": "r/memes"
     },
     {
-     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
-     "image": "https://i.redd.it/bzadue12g60i1.png",
-     "url": "https://redd.it/1xq4cmy",
-     "ups": 1008,
+     "title": "It only has instructions for frozen...",
+     "image": "https://i.redd.it/ou8r83hc230i1.png",
+     "url": "https://redd.it/1xpshen",
+     "ups": 22,
      "sub": "r/memes"
     },
     {
-     "title": "Door Symphony",
-     "image": "https://i.redd.it/x7ut4017w60i1.png",
-     "url": "https://redd.it/1xq5yrs",
-     "ups": 75,
+     "title": "*  sighs  *",
+     "image": "https://i.redd.it/ck8pjxnrt40i1.png",
+     "url": "https://redd.it/1xpz99f",
+     "ups": 17,
      "sub": "r/memes"
-    },
-    {
-     "title": "It's not looking good brev",
-     "image": "https://i.redd.it/265632vcqtzh1.png",
-     "url": "https://redd.it/1xonpaj",
-     "ups": 200,
-     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T16:07:33.993393+00:00",
+   "fetched_at": "2026-11-07T16:37:39.942021+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "CBS last in election night ratings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9099e8ff9188",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Gaza family donation appeals",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35519f427231",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Worst graduates from each school",
@@ -216,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Trump picks Miller as chief of staff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/480a382c2368",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -232,25 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Russell Brand verdict",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Viral iOS Live Listen warning",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10cd9214a3a8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Apple's hidden predictive text restrictions",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/625b2806056b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +248,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Flamingo missiles reportedly hit Oryol",
+     "text": "October jobs report beats forecasts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4deeac6e96b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Veterans Day observances",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democrats urge ICE to unmask agents",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
      "likes": 0,
      "image": ""
     },
@@ -280,50 +280,42 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "Final Search [Boldjun]",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54108033",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/3bd05840-53e8-49f6-a93e-7c6030cd99c9.png"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "True self",
      "author": "Comic Strips",
      "url": "https://lemmy.world/post/54106925",
-     "likes": 59,
+     "likes": 110,
      "image": "https://lemmy.world/pictrs/image/65918d2c-2085-4547-8afa-195ca63c1449.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Napa County with an important, confusing reminder",
+     "author": "Funny: Home of the Haha",
+     "url": "https://lemmy.world/post/54107817",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/46a64c8f-9edd-409f-8aff-38c29b294d64.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Do something!",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/69563560",
-     "likes": 34,
+     "likes": 69,
      "image": "https://lemmy.world/pictrs/image/dc55d65e-434c-4304-9ff3-993a8d0ed07a.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The needs of the many",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54106876",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/6d6a34c9-1f1f-4c00-8c24-5acedeb6e9a9.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Seems like an impressive skill to me",
-     "author": "People Twitter",
-     "url": "https://lemmy.world/post/54106631",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/964dbaca-abd8-475e-a9ad-ce17d37c4e56.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T16:07:34.368946+00:00",
+   "fetched_at": "2026-11-07T16:37:40.621211+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
     {
      "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
@@ -333,23 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you get when you cross a pig and a pineapple? A porky pine",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What was the pumpkin\u2019s favorite sport?\r\n\r\nSquash.",
      "source": "Dad joke"
     },
     {
-     "text": "To the person who stole my anti-depressant pills: I hope you're happy now.",
+     "text": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
      "source": "Dad joke"
     },
     {
-     "text": "Where does astronauts hangout after work? At the spacebar.",
+     "text": "Did you hear the news? FedEx and UPS are merging. They\u2019re going to go by the name Fed-Up from now on.",
      "source": "Dad joke"
     }
    ]
