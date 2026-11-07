@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-07T07:04:57.252486+00:00",
+ "generated_at": "2026-11-07T07:05:11.687183+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-07T07:04:53.400189+00:00",
+   "fetched_at": "2026-11-07T07:05:07.178780+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -26,20 +17,38 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Trump signs order preventing future presidents from changing Oval Office. Declares his redesigned Oval Office a national monumen.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xpckuf/trump_signs_order_preventing_future_presidents/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/OTFhOTc3YjN0enpoMZ40Tq3nbN9P4non3whQ1hFWAhNOp1XyVmgQVkJNU9Zx.png?width=640&crop=smart&auto=webp&s=6f2cccf52394d0c518fea64da71caf001cfee3ec"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Meirl",
      "url": "https://www.reddit.com/r/meirl/comments/1xpsm13/meirl/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/5866nzmh330i1.jpeg?width=640&crop=smart&auto=webp&s=5ec2c380dbdde51829342e8c2b74e22d0149f783"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My neighbor brings a multi-monitor setup to the community pool and takes loud conference calls all day.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xpnhay/my_neighbor_brings_a_multimonitor_setup_to_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/cp73fi33z10i1.jpeg?width=640&crop=smart&auto=webp&s=0d3f67a9ac3e91766f50ed4cbe8dd2d909854e4e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Teenage girl held captive for 500 days rescued after secretly asking for help in Among Us",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xpvvtm/teenage_girl_held_captive_for_500_days_rescued/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/Xtk1lt1hcmfKr3BF-SrngmvRZUFLUMErYe3CANZ-tZE.jpeg?width=640&crop=smart&auto=webp&s=a95c9ae4e3d3868240e1ceb4417c76a208fc0cd5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Trump signs order preventing future presidents from changing Oval Office. Declares his redesigned Oval Office a national monumen.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xpckuf/trump_signs_order_preventing_future_presidents/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/OTFhOTc3YjN0enpoMZ40Tq3nbN9P4non3whQ1hFWAhNOp1XyVmgQVkJNU9Zx.png?width=640&crop=smart&auto=webp&s=6f2cccf52394d0c518fea64da71caf001cfee3ec"
     },
     {
      "source": "Reddit",
@@ -62,15 +71,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Teenage girl held captive for 500 days rescued after secretly asking for help in Among Us",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xpvvtm/teenage_girl_held_captive_for_500_days_rescued/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/Xtk1lt1hcmfKr3BF-SrngmvRZUFLUMErYe3CANZ-tZE.jpeg?width=640&crop=smart&auto=webp&s=a95c9ae4e3d3868240e1ceb4417c76a208fc0cd5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Meirl",
      "url": "https://www.reddit.com/r/meirl/comments/1xpsmhf/meirl/",
      "score": 0,
@@ -89,9 +89,23 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-07T07:04:54.582193+00:00",
+   "fetched_at": "2026-11-07T07:05:08.425502+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 181,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "heapBig",
      "image": "https://i.redd.it/eh7iaunf9eyh1.png",
@@ -100,24 +114,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wontGoDownWithoutAFight",
-     "image": "https://i.redd.it/lr01w8z3ofyh1.png",
-     "url": "https://redd.it/1xiot5h",
-     "ups": 1188,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6348,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 33,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1354,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,11 +128,11 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "355% to 500% increase in cost for ram alone.",
-     "image": "https://i.redd.it/v7fumxoe620i1.png",
-     "url": "https://redd.it/1xpog5s",
-     "ups": 26,
-     "sub": "r/memes"
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Guess I'm taking the bus",
@@ -142,44 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "IF I SEE ONE MORE AD ABOUT THE ELDERLY USING CHATGPT",
-     "image": "https://i.redd.it/j76ztpui040i1.gif",
-     "url": "https://redd.it/1xpwaxy",
-     "ups": 158,
+     "title": "Every year on the wrong month",
+     "image": "https://i.redd.it/c4f8mep00yzh1.png",
+     "url": "https://redd.it/1xp6lgt",
+     "ups": 24,
      "sub": "r/memes"
     },
     {
-     "title": "hate this but it's true",
-     "image": "https://i.redd.it/w15dztzhaxzh1.png",
-     "url": "https://redd.it/1xp462c",
-     "ups": 6261,
+     "title": "355% to 500% increase in cost for ram alone.",
+     "image": "https://i.redd.it/v7fumxoe620i1.png",
+     "url": "https://redd.it/1xpog5s",
+     "ups": 26,
      "sub": "r/memes"
     },
     {
-     "title": "Cyberpunk Edgerunners",
-     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
-     "url": "https://redd.it/1xpwaes",
-     "ups": 77,
+     "title": "Yea so that\u2019s over",
+     "image": "https://i.redd.it/pbialic3rzzh1.gif",
+     "url": "https://redd.it/1xpccj4",
+     "ups": 19057,
      "sub": "r/memes"
     },
     {
-     "title": "I just really like little guys",
-     "image": "https://i.redd.it/08z2kmo5gozh1.png",
-     "url": "https://redd.it/1xo2ukx",
-     "ups": 5991,
+     "title": "The 2nd Amendment of IT",
+     "image": "https://i.redd.it/vgbrp0iznvzh1.png",
+     "url": "https://redd.it/1xoxjc5",
+     "ups": 59,
      "sub": "r/memes"
     },
     {
-     "title": "Bro didn't come here to watch \ud83d\udc80",
-     "image": "https://i.redd.it/g7y1ciek0rzh1.png",
-     "url": "https://redd.it/1xoct7w",
-     "ups": 0,
-     "sub": "r/dankmemes"
+     "title": "I know that mine look trash but atleast it\u2019s good",
+     "image": "https://i.redd.it/hrpp385u9uzh1.gif",
+     "url": "https://redd.it/1xoqlvs",
+     "ups": 261,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-07T07:04:56.156408+00:00",
+   "fetched_at": "2026-11-07T07:05:10.565594+00:00",
    "stale": false,
    "items": [
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-07T07:04:56.719658+00:00",
+   "fetched_at": "2026-11-07T07:05:11.175418+00:00",
    "stale": false,
    "items": [
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "What is red and smells like blue paint?\r\nRed paint!",
+     "text": "Why did the coffee file a police report? It got mugged.",
      "source": "Dad joke"
     },
     {
-     "text": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.",
+     "text": "What did one snowman say to the other snow man? Do you smell carrot?",
      "source": "Dad joke"
     },
     {
-     "text": "What did the digital clock say to the grandfather clock? Look, no hands!",
+     "text": "Did you hear about the guy whose whole left side was cut off? He's all right now.",
      "source": "Dad joke"
     }
    ]
