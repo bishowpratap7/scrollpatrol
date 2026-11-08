@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T18:13:31.182080+00:00",
+ "generated_at": "2026-11-08T18:13:47.043772+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T18:13:24.981647+00:00",
+   "fetched_at": "2026-11-08T18:13:41.875166+00:00",
    "stale": false,
    "items": [
     {
@@ -89,35 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T18:13:26.571105+00:00",
+   "fetched_at": "2026-11-08T18:13:43.000281+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 6739,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "iDontGetHowThisIsDifficult",
      "image": "https://i.redd.it/ek06257kbzzh1.png",
      "url": "https://redd.it/1xpapxq",
      "ups": 315,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 83,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 1,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "magicQuotes",
-     "image": "https://i.redd.it/xnnr0jatbfyh1.png",
-     "url": "https://redd.it/1ximxha",
-     "ups": 2406,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,11 +114,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 10,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17168,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1207,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Fully automated\u201d apparently means working from home",
+     "image": "https://i.redd.it/nom62xql690i1.png",
+     "url": "https://redd.it/1xqgkec",
+     "ups": 112,
+     "sub": "r/memes"
     },
     {
      "title": "Outsmarted you this time",
@@ -142,17 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "I wanted to be rich...",
-     "image": "https://i.redd.it/80ewfiiku40i1.gif",
-     "url": "https://redd.it/1xpzbn2",
-     "ups": 1973,
+     "title": "Follow rule 2 guys",
+     "image": "https://i.redd.it/q53isefdne0i1.gif",
+     "url": "https://redd.it/1xr0nkx",
+     "ups": 424,
      "sub": "r/memes"
     },
     {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1110,
+     "title": "Just a little pet peeve of mine",
+     "image": "https://i.redd.it/n6m76xs1ra0i1.png",
+     "url": "https://redd.it/1xqn6gg",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
@@ -163,23 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Random Altman Memory",
-     "image": "https://i.redd.it/wn9kwtfej70i1.png",
-     "url": "https://redd.it/1xq8sn4",
-     "ups": 46,
+     "title": "can we have Internet 2 please",
+     "image": "https://i.redd.it/fylqwelmeb0i1.png",
+     "url": "https://redd.it/1xqplc5",
+     "ups": 1865,
      "sub": "r/memes"
     },
     {
-     "title": "That's how it works, isn't it?",
-     "image": "https://i.redd.it/tpj9bfxqzszh1.png",
-     "url": "https://redd.it/1xojwv3",
-     "ups": 35,
+     "title": "It was a great Internet phenomenon",
+     "image": "https://i.redd.it/i3mc6nfmaxzh1.png",
+     "url": "https://redd.it/1xp46ce",
+     "ups": 81,
      "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T18:13:29.432040+00:00",
+   "fetched_at": "2026-11-08T18:13:44.995948+00:00",
    "stale": false,
    "items": [
     {
@@ -299,7 +299,7 @@
      "text": "I cleaned my oven this weekend.",
      "author": "Dull Men's Club",
      "url": "https://feddit.dk/post/26094644",
-     "likes": 10,
+     "likes": 11,
      "image": "https://lemmy.world/pictrs/image/1ac976b4-5b97-48db-9dd6-f8c2690a1cb0.webp"
     },
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T18:13:30.454043+00:00",
+   "fetched_at": "2026-11-08T18:13:46.016025+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the 0 say to the 8? Nice belt.",
+     "text": "Which is the fastest growing city in the world? Dublin'",
      "source": "Dad joke"
     },
     {
-     "text": "A farmer had 297 cows, when he rounded them up, he found he had 300",
+     "text": "What do you call a criminal going down the stairs? Condescending",
      "source": "Dad joke"
     },
     {
-     "text": "What did the doctor say to the gingerbread man who broke his leg? Try icing it.",
+     "text": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
      "source": "Dad joke"
     }
    ]
