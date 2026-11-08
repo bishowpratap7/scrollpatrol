@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-11-08T21:14:26.216442+00:00",
+ "generated_at": "2026-11-08T21:44:32.581760+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T21:14:21.401991+00:00",
+   "fetched_at": "2026-11-08T21:44:27.847273+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A message from the wife of the fan who got ejected from the Lakers-Kings game on Wednesday night",
-     "url": "https://www.reddit.com/r/sportsgossips/comments/1xqnhf4/a_message_from_the_wife_of_the_fan_who_got/",
+     "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
+     "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/wzkvdg32ua0i1.jpeg?width=640&crop=smart&auto=webp&s=b968c9ea1acc68a5bdaaa403c2f2e27c06dbffb4"
+     "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "P21 - P2",
-     "url": "https://www.reddit.com/r/formuladank/comments/1xr5lf6/p21_p2/",
+     "title": "Lando Norris breaks the champagne bottle on the podium",
+     "url": "https://www.reddit.com/r/formula1/comments/1xr65f4/lando_norris_breaks_the_champagne_bottle_on_the/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/29hvxdgbof0i1.jpeg?width=640&crop=smart&auto=webp&s=0bfa58f60937f79bc9600d3b1bb3ab254cb6b800"
+     "image": "https://external-preview.redd.it/GR40aCUBkgAOyanwQscKu3kGLK7tmhbohTBFnx5Hpgg.jpeg?width=640&crop=smart&auto=webp&s=9ff671cda235fddea2bc3d9181fd3d93fc78e843"
     },
     {
      "source": "Reddit",
@@ -35,15 +35,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Kids without phones",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xr1sii/kids_without_phones/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aHRiNmN4Y2F3ZTBpMQnHn2bCQIqIl1-YhcSNQQVr69a0SM389dcKPSTSxVKQ.png?width=640&crop=smart&auto=webp&s=10c1a34dbada724f07262a0e8c9bd3a6d14c1eff"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "this pickup taking up FOUR parking spaces in a crowded lot",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xr5s42/this_pickup_taking_up_four_parking_spaces_in_a/",
      "score": 0,
@@ -53,11 +44,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "A message from the wife of the fan who got ejected from the Lakers-Kings game on Wednesday night",
+     "url": "https://www.reddit.com/r/sportsgossips/comments/1xqnhf4/a_message_from_the_wife_of_the_fan_who_got/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wzkvdg32ua0i1.jpeg?width=640&crop=smart&auto=webp&s=b968c9ea1acc68a5bdaaa403c2f2e27c06dbffb4"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Jack Black and Celine Dion rocking out to Metallica in Las Vegas.",
      "url": "https://www.reddit.com/r/Amazing/comments/1xr5k6n/jack_black_and_celine_dion_rocking_out_to/",
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "P21 - P2",
+     "url": "https://www.reddit.com/r/formuladank/comments/1xr5lf6/p21_p2/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/29hvxdgbof0i1.jpeg?width=640&crop=smart&auto=webp&s=0bfa58f60937f79bc9600d3b1bb3ab254cb6b800"
     },
     {
      "source": "Reddit",
@@ -76,27 +85,32 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/1eazwroqzd0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=be7069b8c864e492f27c618ad6a1b3cf99967bf3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "He's so shy \ud83d\ude2d\ud83d\ude2d",
-     "url": "https://www.reddit.com/r/Awww/comments/1xr3czj/hes_so_shy/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aG84YXJkZHc3ZjBpMQi8zcE6pbLpl-I0wa95smsdPWFHYMxnN6GqfRlrzERQ.png?width=640&crop=smart&auto=webp&s=dd2a5a7478808683f8b185835a226e25d4d3aef7"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T21:14:22.788765+00:00",
+   "fetched_at": "2026-11-08T21:44:29.357176+00:00",
    "stale": false,
    "items": [
     {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10103,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 163,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 326,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,10 +121,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2283,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6646,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,80 +135,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 1188,
-     "sub": "r/ProgrammerHumor"
+     "title": "13 years of development well spent",
+     "image": "https://i.redd.it/bnahfdubn90i1.png",
+     "url": "https://redd.it/1xqimw0",
+     "ups": 4196,
+     "sub": "r/memes"
     },
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6646,
-     "sub": "r/ProgrammerHumor"
+     "title": "Its joe over",
+     "image": "https://i.redd.it/a7b6xax1u30i1.png",
+     "url": "https://redd.it/1xpvlvr",
+     "ups": 377,
+     "sub": "r/memes"
     },
     {
      "title": "Remember the times when we couldn't make art work, so we just... resorted to procrastination?",
      "image": "https://i.redd.it/q722a41ti60i1.png",
      "url": "https://redd.it/1xq4mno",
-     "ups": 104,
+     "ups": 103,
      "sub": "r/memes"
     },
     {
-     "title": "POV: You finally found your cinema partner \ud83c\udf7f",
-     "image": "https://i.redd.it/qnq8yo100c0i1.png",
-     "url": "https://redd.it/1xqrm7m",
-     "ups": 1219,
+     "title": "Nothing less than a full pack",
+     "image": "https://i.redd.it/igakl8tn4g0i1.png",
+     "url": "https://redd.it/1xr7uwh",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
-     "title": "[$2.5 trillion wiped out]",
-     "image": "https://i.redd.it/z8e7ud52810i1.gif",
-     "url": "https://redd.it/1xpjm91",
-     "ups": 1534,
+     "title": "Freezes NYC",
+     "image": "https://i.redd.it/q5qpq759d10i1.png",
+     "url": "https://redd.it/1xpkdl7",
+     "ups": 11835,
      "sub": "r/memes"
     },
     {
-     "title": "Just a little pet peeve of mine",
-     "image": "https://i.redd.it/n6m76xs1ra0i1.png",
-     "url": "https://redd.it/1xqn6gg",
-     "ups": 14,
-     "sub": "r/memes"
-    },
-    {
-     "title": "13 years of development well spent",
-     "image": "https://i.redd.it/bnahfdubn90i1.png",
-     "url": "https://redd.it/1xqimw0",
-     "ups": 3976,
-     "sub": "r/memes"
-    },
-    {
-     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
-     "image": "https://i.redd.it/bzadue12g60i1.png",
-     "url": "https://redd.it/1xq4cmy",
-     "ups": 3856,
-     "sub": "r/memes"
+     "title": "meme about karl bushby and his son",
+     "image": "https://i.redd.it/uz75ghz5lczh1.png",
+     "url": "https://redd.it/1xmme3j",
+     "ups": 3995,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T21:14:24.767297+00:00",
+   "fetched_at": "2026-11-08T21:44:31.442371+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Vance on swearing in El-Sayed",
+     "text": "New Zealand election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/554361d02ff9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9957c8606f9b",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Trump orders DOJ to investigate Democrats",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7937333696e",
      "likes": 0,
      "image": ""
     },
@@ -224,41 +216,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Diwali celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "JJ McCarthy hurt on Zack Baun hit",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bde6a974c421",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Oregon vs. Ohio State",
+     "text": "Infant vitamin K shot refusals rise",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a5becd46478",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Backyard bird sightings",
+     "text": "Bonfire Night fireworks across UK",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/080ac78d753b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Massie files Hegseth impeachment articles",
+     "text": "Midterm election race results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4d185ded6f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "I'm in the future and it's stupid",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54169999",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/29db53de-c08b-46e0-8a99-11758df560ce.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Missouri voters just made it much harder for lawmakers to overturn citizen-led initiatives",
-     "author": "News",
-     "url": "https://lemmy.world/post/54170260",
+     "text": "A Difference in Sports Chants",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54171499",
      "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/c4f62639-f2cb-4cd3-afd4-6511ffa5a85a.jpeg"
+     "image": "https://lemmy.world/pictrs/image/4dd09686-cec7-43b1-8786-af8629ba244a.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "\u201cRam Altman\u201d Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
-     "author": "Programmer Humor",
-     "url": "https://suppo.fi/post/15324588",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/d4070bba-b14c-445c-aa06-a9ab998b367e.webp"
+     "text": "Anon is looking for a router",
+     "author": "Greentext",
+     "url": "https://suppo.fi/post/15325160",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/b404760f-a88b-4a82-81f3-b6aa887994d8.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Petition Calling for House Speaker Other Than Hakeem Jeffries Hits 1 Million Signatures | Common Dreams",
-     "author": "politics ",
-     "url": "https://sopuli.xyz/post/54332570",
-     "likes": 59,
-     "image": "https://lemmy.world/pictrs/image/58e9d3c3-03d6-4aa4-a4e7-cc6438f36b90.jpeg"
+     "text": "Apple\u2019s New CEO Is Reportedly Pushing to Stuff More AI into iPhones",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54171965",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/71fc4ebb-687a-4ea7-a68f-3cd132a1c413.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Writing this from Mastodon as a Test. Hello!",
+     "author": "Fediverse",
+     "url": "https://mstdn.social/users/mgfp/statuses/117582904220077424",
+     "likes": 12,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T21:14:25.184268+00:00",
+   "fetched_at": "2026-11-08T21:44:31.860098+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
     {
      "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "How come the stadium got hot after the game? Because all of the fans left.",
-     "source": "Dad joke"
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
     },
     {
-     "text": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
+     "text": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
      "source": "Dad joke"
     },
     {
      "text": "If two vegans are having an argument, is it still considered beef?",
+     "source": "Dad joke"
+    },
+    {
+     "text": "Why did the tomato blush? Because it saw the salad dressing.",
      "source": "Dad joke"
     }
    ]
