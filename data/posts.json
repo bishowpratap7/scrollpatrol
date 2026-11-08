@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-08T15:12:46.232164+00:00",
+ "generated_at": "2026-11-08T15:42:53.528211+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T15:12:40.649292+00:00",
+   "fetched_at": "2026-11-08T15:42:47.868077+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "A message from the wife of the fan who got ejected from the Lakers-Kings game on Wednesday night",
+     "url": "https://www.reddit.com/r/sportsgossips/comments/1xqnhf4/a_message_from_the_wife_of_the_fan_who_got/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wzkvdg32ua0i1.jpeg?width=640&crop=smart&auto=webp&s=b968c9ea1acc68a5bdaaa403c2f2e27c06dbffb4"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,24 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/d56h84k3xd0i1.jpeg?width=640&crop=smart&auto=webp&s=db17ca3ef7ecc3a9b2eb2aa9fa952af3af0da441"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "[Postgame Thread] Notre Dame Defeats Miami 31-24",
-     "url": "https://www.reddit.com/r/CFB/comments/1xqpdl2/postgame_thread_notre_dame_defeats_miami_3124/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The real escape room was the parking lot all along",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xqvbj9/the_real_escape_room_was_the_parking_lot_all_along/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/h1kf1io37d0i1.jpeg?width=640&crop=smart&auto=webp&s=b5be6938c8c49c5077d89d709d4614476c551bb8"
     },
     {
      "source": "Reddit",
@@ -44,11 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A message from the wife of the fan who got ejected from the Lakers-Kings game on Wednesday night",
-     "url": "https://www.reddit.com/r/sportsgossips/comments/1xqnhf4/a_message_from_the_wife_of_the_fan_who_got/",
+     "title": "[Postgame Thread] Notre Dame Defeats Miami 31-24",
+     "url": "https://www.reddit.com/r/CFB/comments/1xqpdl2/postgame_thread_notre_dame_defeats_miami_3124/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/wzkvdg32ua0i1.jpeg?width=640&crop=smart&auto=webp&s=b968c9ea1acc68a5bdaaa403c2f2e27c06dbffb4"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -71,39 +62,48 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Jeffries Approval Rating Worse Than Mike Johnson as Democratic Voters Rebel",
-     "url": "https://www.reddit.com/r/politics/comments/1xqxluc/jeffries_approval_rating_worse_than_mike_johnson/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/89WWagfXkj7LUKM22OymKDLuwXFOsDD1lLdbeXt3ves.jpeg?width=640&crop=smart&auto=webp&s=2c0ed4bc176da3807b26b56b6312760c5791165b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "PS6 doesn't need more power ex-PlayStation boss says, because \"true innovation\" would be making a $300 console again",
      "url": "https://www.reddit.com/r/gaming/comments/1xqemkj/ps6_doesnt_need_more_power_explaystation_boss/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/HhbC8tN1LWfWhQfrXkUvjolJJiEhMyU3zt61SpHai_g.jpeg?width=640&crop=smart&auto=webp&s=3d7e12c404e9235ce87deca0cbc9805bb9ddbeb6"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Israeli President Picks Gadi Eisenkot, Netanyahu Rival, To Form Government",
+     "url": "https://www.reddit.com/r/worldnews/comments/1xqezyx/israeli_president_picks_gadi_eisenkot_netanyahu/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The United States Is About to Be Blindsided.",
+     "url": "https://www.reddit.com/r/anticapitalism/comments/1xqj8l5/the_united_states_is_about_to_be_blindsided/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/5goEbhuz_dRfEIUwYLUxqQN4phsowFvwhiTMkKzedXE.jpeg?width=640&crop=smart&auto=webp&s=94b3aeb66b6e724c2cb91ad4ba04c9b3f45c4b52"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T15:12:42.168655+00:00",
+   "fetched_at": "2026-11-08T15:42:49.405729+00:00",
    "stale": false,
    "items": [
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 38,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 434,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 21436,
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 10104,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,72 +114,72 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17148,
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 621,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 38,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCompilerBugs",
-     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
-     "url": "https://redd.it/1xk4xh6",
-     "ups": 35,
+     "title": "unhappyCrustaceans",
+     "image": "https://i.redd.it/dgj598hkm20i1.png",
+     "url": "https://redd.it/1xpqmpe",
+     "ups": 154,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Random Altman Memory",
-     "image": "https://i.redd.it/wn9kwtfej70i1.png",
-     "url": "https://redd.it/1xq8sn4",
-     "ups": 47,
+     "title": "Freezes NYC",
+     "image": "https://i.redd.it/q5qpq759d10i1.png",
+     "url": "https://redd.it/1xpkdl7",
+     "ups": 11503,
      "sub": "r/memes"
     },
     {
-     "title": "Outsmarted you this time",
-     "image": "https://i.redd.it/tukaf24al80i1.gif",
-     "url": "https://redd.it/1xqdvd4",
-     "ups": 98,
+     "title": "Cave divers be like",
+     "image": "https://i.redd.it/jmsqvztik80i1.png",
+     "url": "https://redd.it/1xqdpsx",
+     "ups": 25,
      "sub": "r/memes"
     },
     {
-     "title": "Swoozie, let's break up",
-     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
-     "url": "https://redd.it/1xprxm7",
-     "ups": 7009,
+     "title": "Guess I\u2019ll have to develop a personality now",
+     "image": "https://i.redd.it/loi2va6o200i1.gif",
+     "url": "https://redd.it/1xpdutu",
+     "ups": 1469,
      "sub": "r/memes"
     },
     {
-     "title": "Remember the times when we couldn't make art work, so we just... resorted to procrastination?",
-     "image": "https://i.redd.it/q722a41ti60i1.png",
-     "url": "https://redd.it/1xq4mno",
-     "ups": 98,
+     "title": "Movie Enjoyer vs Film Bro vs Cinephile",
+     "image": "https://i.redd.it/dgc0spyu6d0i1.png",
+     "url": "https://redd.it/1xqv9dj",
+     "ups": 7,
      "sub": "r/memes"
     },
     {
-     "title": "Its joe over",
-     "image": "https://i.redd.it/a7b6xax1u30i1.png",
-     "url": "https://redd.it/1xpvlvr",
-     "ups": 345,
+     "title": "There is only loneliness there",
+     "image": "https://i.redd.it/45pyr7sc910i1.png",
+     "url": "https://redd.it/1xpjtrm",
+     "ups": 819,
      "sub": "r/memes"
     },
     {
-     "title": "Door Symphony",
-     "image": "https://i.redd.it/x7ut4017w60i1.png",
-     "url": "https://redd.it/1xq5yrs",
-     "ups": 257,
+     "title": "Fully automated\u201d apparently means working from home",
+     "image": "https://i.redd.it/nom62xql690i1.png",
+     "url": "https://redd.it/1xqgkec",
+     "ups": 102,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T15:12:44.950164+00:00",
+   "fetched_at": "2026-11-08T15:42:52.176687+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election race results",
+     "text": "Congress weighs Hegseth impeachment",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4d185ded6f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
@@ -216,6 +216,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Diwali celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Veterans Day observances",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
@@ -224,9 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Diwali celebrations",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "F1 S\u00e3o Paulo Grand Prix race day",
+     "text": "Apple's hidden predictive text restrictions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/30fa16a2c230",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "NASA awards Moon Base contracts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/625b2806056b",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Dana White name mix-up theories",
+     "text": "Jeffries sets House Democrats' agenda",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93fe1043a04e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ab3017fe201",
      "likes": 0,
      "image": ""
     },
@@ -283,45 +283,45 @@
      "text": "Just visiting",
      "author": "cats",
      "url": "https://lemmy.world/post/54158334",
-     "likes": 43,
+     "likes": 78,
      "image": "https://lemmy.world/pictrs/image/45be8395-2845-4d28-a1d6-ffabf1fa771a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Big boy finally has a good scratcher",
-     "author": "cats",
-     "url": "https://lemmy.world/post/54158110",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/870d2b35-e9d9-4296-b6ad-d483fe60a2cc.jpeg"
+     "text": "White Evangelicals were the only group to actually *increase* their support for the GOP",
+     "author": "politics ",
+     "url": "https://lemmy.ml/post/55062238",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/2f71453a-94dd-4d01-8d96-ba3e0373b784.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Secret",
-     "author": "NiceMemes",
-     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1055484/secret",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/81d2491f-c4b2-43ed-b588-ac8284aaef06.jpeg"
+     "text": "Clowning around",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/62980114",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/7e94569e-0863-4f5b-9507-4a139fac5849.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Batrito, anyone?",
-     "author": "Bats",
-     "url": "https://lemmy.world/post/54158171",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/274f1efe-3bb1-4cff-bea7-3c37673bd687.jpeg"
+     "text": "Illegal activity",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/62979642",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/929779ae-c0ba-41e7-8f9b-7119dcd1f187.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T15:12:45.543983+00:00",
+   "fetched_at": "2026-11-08T15:42:52.832141+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the drummer name her twin daughters? Anna One, Anna Two...",
+     "text": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear the one about the guy with the broken hearing aid? Neither did he.",
+     "text": "I ordered a chicken and an egg from Amazon. I'll let you know.",
      "source": "Dad joke"
     },
     {
-     "text": "A man walks into a bar and orders helicopter flavor chips. The barman replies \u201csorry mate we only do plain\u201d",
+     "text": "I heard there was a new store called Moderation. They have everything there",
      "source": "Dad joke"
     }
    ]
