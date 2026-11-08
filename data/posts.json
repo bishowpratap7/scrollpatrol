@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T20:14:13.015265+00:00",
+ "generated_at": "2026-11-08T20:44:19.493961+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T20:14:08.661540+00:00",
+   "fetched_at": "2026-11-08T20:44:14.542594+00:00",
    "stale": false,
    "items": [
     {
@@ -44,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "This onion is trying to win a contest or something",
-     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xr2tju/this_onion_is_trying_to_win_a_contest_or_something/",
+     "title": "You have to name him the last thing you ate..",
+     "url": "https://www.reddit.com/r/teenagers/comments/1xqu3y9/you_have_to_name_him_the_last_thing_you_ate/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/3x6y6z924f0i1.jpeg?width=640&crop=smart&auto=webp&s=45d7911a523c58ca2c33835e77f7c6ae4bff9d5d"
+     "image": "https://preview.redd.it/d7g6fz33tc0i1.png?width=640&crop=smart&auto=webp&s=d05b3fe6735c5977d4f05e0fc7a4269ff59a2e7b"
     },
     {
      "source": "Reddit",
@@ -62,11 +62,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "You have to name him the last thing you ate..",
-     "url": "https://www.reddit.com/r/teenagers/comments/1xqu3y9/you_have_to_name_him_the_last_thing_you_ate/",
+     "title": "Kids without phones",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xr1sii/kids_without_phones/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/d7g6fz33tc0i1.png?width=640&crop=smart&auto=webp&s=d05b3fe6735c5977d4f05e0fc7a4269ff59a2e7b"
+     "image": "https://external-preview.redd.it/aHRiNmN4Y2F3ZTBpMQnHn2bCQIqIl1-YhcSNQQVr69a0SM389dcKPSTSxVKQ.png?width=640&crop=smart&auto=webp&s=10c1a34dbada724f07262a0e8c9bd3a6d14c1eff"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "P21 - P2",
+     "url": "https://www.reddit.com/r/formuladank/comments/1xr5lf6/p21_p2/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/29hvxdgbof0i1.jpeg?width=640&crop=smart&auto=webp&s=0bfa58f60937f79bc9600d3b1bb3ab254cb6b800"
     },
     {
      "source": "Reddit",
@@ -76,29 +85,13 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/oj4o417krc0i1.png?width=640&crop=smart&auto=webp&s=18a7f34ddb337fbe06d91df24ddb97786d51d713"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Kids without phones",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xr1sii/kids_without_phones/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aHRiNmN4Y2F3ZTBpMQnHn2bCQIqIl1-YhcSNQQVr69a0SM389dcKPSTSxVKQ.png?width=640&crop=smart&auto=webp&s=10c1a34dbada724f07262a0e8c9bd3a6d14c1eff"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T20:14:09.670397+00:00",
+   "fetched_at": "2026-11-08T20:44:16.262168+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "everyNetworkAPIOnThePlanetToday",
-     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
-     "url": "https://redd.it/1xoir0t",
-     "ups": 1284,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "whenYourLaptopBecomesAHandDryer",
      "image": "https://i.redd.it/ki5ld4n6h30i1.png",
@@ -107,66 +100,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 5800,
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5544,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2278,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 49,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 440,
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1489,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1263,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17248,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Every restaurant chain meeting in 2026",
-     "image": "https://i.redd.it/7af7whvfu60i1.png",
-     "url": "https://redd.it/1xq5rum",
-     "ups": 498,
-     "sub": "r/memes"
+     "title": "ncisWasAccurateAfterAll",
+     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
+     "url": "https://redd.it/1xiu4oi",
+     "ups": 10103,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I wanted to be rich...",
-     "image": "https://i.redd.it/80ewfiiku40i1.gif",
-     "url": "https://redd.it/1xpzbn2",
-     "ups": 1987,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Cyberpunk Edgerunners",
-     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
-     "url": "https://redd.it/1xpwaes",
-     "ups": 1438,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1124,
-     "sub": "r/memes"
-    },
-    {
-     "title": "[$2.5 trillion wiped out]",
-     "image": "https://i.redd.it/z8e7ud52810i1.gif",
-     "url": "https://redd.it/1xpjm91",
-     "ups": 1534,
+     "title": "Yea so that\u2019s over",
+     "image": "https://i.redd.it/pbialic3rzzh1.gif",
+     "url": "https://redd.it/1xpccj4",
+     "ups": 24525,
      "sub": "r/memes"
     },
     {
@@ -175,13 +147,49 @@
      "url": "https://redd.it/1xq4mno",
      "ups": 104,
      "sub": "r/memes"
+    },
+    {
+     "title": "alright...",
+     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
+     "url": "https://redd.it/1xq0yn7",
+     "ups": 156,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Challenging norms",
+     "image": "https://i.redd.it/v8uffd3i870i1.png",
+     "url": "https://redd.it/1xq7el3",
+     "ups": 137,
+     "sub": "r/memes"
+    },
+    {
+     "title": "POV: You finally found your cinema partner \ud83c\udf7f",
+     "image": "https://i.redd.it/qnq8yo100c0i1.png",
+     "url": "https://redd.it/1xqrm7m",
+     "ups": 1219,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Cyberpunk Edgerunners",
+     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
+     "url": "https://redd.it/1xpwaes",
+     "ups": 1438,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T20:14:11.660750+00:00",
+   "fetched_at": "2026-11-08T20:44:18.275386+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Coons seeks probe of Trump-Nvidia ties",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dcfc39b3cb96",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Midterm election aftermath",
@@ -200,41 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Harrison Butker's missed field goals",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c36007749d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +224,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Top astrophysicist leaves US",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5c7a58daf3ae",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "JJ McCarthy hurt on Zack Baun hit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bde6a974c421",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +256,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "NASA awards Moon Base contracts",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Trump orders DOJ to investigate Democrats",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7937333696e",
@@ -272,56 +272,52 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Right-wing AI video warns of hummus",
+     "text": "Abdul El-Sayed on Stephen Miller",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eb440c2ba864",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3f43d8edcb4c",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I'm in the future and it's stupid",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54169999",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/29db53de-c08b-46e0-8a99-11758df560ce.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Petition Calling for House Speaker Other Than Hakeem Jeffries Hits 1 Million Signatures | Common Dreams",
+     "author": "politics ",
+     "url": "https://sopuli.xyz/post/54332570",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/58e9d3c3-03d6-4aa4-a4e7-cc6438f36b90.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Personal Note.",
      "author": "Witchy Memes",
      "url": "https://lemmy.world/post/54169183",
-     "likes": 32,
+     "likes": 67,
      "image": "https://lemmy.world/pictrs/image/f79370c7-e9ba-4875-8e01-6dac8ecbab1b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The dog days are over",
+     "text": "Hopescrolling",
      "author": "Political Memes",
-     "url": "https://sopuli.xyz/post/54332069",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/d4fb0e2c-027b-4a28-8e07-4047d80cc740.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Ukraine\u2019s Marines Cross the Dnipro\u2014Storm Russian Positions and Gain Ground",
-     "author": "World News",
-     "url": "https://sh.itjust.works/post/69625712",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/9fa073dc-6500-4d4a-9bec-15ebeca3f5af.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Hung one of my late grandmothers custom tufted rugs as a tapestry",
-     "author": "Dull Men's Club",
-     "url": "https://lemmy.ca/post/73567945",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/8ff01ee1-d8c0-4e33-94c8-43c2da204e71.jpeg"
+     "url": "https://sopuli.xyz/post/54332121",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/5cca0482-7013-4615-a30f-7f0de7d5d8fa.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T20:14:12.323749+00:00",
+   "fetched_at": "2026-11-08T20:44:18.712139+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you do when you see a space man?\r\nPark your car, man.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.\r\n\r\nSo, I got a job at a travel agency.  Now, I know I'll be going places.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the beaver say to the tree? It's been nice gnawing you.",
+     "text": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
      "source": "Dad joke"
     },
     {
-     "text": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
+     "text": "What do you call a magician who has lost their magic? Ian.",
      "source": "Dad joke"
     }
    ]
