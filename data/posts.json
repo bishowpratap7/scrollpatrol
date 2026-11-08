@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T07:41:01.967107+00:00",
+ "generated_at": "2026-11-08T08:11:06.569308+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T07:40:58.632571+00:00",
+   "fetched_at": "2026-11-08T08:11:03.552597+00:00",
    "stale": false,
    "items": [
     {
@@ -89,42 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T07:40:59.416608+00:00",
+   "fetched_at": "2026-11-08T08:11:04.342111+00:00",
    "stale": false,
    "items": [
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 152,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "journeyFromObjectsInMirrorAreCloserToObjectReferenceNotSet",
-     "image": "https://i.redd.it/s8ktjklfliyh1.png",
-     "url": "https://redd.it/1xj3i23",
-     "ups": 45,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 595,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 417,
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 78,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,18 +107,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Freezes NYC",
-     "image": "https://i.redd.it/q5qpq759d10i1.png",
-     "url": "https://redd.it/1xpkdl7",
-     "ups": 11187,
-     "sub": "r/memes"
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 20381,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Weekend plans",
-     "image": "https://i.redd.it/b07a5x82o40i1.png",
-     "url": "https://redd.it/1xpypf4",
-     "ups": 36,
-     "sub": "r/memes"
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 35,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
+     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
+     "url": "https://redd.it/1xlu08b",
+     "ups": 5,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "can we have Internet 2 please",
@@ -156,40 +135,53 @@
      "sub": "r/memes"
     },
     {
-     "title": "hate this but it's true",
-     "image": "https://i.redd.it/w15dztzhaxzh1.png",
-     "url": "https://redd.it/1xp462c",
-     "ups": 6900,
+     "title": "Its joe over",
+     "image": "https://i.redd.it/a7b6xax1u30i1.png",
+     "url": "https://redd.it/1xpvlvr",
+     "ups": 309,
      "sub": "r/memes"
     },
     {
-     "title": "It only has instructions for frozen...",
-     "image": "https://i.redd.it/ou8r83hc230i1.png",
-     "url": "https://redd.it/1xpshen",
-     "ups": 27,
+     "title": "*  sighs  *",
+     "image": "https://i.redd.it/ck8pjxnrt40i1.png",
+     "url": "https://redd.it/1xpz99f",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
-     "title": "alright...",
-     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
-     "url": "https://redd.it/1xq0yn7",
-     "ups": 151,
+     "title": "Outsmarted you this time",
+     "image": "https://i.redd.it/tukaf24al80i1.gif",
+     "url": "https://redd.it/1xqdvd4",
+     "ups": 79,
      "sub": "r/memes"
+    },
+    {
+     "title": "I wanted to be rich...",
+     "image": "https://i.redd.it/80ewfiiku40i1.gif",
+     "url": "https://redd.it/1xpzbn2",
+     "ups": 1872,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Hot take: mass murder is bad",
+     "image": "https://i.redd.it/69r5rubtf80i1.png",
+     "url": "https://redd.it/1xqd3gt",
+     "ups": 921,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Two parties go brrrr",
+     "image": "https://i.redd.it/cyq03zku0ozh1.gif",
+     "url": "https://redd.it/1xo0s22",
+     "ups": 0,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T07:41:00.815696+00:00",
+   "fetched_at": "2026-11-08T08:11:05.765116+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Films watched more than six times",
@@ -216,9 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israel's war in Gaza",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Midterm election aftermath",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Diwali celebrations",
+     "text": "Extra Life charity game day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f685c59c5d15",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "NASA awards Moon Base contracts",
+     "text": "Vehicles women actually like meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
      "likes": 0,
      "image": ""
     },
@@ -256,76 +256,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "F1 S\u00e3o Paulo Grand Prix weekend",
+     "text": "NASA awards Moon Base contracts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/30fa16a2c230",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK porn content ban takes effect",
+     "text": "US strikes Iranian air defenses",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/647c7c1b0b33",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b6f485ef877",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "The \"Mamdani lesson\" for Democrats",
+     "text": "Shooting reported in Krakow",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0df2245b26a9",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "nonverbal rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50230971",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/1b595d15-2887-4ba3-b500-cd1846150ea7.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Earthquake hits central Japan, injuring more than 20 people",
+     "author": "World News",
+     "url": "https://sh.itjust.works/post/69597635",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/979bae1e-bb61-4584-a13f-8727ce61e2a6.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
      "author": "Technology",
      "url": "https://lemmy.blahaj.zone/post/50230114",
-     "likes": 25,
+     "likes": 39,
      "image": "https://lemmy.world/pictrs/image/706a5f1d-4838-4755-89ad-9991aae7f2ff.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Nvidia Is Worth $1.3 Trillion Less After Its 5th Straight Losing Week",
-     "author": "PC Gaming",
-     "url": "https://lemmy.ca/post/73539523",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/3e35438c-96d0-4ffc-aea4-498acc4fc382.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I warned you bro, I warned you about the terrible secret of space",
-     "author": "Art Share\ud83c\udfa8",
-     "url": "https://geostationary.orbiting.observer/c/artshare@lemmy.world/p/99109/i-warned-you-bro-i-warned-you-about-the-terrible-secret-of-space",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/899d7fd0-162a-4974-807a-b17b26140428.gif"
     },
     {
      "kind": "Lemmy post",
      "text": "Report: Skydance laying off game workers one month after buying Warner Bros for $110 billion",
      "author": "Games",
      "url": "https://feddit.uk/post/58099510",
-     "likes": 13,
+     "likes": 23,
      "image": "https://lemmy.world/pictrs/image/2e4501e5-15f1-4733-8fa0-46caa4b75637.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T07:41:01.481969+00:00",
+   "fetched_at": "2026-11-08T08:11:06.196389+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
@@ -333,32 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I considered building the patio by myself. But I didn't have the stones.",
+     "text": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
      "source": "Dad joke"
     },
     {
-     "text": "I couldn't get a reservation at the library. They were completely booked.",
+     "text": "Whiteboards ... are remarkable.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do cows not have toes? They lactose!",
+     "text": "What do you do when you see a space man?\r\nPark your car, man.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
