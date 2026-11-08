@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T19:44:06.749786+00:00",
+ "generated_at": "2026-11-08T20:14:13.015265+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T19:44:01.854224+00:00",
+   "fetched_at": "2026-11-08T20:14:08.661540+00:00",
    "stale": false,
    "items": [
     {
@@ -44,15 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Seeing the like-to-comment ratio on controversial posts",
-     "url": "https://www.reddit.com/r/lovethissmug/comments/1xqvfq1/seeing_the_liketocomment_ratio_on_controversial/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/mrr9v8ry8d0i1.jpeg?width=640&crop=smart&auto=webp&s=6517e4ddbebc6174d318f41c5d3fed1d86823e3d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "This onion is trying to win a contest or something",
      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xr2tju/this_onion_is_trying_to_win_a_contest_or_something/",
      "score": 0,
@@ -62,20 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Is this not antagonizing?",
-     "url": "https://www.reddit.com/r/texts/comments/1xqslgr/is_this_not_antagonizing/",
+     "title": "Seeing the like-to-comment ratio on controversial posts",
+     "url": "https://www.reddit.com/r/lovethissmug/comments/1xqvfq1/seeing_the_liketocomment_ratio_on_controversial/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/veid6xk7bc0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=f8fe60a88286a4184d9c21d8bae0881cf051fcdf"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Kids without phones",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xr1sii/kids_without_phones/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aHRiNmN4Y2F3ZTBpMQnHn2bCQIqIl1-YhcSNQQVr69a0SM389dcKPSTSxVKQ.png?width=640&crop=smart&auto=webp&s=10c1a34dbada724f07262a0e8c9bd3a6d14c1eff"
+     "image": "https://preview.redd.it/mrr9v8ry8d0i1.jpeg?width=640&crop=smart&auto=webp&s=6517e4ddbebc6174d318f41c5d3fed1d86823e3d"
     },
     {
      "source": "Reddit",
@@ -85,13 +67,52 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/d7g6fz33tc0i1.png?width=640&crop=smart&auto=webp&s=d05b3fe6735c5977d4f05e0fc7a4269ff59a2e7b"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Dual spec is 50g available at level 40.",
+     "url": "https://www.reddit.com/r/wowforever/comments/1xqtza6/dual_spec_is_50g_available_at_level_40/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/oj4o417krc0i1.png?width=640&crop=smart&auto=webp&s=18a7f34ddb337fbe06d91df24ddb97786d51d713"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Kids without phones",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xr1sii/kids_without_phones/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aHRiNmN4Y2F3ZTBpMQnHn2bCQIqIl1-YhcSNQQVr69a0SM389dcKPSTSxVKQ.png?width=640&crop=smart&auto=webp&s=10c1a34dbada724f07262a0e8c9bd3a6d14c1eff"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T19:44:03.224888+00:00",
+   "fetched_at": "2026-11-08T20:14:09.670397+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1284,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 9,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 5800,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
      "image": "https://i.redd.it/0akjqy877ezh1.png",
@@ -100,17 +121,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 187,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1157,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 440,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,24 +135,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 320,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Follow rule 2 guys",
-     "image": "https://i.redd.it/q53isefdne0i1.gif",
-     "url": "https://redd.it/1xr0nkx",
-     "ups": 714,
+     "title": "Every restaurant chain meeting in 2026",
+     "image": "https://i.redd.it/7af7whvfu60i1.png",
+     "url": "https://redd.it/1xq5rum",
+     "ups": 498,
      "sub": "r/memes"
     },
     {
-     "title": "Just a little pet peeve of mine",
-     "image": "https://i.redd.it/n6m76xs1ra0i1.png",
-     "url": "https://redd.it/1xqn6gg",
-     "ups": 14,
+     "title": "I wanted to be rich...",
+     "image": "https://i.redd.it/80ewfiiku40i1.gif",
+     "url": "https://redd.it/1xpzbn2",
+     "ups": 1987,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Cyberpunk Edgerunners",
+     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
+     "url": "https://redd.it/1xpwaes",
+     "ups": 1438,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Hot take: mass murder is bad",
+     "image": "https://i.redd.it/69r5rubtf80i1.png",
+     "url": "https://redd.it/1xqd3gt",
+     "ups": 1124,
      "sub": "r/memes"
     },
     {
@@ -149,60 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "13 years of development well spent",
-     "image": "https://i.redd.it/bnahfdubn90i1.png",
-     "url": "https://redd.it/1xqimw0",
-     "ups": 3976,
+     "title": "Remember the times when we couldn't make art work, so we just... resorted to procrastination?",
+     "image": "https://i.redd.it/q722a41ti60i1.png",
+     "url": "https://redd.it/1xq4mno",
+     "ups": 104,
      "sub": "r/memes"
-    },
-    {
-     "title": "Door Symphony",
-     "image": "https://i.redd.it/x7ut4017w60i1.png",
-     "url": "https://redd.it/1xq5yrs",
-     "ups": 267,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Fully automated\u201d apparently means working from home",
-     "image": "https://i.redd.it/nom62xql690i1.png",
-     "url": "https://redd.it/1xqgkec",
-     "ups": 113,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Green Wave",
-     "image": "https://i.redd.it/3zl8p9oelwzh1.png",
-     "url": "https://redd.it/1xp1hav",
-     "ups": 8346,
-     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T19:44:05.206162+00:00",
+   "fetched_at": "2026-11-08T20:14:11.660750+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Democratic congressional leadership push",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Coons seeks probe of Trump-Nvidia ties",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dcfc39b3cb96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
      "likes": 0,
      "image": ""
     },
@@ -216,6 +200,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Veterans Day observances",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
@@ -224,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Colom vs. Hyde-Smith Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
+     "text": "Harrison Butker's missed field goals",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c36007749d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Oregon vs. Ohio State",
+     "text": "Diwali celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a5becd46478",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
      "likes": 0,
      "image": ""
     },
@@ -280,85 +280,85 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "The sun is the same in a relative way, but you're older...",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/69623324",
-     "likes": 51,
-     "image": "https://lemmy.world/pictrs/image/1c5a5301-0465-4e6b-b616-06478a78f8d6.webp"
+     "text": "Personal Note.",
+     "author": "Witchy Memes",
+     "url": "https://lemmy.world/post/54169183",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/f79370c7-e9ba-4875-8e01-6dac8ecbab1b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "getting some rays",
-     "author": "cats",
-     "url": "https://lemmy.blahaj.zone/post/50252650",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/5c84063e-a45d-4ca0-9753-e63c4baf951b.webp"
+     "text": "The dog days are over",
+     "author": "Political Memes",
+     "url": "https://sopuli.xyz/post/54332069",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/d4fb0e2c-027b-4a28-8e07-4047d80cc740.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Dale, A stray I've been making friends with.",
-     "author": "cats",
-     "url": "https://lemmy.ca/post/73565947",
-     "likes": 73,
-     "image": "https://lemmy.world/pictrs/image/89028e94-8e55-4416-8b05-21d22675758c.jpeg"
+     "text": "Ukraine\u2019s Marines Cross the Dnipro\u2014Storm Russian Positions and Gain Ground",
+     "author": "World News",
+     "url": "https://sh.itjust.works/post/69625712",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/9fa073dc-6500-4d4a-9bec-15ebeca3f5af.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trump set to lurch further right, claiming US took \u2018giant step back\u2019 in elections",
-     "author": "News",
-     "url": "https://lemmy.world/post/54166898",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/8a3b394b-5dc7-4b54-896d-c9ee3caa6b70.jpeg"
+     "text": "Hung one of my late grandmothers custom tufted rugs as a tapestry",
+     "author": "Dull Men's Club",
+     "url": "https://lemmy.ca/post/73567945",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/8ff01ee1-d8c0-4e33-94c8-43c2da204e71.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T19:44:05.974884+00:00",
+   "fetched_at": "2026-11-08T20:14:12.323749+00:00",
    "stale": false,
    "items": [
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What did the late tomato say to the early tomato? I\u2019ll ketch up",
+     "text": "What do you do when you see a space man?\r\nPark your car, man.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a pile of cats?  A Meowtain.",
+     "text": "What did the beaver say to the tree? It's been nice gnawing you.",
      "source": "Dad joke"
     },
     {
-     "text": "What's a ninja's favorite type of shoes? Sneakers!",
+     "text": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
