@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-08T08:41:22.333228+00:00",
+ "generated_at": "2026-11-08T09:11:26.187841+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T08:41:19.777943+00:00",
+   "fetched_at": "2026-11-08T09:11:23.869430+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My husband\u2019s Reebok underwear say \u201cReebeebok\u201d on the back because of the split seam",
+     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xqqf44/my_husbands_reebok_underwear_say_reebeebok_on_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/b6jjczf6nb0i1.jpeg?width=640&crop=smart&auto=webp&s=d4197d11b35779d0c5aa77fe78b8dcbf4a9eb8cf"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -17,29 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "More ice than drink",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xqngo5/more_ice_than_drink/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZDdvN2VucnR0YTBpMSboHdxozUqVkIV3vEo9Rwq3QWhz9OEaj4FL5YhoPgV0.png?width=320&crop=smart&auto=webp&s=d71dcf05998995fff7f0024977d238aae66ba83a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Bye \ud83d\udc4b",
      "url": "https://www.reddit.com/r/stupidpeoplefacebook/comments/1xq7jxw/bye/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/x1lk47zp970i1.jpeg?width=640&crop=smart&auto=webp&s=ff8c78db7034bd585e2cbe89bd113754b191057d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I've never been so proud of someone I've never met",
-     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xqopee/ive_never_been_so_proud_of_someone_ive_never_met/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YWs2ZDE3eHg1YjBpMc3CoBSgEiCl_LSCU7ENUBTsoyYyL-JEzvchS5QRRvjO.png?width=640&crop=smart&auto=webp&s=074e12d593b324204a33499694a53dcda5497028"
     },
     {
      "source": "Reddit",
@@ -62,83 +53,106 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "My husband\u2019s Reebok underwear say \u201cReebeebok\u201d on the back because of the split seam",
-     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xqqf44/my_husbands_reebok_underwear_say_reebeebok_on_the/",
+     "title": "More ice than drink",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xqngo5/more_ice_than_drink/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/b6jjczf6nb0i1.jpeg?width=640&crop=smart&auto=webp&s=d4197d11b35779d0c5aa77fe78b8dcbf4a9eb8cf"
+     "image": "https://external-preview.redd.it/ZDdvN2VucnR0YTBpMSboHdxozUqVkIV3vEo9Rwq3QWhz9OEaj4FL5YhoPgV0.png?width=320&crop=smart&auto=webp&s=d71dcf05998995fff7f0024977d238aae66ba83a"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A message from the wife of the fan who got ejected from the Lakers-Kings game on Wednesday night",
-     "url": "https://www.reddit.com/r/sportsgossips/comments/1xqnhf4/a_message_from_the_wife_of_the_fan_who_got/",
+     "title": "I've never been so proud of someone I've never met",
+     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xqopee/ive_never_been_so_proud_of_someone_ive_never_met/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/wzkvdg32ua0i1.jpeg?width=640&crop=smart&auto=webp&s=b968c9ea1acc68a5bdaaa403c2f2e27c06dbffb4"
+     "image": "https://external-preview.redd.it/YWs2ZDE3eHg1YjBpMc3CoBSgEiCl_LSCU7ENUBTsoyYyL-JEzvchS5QRRvjO.png?width=640&crop=smart&auto=webp&s=074e12d593b324204a33499694a53dcda5497028"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What in the world",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xqoioy/what_in_the_world/",
+     "title": "[Postgame Thread] Notre Dame Defeats Miami 31-24",
+     "url": "https://www.reddit.com/r/CFB/comments/1xqpdl2/postgame_thread_notre_dame_defeats_miami_3124/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/wcozhki44b0i1.jpeg?width=640&crop=smart&auto=webp&s=5f2bec6a97c8304582aa2cbf1dfc5d3df7b6611f"
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Oh no",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xq63ck/oh_no/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/b3ZsemhhNjB4NjBpMQaJ8N-tf-2In_tu7lmkEnkWKLu3zh9KuTse9P12SZBu.png?width=640&crop=smart&auto=webp&s=11cdfe643ab20bdf8ea9dff32c965f1c14048d71"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T08:41:20.412025+00:00",
+   "fetched_at": "2026-11-08T09:11:24.443007+00:00",
    "stale": false,
    "items": [
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 10,
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 33,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 162,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 40,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "refactoringComplete",
-     "image": "https://i.redd.it/pkmrs4913fzh1.png",
-     "url": "https://redd.it/1xmw6nu",
-     "ups": 5541,
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 6520,
+     "title": "tryHackMeKindaUnseriousNow",
+     "image": "https://i.redd.it/bggqfn70jlzh1.png",
+     "url": "https://redd.it/1xnnyjx",
+     "ups": 321,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 1579,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1429,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everyNetworkAPIOnThePlanetToday",
-     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
-     "url": "https://redd.it/1xoir0t",
-     "ups": 1253,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1254,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Cave divers be like",
-     "image": "https://i.redd.it/jmsqvztik80i1.png",
-     "url": "https://redd.it/1xqdpsx",
-     "ups": 17,
+     "title": "*  sighs  *",
+     "image": "https://i.redd.it/ck8pjxnrt40i1.png",
+     "url": "https://redd.it/1xpz99f",
+     "ups": 21,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"Oh shoot i dont have time to be writing this neat\"",
+     "image": "https://i.redd.it/fhboanga0b0i1.png",
+     "url": "https://redd.it/1xqo4ig",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Cyberpunk Edgerunners",
+     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
+     "url": "https://redd.it/1xpwaes",
+     "ups": 1317,
      "sub": "r/memes"
     },
     {
@@ -149,13 +163,6 @@
      "sub": "r/memes"
     },
     {
-     "title": "hate this but it's true",
-     "image": "https://i.redd.it/w15dztzhaxzh1.png",
-     "url": "https://redd.it/1xp462c",
-     "ups": 6900,
-     "sub": "r/memes"
-    },
-    {
      "title": "[$2.5 trillion wiped out]",
      "image": "https://i.redd.it/z8e7ud52810i1.gif",
      "url": "https://redd.it/1xpjm91",
@@ -163,23 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Guess I\u2019ll have to develop a personality now",
-     "image": "https://i.redd.it/loi2va6o200i1.gif",
-     "url": "https://redd.it/1xpdutu",
-     "ups": 1441,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Its joe over",
-     "image": "https://i.redd.it/a7b6xax1u30i1.png",
-     "url": "https://redd.it/1xpvlvr",
-     "ups": 309,
+     "title": "FWP - Friends with parentheses?",
+     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
+     "url": "https://redd.it/1xq9zg9",
+     "ups": 4237,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T08:41:21.290210+00:00",
+   "fetched_at": "2026-11-08T09:11:25.381646+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
+     "text": "Dana White name mix-up theories",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93fe1043a04e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Dana White name mix-up theories",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93fe1043a04e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -224,33 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "Israel's war in Gaza",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Pattinson screen tests for Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand verdict",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "NASA awards Moon Base contracts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/657fc340329e",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +256,109 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Democratic congressional leadership push",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bonfire Night fireworks across UK",
+     "text": "Authors share books with newcomers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/080ac78d753b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Our poor boy was terrified of the fireworks over halloween. We put his blanket over him and played some calming music on a bluetooth speaker and it helped him relax.",
+     "author": "aww",
+     "url": "https://reddthat.com/post/76260538",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/3326a938-ca63-4d9b-a8b3-3a451c5dc314.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "And remembering all the names",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/62964513",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/16f649ea-e93d-41ac-b672-759ff1ef19db.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "PIC",
+     "author": "nocontextpics",
+     "url": "https://feddit.org/post/37759049",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/a09ccffb-78c4-4651-bf2c-44b8b34a43d9.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "nonverbal rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50230971",
-     "likes": 46,
+     "likes": 65,
      "image": "https://lemmy.world/pictrs/image/1b595d15-2887-4ba3-b500-cd1846150ea7.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I made crinkle cookies with peanut butter filling! Pardon the camera quality \ud83d\ude02",
-     "author": "Cooking ",
-     "url": "https://lemmy.world/post/54148846",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/b9982e69-128b-46eb-9c17-d4000180d2a2.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Earthquake hits central Japan, injuring more than 20 people",
-     "author": "World News",
-     "url": "https://sh.itjust.works/post/69597635",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/979bae1e-bb61-4584-a13f-8727ce61e2a6.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Day 843 of posting a Daily Screenshot from the games I've been playing",
-     "author": "Games",
-     "url": "https://lemmy.world/post/54148975",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/18bee22f-d0b9-4467-8860-611b46d76ccd.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T08:41:21.912068+00:00",
+   "fetched_at": "2026-11-08T09:11:25.854428+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
     {
      "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Cosmetic surgery used to be such a taboo subject.\r\nNow you can talk about Botox and nobody raises an eyebrow.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have kleptomania, but when it gets bad, I take something for it.",
      "source": "Dad joke"
     },
     {
-     "text": "I wanted to be a tailor but I didn't suit the job",
+     "text": "Why are skeletons so calm? Because nothing gets under their skin.",
      "source": "Dad joke"
     },
     {
-     "text": "A magician was driving down the street and then he turned into a driveway.",
+     "text": "I just wrote a book on reverse psychology. Do not read it!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
