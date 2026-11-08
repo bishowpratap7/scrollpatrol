@@ -1,73 +1,10 @@
 {
- "generated_at": "2026-11-08T05:10:40.554644+00:00",
+ "generated_at": "2026-11-08T05:40:44.966910+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T05:10:37.655014+00:00",
+   "fetched_at": "2026-11-08T05:40:42.338568+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Alanis Morissette comes out as pansexual",
-     "url": "https://www.reddit.com/r/Music/comments/1xqb81u/alanis_morissette_comes_out_as_pansexual/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "[OC] Handmade Hollow Knight Resin Lamp Giveaway \u2014 We're Doing This Again! \ud83d\udc99",
-     "url": "https://www.reddit.com/r/HollowKnight/comments/1xq4bb4/oc_handmade_hollow_knight_resin_lamp_giveaway/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Bye \ud83d\udc4b",
-     "url": "https://www.reddit.com/r/stupidpeoplefacebook/comments/1xq7jxw/bye/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/x1lk47zp970i1.jpeg?width=640&crop=smart&auto=webp&s=ff8c78db7034bd585e2cbe89bd113754b191057d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Am I under arrest or not?",
-     "url": "https://www.reddit.com/r/LoveTrash/comments/1xq73cj/am_i_under_arrest_or_not/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aXdib25jbXk1NzBpMU9TnT-xaiOgKl5vLxPirEFfZTVboSXD6H4uYwpcMddx.png?width=320&crop=smart&auto=webp&s=8c186038f397dce17b8a89b94b3cd10b50e87952"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Teaching how to split a McDonald\u2019s breakfast meal between 4 kids",
-     "url": "https://www.reddit.com/r/TikTokCringe/comments/1xqi8jk/teaching_how_to_split_a_mcdonalds_breakfast_meal/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/bjBpOGpzejBrOTBpMcJ9clRvA2Sij4SntxxUpWDz81rvb_xveXW_IKHT8z5D.jpeg?width=320&crop=smart&auto=webp&s=260b6632dea7cfc6a26adebd17d3f01eb9859c2a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Oh no",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xq63ck/oh_no/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/b3ZsemhhNjB4NjBpMQaJ8N-tf-2In_tu7lmkEnkWKLu3zh9KuTse9P12SZBu.png?width=640&crop=smart&auto=webp&s=11cdfe643ab20bdf8ea9dff32c965f1c14048d71"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "[Postgame Thread] Notre Dame Defeats Miami 31-24",
-     "url": "https://www.reddit.com/r/CFB/comments/1xqpdl2/postgame_thread_notre_dame_defeats_miami_3124/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -85,32 +22,88 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/2npgzkyoda0i1.jpeg?width=640&crop=smart&auto=webp&s=73fbc833c3a98fa13a7ca7007abf8816373b411e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "A message from the wife of the fan who got ejected from the Lakers-Kings game on Wednesday night",
+     "url": "https://www.reddit.com/r/sportsgossips/comments/1xqnhf4/a_message_from_the_wife_of_the_fan_who_got/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wzkvdg32ua0i1.jpeg?width=640&crop=smart&auto=webp&s=b968c9ea1acc68a5bdaaa403c2f2e27c06dbffb4"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Alanis Morissette comes out as pansexual",
+     "url": "https://www.reddit.com/r/Music/comments/1xqb81u/alanis_morissette_comes_out_as_pansexual/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Bye \ud83d\udc4b",
+     "url": "https://www.reddit.com/r/stupidpeoplefacebook/comments/1xq7jxw/bye/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/x1lk47zp970i1.jpeg?width=640&crop=smart&auto=webp&s=ff8c78db7034bd585e2cbe89bd113754b191057d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "[OC] Handmade Hollow Knight Resin Lamp Giveaway \u2014 We're Doing This Again! \ud83d\udc99",
+     "url": "https://www.reddit.com/r/HollowKnight/comments/1xq4bb4/oc_handmade_hollow_knight_resin_lamp_giveaway/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Am I under arrest or not?",
+     "url": "https://www.reddit.com/r/LoveTrash/comments/1xq73cj/am_i_under_arrest_or_not/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aXdib25jbXk1NzBpMU9TnT-xaiOgKl5vLxPirEFfZTVboSXD6H4uYwpcMddx.png?width=320&crop=smart&auto=webp&s=8c186038f397dce17b8a89b94b3cd10b50e87952"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "I've never been so proud of someone I've never met",
+     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xqopee/ive_never_been_so_proud_of_someone_ive_never_met/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/YWs2ZDE3eHg1YjBpMc3CoBSgEiCl_LSCU7ENUBTsoyYyL-JEzvchS5QRRvjO.png?width=640&crop=smart&auto=webp&s=074e12d593b324204a33499694a53dcda5497028"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Teaching how to split a McDonald\u2019s breakfast meal between 4 kids",
+     "url": "https://www.reddit.com/r/TikTokCringe/comments/1xqi8jk/teaching_how_to_split_a_mcdonalds_breakfast_meal/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bjBpOGpzejBrOTBpMcJ9clRvA2Sij4SntxxUpWDz81rvb_xveXW_IKHT8z5D.jpeg?width=320&crop=smart&auto=webp&s=260b6632dea7cfc6a26adebd17d3f01eb9859c2a"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T05:10:38.460684+00:00",
+   "fetched_at": "2026-11-08T05:40:43.112137+00:00",
    "stale": false,
    "items": [
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1457,
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 580,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 695,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 16882,
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,144 +114,79 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1244,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 16882,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 12,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 40,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5537,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "This is why I go to the theater!",
+     "image": "https://i.redd.it/qakgdw06f40i1.png",
+     "url": "https://redd.it/1xpxt8s",
+     "ups": 70,
+     "sub": "r/memes"
     },
     {
      "title": "Swoozie, let's break up",
      "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
      "url": "https://redd.it/1xprxm7",
-     "ups": 6862,
+     "ups": 6912,
      "sub": "r/memes"
     },
     {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 806,
+     "title": "alright...",
+     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
+     "url": "https://redd.it/1xq0yn7",
+     "ups": 150,
      "sub": "r/memes"
     },
     {
-     "title": "Its joe over",
-     "image": "https://i.redd.it/a7b6xax1u30i1.png",
-     "url": "https://redd.it/1xpvlvr",
-     "ups": 292,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I was told to share this from my original posting.",
-     "image": "https://i.redd.it/n7zwyduth50i1.png",
-     "url": "https://redd.it/1xq1fdm",
-     "ups": 14,
+     "title": "Just a little pet peeve of mine",
+     "image": "https://i.redd.it/n6m76xs1ra0i1.png",
+     "url": "https://redd.it/1xqn6gg",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
      "title": "Cyberpunk Edgerunners",
      "image": "https://i.redd.it/nmqtvf0e040i1.gif",
      "url": "https://redd.it/1xpwaes",
-     "ups": 1247,
+     "ups": 1289,
      "sub": "r/memes"
     },
     {
-     "title": "Two parties go brrrr",
-     "image": "https://i.redd.it/cyq03zku0ozh1.gif",
-     "url": "https://redd.it/1xo0s22",
-     "ups": 0,
-     "sub": "r/dankmemes"
+     "title": "Remember the times when we couldn't make art work, so we just... resorted to procrastination?",
+     "image": "https://i.redd.it/q722a41ti60i1.png",
+     "url": "https://redd.it/1xq4mno",
+     "ups": 91,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T05:10:39.414067+00:00",
+   "fetched_at": "2026-11-08T05:40:44.055458+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Dana White name mix-up theories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93fe1043a04e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Democrats urge ICE to unmask agents",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Ocarina of Time remake release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Diwali celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang and Alice Huang",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dcfc39b3cb96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Viral iOS Live Listen warning",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10cd9214a3a8",
      "likes": 0,
      "image": ""
     },
@@ -272,60 +200,124 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
+     "text": "Dana White name mix-up theories",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93fe1043a04e",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Vehicles women actually like meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Playing Deadlock",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Diwali celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Extra Life charity game day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f685c59c5d15",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "WWE Crown Jewel in Riyadh",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9b590e63e69c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang and Alice Huang",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dcfc39b3cb96",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The \"Mamdani lesson\" for Democrats",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israel's war in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I thought I had escaped...",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54145833",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/65db4d86-e1c9-4b5c-9f12-a7e64b80b420.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Didn\u2019t take long at all",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54145318",
-     "likes": 12,
+     "likes": 38,
      "image": "https://lemmy.world/pictrs/image/b02b4ce2-b6c0-42a2-b223-2e5d89422be1.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "On the recent AO3 outage",
-     "author": "Curated Tumblr",
-     "url": "https://sh.itjust.works/post/69592332",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/2a1c971e-0b0d-4cd5-847f-16bbae40901e.png"
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1055424/me-irl",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/a0a0ffb5-5aa4-4663-b905-46826e560581.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trying to be young vs. actually being young",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54144842",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/96827448-e630-4ab4-b55e-93556e4b4881.gif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "[CW \ud83d\udd0a]France is using 'Sound Cannon' against civilians",
-     "author": "World News",
-     "url": "https://quokk.au/c/world/p/1302055/cw-france-is-using-sound-cannon-against-civilians",
-     "likes": 37,
-     "image": ""
+     "text": "2meirl4irl",
+     "author": "2meirl4meirl",
+     "url": "https://piefed.blahaj.zone/c/2meirl4meirl@lemmy.dbzer0.com/p/1055430/2meirl4irl",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/ad77201c-7421-4e8c-bd26-2107fd0283e3.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T05:10:40.210056+00:00",
+   "fetched_at": "2026-11-08T05:40:44.579354+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Do I enjoy making courthouse puns? Guilty",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I am so good at sleeping I can do it with my eyes closed!",
      "source": "Dad joke"
     },
     {
-     "text": "I thought about going on an all-almond diet. But that's just nuts.",
+     "text": "Why did the teddy bear say \u201cno\u201d to dessert? Because she was stuffed.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was the robot angry? Because someone kept pressing his buttons!",
+     "text": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
      "source": "Dad joke"
     }
    ]
