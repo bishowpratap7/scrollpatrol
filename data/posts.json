@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T22:14:39.503175+00:00",
+ "generated_at": "2026-11-08T22:44:46.283062+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T22:14:34.587963+00:00",
+   "fetched_at": "2026-11-08T22:44:41.235784+00:00",
    "stale": false,
    "items": [
     {
@@ -35,29 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "More ice than drink",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xqngo5/more_ice_than_drink/",
+     "title": "this pickup taking up FOUR parking spaces in a crowded lot",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xr5s42/this_pickup_taking_up_four_parking_spaces_in_a/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/ZDdvN2VucnR0YTBpMSboHdxozUqVkIV3vEo9Rwq3QWhz9OEaj4FL5YhoPgV0.png?width=320&crop=smart&auto=webp&s=d71dcf05998995fff7f0024977d238aae66ba83a"
+     "image": "https://preview.redd.it/l4o0mnnopf0i1.jpeg?width=640&crop=smart&auto=webp&s=292fadde44eb2aeba4efc1d95413128d6370cc49"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Lando Norris breaks the champagne bottle on the podium",
-     "url": "https://www.reddit.com/r/formula1/comments/1xr65f4/lando_norris_breaks_the_champagne_bottle_on_the/",
+     "title": "Three Italian tourists couldn't stop ordering beef and lamb skewers at a Shanghai barbecue shop",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xr86c4/three_italian_tourists_couldnt_stop_ordering_beef/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/GR40aCUBkgAOyanwQscKu3kGLK7tmhbohTBFnx5Hpgg.jpeg?width=640&crop=smart&auto=webp&s=9ff671cda235fddea2bc3d9181fd3d93fc78e843"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "You have to name him the last thing you ate..",
-     "url": "https://www.reddit.com/r/teenagers/comments/1xqu3y9/you_have_to_name_him_the_last_thing_you_ate/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/d7g6fz33tc0i1.png?width=640&crop=smart&auto=webp&s=d05b3fe6735c5977d4f05e0fc7a4269ff59a2e7b"
+     "image": "https://external-preview.redd.it/NjZyN2hjcDA3ZzBpMYMdV7Y2geRxgOjGmTcDSa5HT19g52W34-eZebN2SQTW.png?width=640&crop=smart&auto=webp&s=718a1078ec779e9538d5df0e4d0e3e3c6334c20f"
     },
     {
      "source": "Reddit",
@@ -71,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Seeing the like-to-comment ratio on controversial posts",
-     "url": "https://www.reddit.com/r/lovethissmug/comments/1xqvfq1/seeing_the_liketocomment_ratio_on_controversial/",
+     "title": "Lando Norris breaks the champagne bottle on the podium",
+     "url": "https://www.reddit.com/r/formula1/comments/1xr65f4/lando_norris_breaks_the_champagne_bottle_on_the/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/mrr9v8ry8d0i1.jpeg?width=640&crop=smart&auto=webp&s=6517e4ddbebc6174d318f41c5d3fed1d86823e3d"
+     "image": "https://external-preview.redd.it/GR40aCUBkgAOyanwQscKu3kGLK7tmhbohTBFnx5Hpgg.jpeg?width=640&crop=smart&auto=webp&s=9ff671cda235fddea2bc3d9181fd3d93fc78e843"
     },
     {
      "source": "Reddit",
@@ -85,67 +76,76 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Seeing the like-to-comment ratio on controversial posts",
+     "url": "https://www.reddit.com/r/lovethissmug/comments/1xqvfq1/seeing_the_liketocomment_ratio_on_controversial/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/mrr9v8ry8d0i1.jpeg?width=640&crop=smart&auto=webp&s=6517e4ddbebc6174d318f41c5d3fed1d86823e3d"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T22:14:35.912890+00:00",
+   "fetched_at": "2026-11-08T22:44:42.570324+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 3356,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
-     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
-     "url": "https://redd.it/1xlu08b",
-     "ups": 7,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 1188,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "gettingPromotedFromProgrammerToClaudeDelegator",
      "image": "https://i.redd.it/tx20kggzj9zh1.png",
      "url": "https://redd.it/1xm9d3b",
-     "ups": 1259,
+     "ups": 1269,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1462,
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 1170,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Door Symphony",
-     "image": "https://i.redd.it/x7ut4017w60i1.png",
-     "url": "https://redd.it/1xq5yrs",
-     "ups": 272,
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 466,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "unhappyCrustaceans",
+     "image": "https://i.redd.it/dgj598hkm20i1.png",
+     "url": "https://redd.it/1xpqmpe",
+     "ups": 159,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6658,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 80,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Follow rule 2 guys",
+     "image": "https://i.redd.it/q53isefdne0i1.gif",
+     "url": "https://redd.it/1xr0nkx",
+     "ups": 875,
      "sub": "r/memes"
     },
     {
-     "title": "FWP - Friends with parentheses?",
-     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
-     "url": "https://redd.it/1xq9zg9",
-     "ups": 6670,
+     "title": "Fully automated\u201d apparently means working from home",
+     "image": "https://i.redd.it/nom62xql690i1.png",
+     "url": "https://redd.it/1xqgkec",
+     "ups": 117,
      "sub": "r/memes"
     },
     {
@@ -156,37 +156,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Yea so that\u2019s over",
-     "image": "https://i.redd.it/pbialic3rzzh1.gif",
-     "url": "https://redd.it/1xpccj4",
-     "ups": 24723,
+     "title": "Just a little pet peeve of mine",
+     "image": "https://i.redd.it/n6m76xs1ra0i1.png",
+     "url": "https://redd.it/1xqn6gg",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
-     "title": "Challenging norms",
-     "image": "https://i.redd.it/v8uffd3i870i1.png",
-     "url": "https://redd.it/1xq7el3",
-     "ups": 143,
+     "title": "When I'm in a \u201csounding like a villain competition\u201d",
+     "image": "https://i.redd.it/awimd36kpf0i1.png",
+     "url": "https://redd.it/1xr5rn0",
+     "ups": 335,
      "sub": "r/memes"
     },
     {
-     "title": "It's been an... interesting experience",
-     "image": "https://i.redd.it/gaqfk1j47wzh1.png",
-     "url": "https://redd.it/1xozvhi",
-     "ups": 62,
-     "sub": "r/dankmemes"
+     "title": "13 years of development well spent",
+     "image": "https://i.redd.it/bnahfdubn90i1.png",
+     "url": "https://redd.it/1xqimw0",
+     "ups": 4196,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T22:14:37.915621+00:00",
+   "fetched_at": "2026-11-08T22:44:45.054350+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
+     "text": "Ron Johnson criticizes Trump administration",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce0c8a9cf1fc",
      "likes": 0,
      "image": ""
     },
@@ -200,41 +200,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ron Johnson criticizes Trump administration",
+     "text": "ICE activity at White Memorial Hospital",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce0c8a9cf1fc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e0a685eda6d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "New Zealand election aftermath",
+     "text": "Ruin a band by adding a famous person",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9957c8606f9b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Infant vitamin K shot refusals rise",
+     "text": "Pope Leo arrives in Argentina",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
@@ -264,92 +264,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump orders DOJ to investigate Democrats",
+     "text": "Massie files Hegseth impeachment articles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7937333696e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Democrats urge ICE to unmask agents",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "A Difference in Sports Chants",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54171499",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/4dd09686-cec7-43b1-8786-af8629ba244a.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Anon is looking for a router",
-     "author": "Greentext",
-     "url": "https://suppo.fi/post/15325160",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/b404760f-a88b-4a82-81f3-b6aa887994d8.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Apple\u2019s New CEO Is Reportedly Pushing to Stuff More AI into iPhones",
+     "text": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
      "author": "Technology",
-     "url": "https://lemmy.world/post/54171965",
-     "likes": 37,
-     "image": "https://lemmy.world/pictrs/image/71fc4ebb-687a-4ea7-a68f-3cd132a1c413.jpeg"
+     "url": "https://programming.dev/post/59130919",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/eafbe8bc-8301-4aab-bff3-6f0502069c3e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Double standards.",
+     "author": "Star Wars Memes",
+     "url": "https://lemmy.world/post/54172361",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/1ff700dd-631a-467f-b8ee-d76317d7f3d1.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation \u2014 spy suspect linked to company accused of smuggling $2 billion in AI chips",
      "author": "Technology",
      "url": "https://sh.itjust.works/post/69631180",
-     "likes": 8,
+     "likes": 30,
      "image": "https://lemmy.world/pictrs/image/b878d97c-6bb1-4ae6-9bbf-e2702de19330.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "A Difference in Sports Chants",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54171499",
+     "likes": 115,
+     "image": "https://lemmy.world/pictrs/image/4dd09686-cec7-43b1-8786-af8629ba244a.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T22:14:38.566551+00:00",
+   "fetched_at": "2026-11-08T22:44:45.532529+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "It's been months since I bought the book \"how to scam people online\". It still hasn't turned up.",
+     "text": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
      "source": "Dad joke"
     },
     {
-     "text": "Got a new suit recently made entirely of living plants. I wasn\u2019t sure at first, but it\u2019s grown on me",
+     "text": "Never Trust Someone With Graph Paper...\r\n\r\nThey're always plotting something.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+     "text": "When is a door not a door? When it's ajar.",
      "source": "Dad joke"
     }
    ]
