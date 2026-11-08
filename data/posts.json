@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-08T02:09:56.099693+00:00",
+ "generated_at": "2026-11-08T02:40:02.636700+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-08T02:09:51.720441+00:00",
+   "fetched_at": "2026-11-08T02:39:57.627925+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Alanis Morissette comes out as pansexual",
-     "url": "https://www.reddit.com/r/Music/comments/1xqb81u/alanis_morissette_comes_out_as_pansexual/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,15 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/2npgzkyoda0i1.jpeg?width=640&crop=smart&auto=webp&s=73fbc833c3a98fa13a7ca7007abf8816373b411e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Bye \ud83d\udc4b",
-     "url": "https://www.reddit.com/r/stupidpeoplefacebook/comments/1xq7jxw/bye/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/x1lk47zp970i1.jpeg?width=640&crop=smart&auto=webp&s=ff8c78db7034bd585e2cbe89bd113754b191057d"
     },
     {
      "source": "Reddit",
@@ -44,29 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "[OC] Handmade Hollow Knight Resin Lamp Giveaway \u2014 We're Doing This Again! \ud83d\udc99",
-     "url": "https://www.reddit.com/r/HollowKnight/comments/1xq4bb4/oc_handmade_hollow_knight_resin_lamp_giveaway/",
+     "title": "Alanis Morissette comes out as pansexual",
+     "url": "https://www.reddit.com/r/Music/comments/1xqb81u/alanis_morissette_comes_out_as_pansexual/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Am I under arrest or not?",
-     "url": "https://www.reddit.com/r/LoveTrash/comments/1xq73cj/am_i_under_arrest_or_not/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aXdib25jbXk1NzBpMU9TnT-xaiOgKl5vLxPirEFfZTVboSXD6H4uYwpcMddx.png?width=320&crop=smart&auto=webp&s=8c186038f397dce17b8a89b94b3cd10b50e87952"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Neighbor cat gets leaf stuck on his tail",
-     "url": "https://www.reddit.com/r/cats/comments/1xqguhr/neighbor_cat_gets_leaf_stuck_on_his_tail/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aXlpdnJsanQ4OTBpMX3UlbAkx1UJpBSvCSw-0CAzXSyrUKdl3DuklrP5Vc6t.png?width=320&crop=smart&auto=webp&s=065d37465f7f2056af46f87c959af90d8c949ff8"
     },
     {
      "source": "Reddit",
@@ -85,60 +49,124 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/mrdcphk4t90i1.jpeg?width=640&crop=smart&auto=webp&s=28c13e0ed91b53e6eff1581f99b28796623e7740"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Bye \ud83d\udc4b",
+     "url": "https://www.reddit.com/r/stupidpeoplefacebook/comments/1xq7jxw/bye/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/x1lk47zp970i1.jpeg?width=640&crop=smart&auto=webp&s=ff8c78db7034bd585e2cbe89bd113754b191057d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "[OC] Handmade Hollow Knight Resin Lamp Giveaway \u2014 We're Doing This Again! \ud83d\udc99",
+     "url": "https://www.reddit.com/r/HollowKnight/comments/1xq4bb4/oc_handmade_hollow_knight_resin_lamp_giveaway/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Neighbor cat gets leaf stuck on his tail",
+     "url": "https://www.reddit.com/r/cats/comments/1xqguhr/neighbor_cat_gets_leaf_stuck_on_his_tail/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aXlpdnJsanQ4OTBpMX3UlbAkx1UJpBSvCSw-0CAzXSyrUKdl3DuklrP5Vc6t.png?width=320&crop=smart&auto=webp&s=065d37465f7f2056af46f87c959af90d8c949ff8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "UFC CEO Dana White declines Trump\u2019s offer to become press secretary, source says",
+     "url": "https://www.reddit.com/r/politics/comments/1xqi2fk/ufc_ceo_dana_white_declines_trumps_offer_to/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/m-wRP7V4OMFS_RDO39rT6qe-8Cu-9hIEdoi46fjEZA0.jpeg?width=640&crop=smart&auto=webp&s=45ace89a522422423e3952d816a20ae8d7152981"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-08T02:09:53.032528+00:00",
+   "fetched_at": "2026-11-08T02:39:58.940543+00:00",
    "stale": false,
    "items": [
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2254,
+     "title": "itWasJustOneVariable",
+     "image": "https://i.redd.it/1g1ms7yi670i1.png",
+     "url": "https://redd.it/1xq77a7",
+     "ups": 2220,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1213,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 16845,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1251,
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 465,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 190,
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
+     "ups": 1143,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 585,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6584,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "It only has instructions for frozen...",
-     "image": "https://i.redd.it/ou8r83hc230i1.png",
-     "url": "https://redd.it/1xpshen",
-     "ups": 31,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Cave divers be like",
+     "image": "https://i.redd.it/jmsqvztik80i1.png",
+     "url": "https://redd.it/1xqdpsx",
+     "ups": 8,
      "sub": "r/memes"
     },
     {
-     "title": "Door Symphony",
-     "image": "https://i.redd.it/x7ut4017w60i1.png",
-     "url": "https://redd.it/1xq5yrs",
-     "ups": 214,
+     "title": "This is why I go to the theater!",
+     "image": "https://i.redd.it/qakgdw06f40i1.png",
+     "url": "https://redd.it/1xpxt8s",
+     "ups": 62,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I wanted to be rich...",
+     "image": "https://i.redd.it/80ewfiiku40i1.gif",
+     "url": "https://redd.it/1xpzbn2",
+     "ups": 1696,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Outsmarted you this time",
+     "image": "https://i.redd.it/tukaf24al80i1.gif",
+     "url": "https://redd.it/1xqdvd4",
+     "ups": 46,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was told to share this from my original posting.",
+     "image": "https://i.redd.it/n7zwyduth50i1.png",
+     "url": "https://redd.it/1xq1fdm",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
@@ -147,49 +175,13 @@
      "url": "https://redd.it/1xpog5s",
      "ups": 34,
      "sub": "r/memes"
-    },
-    {
-     "title": "alright...",
-     "image": "https://i.redd.it/f07xy5rgc50i1.gif",
-     "url": "https://redd.it/1xq0yn7",
-     "ups": 139,
-     "sub": "r/memes"
-    },
-    {
-     "title": "There is no conflict like Anakin said.",
-     "image": "https://i.redd.it/m8mwyfylc80i1.png",
-     "url": "https://redd.it/1xqcnbg",
-     "ups": 89,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Weekend plans",
-     "image": "https://i.redd.it/b07a5x82o40i1.png",
-     "url": "https://redd.it/1xpypf4",
-     "ups": 38,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Eltit*",
-     "image": "https://i.redd.it/f86oecqf050i1.png",
-     "url": "https://redd.it/1xpzvfe",
-     "ups": 0,
-     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-08T02:09:54.684090+00:00",
+   "fetched_at": "2026-11-08T02:40:00.721665+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Democratic congressional leadership push",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Dana White name mix-up theories",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Democratic congressional leadership push",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Oregon vs. Ohio State",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a5becd46478",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Extra Life charity game day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f685c59c5d15",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Megaspeed executive espionage allegations",
+     "text": "October jobs report beats forecasts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dcfc39b3cb96",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/142ee526ac03",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "CBS last in election night ratings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9099e8ff9188",
      "likes": 0,
      "image": ""
     },
@@ -271,19 +279,11 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Texas education board election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c90eac8e35ea",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "Petition Calling for House Speaker Other Than Hakeem Jeffries Hits 1 Million Signatures | Common Dreams",
      "author": "politics ",
      "url": "https://lemmy.world/post/54121908",
-     "likes": 249,
+     "likes": 284,
      "image": "https://lemmy.world/pictrs/image/24fc6ba4-7531-435b-93d0-142fd45a9847.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Couldn\u2019t Qanon Themselves Out of It",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/54122097",
-     "likes": 158,
+     "likes": 173,
      "image": "https://lemmy.world/pictrs/image/bfda27b8-7c52-486a-af68-6705ed4e92be.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "New bag new rule",
      "author": "196",
      "url": "https://crazypeople.online/post/27308147",
-     "likes": 152,
+     "likes": 174,
      "image": "https://lemmy.world/pictrs/image/8ceb00d7-2a9a-4085-8d4a-26fc3b6edc4f.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Love rules",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50218950",
-     "likes": 68,
+     "likes": 82,
      "image": "https://lemmy.world/pictrs/image/0e70ec80-dc55-48a2-b850-7286cbd69533.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-08T02:09:55.426925+00:00",
+   "fetched_at": "2026-11-08T02:40:01.683531+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The great thing about stationery shops is they're always in the same place...",
+     "text": "This furniture store keeps emailing me, all I wanted was one night stand!",
      "source": "Dad joke"
     },
     {
-     "text": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
+     "text": "It takes guts to be an organ donor.",
      "source": "Dad joke"
     },
     {
-     "text": "I ate a clock yesterday. It was so time consuming.",
+     "text": "I'll tell you what often gets over looked... garden fences.",
      "source": "Dad joke"
     }
    ]
