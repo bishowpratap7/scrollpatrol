@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T04:16:07.230513+00:00",
+ "generated_at": "2026-11-09T04:16:24.200162+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T04:16:03.337071+00:00",
+   "fetched_at": "2026-11-09T04:16:18.581489+00:00",
    "stale": false,
    "items": [
     {
@@ -89,14 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T04:16:04.309118+00:00",
+   "fetched_at": "2026-11-09T04:16:20.017406+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 454,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "justUseWebm",
      "image": "https://i.redd.it/naj70oqxc4zh1.png",
      "url": "https://redd.it/1xlmwai",
      "ups": 163,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 22230,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,24 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17332,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ncisWasAccurateAfterAll",
-     "image": "https://i.redd.it/i5vysfd8ngyh1.png",
-     "url": "https://redd.it/1xiu4oi",
-     "ups": 10099,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Swoozie, let's break up",
-     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
-     "url": "https://redd.it/1xprxm7",
-     "ups": 7070,
+     "title": "When I'm in a \u201csounding like a villain competition\u201d",
+     "image": "https://i.redd.it/awimd36kpf0i1.png",
+     "url": "https://redd.it/1xr5rn0",
+     "ups": 558,
      "sub": "r/memes"
     },
     {
@@ -142,13 +149,6 @@
      "sub": "r/memes"
     },
     {
-     "title": "Q\u012bng gu\u00f3 q\u012bng ch\u00e9ng",
-     "image": "https://i.redd.it/52ttg7pkci0i1.png",
-     "url": "https://redd.it/1xrhesf",
-     "ups": 1,
-     "sub": "r/memes"
-    },
-    {
      "title": "Hot take: mass murder is bad",
      "image": "https://i.redd.it/69r5rubtf80i1.png",
      "url": "https://redd.it/1xqd3gt",
@@ -156,30 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "Movie Enjoyer vs Film Bro vs Cinephile",
-     "image": "https://i.redd.it/dgc0spyu6d0i1.png",
-     "url": "https://redd.it/1xqv9dj",
-     "ups": 15,
+     "title": "\"Oh shoot i dont have time to be writing this neat\"",
+     "image": "https://i.redd.it/fhboanga0b0i1.png",
+     "url": "https://redd.it/1xqo4ig",
+     "ups": 58,
      "sub": "r/memes"
     },
     {
-     "title": "There is no conflict like Anakin said.",
-     "image": "https://i.redd.it/m8mwyfylc80i1.png",
-     "url": "https://redd.it/1xqcnbg",
-     "ups": 200,
+     "title": "Freezes NYC",
+     "image": "https://i.redd.it/q5qpq759d10i1.png",
+     "url": "https://redd.it/1xpkdl7",
+     "ups": 12137,
      "sub": "r/memes"
     },
     {
-     "title": "\"4.5 out of 5 stars.\"",
-     "image": "https://i.redd.it/0sli9m0ejg0i1.png",
-     "url": "https://redd.it/1xr9ssc",
-     "ups": 77,
-     "sub": "r/dankmemes"
+     "title": "I wanted to be rich...",
+     "image": "https://i.redd.it/80ewfiiku40i1.gif",
+     "url": "https://redd.it/1xpzbn2",
+     "ups": 2029,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T04:16:06.165581+00:00",
+   "fetched_at": "2026-11-09T04:16:22.613456+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Anon is a carpenter",
      "author": "Greentext",
      "url": "https://sh.itjust.works/post/69641538",
-     "likes": 22,
+     "likes": 25,
      "image": "https://lemmy.world/pictrs/image/5d9b511f-7e10-41ad-97af-03d09eec2f9b.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Palantir harvests battlefield data that Ukraine pays for \u2018with blood\u2019",
      "author": "Ukraine",
      "url": "https://suppo.fi/post/15329652",
-     "likes": 18,
+     "likes": 19,
      "image": "https://lemmy.world/pictrs/image/6537f9a6-60cc-4356-8166-476ccae9b8fa.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Getting closer to the time of year!",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://discuss.online/post/48184716",
-     "likes": 37,
+     "likes": 38,
      "image": "https://lemmy.world/pictrs/image/89855dc8-8fa5-4a72-a543-201f9fbe0ea2.jpeg"
     },
     {
@@ -313,27 +313,27 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T04:16:06.595471+00:00",
+   "fetched_at": "2026-11-09T04:16:23.144029+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
     {
      "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Just read a few facts about frogs. They were ribbiting.",
+     "text": "I invented a new word! Plagiarism!",
      "source": "Dad joke"
     },
     {
-     "text": "What's a ninja's favorite type of shoes? Sneakers!",
+     "text": "Two guys walked into a bar, the third one ducked.",
      "source": "Dad joke"
     },
     {
-     "text": "Thanks for explaining the word \"many\" to me. It means a lot.",
+     "text": "Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!",
      "source": "Dad joke"
     }
    ]
