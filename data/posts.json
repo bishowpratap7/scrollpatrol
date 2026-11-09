@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T05:46:45.639818+00:00",
+ "generated_at": "2026-11-09T06:16:52.420012+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T05:46:39.761388+00:00",
+   "fetched_at": "2026-11-09T06:16:47.104196+00:00",
    "stale": false,
    "items": [
     {
@@ -13,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My barely nutted drumstick",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xrgaoj/my_barely_nutted_drumstick/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/z09bx63c2i0i1.jpeg?width=640&crop=smart&auto=webp&s=d48f2616a60aa429451e2aae3ca14b92c8d86fe3"
     },
     {
      "source": "Reddit",
@@ -44,29 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "My barely nutted drumstick",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xrgaoj/my_barely_nutted_drumstick/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/z09bx63c2i0i1.jpeg?width=640&crop=smart&auto=webp&s=d48f2616a60aa429451e2aae3ca14b92c8d86fe3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Read",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Clarice Phelps",
-     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xrgujv/clarice_phelps/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/9u8p3kk77i0i1.jpeg?width=640&crop=smart&auto=webp&s=95904a326d2fb0122267397f1317a157a2f52a28"
     },
     {
      "source": "Reddit",
@@ -85,18 +76,34 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/b2FvcDVscmZiZjBpMTWzFA52cKEuBXc22p5EwKlDZSTpyFMNoLgZM_XA_CCJ.png?width=640&crop=smart&auto=webp&s=a0bbbbc2a70fd2856a22e6117a77be3346c27061"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Clarice Phelps",
+     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xrgujv/clarice_phelps/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/9u8p3kk77i0i1.jpeg?width=640&crop=smart&auto=webp&s=95904a326d2fb0122267397f1317a157a2f52a28"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T05:46:41.208307+00:00",
+   "fetched_at": "2026-11-09T06:16:48.371967+00:00",
    "stale": false,
    "items": [
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 40,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 50,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,52 +114,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 193,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7021,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1206,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2300,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 1648,
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 37,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1252,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Interesting AI",
-     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
-     "url": "https://redd.it/1xrh4wo",
-     "ups": 61,
+     "title": "Freezes NYC",
+     "image": "https://i.redd.it/q5qpq759d10i1.png",
+     "url": "https://redd.it/1xpkdl7",
+     "ups": 12241,
      "sub": "r/memes"
     },
     {
-     "title": "There is no conflict like Anakin said.",
-     "image": "https://i.redd.it/m8mwyfylc80i1.png",
-     "url": "https://redd.it/1xqcnbg",
-     "ups": 202,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Fascinating",
-     "image": "https://i.redd.it/hcvigeljef0i1.png",
-     "url": "https://redd.it/1xr49r5",
-     "ups": 3242,
+     "title": "Ghana Jam!?",
+     "image": "https://i.redd.it/8i42ps5mb90i1.png",
+     "url": "https://redd.it/1xqh7bw",
+     "ups": 136,
      "sub": "r/memes"
     },
     {
@@ -163,46 +156,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1162,
+     "title": "Fully automated\u201d apparently means working from home",
+     "image": "https://i.redd.it/nom62xql690i1.png",
+     "url": "https://redd.it/1xqgkec",
+     "ups": 122,
      "sub": "r/memes"
     },
     {
-     "title": "\"Oh shoot i dont have time to be writing this neat\"",
-     "image": "https://i.redd.it/fhboanga0b0i1.png",
-     "url": "https://redd.it/1xqo4ig",
-     "ups": 59,
+     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
+     "image": "https://i.redd.it/bzadue12g60i1.png",
+     "url": "https://redd.it/1xq4cmy",
+     "ups": 3926,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Interesting AI",
+     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
+     "url": "https://redd.it/1xrh4wo",
+     "ups": 61,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T05:46:43.711307+00:00",
+   "fetched_at": "2026-11-09T06:16:50.334547+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump hopes for heaven",
+     "text": "Massie files Hegseth impeachment articles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/99a0926d28aa",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +208,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pope Leo arrives in Argentina",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Authors share books with newcomers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Infant vitamin K shot refusals rise",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
@@ -232,96 +248,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Devils sit Hellebuyck in Winnipeg",
+     "text": "Backyard bird sightings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Windstorm knocks out Seattle power",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/113a870c674c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
+     "text": "Push to replace Schumer and Jeffries",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Diwali celebrations",
+     "text": "CBS last in election night ratings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ross Douthat interviews Trump",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13a3a388f77b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Dana White offered press secretary",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93fe1043a04e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9099e8ff9188",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Me_irl",
-     "author": "me_irl",
-     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1058803/me-irl",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/a6411993-2b2f-4c84-babf-d3e27e1e3fbc.jpeg"
+     "text": "Trump Admin Caught Illegally Canceling Billion-Dollar Solar Project That Would Have Helped Lower Utility Bills Across the Country: \"This is a program that has the potential to lower people's bills.\u201d",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54183124",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/ca3492a6-fbfc-4a22-844c-2baf405da30f.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Me too",
-     "author": "Witchy Memes",
-     "url": "https://piefed.blahaj.zone/c/witchymemes@lemmy.world/p/1058798/me-too",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/63da2afd-c60f-4be1-96db-cbc62046951c.jpeg"
+     "text": "Adorbs though",
+     "author": "NiceMemes",
+     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1058736/adorbs-though",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/682f1cb9-fdd5-49b2-b50f-119c1423c0f0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Corvair",
-     "author": "Photography",
-     "url": "https://lemmy.world/post/54182469",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/7814ac75-ab94-4501-a3ca-313be07d0e85.jpeg"
+     "text": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
+     "author": "Progressive Politics",
+     "url": "https://lemmy.ml/post/55087565",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/7602a2fc-b86b-4241-b9ae-16ebb6f7695c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Putin may not want peace, warns Norwegian leader who spoke to him",
-     "author": "World News",
-     "url": "https://lemy.lol/post/73974523",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/e2020802-0204-4282-8517-a57b52d741fe.jpeg"
+     "text": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
+     "url": "https://feddit.org/post/37794954",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/1b404df7-1c24-4a8f-8bac-3a002cf1800a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T05:46:44.815793+00:00",
+   "fetched_at": "2026-11-09T06:16:51.270661+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
@@ -329,36 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Conjunctivitis.com \u2013 now that\u2019s a site for sore eyes.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "No matter how kind you are, German children are kinder.",
      "source": "Dad joke"
     },
     {
-     "text": "Wife: Honey I\u2019m pregnant.\r\n\r\nMe: Well\u2026. what do we do now?\r\n\r\nWife: Well, I guess we should go to a baby doctor.\r\n\r\nMe: Hm.. I think I\u2019d be a lot more comfortable going to an adult doctor.",
+     "text": "The great thing about stationery shops is they're always in the same place...",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
+     "text": "I have the heart of a lion... and a lifetime ban from the San Diego Zoo.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
