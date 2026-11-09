@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T05:16:38.228289+00:00",
+ "generated_at": "2026-11-09T05:46:45.639818+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T05:16:33.209455+00:00",
+   "fetched_at": "2026-11-09T05:46:39.761388+00:00",
    "stale": false,
    "items": [
     {
@@ -26,6 +26,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Bilibili Gaming vs. T1 / World Championship 2026 Knockout Stage - Semi-final / Post-Match Discussion",
+     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xreyi4/bilibili_gaming_vs_t1_world_championship_2026/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "How are you feeling about the Democrats who want Chuck Schumer and Hakeem Jeffries to step down?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xr5hmk/how_are_you_feeling_about_the_democrats_who_want/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "My barely nutted drumstick",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xrgaoj/my_barely_nutted_drumstick/",
      "score": 0,
@@ -44,29 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Bilibili Gaming vs. T1 / World Championship 2026 Knockout Stage - Semi-final / Post-Match Discussion",
-     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xreyi4/bilibili_gaming_vs_t1_world_championship_2026/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Clarice Phelps",
      "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xrgujv/clarice_phelps/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/9u8p3kk77i0i1.jpeg?width=640&crop=smart&auto=webp&s=95904a326d2fb0122267397f1317a157a2f52a28"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "How are you feeling about the Democrats who want Chuck Schumer and Hakeem Jeffries to step down?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xr5hmk/how_are_you_feeling_about_the_democrats_who_want/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     },
     {
      "source": "Reddit",
@@ -89,120 +89,104 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T05:16:34.336529+00:00",
+   "fetched_at": "2026-11-09T05:46:41.208307+00:00",
    "stale": false,
    "items": [
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 690,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 40,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 4,
+     "title": "builtABrowserExtensionToCustomizeLeetCodeUI",
+     "image": "https://i.redd.it/mcx0jq5i0c0i1.png",
+     "url": "https://redd.it/1xqrnsm",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 69,
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 193,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 642,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1206,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 461,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 1648,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Every restaurant chain meeting in 2026",
-     "image": "https://i.redd.it/7af7whvfu60i1.png",
-     "url": "https://redd.it/1xq5rum",
-     "ups": 558,
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1252,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Interesting AI",
+     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
+     "url": "https://redd.it/1xrh4wo",
+     "ups": 61,
      "sub": "r/memes"
     },
     {
-     "title": "can we have Internet 2 please",
-     "image": "https://i.redd.it/fylqwelmeb0i1.png",
-     "url": "https://redd.it/1xqplc5",
-     "ups": 2723,
+     "title": "There is no conflict like Anakin said.",
+     "image": "https://i.redd.it/m8mwyfylc80i1.png",
+     "url": "https://redd.it/1xqcnbg",
+     "ups": 202,
      "sub": "r/memes"
     },
     {
-     "title": "Follow rule 2 guys",
-     "image": "https://i.redd.it/q53isefdne0i1.gif",
-     "url": "https://redd.it/1xr0nkx",
-     "ups": 1246,
+     "title": "Fascinating",
+     "image": "https://i.redd.it/hcvigeljef0i1.png",
+     "url": "https://redd.it/1xr49r5",
+     "ups": 3242,
      "sub": "r/memes"
     },
     {
-     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
-     "image": "https://i.redd.it/bzadue12g60i1.png",
-     "url": "https://redd.it/1xq4cmy",
-     "ups": 3929,
+     "title": "Cyberpunk Edgerunners",
+     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
+     "url": "https://redd.it/1xpwaes",
+     "ups": 1504,
      "sub": "r/memes"
     },
     {
-     "title": "Fully automated\u201d apparently means working from home",
-     "image": "https://i.redd.it/nom62xql690i1.png",
-     "url": "https://redd.it/1xqgkec",
-     "ups": 119,
+     "title": "Hot take: mass murder is bad",
+     "image": "https://i.redd.it/69r5rubtf80i1.png",
+     "url": "https://redd.it/1xqd3gt",
+     "ups": 1162,
      "sub": "r/memes"
     },
     {
-     "title": "Door Symphony",
-     "image": "https://i.redd.it/x7ut4017w60i1.png",
-     "url": "https://redd.it/1xq5yrs",
-     "ups": 281,
+     "title": "\"Oh shoot i dont have time to be writing this neat\"",
+     "image": "https://i.redd.it/fhboanga0b0i1.png",
+     "url": "https://redd.it/1xqo4ig",
+     "ups": 59,
      "sub": "r/memes"
-    },
-    {
-     "title": "It's been an... interesting experience",
-     "image": "https://i.redd.it/gaqfk1j47wzh1.png",
-     "url": "https://redd.it/1xozvhi",
-     "ups": 65,
-     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T05:16:36.304471+00:00",
+   "fetched_at": "2026-11-09T05:46:43.711307+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump's \"should have had stock\" remark",
+     "text": "Trump hopes for heaven",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fe2ae921d9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Massie files Hegseth impeachment articles",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/99a0926d28aa",
      "likes": 0,
      "image": ""
     },
@@ -224,33 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
+     "text": "Trump's \"should have had stock\" remark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fe2ae921d9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo arrives in Argentina",
+     "text": "Ruin a band by adding a famous person",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "NASA awards Moon Base contracts",
+     "text": "Infant vitamin K shot refusals rise",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Backyard bird sightings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
      "likes": 0,
      "image": ""
     },
@@ -264,72 +240,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to replace Schumer and Jeffries",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
+     "text": "Vehicles women actually like meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Diwali celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ross Douthat interviews Trump",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13a3a388f77b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Dana White offered press secretary",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93fe1043a04e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1058803/me-irl",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/a6411993-2b2f-4c84-babf-d3e27e1e3fbc.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Me too",
+     "author": "Witchy Memes",
+     "url": "https://piefed.blahaj.zone/c/witchymemes@lemmy.world/p/1058798/me-too",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/63da2afd-c60f-4be1-96db-cbc62046951c.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Corvair",
+     "author": "Photography",
+     "url": "https://lemmy.world/post/54182469",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/7814ac75-ab94-4501-a3ca-313be07d0e85.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Putin may not want peace, warns Norwegian leader who spoke to him",
      "author": "World News",
-     "url": "https://sh.itjust.works/post/69643185",
-     "likes": 8,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
-     "author": "Technology",
-     "url": "https://piefed.world/c/technology/p/1522430/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/954629ef-576c-4801-85f8-451c9fad1b83.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "\u2018Trump has cost us\u2019: After midterm losses, MAGA asks if it\u2019s over",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54181415",
+     "url": "https://lemy.lol/post/73974523",
      "likes": 10,
-     "image": "https://www.reuters.com/resizer/v2/YYY47GCZFRPX5FHTYMZESESFCA.jpg?auth=0817252daf24276bde84072c34a79546ea57f925cc100ecb5567245226c40557&width=1920&quality=80"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Anon is a carpenter",
-     "author": "Greentext",
-     "url": "https://sh.itjust.works/post/69641538",
-     "likes": 65,
-     "image": "https://lemmy.world/pictrs/image/5d9b511f-7e10-41ad-97af-03d09eec2f9b.jpeg"
+     "image": "https://lemmy.world/pictrs/image/e2020802-0204-4282-8517-a57b52d741fe.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T05:16:37.167717+00:00",
+   "fetched_at": "2026-11-09T05:46:44.815793+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "How do hens stay fit? They always egg-cercise!",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Conjunctivitis.com \u2013 now that\u2019s a site for sore eyes.",
      "source": "Dad joke"
     },
     {
-     "text": "Why don't you find hippopotamuses hiding in trees?\r\nThey're really good at it.",
+     "text": "Wife: Honey I\u2019m pregnant.\r\n\r\nMe: Well\u2026. what do we do now?\r\n\r\nWife: Well, I guess we should go to a baby doctor.\r\n\r\nMe: Hm.. I think I\u2019d be a lot more comfortable going to an adult doctor.",
      "source": "Dad joke"
     },
     {
-     "text": "Yesterday I confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia.",
+     "text": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
      "source": "Dad joke"
     }
    ]
