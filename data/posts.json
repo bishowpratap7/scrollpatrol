@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T08:47:27.361064+00:00",
+ "generated_at": "2026-11-09T09:17:34.023406+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T08:47:21.800971+00:00",
+   "fetched_at": "2026-11-09T09:17:28.958150+00:00",
    "stale": false,
    "items": [
     {
@@ -35,15 +35,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Read",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "How are you feeling about the Democrats who want Chuck Schumer and Hakeem Jeffries to step down?",
      "url": "https://www.reddit.com/r/AskReddit/comments/1xr5hmk/how_are_you_feeling_about_the_democrats_who_want/",
      "score": 0,
@@ -53,11 +44,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Read",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
      "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Trans women need to please come up with their own terms for the \"periods\" and \"menstrual cramping \" they experience, because scientifically they are not experiencing what biological women do.",
+     "url": "https://www.reddit.com/r/HonestHotTakes/comments/1xrfuyt/trans_women_need_to_please_come_up_with_their_own/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -76,22 +85,20 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/b2FvcDVscmZiZjBpMTWzFA52cKEuBXc22p5EwKlDZSTpyFMNoLgZM_XA_CCJ.png?width=640&crop=smart&auto=webp&s=a0bbbbc2a70fd2856a22e6117a77be3346c27061"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Trans women need to please come up with their own terms for the \"periods\" and \"menstrual cramping \" they experience, because scientifically they are not experiencing what biological women do.",
-     "url": "https://www.reddit.com/r/HonestHotTakes/comments/1xrfuyt/trans_women_need_to_please_come_up_with_their_own/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T08:47:23.088033+00:00",
+   "fetched_at": "2026-11-09T09:17:30.344084+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "frontendAndBackend",
      "image": "https://i.redd.it/4ggbp0gxvszh1.png",
@@ -100,86 +107,79 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3176,
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 34,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 457,
+     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
+     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
+     "url": "https://redd.it/1xlu08b",
+     "ups": 7,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6662,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 67,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1400,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 38,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Jensen and Chinese spy sitting in a tree",
-     "image": "https://i.redd.it/ypggqvhe8j0i1.png",
-     "url": "https://redd.it/1xrkm0k",
-     "ups": 40,
+     "title": "13 years of development well spent",
+     "image": "https://i.redd.it/bnahfdubn90i1.png",
+     "url": "https://redd.it/1xqimw0",
+     "ups": 4595,
      "sub": "r/memes"
     },
     {
-     "title": "Nothing less than a full pack",
-     "image": "https://i.redd.it/igakl8tn4g0i1.png",
-     "url": "https://redd.it/1xr7uwh",
-     "ups": 22,
+     "title": "Ghana Jam!?",
+     "image": "https://i.redd.it/8i42ps5mb90i1.png",
+     "url": "https://redd.it/1xqh7bw",
+     "ups": 136,
      "sub": "r/memes"
     },
     {
-     "title": "Interesting AI",
-     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
-     "url": "https://redd.it/1xrh4wo",
-     "ups": 115,
+     "title": "I wanted to be rich...",
+     "image": "https://i.redd.it/80ewfiiku40i1.gif",
+     "url": "https://redd.it/1xpzbn2",
+     "ups": 2040,
      "sub": "r/memes"
     },
     {
-     "title": "Swoozie, let's break up",
-     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
-     "url": "https://redd.it/1xprxm7",
-     "ups": 7092,
+     "title": "Freezes NYC",
+     "image": "https://i.redd.it/q5qpq759d10i1.png",
+     "url": "https://redd.it/1xpkdl7",
+     "ups": 12338,
      "sub": "r/memes"
     },
     {
-     "title": "can we have Internet 2 please",
-     "image": "https://i.redd.it/fylqwelmeb0i1.png",
-     "url": "https://redd.it/1xqplc5",
-     "ups": 2860,
+     "title": "Cyberpunk Edgerunners",
+     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
+     "url": "https://redd.it/1xpwaes",
+     "ups": 1512,
      "sub": "r/memes"
     },
     {
-     "title": "When I'm in a \u201csounding like a villain competition\u201d",
-     "image": "https://i.redd.it/awimd36kpf0i1.png",
-     "url": "https://redd.it/1xr5rn0",
-     "ups": 633,
+     "title": "Fascinating",
+     "image": "https://i.redd.it/hcvigeljef0i1.png",
+     "url": "https://redd.it/1xr49r5",
+     "ups": 3746,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T08:47:25.595008+00:00",
+   "fetched_at": "2026-11-09T09:17:32.684028+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,14 @@
      "text": "COP31 climate summit in Antalya",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israel's war in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's \"should have had stock\" remark",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fe2ae921d9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -224,41 +224,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bonfire Night fireworks across UK",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/080ac78d753b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
+     "text": "Pope Leo arrives in Argentina",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Infant vitamin K shot refusals rise",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Devils sit Hellebuyck in Winnipeg",
+     "text": "NASA awards Moon Base contracts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's \"different shaped Ukraine\" remark",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "peak dad",
      "author": "Trans Memes",
      "url": "https://lemmy.blahaj.zone/post/50273264",
-     "likes": 19,
+     "likes": 40,
      "image": "https://lemmy.world/pictrs/image/da881000-8324-4c9b-894f-5f8f3f79f150.webp"
     },
     {
@@ -291,45 +291,33 @@
      "text": "Scientists reveal the Hi",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.today/post/63016080",
-     "likes": 20,
+     "likes": 46,
      "image": "https://lemmy.world/pictrs/image/51255a33-a3e5-4b3a-bd73-e6bd6bbe0362.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Moldova gains economic leverage over breakaway region Transnistria with almost 80 percent of trade destined for EU, creating new opportunities for reintegration",
-     "author": "Europe",
-     "url": "https://scribe.disroot.org/post/12371176",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/fa2541df-b655-4139-a6db-53aff12b0c5c.jpeg"
+     "text": "My camping journey, from zero to addict in a few months. First up: Awaji Island, Hyogo",
+     "author": "camping",
+     "url": "https://sh.itjust.works/post/69648566",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/5d717acc-1d86-44d5-8440-b2a2290c3ce6.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Gateshead woman with alopecia accused of being male while using female toilet at Tesco",
-     "author": "United Kingdom",
-     "url": "https://quokk.au/c/unitedkingdom/p/1304076/gateshead-woman-with-alopecia-accused-of-being-male-while-using-female-toilet-at-tesco",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/b8089b48-ba47-40d2-a020-d6e807fb2a5d.jpeg"
+     "text": "Moldova gains economic leverage over breakaway region Transnistria with almost 80 percent of trade destined for EU, creating new opportunities for reintegration",
+     "author": "World News",
+     "url": "https://scribe.disroot.org/post/12371234",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/f1c03a55-8094-4a04-9930-b5ab6b97c394.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T08:47:26.540444+00:00",
+   "fetched_at": "2026-11-09T09:17:33.252849+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
@@ -337,28 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "There are two types of people in this world, those who can extrapolate from incomplete data...",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do birds give out on Halloween? Tweets.",
      "source": "Dad joke"
     },
     {
-     "text": "This morning I was wondering where the sun was, but then it dawned on me.",
+     "text": "A cannibal is someone who is fed up with people.",
      "source": "Dad joke"
     },
     {
-     "text": "I made a belt out of watches once... It was a waist of time.",
+     "text": "Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
