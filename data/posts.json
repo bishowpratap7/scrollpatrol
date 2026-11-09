@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T17:19:51.116790+00:00",
+ "generated_at": "2026-11-09T17:49:57.170838+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T17:19:46.683067+00:00",
+   "fetched_at": "2026-11-09T17:49:52.583690+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
-     "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
+     "title": "Do you also still keep the original box your cat came in, or have you thrown it away?",
+     "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xrspth/do_you_also_still_keep_the_original_box_your_cat/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
+     "image": "https://preview.redd.it/s26mfmcthl0i1.jpeg?width=640&crop=smart&auto=webp&s=bd1ce4fabe6d01b6c916c3d551c433634945fc0b"
     },
     {
      "source": "Reddit",
@@ -62,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "the new destroyer of ports",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xraj53/the_new_destroyer_of_ports/",
+     "title": "Russell Brand Sentenced To 10 Years In Prison",
+     "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/f71t3994pg0i1.png?width=320&crop=smart&auto=webp&s=d9b055ed68a2c44421b24476b838247cea6f93eb"
+     "image": "https://external-preview.redd.it/jm01XUxfSCxGKtimqwh1cds4Rjyi72vznvzmtyXDRkE.jpeg?width=640&crop=smart&auto=webp&s=d0aa639661de33fec4a8006c36205386f5e1006f"
     },
     {
      "source": "Reddit",
@@ -80,51 +80,30 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\"I know an apology cannot undo what I have done\": Nvidia's Jensen Huang apologizes to wife Lori",
-     "url": "https://www.reddit.com/r/TopTrendingNewsUSA/comments/1xrjh2f/i_know_an_apology_cannot_undo_what_i_have_done/",
+     "title": "the new destroyer of ports",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xraj53/the_new_destroyer_of_ports/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/cm4s8wfdwi0i1.jpeg?width=640&crop=smart&auto=webp&s=b09070819b862b6caafddae72a754d13f61ac150"
+     "image": "https://preview.redd.it/f71t3994pg0i1.png?width=320&crop=smart&auto=webp&s=d9b055ed68a2c44421b24476b838247cea6f93eb"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T17:19:47.985526+00:00",
+   "fetched_at": "2026-11-09T17:49:53.796793+00:00",
    "stale": false,
    "items": [
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1599,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 13,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1285,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 654,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7223,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17496,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 166,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,66 +114,87 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Just because he CUDA, doesn't mean he should'a",
-     "image": "https://i.redd.it/yf6pwrlmvk0i1.png",
-     "url": "https://redd.it/1xrq1pd",
-     "ups": 25,
+     "title": "tryHackMeKindaUnseriousNow",
+     "image": "https://i.redd.it/bggqfn70jlzh1.png",
+     "url": "https://redd.it/1xnnyjx",
+     "ups": 341,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 186,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1285,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Follow rule 2 guys",
+     "image": "https://i.redd.it/q53isefdne0i1.gif",
+     "url": "https://redd.it/1xr0nkx",
+     "ups": 1646,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It feels... Amazing.. Satisfaction..",
+     "image": "https://i.redd.it/2reu2z5cml0i1.png",
+     "url": "https://redd.it/1xrtbys",
+     "ups": 339,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I think if I tried it in any other situation I would've gotten the wrong answer",
+     "image": "https://i.redd.it/vdgxc3zphm0i1.png",
+     "url": "https://redd.it/1xry2om",
+     "ups": 1,
+     "sub": "r/memes"
+    },
+    {
+     "title": "13 years of development well spent",
+     "image": "https://i.redd.it/bnahfdubn90i1.png",
+     "url": "https://redd.it/1xqimw0",
+     "ups": 4816,
      "sub": "r/memes"
     },
     {
      "title": "can we have Internet 2 please",
      "image": "https://i.redd.it/fylqwelmeb0i1.png",
      "url": "https://redd.it/1xqplc5",
-     "ups": 3050,
+     "ups": 3067,
      "sub": "r/memes"
     },
     {
-     "title": "FWP - Friends with parentheses?",
-     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
-     "url": "https://redd.it/1xq9zg9",
-     "ups": 7680,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A useful tip",
-     "image": "https://i.redd.it/vndyn61uye0i1.png",
-     "url": "https://redd.it/1xr24iw",
-     "ups": 112,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Huang, what did you do!?",
-     "image": "https://i.redd.it/s1znyqaqsl0i1.png",
-     "url": "https://redd.it/1xru9fb",
-     "ups": 12,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Nothing less than a full pack",
-     "image": "https://i.redd.it/igakl8tn4g0i1.png",
-     "url": "https://redd.it/1xr7uwh",
-     "ups": 20,
-     "sub": "r/memes"
+     "title": "tale as old as time",
+     "image": "https://i.redd.it/n0pq1yjchmzh1.gif",
+     "url": "https://redd.it/1xnsnug",
+     "ups": 11997,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T17:19:49.722300+00:00",
+   "fetched_at": "2026-11-09T17:49:55.964440+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Democrats' congressional priorities",
+     "text": "DC Studios leadership shake-up",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/664294003eea",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate votes on energy permitting bill",
+     "text": "House to vote on Hegseth impeachment",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/053229b6e075",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand court case",
+     "text": "November 9 historical anniversaries",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8794aa8fe4ec",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Democrats' congressional priorities",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russell Brand court case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "College Football Playoff expands to 24 teams",
+     "text": "Authors share books with newcomers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0143eda472d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
      "likes": 0,
      "image": ""
     },
@@ -251,14 +259,6 @@
      "text": "Devils sit Hellebuyck in Winnipeg",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "November 9 historical anniversaries",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8794aa8fe4ec",
      "likes": 0,
      "image": ""
     },
@@ -280,76 +280,76 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "The External Yes",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/69666282",
-     "likes": 60,
-     "image": "https://lemmy.world/pictrs/image/259b49f9-3970-4b80-8060-bf1bccedfdb1.png"
+     "text": "OpenAI PR",
+     "author": "Lemmy Shitpost",
+     "url": "https://thelemmy.club/post/58689057",
+     "likes": 71,
+     "image": "https://lemmy.world/pictrs/image/6a60913a-14ba-4783-a819-1cc54920665f.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Can't believe I haven't seen this one yet",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54202814",
+     "likes": 79,
+     "image": "https://lemmy.world/pictrs/image/f3b78b83-503a-43c0-8c5f-f9b0863e6704.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Chuck Schumer\u2019s future in doubt as momentum grows for Chris Van Hollen",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54203453",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/d4c7b17f-ec3b-4aac-a340-33fd4ce0b7c9.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Not my type",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/69666580",
-     "likes": 55,
+     "likes": 88,
      "image": "https://sh.itjust.works/pictrs/image/ef293818-9f1e-42c1-8191-677b8bd26fd2.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "*pop*",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54200967",
-     "likes": 109,
-     "image": "https://lemmy.world/pictrs/image/3124521e-1028-4edb-948d-05eeddb746e9.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The Chemistry Experiment",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/69666584",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/94445c3b-02b0-40ac-8362-ef6ede1010e7.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T17:19:50.734232+00:00",
+   "fetched_at": "2026-11-09T17:49:56.796397+00:00",
    "stale": false,
    "items": [
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+     "text": "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do rabbits go after they get married? On a bunny-moon.",
+     "text": "Thanks for explaining the word \"many\" to me. It means a lot.",
      "source": "Dad joke"
     },
     {
-     "text": "If I could name myself after any Egyptian god, I'd be Set.",
+     "text": "Why didn\u2019t the orange win the race? It ran out of juice.",
      "source": "Dad joke"
     }
    ]
