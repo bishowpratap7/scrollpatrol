@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T02:15:43.192150+00:00",
+ "generated_at": "2026-11-09T02:45:50.019198+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T02:15:38.688606+00:00",
+   "fetched_at": "2026-11-09T02:45:44.774431+00:00",
    "stale": false,
    "items": [
     {
@@ -17,20 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Forgetting to shut off the outboard motor before pulling the boat out with a Tesla truck",
-     "url": "https://www.reddit.com/r/Whatcouldgowrong/comments/1xrcmck/forgetting_to_shut_off_the_outboard_motor_before/",
+     "title": "My girlfriend is furious about my first tattoo",
+     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xrcy4l/my_girlfriend_is_furious_about_my_first_tattoo/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/cDRmbDZveTk2aDBpMeiIfXd1UFJd_vaLOrcv8LiaKdicoRMN-hLQ5BrWvqci.png?width=320&crop=smart&auto=webp&s=84dec164faea651be717e950d35227fb66ec47fc"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xr944u/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/hnctsgx7eg0i1.jpeg?width=640&crop=smart&auto=webp&s=42f7fac35de7d2b3fc10987899adcae20277b7ba"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -44,20 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
-     "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "TIL that Whoopi Goldberg's real name is Caryn Johnson, and she adopted the last name \"Goldberg\" at her mother's suggestion because a Jewish-sounding name gave her a better chance of making it in Hollywood.",
      "url": "https://www.reddit.com/r/todayilearned/comments/1xre4s7/til_that_whoopi_goldbergs_real_name_is_caryn/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/6J_5XF8ZQtpC39_IoQIzndqoUPd-41MVM4XPVeq5ImM.jpeg?width=640&crop=smart&auto=webp&s=4490b4f9a53a639f8677a05b32028c8e1832bc46"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Forgetting to shut off the outboard motor before pulling the boat out with a Tesla truck",
+     "url": "https://www.reddit.com/r/Whatcouldgowrong/comments/1xrcmck/forgetting_to_shut_off_the_outboard_motor_before/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/cDRmbDZveTk2aDBpMeiIfXd1UFJd_vaLOrcv8LiaKdicoRMN-hLQ5BrWvqci.png?width=320&crop=smart&auto=webp&s=84dec164faea651be717e950d35227fb66ec47fc"
     },
     {
      "source": "Reddit",
@@ -71,130 +62,139 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "My girlfriend is furious about my first tattoo",
-     "url": "https://www.reddit.com/r/whatdoIdo/comments/1xrcy4l/my_girlfriend_is_furious_about_my_first_tattoo/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "University of Mississippi student Jakiyra Metcalf posted a video from her doorbell camera showing three neighboring students making gestures and sounds imitating a monkey - They\u2019ll say I\u2019m race-baiting by posting this and blame the victim in the video as well \ud83d\udc40\ud83d\ude2c",
      "url": "https://www.reddit.com/r/JoeBuddenPodcasts/comments/1xr3u80/university_of_mississippi_student_jakiyra_metcalf/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/b2FvcDVscmZiZjBpMTWzFA52cKEuBXc22p5EwKlDZSTpyFMNoLgZM_XA_CCJ.png?width=640&crop=smart&auto=webp&s=a0bbbbc2a70fd2856a22e6117a77be3346c27061"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xr944u/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/hnctsgx7eg0i1.jpeg?width=640&crop=smart&auto=webp&s=42f7fac35de7d2b3fc10987899adcae20277b7ba"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
+     "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T02:15:39.723913+00:00",
+   "fetched_at": "2026-11-09T02:45:46.669097+00:00",
    "stale": false,
    "items": [
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 153,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 7929,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 37,
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 466,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 452,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 22230,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 192,
+     "title": "modernCompilerBugs",
+     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
+     "url": "https://redd.it/1xk4xh6",
+     "ups": 36,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1491,
+     "title": "tryHackMeKindaUnseriousNow",
+     "image": "https://i.redd.it/bggqfn70jlzh1.png",
+     "url": "https://redd.it/1xnnyjx",
+     "ups": 326,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1271,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 48,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "A useful tip",
-     "image": "https://i.redd.it/vndyn61uye0i1.png",
-     "url": "https://redd.it/1xr24iw",
-     "ups": 77,
+     "title": "Movie Enjoyer vs Film Bro vs Cinephile",
+     "image": "https://i.redd.it/dgc0spyu6d0i1.png",
+     "url": "https://redd.it/1xqv9dj",
+     "ups": 13,
      "sub": "r/memes"
     },
     {
-     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
-     "image": "https://i.redd.it/bzadue12g60i1.png",
-     "url": "https://redd.it/1xq4cmy",
-     "ups": 3907,
+     "title": "Door Symphony",
+     "image": "https://i.redd.it/x7ut4017w60i1.png",
+     "url": "https://redd.it/1xq5yrs",
+     "ups": 280,
      "sub": "r/memes"
     },
     {
-     "title": "\"Oh shoot i dont have time to be writing this neat\"",
-     "image": "https://i.redd.it/fhboanga0b0i1.png",
-     "url": "https://redd.it/1xqo4ig",
-     "ups": 54,
+     "title": "Omni-man as a Titan shifter would be terrifying.",
+     "image": "https://i.redd.it/9noi4g8g9g0i1.png",
+     "url": "https://redd.it/1xr8hkc",
+     "ups": 0,
      "sub": "r/memes"
     },
     {
-     "title": "Nothing less than a full pack",
-     "image": "https://i.redd.it/igakl8tn4g0i1.png",
-     "url": "https://redd.it/1xr7uwh",
-     "ups": 14,
+     "title": "can we have Internet 2 please",
+     "image": "https://i.redd.it/fylqwelmeb0i1.png",
+     "url": "https://redd.it/1xqplc5",
+     "ups": 2641,
      "sub": "r/memes"
     },
     {
-     "title": "Freezes NYC",
-     "image": "https://i.redd.it/q5qpq759d10i1.png",
-     "url": "https://redd.it/1xpkdl7",
-     "ups": 12041,
+     "title": "There is no conflict like Anakin said.",
+     "image": "https://i.redd.it/m8mwyfylc80i1.png",
+     "url": "https://redd.it/1xqcnbg",
+     "ups": 204,
      "sub": "r/memes"
     },
     {
-     "title": "Just a little pet peeve of mine",
-     "image": "https://i.redd.it/n6m76xs1ra0i1.png",
-     "url": "https://redd.it/1xqn6gg",
-     "ups": 17,
+     "title": "There are two kind of hackers",
+     "image": "https://i.redd.it/wazctxq8xc0i1.png",
+     "url": "https://redd.it/1xqug9s",
+     "ups": 412,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T02:15:42.071352+00:00",
+   "fetched_at": "2026-11-09T02:45:48.899433+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump won't forgive Comey, Pelosi",
+     "text": "Senate vote on permitting bill",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dbb63900b491",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9889d7c6d1f9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's \"should have had stock\" remark",
+     "text": "Trump won't forgive Comey, Pelosi",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fe2ae921d9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dbb63900b491",
      "likes": 0,
      "image": ""
     },
@@ -208,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Ocarina of Time remake release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
@@ -224,25 +216,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Ruin a band by adding a famous person",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Diwali celebrations",
+     "text": "Phil Vischer on God's gender",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f7f0cde8c2b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6cfed69b85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pope Leo arrives in Argentina",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +256,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Top astrophysicist leaves US",
+     "text": "Windstorm knocks out Seattle power",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5c7a58daf3ae",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/113a870c674c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's \"should have had stock\" remark",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fe2ae921d9",
      "likes": 0,
      "image": ""
     },
@@ -271,19 +279,11 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Trump claims he \"won in Iran\"",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b6f485ef877",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "The transformation as time past",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54173974",
-     "likes": 162,
+     "likes": 189,
      "image": "https://lemmy.world/pictrs/image/52f98f5f-5acb-4fb8-aaba-dcfa2f9de016.png"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Sick society",
      "author": "memes",
      "url": "https://lemmy.world/post/54174121",
-     "likes": 111,
+     "likes": 128,
      "image": "https://lemmy.world/pictrs/image/dac01449-a0db-40d9-b174-fbe2171e3197.png"
     },
     {
@@ -299,7 +299,7 @@
      "text": "IHOP'S DISGUSTING LIES",
      "author": "bunnies",
      "url": "https://lemmy.world/post/54173480",
-     "likes": 127,
+     "likes": 142,
      "image": "https://lemmy.world/pictrs/image/68ccab84-8ed9-4d85-a5a1-b2028b82599e.png"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Apple\u2019s New CEO Is Reportedly Pushing to Stuff More AI into iPhones",
      "author": "Apple",
      "url": "https://lemmus.org/post/26774093",
-     "likes": 55,
+     "likes": 60,
      "image": "https://lemmy.world/pictrs/image/eaddad99-d0f6-4918-9d8a-3558e9f16241.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T02:15:42.469302+00:00",
+   "fetched_at": "2026-11-09T02:45:49.348296+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "When will the little snake arrive? I don't know but he won't be long...",
+     "text": "How many South Americans does it take to change a lightbulb? A Brazilian",
      "source": "Dad joke"
     },
     {
-     "text": "I won an argument with a weather forecaster once. His logic was cloudy...",
+     "text": "A Sandwich walks into a bar, the bartender says \u201cSorry, we don\u2019t serve food here\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "There\u2019s a new type of broom out, it\u2019s sweeping the nation.",
+     "text": "Our wedding was so beautiful, even the cake was in tiers.",
      "source": "Dad joke"
     }
    ]
