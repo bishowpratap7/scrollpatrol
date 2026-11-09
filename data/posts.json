@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T10:18:03.375575+00:00",
+ "generated_at": "2026-11-09T10:48:09.889489+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T10:17:58.392096+00:00",
+   "fetched_at": "2026-11-09T10:48:05.243665+00:00",
    "stale": false,
    "items": [
     {
@@ -53,15 +53,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
-     "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Trans women need to please come up with their own terms for the \"periods\" and \"menstrual cramping \" they experience, because scientifically they are not experiencing what biological women do.",
      "url": "https://www.reddit.com/r/HonestHotTakes/comments/1xrfuyt/trans_women_need_to_please_come_up_with_their_own/",
      "score": 0,
@@ -71,74 +62,90 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xrjzfz/meirl/",
+     "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
+     "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/x0tspqtu1j0i1.jpeg?width=640&crop=smart&auto=webp&s=e8337517ad9537f4015912babbdc73f5f8e5e32f"
+     "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Read",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
+     "title": "University of Mississippi student Jakiyra Metcalf posted a video from her doorbell camera showing three neighboring students making gestures and sounds imitating a monkey - They\u2019ll say I\u2019m race-baiting by posting this and blame the victim in the video as well \ud83d\udc40\ud83d\ude2c",
+     "url": "https://www.reddit.com/r/JoeBuddenPodcasts/comments/1xr3u80/university_of_mississippi_student_jakiyra_metcalf/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
+     "image": "https://external-preview.redd.it/b2FvcDVscmZiZjBpMTWzFA52cKEuBXc22p5EwKlDZSTpyFMNoLgZM_XA_CCJ.png?width=640&crop=smart&auto=webp&s=a0bbbbc2a70fd2856a22e6117a77be3346c27061"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "She was told it\u2019s a quiet zone and proceeds to not be quiet",
+     "url": "https://www.reddit.com/r/cringereels/comments/1xrbkqb/she_was_told_its_a_quiet_zone_and_proceeds_to_not/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/d2trc3VkcGl4ZzBpMbhsY7av20jGkFjOSUx0qYXoipzojt8JTcnuC75Yr2Ob.png?width=320&crop=smart&auto=webp&s=59a95948221a47c824f3b4a667f9c7cc383b3a74"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T10:17:59.732345+00:00",
+   "fetched_at": "2026-11-09T10:48:06.512178+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 38,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "builtABrowserExtensionToCustomizeLeetCodeUI",
-     "image": "https://i.redd.it/mcx0jq5i0c0i1.png",
-     "url": "https://redd.it/1xqrnsm",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 195,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 692,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "frontendAndBackend",
      "image": "https://i.redd.it/4ggbp0gxvszh1.png",
      "url": "https://redd.it/1xojfbi",
-     "ups": 1506,
+     "ups": 1508,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "gettingPromotedFromProgrammerToClaudeDelegator",
      "image": "https://i.redd.it/tx20kggzj9zh1.png",
      "url": "https://redd.it/1xm9d3b",
-     "ups": 1281,
+     "ups": 1278,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "There are two kind of hackers",
-     "image": "https://i.redd.it/wazctxq8xc0i1.png",
-     "url": "https://redd.it/1xqug9s",
-     "ups": 459,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 1862,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 196,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17414,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Hot take: mass murder is bad",
+     "image": "https://i.redd.it/69r5rubtf80i1.png",
+     "url": "https://redd.it/1xqd3gt",
+     "ups": 1175,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Follow rule 2 guys",
+     "image": "https://i.redd.it/q53isefdne0i1.gif",
+     "url": "https://redd.it/1xr0nkx",
+     "ups": 1518,
      "sub": "r/memes"
     },
     {
@@ -149,47 +156,32 @@
      "sub": "r/memes"
     },
     {
-     "title": "Look whose laughing now, Julian! Look whose laughing now!",
-     "image": "https://i.redd.it/szxbfdaxoi0i1.png",
-     "url": "https://redd.it/1xripia",
-     "ups": 33,
+     "title": "Freezes NYC",
+     "image": "https://i.redd.it/q5qpq759d10i1.png",
+     "url": "https://redd.it/1xpkdl7",
+     "ups": 12468,
      "sub": "r/memes"
     },
     {
-     "title": "Ghana Jam!?",
-     "image": "https://i.redd.it/8i42ps5mb90i1.png",
-     "url": "https://redd.it/1xqh7bw",
-     "ups": 134,
+     "title": "There is no conflict like Anakin said.",
+     "image": "https://i.redd.it/m8mwyfylc80i1.png",
+     "url": "https://redd.it/1xqcnbg",
+     "ups": 208,
      "sub": "r/memes"
     },
     {
-     "title": "When I'm in a \u201csounding like a villain competition\u201d",
-     "image": "https://i.redd.it/awimd36kpf0i1.png",
-     "url": "https://redd.it/1xr5rn0",
-     "ups": 662,
-     "sub": "r/memes"
-    },
-    {
-     "title": "13 years of development well spent",
-     "image": "https://i.redd.it/bnahfdubn90i1.png",
-     "url": "https://redd.it/1xqimw0",
-     "ups": 4643,
+     "title": "Movie Enjoyer vs Film Bro vs Cinephile",
+     "image": "https://i.redd.it/dgc0spyu6d0i1.png",
+     "url": "https://redd.it/1xqv9dj",
+     "ups": 15,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T10:18:01.765417+00:00",
+   "fetched_at": "2026-11-09T10:48:08.225601+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "COP31 climate summit in Antalya",
@@ -208,33 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
+     "text": "Ukraine reports daily Russian losses",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -248,6 +224,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Veterans Day observances",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Phil Vischer on God's gender",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6cfed69b85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Backyard bird sightings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Devils sit Hellebuyck in Winnipeg",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Infant vitamin K shot refusals rise",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
@@ -256,100 +264,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "NASA awards Moon Base contracts",
+     "text": "Massie files Hegseth impeachment articles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israel's war in Gaza",
+     "text": "The \"Mamdani lesson\" for Democrats",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump softens immigration tone",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/60c538014d2b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "France: Disinformation networks from Russia, Israel, U.S. blamed immigration for French riots and portrayed authorities as losing control, reports say",
-     "author": "Europe",
-     "url": "https://scribe.disroot.org/post/12372204",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/eeae5ab1-2536-40bd-9b23-4f0284e69f1a.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Asahi Linux Drops MIT and Goes Full GPL After AI Tools Were Used to Steal Unreleased Code",
      "author": "Linux",
      "url": "https://lemmy.ml/post/55094540",
-     "likes": 17,
+     "likes": 36,
      "image": "https://lemmy.world/pictrs/image/5258583e-73d5-4ff3-bbf8-449f0b543965.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "How I feel every time I visit corpo rules",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50274297",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/7c96d005-5fc5-47b5-8f0d-426e0b1e8fa2.webp"
+     "text": "Russell Brand to be sentenced for rape and sexual assault today \u2013 latest updates",
+     "author": "World News",
+     "url": "https://lemmy.dbzer0.com/post/78197091",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/beb0b90a-5126-42ff-a3ca-197bef9503f7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "I'm a fish guy",
-     "author": "unix_surrealism",
-     "url": "https://lemmy.sdf.org/post/61583561",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/2136d536-8ce6-4653-8aa5-a83bc0fa554b.png"
+     "text": "France: Disinformation networks from Russia, Israel, U.S. blamed immigration for French riots and portrayed authorities as losing control, reports say",
+     "author": "World News",
+     "url": "https://scribe.disroot.org/post/12372315",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/e279350a-0024-4555-b352-12773ca4478d.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "ich\ud83d\udca9\u23f0\ud83e\uddfbiel",
+     "author": "ich_iel",
+     "url": "https://feddit.org/post/37800310",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/5200079e-f1a7-4308-a77e-a5a0cf1028fd.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T10:18:02.506126+00:00",
+   "fetched_at": "2026-11-09T10:48:08.834229+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
     {
      "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The shovel was a ground-breaking invention.",
+     "text": "My boss told me to have a good day... so I went home.",
      "source": "Dad joke"
     },
     {
-     "text": "What's large, grey, and doesn't matter?\r\nAn irrelephant.\r\n",
+     "text": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement",
      "source": "Dad joke"
     },
     {
-     "text": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.",
+     "text": "The invention of the wheel was what got things rolling",
      "source": "Dad joke"
     }
    ]
