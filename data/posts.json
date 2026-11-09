@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T06:46:59.468655+00:00",
+ "generated_at": "2026-11-09T07:17:06.339383+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T06:46:53.956874+00:00",
+   "fetched_at": "2026-11-09T07:17:01.367553+00:00",
    "stale": false,
    "items": [
     {
@@ -26,20 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Read",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Bilibili Gaming vs. T1 / World Championship 2026 Knockout Stage - Semi-final / Post-Match Discussion",
      "url": "https://www.reddit.com/r/leagueoflegends/comments/1xreyi4/bilibili_gaming_vs_t1_world_championship_2026/",
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Read",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
     },
     {
      "source": "Reddit",
@@ -80,37 +80,30 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "TIL that Whoopi Goldberg's real name is Caryn Johnson, and she adopted the last name \"Goldberg\" at her mother's suggestion because a Jewish-sounding name gave her a better chance of making it in Hollywood.",
-     "url": "https://www.reddit.com/r/todayilearned/comments/1xre4s7/til_that_whoopi_goldbergs_real_name_is_caryn/",
+     "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
+     "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/6J_5XF8ZQtpC39_IoQIzndqoUPd-41MVM4XPVeq5ImM.jpeg?width=640&crop=smart&auto=webp&s=4490b4f9a53a639f8677a05b32028c8e1832bc46"
+     "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T06:46:55.345038+00:00",
+   "fetched_at": "2026-11-09T07:17:02.776398+00:00",
    "stale": false,
    "items": [
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 11,
+     "title": "itWasJustOneVariable",
+     "image": "https://i.redd.it/1g1ms7yi670i1.png",
+     "url": "https://redd.it/1xq77a7",
+     "ups": 3154,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 170,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 49,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 13,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,38 +114,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1326,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 67,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 37,
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 198,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Q\u012bng gu\u00f3 q\u012bng ch\u00e9ng",
-     "image": "https://i.redd.it/52ttg7pkci0i1.png",
-     "url": "https://redd.it/1xrhesf",
-     "ups": 20,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6670,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Interesting AI",
+     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
+     "url": "https://redd.it/1xrh4wo",
+     "ups": 61,
      "sub": "r/memes"
     },
     {
-     "title": "There are two kind of hackers",
-     "image": "https://i.redd.it/wazctxq8xc0i1.png",
-     "url": "https://redd.it/1xqug9s",
-     "ups": 430,
+     "title": "Follow rule 2 guys",
+     "image": "https://i.redd.it/q53isefdne0i1.gif",
+     "url": "https://redd.it/1xr0nkx",
+     "ups": 1338,
      "sub": "r/memes"
     },
     {
-     "title": "can we have Internet 2 please",
-     "image": "https://i.redd.it/fylqwelmeb0i1.png",
-     "url": "https://redd.it/1xqplc5",
-     "ups": 2784,
+     "title": "~\ud835\udcd1\ud835\udcea\ud835\udcf5\ud835\udcf5\ud835\udcf6\ud835\udcea\ud835\udcfc\ud835\udcfd\ud835\udcfb\ud835\udd03~",
+     "image": "https://i.redd.it/zmyog018xi0i1.gif",
+     "url": "https://redd.it/1xrjjed",
+     "ups": 1,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was a bit of a stubborn ram....",
+     "image": "https://i.redd.it/678z9ebtfi0i1.gif",
+     "url": "https://redd.it/1xrhqvt",
+     "ups": 30,
      "sub": "r/memes"
     },
     {
@@ -163,46 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1162,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Fully automated\u201d apparently means working from home",
-     "image": "https://i.redd.it/nom62xql690i1.png",
-     "url": "https://redd.it/1xqgkec",
-     "ups": 122,
+     "title": "can we have Internet 2 please",
+     "image": "https://i.redd.it/fylqwelmeb0i1.png",
+     "url": "https://redd.it/1xqplc5",
+     "ups": 2784,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T06:46:57.870382+00:00",
+   "fetched_at": "2026-11-09T07:17:05.153408+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Ukraine reports daily Russian losses",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
      "likes": 0,
      "image": ""
     },
@@ -216,33 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Ross Douthat interviews Trump",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13a3a388f77b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Ruin a band by adding a famous person",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Devils sit Hellebuyck in Winnipeg",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +224,57 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "NASA awards Moon Base contracts",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Massie files Hegseth impeachment articles",
+     "text": "Vehicles women actually like meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Shooting reported in Krakow",
+     "text": "Playing Deadlock",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0df2245b26a9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Infant vitamin K shot refusals rise",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israel's war in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Zealand election aftermath",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9957c8606f9b",
      "likes": 0,
      "image": ""
     },
@@ -283,45 +283,57 @@
      "text": "Did somebody say 'RAM' ?",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54183612",
-     "likes": 43,
+     "likes": 75,
      "image": "https://lemmy.world/pictrs/image/f6086e0d-d0cc-49db-a406-8f2d0dcf5f1b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "They only get as big as the container you provide for them.",
-     "author": "cats",
-     "url": "https://lemmy.zip/post/74689187",
-     "likes": 25,
-     "image": "https://lemmy.zip/pictrs/image/7fefd2b7-aebb-4f30-9563-c96bd08a7bdb.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "He is priceless, even without ears!",
      "author": "cats",
      "url": "https://lemmy.zip/post/74689689",
-     "likes": 14,
+     "likes": 36,
      "image": "https://lemmy.zip/pictrs/image/edeaeb36-f76b-448e-85e1-2759fe93054b.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trump Admin Caught Illegally Canceling Billion-Dollar Solar Project That Would Have Helped Lower Utility Bills Across the Country: \"This is a program that has the potential to lower people's bills.\u201d",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54183124",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/ca3492a6-fbfc-4a22-844c-2baf405da30f.jpeg"
+     "text": "Pro gamer move.",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/74689742",
+     "likes": 30,
+     "image": "https://lemmy.zip/pictrs/image/40c9c18f-b860-4c1b-b020-05e8954a8dbe.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "They only get as big as the container you provide for them.",
+     "author": "cats",
+     "url": "https://lemmy.zip/post/74689187",
+     "likes": 51,
+     "image": "https://lemmy.zip/pictrs/image/7fefd2b7-aebb-4f30-9563-c96bd08a7bdb.avif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T06:46:58.690544+00:00",
+   "fetched_at": "2026-11-09T07:17:05.590874+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.",
+     "text": "What do you call an elephant that doesn\u2019t matter? An irrelephant.",
      "source": "Dad joke"
     },
     {
-     "text": "I won an argument with a weather forecaster once. His logic was cloudy...",
+     "text": "What do you call a boy who stopped digging holes? Douglas.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the banana go to the doctor? He was not \"peeling\" well.",
+     "text": "What's blue and not very heavy?  Light blue.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
