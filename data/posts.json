@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-09T12:48:36.270916+00:00",
+ "generated_at": "2026-11-09T13:18:42.868168+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T12:48:31.450530+00:00",
+   "fetched_at": "2026-11-09T13:18:38.106291+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The real secret was inside his jacket \ud83e\udd73",
-     "url": "https://www.reddit.com/r/memes/comments/1xrnfn5/the_real_secret_was_inside_his_jacket/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/5zd3jx0c4k0i1.jpeg?width=640&crop=smart&auto=webp&s=19f2ed742f80d03ef83973ab56bc38e25c81e2fc"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -62,15 +53,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Made with Nvidia",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xrm37s/made_with_nvidia/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/NXlpemJnOHNvajBpMZVGonKpv-jxa1Tbxq0uNX4mDNsVQ1eW2g4z0h0yGtZs.png?width=320&crop=smart&auto=webp&s=7472845e3330f8d97979da1152eea6c3a463f252"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Trans women need to please come up with their own terms for the \"periods\" and \"menstrual cramping \" they experience, because scientifically they are not experiencing what biological women do.",
      "url": "https://www.reddit.com/r/HonestHotTakes/comments/1xrfuyt/trans_women_need_to_please_come_up_with_their_own/",
      "score": 0,
@@ -80,25 +62,36 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "The real secret was inside his jacket \ud83e\udd73",
+     "url": "https://www.reddit.com/r/memes/comments/1xrnfn5/the_real_secret_was_inside_his_jacket/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/5zd3jx0c4k0i1.jpeg?width=640&crop=smart&auto=webp&s=19f2ed742f80d03ef83973ab56bc38e25c81e2fc"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
      "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Elliot Page appreciation post",
+     "url": "https://www.reddit.com/r/okbuddycinephile/comments/1xroci3/elliot_page_appreciation_post/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/k7mr9o9bek0i1.jpeg?width=140&height=93&auto=webp&s=fb618d6a466f9860c47e766cf51e80f406919ac6"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T12:48:32.784907+00:00",
+   "fetched_at": "2026-11-09T13:18:39.454478+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3207,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "noAgentLeftBehind",
      "image": "https://i.redd.it/u12ee97oi10i1.png",
@@ -107,79 +100,86 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 3870,
+     "title": "deepSeekingGoneWrong",
+     "image": "https://i.redd.it/tfihx4k28j0i1.png",
+     "url": "https://redd.it/1xrklrb",
+     "ups": 12348,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "builtABrowserExtensionToCustomizeLeetCodeUI",
-     "image": "https://i.redd.it/mcx0jq5i0c0i1.png",
-     "url": "https://redd.it/1xqrnsm",
-     "ups": 0,
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1513,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 651,
+     "title": "itWasJustOneVariable",
+     "image": "https://i.redd.it/1g1ms7yi670i1.png",
+     "url": "https://redd.it/1xq77a7",
+     "ups": 3207,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1189,
+     "title": "someoneApprovedThisWebsite",
+     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
+     "url": "https://redd.it/1xjedut",
+     "ups": 1213,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "A useful tip",
-     "image": "https://i.redd.it/vndyn61uye0i1.png",
-     "url": "https://redd.it/1xr24iw",
-     "ups": 104,
+     "title": "Q\u012bng gu\u00f3 q\u012bng ch\u00e9ng",
+     "image": "https://i.redd.it/52ttg7pkci0i1.png",
+     "url": "https://redd.it/1xrhesf",
+     "ups": 55,
      "sub": "r/memes"
     },
     {
-     "title": "\"Oh shoot i dont have time to be writing this neat\"",
-     "image": "https://i.redd.it/fhboanga0b0i1.png",
-     "url": "https://redd.it/1xqo4ig",
-     "ups": 63,
+     "title": "Interesting AI",
+     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
+     "url": "https://redd.it/1xrh4wo",
+     "ups": 215,
      "sub": "r/memes"
     },
     {
-     "title": "Follow rule 2 guys",
-     "image": "https://i.redd.it/q53isefdne0i1.gif",
-     "url": "https://redd.it/1xr0nkx",
-     "ups": 1559,
+     "title": "I was a bit of a stubborn ram....",
+     "image": "https://i.redd.it/678z9ebtfi0i1.gif",
+     "url": "https://redd.it/1xrhqvt",
+     "ups": 105,
      "sub": "r/memes"
     },
     {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1180,
+     "title": "Ghana Jam!?",
+     "image": "https://i.redd.it/8i42ps5mb90i1.png",
+     "url": "https://redd.it/1xqh7bw",
+     "ups": 136,
      "sub": "r/memes"
     },
     {
-     "title": "Every restaurant chain meeting in 2026",
-     "image": "https://i.redd.it/7af7whvfu60i1.png",
-     "url": "https://redd.it/1xq5rum",
-     "ups": 585,
+     "title": "There is no conflict like Anakin said.",
+     "image": "https://i.redd.it/m8mwyfylc80i1.png",
+     "url": "https://redd.it/1xqcnbg",
+     "ups": 207,
      "sub": "r/memes"
     },
     {
-     "title": "I wanted to be rich...",
-     "image": "https://i.redd.it/80ewfiiku40i1.gif",
-     "url": "https://redd.it/1xpzbn2",
-     "ups": 2042,
+     "title": "can we have Internet 2 please",
+     "image": "https://i.redd.it/fylqwelmeb0i1.png",
+     "url": "https://redd.it/1xqplc5",
+     "ups": 2988,
      "sub": "r/memes"
+    },
+    {
+     "title": "That's how it works, isn't it?",
+     "image": "https://i.redd.it/tpj9bfxqzszh1.png",
+     "url": "https://redd.it/1xojwv3",
+     "ups": 38,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T12:48:34.873229+00:00",
+   "fetched_at": "2026-11-09T13:18:41.585641+00:00",
    "stale": false,
    "items": [
     {
@@ -187,78 +187,6 @@
      "text": "Ross Douthat interviews Trump",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13a3a388f77b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand verdict",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump's \"should have had stock\" remark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fe2ae921d9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vehicles women actually like meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Infant vitamin K shot refusals rise",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
      "likes": 0,
      "image": ""
     },
@@ -272,93 +200,165 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to replace Schumer and Jeffries",
+     "text": "Russell Brand verdict",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ruin a band by adding a famous person",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Backyard bird sightings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Veterans Day observances",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pope Leo arrives in Argentina",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "BreakingKindSongs daily music prompts",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/adddcb8c3a52",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Infant vitamin K shot refusals rise",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Devils sit Hellebuyck in Winnipeg",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE activity at White Memorial Hospital",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e0a685eda6d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Better yet, put the phone down and go outside for a bit",
+     "author": "196",
+     "url": "https://lemmy.dbzer0.com/post/78201088",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/fb6ffb32-d46d-405b-99e1-1da7aa679e6a.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "Flock, maker of controversial license plate readers, starts to give campaign cash to local politicians",
      "author": "Technology",
      "url": "https://piefed.social/c/technology@lemmy.world/p/2581587/flock-maker-of-controversial-license-plate-readers-starts-to-give-campaign-cash-to-loca",
-     "likes": 29,
+     "likes": 48,
      "image": "https://lemmy.world/pictrs/image/d4c9c072-e75e-478d-88cd-f49cc8074409.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "French police officers face trial over beating of black man not wearing mask during Covid",
-     "author": "World News",
-     "url": "https://sh.itjust.works/post/69655129",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/6e68a5e3-3b99-465d-932b-aa2afb65c9c1.jpeg"
+     "text": "Nithya Raman wants to make Los Angeles a city where you don't need a car to get around",
+     "author": "Fuck Cars",
+     "url": "https://lemmy.world/post/54193530",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/a38a65af-7611-4de1-a4f3-dcb041f30e39.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Good morning, and a special shoutout to all the men with huge, untamed bushes. Have an amazing day!\ud83e\udef6",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54193124",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/9ccc098a-9857-4943-8510-1a3cf33852de.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "MORE OF THIS",
-     "author": "Fuck AI",
-     "url": "https://lemmy.world/post/54191411",
-     "likes": 71,
-     "image": "https://lemmy.world/pictrs/image/d6f73a35-a00a-49cf-b983-da92e63b1592.png"
+     "text": "I've got to socialise today?! Ffs..",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.world/post/54194083",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/870ec564-4a25-4339-920d-cd324a8fa7c8.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T12:48:35.598066+00:00",
+   "fetched_at": "2026-11-09T13:18:42.160723+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
     {
      "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have you heard about the owl sanctuary job opening? It\u2019s all night shifts but they\u2019re all a hoot over there.",
+     "text": "Why was the shirt happy to hang around the tank top? Because it was armless",
      "source": "Dad joke"
     },
     {
-     "text": "Why are fish easy to weigh? Because they have their own scales.",
+     "text": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
      "source": "Dad joke"
     },
     {
-     "text": "They laughed when I said I wanted to be a comedian \u2013 they\u2019re not laughing now.",
+     "text": "Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
