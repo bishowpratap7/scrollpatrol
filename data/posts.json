@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T14:18:56.529340+00:00",
+ "generated_at": "2026-11-09T14:19:13.487459+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T14:18:51.675961+00:00",
+   "fetched_at": "2026-11-09T14:19:08.760490+00:00",
    "stale": false,
    "items": [
     {
@@ -89,21 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T14:18:52.720612+00:00",
+   "fetched_at": "2026-11-09T14:19:10.091023+00:00",
    "stale": false,
    "items": [
     {
-     "title": "someoneApprovedThisWebsite",
-     "image": "https://i.redd.it/z2i8dozaolyh1.gif",
-     "url": "https://redd.it/1xjedut",
-     "ups": 1213,
+     "title": "allIWantForChristmas",
+     "image": "https://i.redd.it/29ms2fp1mj0i1.png",
+     "url": "https://redd.it/1xrlu9q",
+     "ups": 2799,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 543,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 475,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 8910,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,45 +128,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 689,
+     "title": "deepSeekingGoneWrong",
+     "image": "https://i.redd.it/tfihx4k28j0i1.png",
+     "url": "https://redd.it/1xrklrb",
+     "ups": 12348,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 464,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Fascinating",
-     "image": "https://i.redd.it/hcvigeljef0i1.png",
-     "url": "https://redd.it/1xr49r5",
-     "ups": 4910,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1180,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Follow rule 2 guys",
-     "image": "https://i.redd.it/q53isefdne0i1.gif",
-     "url": "https://redd.it/1xr0nkx",
-     "ups": 1605,
+     "title": "There are two kind of hackers",
+     "image": "https://i.redd.it/wazctxq8xc0i1.png",
+     "url": "https://redd.it/1xqug9s",
+     "ups": 478,
      "sub": "r/memes"
     },
     {
@@ -163,23 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "13 years of development well spent",
-     "image": "https://i.redd.it/bnahfdubn90i1.png",
-     "url": "https://redd.it/1xqimw0",
-     "ups": 4736,
+     "title": "Interesting AI",
+     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
+     "url": "https://redd.it/1xrh4wo",
+     "ups": 230,
      "sub": "r/memes"
     },
     {
-     "title": "FWP - Friends with parentheses?",
-     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
-     "url": "https://redd.it/1xq9zg9",
-     "ups": 7578,
+     "title": "Fascinating",
+     "image": "https://i.redd.it/hcvigeljef0i1.png",
+     "url": "https://redd.it/1xr49r5",
+     "ups": 4910,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Introducing AMD InFidelityFX for Jensen",
+     "image": "https://i.redd.it/67v7i0685l0i1.png",
+     "url": "https://redd.it/1xrr4dx",
+     "ups": 19,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I hope this letter finds you well",
+     "image": "https://i.redd.it/9nvy5zda7k0i1.png",
+     "url": "https://redd.it/1xrnp8f",
+     "ups": 257,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T14:18:54.862027+00:00",
+   "fetched_at": "2026-11-09T14:19:12.184891+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "The secret to long life",
      "author": "Gaming",
      "url": "https://lemmy.world/post/54195918",
-     "likes": 62,
+     "likes": 63,
      "image": "https://lemmy.world/pictrs/image/4e666b67-1948-4bd7-87c4-8d7a1878148d.jpeg"
     },
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T14:18:55.459525+00:00",
+   "fetched_at": "2026-11-09T14:19:12.845835+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a guy lying on your doorstep? Matt.",
+     "text": "Someone asked me to name two structures that hold water. I said \"Well dam\"",
      "source": "Dad joke"
     },
     {
-     "text": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
+     "text": "The best time on a clock is 6:30--hands down.",
      "source": "Dad joke"
     },
     {
-     "text": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, \u2018No, just leave it in the carton!\u2019",
+     "text": "It doesn't matter how much you push the envelope. It will still be stationary.",
      "source": "Dad joke"
     }
    ]
