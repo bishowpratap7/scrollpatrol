@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T09:17:50.185546+00:00",
+ "generated_at": "2026-11-09T09:47:56.690648+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T09:17:45.077992+00:00",
+   "fetched_at": "2026-11-09T09:47:51.827077+00:00",
    "stale": false,
    "items": [
     {
@@ -44,20 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Read",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
      "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/AdpZFc83zFgyaA2nM5sUkmYUKIflFJj3CnU_hxq2oaQ.jpeg?width=640&crop=smart&auto=webp&s=04d3b643ca1ae48bafd7abadabd80e694fc4b2e7"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Read",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xrgkjp/read/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/mhm3ehzv4i0i1.jpeg?width=640&crop=smart&auto=webp&s=15a247ad336803c3c9187ffdbc7a44a452a13ed5"
     },
     {
      "source": "Reddit",
@@ -89,28 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T09:17:47.050700+00:00",
+   "fetched_at": "2026-11-09T09:47:52.967216+00:00",
    "stale": false,
    "items": [
     {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 2420,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 67,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7085,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 1804,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 8642,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,6 +114,13 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 3787,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
      "title": "iLoveConst",
      "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
      "url": "https://redd.it/1xpd5m4",
@@ -128,58 +128,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 331,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 38,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "FWP - Friends with parentheses?",
-     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
-     "url": "https://redd.it/1xq9zg9",
-     "ups": 7331,
+     "title": "13 years of development well spent",
+     "image": "https://i.redd.it/bnahfdubn90i1.png",
+     "url": "https://redd.it/1xqimw0",
+     "ups": 4643,
      "sub": "r/memes"
     },
     {
-     "title": "POV: You finally found your cinema partner \ud83c\udf7f",
-     "image": "https://i.redd.it/qnq8yo100c0i1.png",
-     "url": "https://redd.it/1xqrm7m",
-     "ups": 1533,
+     "title": "Hot take: mass murder is bad",
+     "image": "https://i.redd.it/69r5rubtf80i1.png",
+     "url": "https://redd.it/1xqd3gt",
+     "ups": 1175,
+     "sub": "r/memes"
+    },
+    {
+     "title": "'High Fidelity' only applies to real-time ray tracing",
+     "image": "https://i.redd.it/ov3hzq4wij0i1.png",
+     "url": "https://redd.it/1xrlknw",
+     "ups": 33,
      "sub": "r/memes"
     },
     {
      "title": "Fascinating",
      "image": "https://i.redd.it/hcvigeljef0i1.png",
      "url": "https://redd.it/1xr49r5",
-     "ups": 3746,
+     "ups": 4310,
      "sub": "r/memes"
     },
     {
-     "title": "A useful tip",
-     "image": "https://i.redd.it/vndyn61uye0i1.png",
-     "url": "https://redd.it/1xr24iw",
-     "ups": 92,
+     "title": "Movie Enjoyer vs Film Bro vs Cinephile",
+     "image": "https://i.redd.it/dgc0spyu6d0i1.png",
+     "url": "https://redd.it/1xqv9dj",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
-     "title": "I was a bit of a stubborn ram....",
-     "image": "https://i.redd.it/678z9ebtfi0i1.gif",
-     "url": "https://redd.it/1xrhqvt",
-     "ups": 55,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Q\u012bng gu\u00f3 q\u012bng ch\u00e9ng",
-     "image": "https://i.redd.it/52ttg7pkci0i1.png",
-     "url": "https://redd.it/1xrhesf",
-     "ups": 37,
+     "title": "Door Symphony",
+     "image": "https://i.redd.it/x7ut4017w60i1.png",
+     "url": "https://redd.it/1xq5yrs",
+     "ups": 287,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T09:17:48.603025+00:00",
+   "fetched_at": "2026-11-09T09:47:54.977980+00:00",
    "stale": false,
    "items": [
     {
@@ -200,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +216,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Authors share books with newcomers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo arrives in Argentina",
+     "text": "Devils sit Hellebuyck in Winnipeg",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "NASA awards Moon Base contracts",
+     "text": "Phil Vischer on God's gender",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5bc60904b35",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6cfed69b85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Infant vitamin K shot refusals rise",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +272,34 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
+     "text": "Ruin a band by adding a famous person",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I'm a fish guy",
+     "author": "unix_surrealism",
+     "url": "https://lemmy.sdf.org/post/61583561",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/2136d536-8ce6-4653-8aa5-a83bc0fa554b.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "How I feel every time I visit corpo rules",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50274297",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/7c96d005-5fc5-47b5-8f0d-426e0b1e8fa2.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "peak dad",
      "author": "Trans Memes",
      "url": "https://lemmy.blahaj.zone/post/50273264",
-     "likes": 40,
+     "likes": 55,
      "image": "https://lemmy.world/pictrs/image/da881000-8324-4c9b-894f-5f8f3f79f150.webp"
     },
     {
@@ -291,41 +307,33 @@
      "text": "Scientists reveal the Hi",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.today/post/63016080",
-     "likes": 46,
+     "likes": 66,
      "image": "https://lemmy.world/pictrs/image/51255a33-a3e5-4b3a-bd73-e6bd6bbe0362.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "My camping journey, from zero to addict in a few months. First up: Awaji Island, Hyogo",
-     "author": "camping",
-     "url": "https://sh.itjust.works/post/69648566",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/5d717acc-1d86-44d5-8440-b2a2290c3ce6.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Moldova gains economic leverage over breakaway region Transnistria with almost 80 percent of trade destined for EU, creating new opportunities for reintegration",
-     "author": "World News",
-     "url": "https://scribe.disroot.org/post/12371234",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/f1c03a55-8094-4a04-9930-b5ab6b97c394.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T09:17:49.414361+00:00",
+   "fetched_at": "2026-11-09T09:47:55.604083+00:00",
    "stale": false,
    "items": [
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How come a man driving a train got struck by lightning? He was a good conductor.",
+     "text": "What kind of music do planets listen to? Nep-tunes.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a troublesome Canadian high schooler? A poutine.",
+     "text": "What type of music do balloons hate? Pop music!",
      "source": "Dad joke"
     },
     {
-     "text": "What biscuit does a short person like? Shortbread. ",
+     "text": "What's large, grey, and doesn't matter?\r\nAn irrelephant.\r\n",
      "source": "Dad joke"
     }
    ]
