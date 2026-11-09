@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T16:19:38.942802+00:00",
+ "generated_at": "2026-11-09T16:49:44.843279+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T16:19:34.229759+00:00",
+   "fetched_at": "2026-11-09T16:49:40.510556+00:00",
    "stale": false,
    "items": [
     {
@@ -17,20 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xrqyxb/meirl/",
+     "title": "Russell Brand Sentenced To 10 Years In Prison",
+     "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/hdxe52uz3l0i1.jpeg?width=640&crop=smart&auto=webp&s=d98abae96b52a15abdd1e7e50cf88abe522807d0"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "this pickup taking up FOUR parking spaces in a crowded lot",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xr5s42/this_pickup_taking_up_four_parking_spaces_in_a/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/l4o0mnnopf0i1.jpeg?width=640&crop=smart&auto=webp&s=292fadde44eb2aeba4efc1d95413128d6370cc49"
+     "image": "https://external-preview.redd.it/jm01XUxfSCxGKtimqwh1cds4Rjyi72vznvzmtyXDRkE.jpeg?width=640&crop=smart&auto=webp&s=d0aa639661de33fec4a8006c36205386f5e1006f"
     },
     {
      "source": "Reddit",
@@ -44,6 +35,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "100s of people gathered at Millennium Park today to move the iconic Bean 7 inches.",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrr07v/100s_of_people_gathered_at_millennium_park_today/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aGZjY2ZleWI0bDBpMWnOwCRFiRnCsUbCtLHvL_i9liYw9vcxUprfpQmo_4cJ.png?width=320&crop=smart&auto=webp&s=42ee2f0e3606fb354ee7bafc12c78d6c4ff9643a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Corgi escapes during NFL games and embarrasses multiple grown men",
+     "url": "https://www.reddit.com/r/funny/comments/1xrrozn/corgi_escapes_during_nfl_games_and_embarrasses/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bHNoaTdneXo5bDBpMVSHPcD1xGUCneOkSBWyj3NyHtdSj9KQAsLOvF09PgOH.png?width=320&crop=smart&auto=webp&s=476b5c02dc1492e31a7af7d1ad399bc5f76169b9"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Gen Z Spending 87% less and most sober",
      "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrmls0/gen_z_spending_87_less_and_most_sober/",
      "score": 0,
@@ -53,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Russell Brand Sentenced To 10 Years In Prison",
-     "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
+     "title": "Bullish for $APPL \ud83d\ude80",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrpiwg/bullish_for_appl/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/jm01XUxfSCxGKtimqwh1cds4Rjyi72vznvzmtyXDRkE.jpeg?width=640&crop=smart&auto=webp&s=d0aa639661de33fec4a8006c36205386f5e1006f"
+     "image": "https://external-preview.redd.it/YjV6cnhhY3ZwazBpMTYwgI3FIJl2kdaLbZFZpilpJvVCnwjM0i3rnH8aPXE2.png?width=640&crop=smart&auto=webp&s=59eb4602537d8254dc8cc8f4dc4ffad02ed373eb"
     },
     {
      "source": "Reddit",
@@ -76,97 +85,88 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/ZXcwZTRpazF1aDBpMQSUlmpqAd53ItkUtJgI6pL0Z_-C4NccAoe7MpPf74k4.png?width=640&crop=smart&auto=webp&s=73f558a6cc27b9be55d1f7d54b296d43fb140fc5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Bullish for $APPL \ud83d\ude80",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrpiwg/bullish_for_appl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YjV6cnhhY3ZwazBpMTYwgI3FIJl2kdaLbZFZpilpJvVCnwjM0i3rnH8aPXE2.png?width=640&crop=smart&auto=webp&s=59eb4602537d8254dc8cc8f4dc4ffad02ed373eb"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T16:19:35.465500+00:00",
+   "fetched_at": "2026-11-09T16:49:42.648444+00:00",
    "stale": false,
    "items": [
     {
-     "title": "deepSeekingGoneWrong",
-     "image": "https://i.redd.it/tfihx4k28j0i1.png",
-     "url": "https://redd.it/1xrklrb",
-     "ups": 15615,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7223,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 9032,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 545,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "semicolonsInPython",
-     "image": "https://i.redd.it/tk5zhl7uxk0i1.png",
-     "url": "https://redd.it/1xrqajw",
-     "ups": 3558,
+     "title": "unhappyCrustaceans",
+     "image": "https://i.redd.it/dgj598hkm20i1.png",
+     "url": "https://redd.it/1xpqmpe",
+     "ups": 161,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "promptEngineeringIsMyArchitecture",
      "image": "https://i.redd.it/0kl3jadyotzh1.png",
      "url": "https://redd.it/1xonk0a",
-     "ups": 657,
+     "ups": 654,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 347,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 74,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "'High Fidelity' only applies to real-time ray tracing",
-     "image": "https://i.redd.it/ov3hzq4wij0i1.png",
-     "url": "https://redd.it/1xrlknw",
-     "ups": 78,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1285,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 71,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Huang, what did you do!?",
+     "image": "https://i.redd.it/s1znyqaqsl0i1.png",
+     "url": "https://redd.it/1xru9fb",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "13 years of development well spent",
-     "image": "https://i.redd.it/bnahfdubn90i1.png",
-     "url": "https://redd.it/1xqimw0",
-     "ups": 4771,
+     "title": "Just because he CUDA, doesn't mean he should'a",
+     "image": "https://i.redd.it/yf6pwrlmvk0i1.png",
+     "url": "https://redd.it/1xrq1pd",
+     "ups": 25,
      "sub": "r/memes"
     },
     {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1184,
+     "title": "When I'm in a \u201csounding like a villain competition\u201d",
+     "image": "https://i.redd.it/awimd36kpf0i1.png",
+     "url": "https://redd.it/1xr5rn0",
+     "ups": 700,
      "sub": "r/memes"
     },
     {
-     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
-     "image": "https://i.redd.it/bzadue12g60i1.png",
-     "url": "https://redd.it/1xq4cmy",
-     "ups": 3977,
+     "title": "Follow rule 2 guys",
+     "image": "https://i.redd.it/q53isefdne0i1.gif",
+     "url": "https://redd.it/1xr0nkx",
+     "ups": 1622,
      "sub": "r/memes"
     },
     {
-     "title": "I was a bit of a stubborn ram....",
-     "image": "https://i.redd.it/678z9ebtfi0i1.gif",
-     "url": "https://redd.it/1xrhqvt",
-     "ups": 128,
+     "title": "Introducing AMD InFidelityFX for Jensen",
+     "image": "https://i.redd.it/67v7i0685l0i1.png",
+     "url": "https://redd.it/1xrr4dx",
+     "ups": 38,
      "sub": "r/memes"
     },
     {
@@ -179,22 +179,22 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T16:19:37.672763+00:00",
+   "fetched_at": "2026-11-09T16:49:43.713371+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
+     "text": "Democrats' congressional priorities",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Joe Biden's presidential memoir",
+     "text": "Trump softens immigration tone",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7152e9768aa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/60c538014d2b",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Authors share books with newcomers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +232,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "November 9 historical anniversaries",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8794aa8fe4ec",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Backyard bird sightings",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
@@ -248,80 +256,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo arrives in Argentina",
+     "text": "Krakow shooting suspect dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0df2245b26a9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Infant vitamin K shot refusals rise",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
+     "text": "Trump hopes for heaven",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/99a0926d28aa",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "*pop*",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54200967",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/3124521e-1028-4edb-948d-05eeddb746e9.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "So Unfair",
      "author": "memes",
      "url": "https://piefed.world/c/memes/p/1523443/so-unfair",
-     "likes": 122,
+     "likes": 206,
      "image": "https://lemmy.world/pictrs/image/ca7e7139-124c-486c-b82b-79dad02ef972.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Spelling",
-     "author": "Lemmy Shitpost",
-     "url": "https://piefed.zip/c/lemmyshitpost@lemmy.world/p/1982963/spelling",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/d82b2e5f-6f42-438a-b9b7-0fce7d4faf63.jpeg"
+     "text": "I'm a fish guy too.",
+     "author": "Funhole",
+     "url": "https://lemmy.sdf.org/post/61597246",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/f1b1816c-d2f3-45b1-ab59-f7b7d40ced16.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Production life",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63031048",
-     "likes": 108,
-     "image": "https://lemmy.world/pictrs/image/4defd15d-c302-48ea-97bf-b98e92da3339.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Nvidia shares plunge as US tech giant investigates CEO Jensen Huang's affair with suspected Chinese spy",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54198750",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/160f625f-d4ae-4ee8-83b2-8a3c2c97d591.jpeg"
+     "text": "The Case for Centrism Does Not Hold Up",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54201032",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/2924750e-6cc0-413d-a4d1-c8e9cb775d37.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T16:19:38.523278+00:00",
+   "fetched_at": "2026-11-09T16:49:44.414305+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
@@ -329,11 +329,11 @@
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Guy told me today he did not know what cloning is. I told him, \"that makes 2 of us.\"",
+     "text": "Someone asked me to name two structures that hold water. I said \"Well dam\"",
      "source": "Dad joke"
     },
     {
-     "text": "How do you make a water bed more bouncy. You use Spring Water",
+     "text": "Why was ten scared of seven? Because seven ate nine.",
      "source": "Dad joke"
     },
     {
-     "text": "Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.",
+     "text": "What's blue and not very heavy?  Light blue.",
      "source": "Dad joke"
     }
    ]
