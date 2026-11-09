@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-09T15:19:26.054794+00:00",
+ "generated_at": "2026-11-09T15:49:32.700180+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T15:19:21.711370+00:00",
+   "fetched_at": "2026-11-09T15:49:28.093503+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xrqyxb/meirl/",
+     "title": "Do you also still keep the original box your cat came in, or have you thrown it away?",
+     "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xrspth/do_you_also_still_keep_the_original_box_your_cat/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/hdxe52uz3l0i1.jpeg?width=640&crop=smart&auto=webp&s=d98abae96b52a15abdd1e7e50cf88abe522807d0"
+     "image": "https://preview.redd.it/s26mfmcthl0i1.jpeg?width=640&crop=smart&auto=webp&s=bd1ce4fabe6d01b6c916c3d551c433634945fc0b"
     },
     {
      "source": "Reddit",
@@ -35,6 +35,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Gen Z Spending 87% less and most sober",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrmls0/gen_z_spending_87_less_and_most_sober/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/dgff2arruj0i1.jpeg?width=320&crop=smart&auto=webp&s=5b33874e7fce2b8e15b0e45b7b8748ec30579cb9"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xrqyxb/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/hdxe52uz3l0i1.jpeg?width=640&crop=smart&auto=webp&s=d98abae96b52a15abdd1e7e50cf88abe522807d0"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
      "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
      "score": 0,
@@ -49,24 +67,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/YjV6cnhhY3ZwazBpMTYwgI3FIJl2kdaLbZFZpilpJvVCnwjM0i3rnH8aPXE2.png?width=640&crop=smart&auto=webp&s=59eb4602537d8254dc8cc8f4dc4ffad02ed373eb"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Gen Z Spending 87% less and most sober",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrmls0/gen_z_spending_87_less_and_most_sober/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/dgff2arruj0i1.jpeg?width=320&crop=smart&auto=webp&s=5b33874e7fce2b8e15b0e45b7b8748ec30579cb9"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Do you also still keep the original box your cat came in, or have you thrown it away?",
-     "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xrspth/do_you_also_still_keep_the_original_box_your_cat/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/s26mfmcthl0i1.jpeg?width=640&crop=smart&auto=webp&s=bd1ce4fabe6d01b6c916c3d551c433634945fc0b"
     },
     {
      "source": "Reddit",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T15:19:22.952444+00:00",
+   "fetched_at": "2026-11-09T15:49:29.285487+00:00",
    "stale": false,
    "items": [
     {
-     "title": "allIWantForChristmas",
-     "image": "https://i.redd.it/29ms2fp1mj0i1.png",
-     "url": "https://redd.it/1xrlu9q",
-     "ups": 3786,
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17470,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,79 +114,72 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 22624,
+     "title": "allIWantForChristmas",
+     "image": "https://i.redd.it/29ms2fp1mj0i1.png",
+     "url": "https://redd.it/1xrlu9q",
+     "ups": 3786,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 333,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 14,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 347,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 9032,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1283,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Fascinating",
-     "image": "https://i.redd.it/hcvigeljef0i1.png",
-     "url": "https://redd.it/1xr49r5",
-     "ups": 4910,
+     "title": "13 years of development well spent",
+     "image": "https://i.redd.it/bnahfdubn90i1.png",
+     "url": "https://redd.it/1xqimw0",
+     "ups": 4771,
      "sub": "r/memes"
     },
     {
-     "title": "Introducing AMD InFidelityFX for Jensen",
-     "image": "https://i.redd.it/67v7i0685l0i1.png",
-     "url": "https://redd.it/1xrr4dx",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Movie Enjoyer vs Film Bro vs Cinephile",
-     "image": "https://i.redd.it/dgc0spyu6d0i1.png",
-     "url": "https://redd.it/1xqv9dj",
-     "ups": 15,
-     "sub": "r/memes"
-    },
-    {
-     "title": "it hurts \ud83e\udd40",
-     "image": "https://i.redd.it/yntzhoh1rk0i1.png",
-     "url": "https://redd.it/1xrpk2r",
-     "ups": 31,
+     "title": "can we have Internet 2 please",
+     "image": "https://i.redd.it/fylqwelmeb0i1.png",
+     "url": "https://redd.it/1xqplc5",
+     "ups": 3050,
      "sub": "r/memes"
     },
     {
      "title": "There are two kind of hackers",
      "image": "https://i.redd.it/wazctxq8xc0i1.png",
      "url": "https://redd.it/1xqug9s",
-     "ups": 478,
+     "ups": 479,
      "sub": "r/memes"
     },
     {
-     "title": "When I'm in a \u201csounding like a villain competition\u201d",
-     "image": "https://i.redd.it/awimd36kpf0i1.png",
-     "url": "https://redd.it/1xr5rn0",
-     "ups": 690,
+     "title": "A useful tip",
+     "image": "https://i.redd.it/vndyn61uye0i1.png",
+     "url": "https://redd.it/1xr24iw",
+     "ups": 112,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Look whose laughing now, Julian! Look whose laughing now!",
+     "image": "https://i.redd.it/szxbfdaxoi0i1.png",
+     "url": "https://redd.it/1xripia",
+     "ups": 89,
+     "sub": "r/memes"
+    },
+    {
+     "title": "POV: You finally found your cinema partner \ud83c\udf7f",
+     "image": "https://i.redd.it/qnq8yo100c0i1.png",
+     "url": "https://redd.it/1xqrm7m",
+     "ups": 1593,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T15:19:25.140629+00:00",
+   "fetched_at": "2026-11-09T15:49:31.461500+00:00",
    "stale": false,
    "items": [
     {
@@ -192,23 +192,23 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump softens immigration tone",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/60c538014d2b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
+     "text": "Trump hopes for heaven",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/99a0926d28aa",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand court case",
+     "text": "Russell Brand allegations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
      "likes": 0,
@@ -216,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +232,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Veterans Day observances",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bonfire Night fireworks across UK",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/080ac78d753b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Backyard bird sightings",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
@@ -240,100 +264,64 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Authors share books with newcomers",
+     "text": "Midterm election race results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4d185ded6f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo arrives in Argentina",
+     "text": "Joe Biden's presidential memoir",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Infant vitamin K shot refusals rise",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ross Douthat interviews Trump",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13a3a388f77b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "House to vote on Hegseth impeachment",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7152e9768aa",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "MORE",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/76326030",
-     "likes": 51,
-     "image": "https://lemmy.world/pictrs/image/2f420a56-2090-4791-a6db-2d9fe0e1aa88.jpeg"
+     "text": "Production life",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63031048",
+     "likes": 58,
+     "image": "https://lemmy.world/pictrs/image/4defd15d-c302-48ea-97bf-b98e92da3339.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assaults",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54197566",
-     "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/ebfaaacc-b48d-4e15-bed3-32a977620d55.jpeg"
+     "text": "So Unfair",
+     "author": "memes",
+     "url": "https://piefed.world/c/memes/p/1523443/so-unfair",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/ca7e7139-124c-486c-b82b-79dad02ef972.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Found my calling",
-     "author": "History Memes",
-     "url": "https://reddthat.com/post/76326085",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/595e5505-5571-41cf-b829-7f469f18f6b6.jpeg"
+     "text": "Nanny State",
+     "author": "Lemmy Shitpost",
+     "url": "https://sh.itjust.works/post/69661851",
+     "likes": 55,
+     "image": "https://lemmy.world/pictrs/image/34bde0ef-31b7-46fa-84ed-87989be64d98.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Friendship [SMBC]",
-     "author": "Comic Strips",
-     "url": "https://discuss.online/post/48203011",
-     "likes": 147,
-     "image": "https://lemmy.world/pictrs/image/883a4f24-2e64-473e-8620-23a8835bfcfb.png"
+     "text": "Nvidia shares plunge as US tech giant investigates CEO Jensen Huang's affair with suspected Chinese spy",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54198750",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/160f625f-d4ae-4ee8-83b2-8a3c2c97d591.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T15:19:25.683162+00:00",
+   "fetched_at": "2026-11-09T15:49:32.354580+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "I wish I could clean mirrors for a living. It's just something I can see myself doing.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why did the sentence fail the driving test? It never came to a full stop.",
      "source": "Dad joke"
     },
     {
-     "text": "What does a pirate pay for his corn? A buccaneer!",
+     "text": "An apple a day keeps the bullies away. If you throw it hard enough.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a nervous javelin thrower? Shakespeare.",
+     "text": "Which is the fastest growing city in the world? Dublin'",
      "source": "Dad joke"
     }
    ]
