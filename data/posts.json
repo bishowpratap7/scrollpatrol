@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T09:17:34.023406+00:00",
+ "generated_at": "2026-11-09T09:17:50.185546+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T09:17:28.958150+00:00",
+   "fetched_at": "2026-11-09T09:17:45.077992+00:00",
    "stale": false,
    "items": [
     {
@@ -89,9 +89,37 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T09:17:30.344084+00:00",
+   "fetched_at": "2026-11-09T09:17:47.050700+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 2420,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7085,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 1804,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 195,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "iLoveConst",
      "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
@@ -100,73 +128,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1506,
+     "title": "tryHackMeKindaUnseriousNow",
+     "image": "https://i.redd.it/bggqfn70jlzh1.png",
+     "url": "https://redd.it/1xnnyjx",
+     "ups": 331,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCompilerBugs",
-     "image": "https://i.redd.it/xhu7nnbhkryh1.png",
-     "url": "https://redd.it/1xk4xh6",
-     "ups": 34,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "sometimesIFeelSoSorryForAiUsersHandcraftetGithubMeme",
-     "image": "https://i.redd.it/2v3xj0koi6zh1.png",
-     "url": "https://redd.it/1xlu08b",
-     "ups": 7,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 67,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "13 years of development well spent",
-     "image": "https://i.redd.it/bnahfdubn90i1.png",
-     "url": "https://redd.it/1xqimw0",
-     "ups": 4595,
+     "title": "FWP - Friends with parentheses?",
+     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
+     "url": "https://redd.it/1xq9zg9",
+     "ups": 7331,
      "sub": "r/memes"
     },
     {
-     "title": "Ghana Jam!?",
-     "image": "https://i.redd.it/8i42ps5mb90i1.png",
-     "url": "https://redd.it/1xqh7bw",
-     "ups": 136,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I wanted to be rich...",
-     "image": "https://i.redd.it/80ewfiiku40i1.gif",
-     "url": "https://redd.it/1xpzbn2",
-     "ups": 2040,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Freezes NYC",
-     "image": "https://i.redd.it/q5qpq759d10i1.png",
-     "url": "https://redd.it/1xpkdl7",
-     "ups": 12338,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Cyberpunk Edgerunners",
-     "image": "https://i.redd.it/nmqtvf0e040i1.gif",
-     "url": "https://redd.it/1xpwaes",
-     "ups": 1512,
+     "title": "POV: You finally found your cinema partner \ud83c\udf7f",
+     "image": "https://i.redd.it/qnq8yo100c0i1.png",
+     "url": "https://redd.it/1xqrm7m",
+     "ups": 1533,
      "sub": "r/memes"
     },
     {
@@ -175,11 +154,32 @@
      "url": "https://redd.it/1xr49r5",
      "ups": 3746,
      "sub": "r/memes"
+    },
+    {
+     "title": "A useful tip",
+     "image": "https://i.redd.it/vndyn61uye0i1.png",
+     "url": "https://redd.it/1xr24iw",
+     "ups": 92,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was a bit of a stubborn ram....",
+     "image": "https://i.redd.it/678z9ebtfi0i1.gif",
+     "url": "https://redd.it/1xrhqvt",
+     "ups": 55,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Q\u012bng gu\u00f3 q\u012bng ch\u00e9ng",
+     "image": "https://i.redd.it/52ttg7pkci0i1.png",
+     "url": "https://redd.it/1xrhesf",
+     "ups": 37,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T09:17:32.684028+00:00",
+   "fetched_at": "2026-11-09T09:17:48.603025+00:00",
    "stale": false,
    "items": [
     {
@@ -313,11 +313,23 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T09:17:33.252849+00:00",
+   "fetched_at": "2026-11-09T09:17:49.414361+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What do birds give out on Halloween? Tweets.",
+     "text": "How come a man driving a train got struck by lightning? He was a good conductor.",
      "source": "Dad joke"
     },
     {
-     "text": "A cannibal is someone who is fed up with people.",
+     "text": "What do you call a troublesome Canadian high schooler? A poutine.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.",
+     "text": "What biscuit does a short person like? Shortbread. ",
      "source": "Dad joke"
     }
    ]
