@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T11:18:16.223244+00:00",
+ "generated_at": "2026-11-09T11:48:23.034008+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-09T11:18:11.774454+00:00",
+   "fetched_at": "2026-11-09T11:48:17.951019+00:00",
    "stale": false,
    "items": [
     {
@@ -44,6 +44,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Trans women need to please come up with their own terms for the \"periods\" and \"menstrual cramping \" they experience, because scientifically they are not experiencing what biological women do.",
+     "url": "https://www.reddit.com/r/HonestHotTakes/comments/1xrfuyt/trans_women_need_to_please_come_up_with_their_own/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Last thing Jensen saw before personally offering Xi the Blackwell source code",
      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xrn3g6/last_thing_jensen_saw_before_personally_offering/",
      "score": 0,
@@ -53,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Trans women need to please come up with their own terms for the \"periods\" and \"menstrual cramping \" they experience, because scientifically they are not experiencing what biological women do.",
-     "url": "https://www.reddit.com/r/HonestHotTakes/comments/1xrfuyt/trans_women_need_to_please_come_up_with_their_own/",
+     "title": "Made with Nvidia",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xrm37s/made_with_nvidia/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/NXlpemJnOHNvajBpMZVGonKpv-jxa1Tbxq0uNX4mDNsVQ1eW2g4z0h0yGtZs.png?width=320&crop=smart&auto=webp&s=7472845e3330f8d97979da1152eea6c3a463f252"
     },
     {
      "source": "Reddit",
@@ -76,27 +85,46 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/b2FvcDVscmZiZjBpMTWzFA52cKEuBXc22p5EwKlDZSTpyFMNoLgZM_XA_CCJ.png?width=640&crop=smart&auto=webp&s=a0bbbbc2a70fd2856a22e6117a77be3346c27061"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Made with Nvidia",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xrm37s/made_with_nvidia/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/NXlpemJnOHNvajBpMZVGonKpv-jxa1Tbxq0uNX4mDNsVQ1eW2g4z0h0yGtZs.png?width=320&crop=smart&auto=webp&s=7472845e3330f8d97979da1152eea6c3a463f252"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-09T11:18:12.849431+00:00",
+   "fetched_at": "2026-11-09T11:48:19.245649+00:00",
    "stale": false,
    "items": [
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 460,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 22,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1462,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 52,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "mySoftwareJustGotRecruitedIntoACollegeBasketballTeam",
+     "image": "https://i.redd.it/yxf6tvnmupyh1.png",
+     "url": "https://redd.it/1xjyyyn",
+     "ups": 464,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 198,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,79 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2300,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 2425,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "deepSeekingGoneWrong",
-     "image": "https://i.redd.it/tfihx4k28j0i1.png",
-     "url": "https://redd.it/1xrklrb",
-     "ups": 9136,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 82,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Fully automated\u201d apparently means working from home",
-     "image": "https://i.redd.it/nom62xql690i1.png",
-     "url": "https://redd.it/1xqgkec",
-     "ups": 130,
+     "title": "Movie Enjoyer vs Film Bro vs Cinephile",
+     "image": "https://i.redd.it/dgc0spyu6d0i1.png",
+     "url": "https://redd.it/1xqv9dj",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "There is no conflict like Anakin said.",
-     "image": "https://i.redd.it/m8mwyfylc80i1.png",
-     "url": "https://redd.it/1xqcnbg",
-     "ups": 208,
+     "title": "\"Oh shoot i dont have time to be writing this neat\"",
+     "image": "https://i.redd.it/fhboanga0b0i1.png",
+     "url": "https://redd.it/1xqo4ig",
+     "ups": 63,
      "sub": "r/memes"
     },
     {
-     "title": "Swoozie, let's break up",
-     "image": "https://i.redd.it/g0bqjbwwx20i1.gif",
-     "url": "https://redd.it/1xprxm7",
-     "ups": 7093,
+     "title": "From a global allocation perspective... GIVE US THE PRECIOUS :D",
+     "image": "https://i.redd.it/bzadue12g60i1.png",
+     "url": "https://redd.it/1xq4cmy",
+     "ups": 3959,
      "sub": "r/memes"
     },
     {
-     "title": "Every restaurant chain meeting in 2026",
-     "image": "https://i.redd.it/7af7whvfu60i1.png",
-     "url": "https://redd.it/1xq5rum",
-     "ups": 584,
+     "title": "POV: You finally found your cinema partner \ud83c\udf7f",
+     "image": "https://i.redd.it/qnq8yo100c0i1.png",
+     "url": "https://redd.it/1xqrm7m",
+     "ups": 1579,
      "sub": "r/memes"
     },
     {
-     "title": "Freezes NYC",
-     "image": "https://i.redd.it/q5qpq759d10i1.png",
-     "url": "https://redd.it/1xpkdl7",
-     "ups": 12468,
+     "title": "There are two kind of hackers",
+     "image": "https://i.redd.it/wazctxq8xc0i1.png",
+     "url": "https://redd.it/1xqug9s",
+     "ups": 468,
      "sub": "r/memes"
     },
     {
-     "title": "Hot take: mass murder is bad",
-     "image": "https://i.redd.it/69r5rubtf80i1.png",
-     "url": "https://redd.it/1xqd3gt",
-     "ups": 1175,
+     "title": "FWP - Friends with parentheses?",
+     "image": "https://i.redd.it/nqpoo9kcs70i1.gif",
+     "url": "https://redd.it/1xq9zg9",
+     "ups": 7518,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-09T11:18:14.534666+00:00",
+   "fetched_at": "2026-11-09T11:48:21.138256+00:00",
    "stale": false,
    "items": [
     {
@@ -187,78 +187,6 @@
      "text": "Russell Brand verdict",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ruin a band by adding a famous person",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eee80a547e3d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pope Leo arrives in Argentina",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Backyard bird sightings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Infant vitamin K shot refusals rise",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +200,81 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Massie files Hegseth impeachment articles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Trump's \"different shaped Ukraine\" remark",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ruin a band by adding a famous person",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5bbfa967d85e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bonfire Night fireworks across UK",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/080ac78d753b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Authors share books with newcomers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Veterans Day observances",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Infant vitamin K shot refusals rise",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9563d070fe4e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Devils sit Hellebuyck in Winnipeg",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a188b4e1a3dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israel's war in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Push to replace Schumer and Jeffries",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "NVIDIA CEO cheated on his wife with a Chinese model",
      "author": "LocalLLaMA",
      "url": "https://discuss.tchncs.de/post/70603807",
-     "likes": 15,
+     "likes": 49,
      "image": "https://lemmy.world/pictrs/image/26fef1b9-d64e-4104-85b1-f34beb48652a.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "French police officers face trial over beating of black man they accused of not wearing Covid face mask",
-     "author": "World News",
-     "url": "https://sh.itjust.works/post/69652094",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/0e7edf72-4b14-40f5-80f5-c08dcd8ef756.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Okay Mastodon do your thing, I need a version of this for book snobs \ud83d\ude02",
-     "author": "Humor",
-     "url": "https://mastodon.art/users/NickEast_IndieWriter/statuses/117586061787076481",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/aaf420d9-13be-4af4-b6cd-c0e43ceb794f.jpeg"
+     "text": "MORE OF THIS",
+     "author": "Fuck AI",
+     "url": "https://lemmy.world/post/54191411",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/d6f73a35-a00a-49cf-b983-da92e63b1592.png"
     },
     {
      "kind": "Lemmy post",
      "text": "mark \ud83d\udc4fthe \ud83d\udc4f vans \ud83d\udc4f",
      "author": "Flippanarchy",
      "url": "https://lemmy.dbzer0.com/post/78197683",
-     "likes": 12,
+     "likes": 32,
      "image": "https://lemmy.world/pictrs/image/89e33279-f6c9-4f01-a176-30b8b1c546eb.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "French police officers face trial over beating of black man they accused of not wearing Covid face mask",
+     "author": "World News",
+     "url": "https://sh.itjust.works/post/69652094",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/0e7edf72-4b14-40f5-80f5-c08dcd8ef756.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-09T11:18:15.493876+00:00",
+   "fetched_at": "2026-11-09T11:48:21.994484+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "source": "Programming joke"
+    },
     {
      "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
+     "text": "Why do mathematicians hate the U.S.? Because it's indivisible.",
      "source": "Dad joke"
     },
     {
-     "text": "The shovel was a ground-breaking invention.",
+     "text": "What did the shy pebble wish for? That she was a little boulder.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was the robot angry? Because someone kept pressing his buttons!",
+     "text": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
      "source": "Dad joke"
     }
    ]
