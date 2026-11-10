@@ -1,46 +1,10 @@
 {
- "generated_at": "2026-11-10T02:52:23.338912+00:00",
+ "generated_at": "2026-11-10T03:22:32.601597+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T02:52:18.308678+00:00",
+   "fetched_at": "2026-11-10T03:22:25.003742+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xs6vc6/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/7p2vk5n85o0i1.jpeg?width=640&crop=smart&auto=webp&s=dd55fd927c8543a032a3b2c4d53cf0a0c7d673d5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "DC Shocker: James Gunn, Peter Safran Out as Co-Presidents, Jeremy Latcham to Lead Comic Book Studio",
-     "url": "https://www.reddit.com/r/DC_Cinematic/comments/1xrxjwy/dc_shocker_james_gunn_peter_safran_out_as/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/aaoyxicbem0i1.jpeg?width=640&crop=smart&auto=webp&s=6d6af476e5a8e09001a1e62c79d2c80c89bbc765"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Gen Z Spending 87% less and most sober",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrmls0/gen_z_spending_87_less_and_most_sober/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/dgff2arruj0i1.jpeg?width=320&crop=smart&auto=webp&s=5b33874e7fce2b8e15b0e45b7b8748ec30579cb9"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Emilia Clarke survived 2 brain aneurysms during her time on GOT. In 2011 she got a subarachnoid hemorrhage from a ruptured aneurysm (1/3 of people die almost instantly). In 2013 she needed 2 surgeries for an aneurysm that had doubled in size. She then started SameYou, a brain injury recovery charity",
-     "url": "https://www.reddit.com/r/interesting/comments/1xs6i1c/emilia_clarke_survived_2_brain_aneurysms_during/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/hqplv5bb2o0i1.jpeg?width=640&crop=smart&auto=webp&s=82e9c3307c4828c61ad1a8c4a6ac3c48e2254e63"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -49,15 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/MWR0eXhtNjF5bzBpMTu9kawtZdw69GWKaq0xIArdo4FdfLLU7q4X8POTUnw0.jpeg?width=640&crop=smart&auto=webp&s=e93d5a7da2006c99fd1920c4e22d4357c48daa81"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Bad Alcohol Advice",
-     "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1xs90xm/bad_alcohol_advice/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/q7wogbrulo0i1.jpeg?width=640&crop=smart&auto=webp&s=baf2954ea774bc8d122857513e6fa0f9c357d053"
     },
     {
      "source": "Reddit",
@@ -71,11 +26,47 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Say hello to Starbuck's New Braised Short Rib Grilled Cheese",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xrv3bd/say_hello_to_starbucks_new_braised_short_rib/",
+     "title": "Gen Z Spending 87% less and most sober",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrmls0/gen_z_spending_87_less_and_most_sober/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/o6qfyyc5yl0i1.jpeg?width=320&crop=smart&auto=webp&s=fc559abd05afdb08f5dd4027f7c48c9195dc7d76"
+     "image": "https://preview.redd.it/dgff2arruj0i1.jpeg?width=320&crop=smart&auto=webp&s=5b33874e7fce2b8e15b0e45b7b8748ec30579cb9"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xs6vc6/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/7p2vk5n85o0i1.jpeg?width=640&crop=smart&auto=webp&s=dd55fd927c8543a032a3b2c4d53cf0a0c7d673d5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Emilia Clarke survived 2 brain aneurysms during her time on GOT. In 2011 she got a subarachnoid hemorrhage from a ruptured aneurysm (1/3 of people die almost instantly). In 2013 she needed 2 surgeries for an aneurysm that had doubled in size. She then started SameYou, a brain injury recovery charity",
+     "url": "https://www.reddit.com/r/interesting/comments/1xs6i1c/emilia_clarke_survived_2_brain_aneurysms_during/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/hqplv5bb2o0i1.jpeg?width=640&crop=smart&auto=webp&s=82e9c3307c4828c61ad1a8c4a6ac3c48e2254e63"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Bad Alcohol Advice",
+     "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1xs90xm/bad_alcohol_advice/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/q7wogbrulo0i1.jpeg?width=640&crop=smart&auto=webp&s=baf2954ea774bc8d122857513e6fa0f9c357d053"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "DC Shocker: James Gunn, Peter Safran Out as Co-Presidents, Jeremy Latcham to Lead Comic Book Studio",
+     "url": "https://www.reddit.com/r/DC_Cinematic/comments/1xrxjwy/dc_shocker_james_gunn_peter_safran_out_as/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/aaoyxicbem0i1.jpeg?width=640&crop=smart&auto=webp&s=6d6af476e5a8e09001a1e62c79d2c80c89bbc765"
     },
     {
      "source": "Reddit",
@@ -85,34 +76,22 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, CNN projects",
+     "url": "https://www.reddit.com/r/politics/comments/1xs2g0q/gop_rep_lauren_boebert_will_lose_reelection_to/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/-i-ORzlAMiIlm25mLfHEfgvmNCBdn4zeXE278X_h1rs.jpeg?width=640&crop=smart&auto=webp&s=75bb0a902e61833325366e9bb17f57cede5bdd2a"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T02:52:19.504972+00:00",
+   "fetched_at": "2026-11-10T03:22:26.303791+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1482,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7319,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "chancesAreLowButNeverZero",
      "image": "https://i.redd.it/230tjjlzxm0i1.png",
@@ -121,45 +100,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 113,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 696,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 345,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2313,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "That's me!",
-     "image": "https://i.redd.it/h32y9k3tln0i1.png",
-     "url": "https://redd.it/1xs4721",
-     "ups": 3,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 71,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 661,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 203,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Look whose laughing now, Julian! Look whose laughing now!",
+     "image": "https://i.redd.it/szxbfdaxoi0i1.png",
+     "url": "https://redd.it/1xripia",
+     "ups": 117,
      "sub": "r/memes"
     },
     {
-     "title": "I was a bit of a stubborn ram....",
-     "image": "https://i.redd.it/678z9ebtfi0i1.gif",
-     "url": "https://redd.it/1xrhqvt",
-     "ups": 147,
+     "title": "Which one first?",
+     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
+     "url": "https://redd.it/1xrt7ad",
+     "ups": 221,
      "sub": "r/memes"
     },
     {
-     "title": "CCP Honeypot got me acting unwise",
-     "image": "https://i.redd.it/1idjzerhun0i1.png",
-     "url": "https://redd.it/1xs5eaw",
-     "ups": 12,
+     "title": "Jensen Huang falling for a Chinese Spy",
+     "image": "https://i.redd.it/fv8lkd76yn0i1.png",
+     "url": "https://redd.it/1xs5wgd",
+     "ups": 1742,
      "sub": "r/memes"
     },
     {
-     "title": "Interesting AI",
-     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
-     "url": "https://redd.it/1xrh4wo",
-     "ups": 260,
+     "title": "The best discoveries are accidental",
+     "image": "https://i.redd.it/aeeureujjm0i1.png",
+     "url": "https://redd.it/1xryc3o",
+     "ups": 10,
      "sub": "r/memes"
     },
     {
@@ -170,31 +170,31 @@
      "sub": "r/memes"
     },
     {
-     "title": "Which one first?",
-     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
-     "url": "https://redd.it/1xrt7ad",
-     "ups": 221,
+     "title": "'High Fidelity' only applies to real-time ray tracing",
+     "image": "https://i.redd.it/ov3hzq4wij0i1.png",
+     "url": "https://redd.it/1xrlknw",
+     "ups": 96,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T02:52:21.844080+00:00",
+   "fetched_at": "2026-11-10T03:22:29.267199+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election race results",
+     "text": "California votes on billionaire tax",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4d185ded6f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth blocks officer promotions",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "The spy who could bring you down",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Vikings vs. Bills",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/085da988a5cf",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "'Who's really running your Bluesky' meme",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
@@ -232,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vikings vs. Bills",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/085da988a5cf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo arrives in Argentina",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Carl Sagan Day",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/347f86d7e7fe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "California votes on billionaire tax",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
      "likes": 0,
      "image": ""
     },
@@ -279,41 +271,49 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Water conservation",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63054252",
-     "likes": 350,
-     "image": "https://lemmy.world/pictrs/image/b997a03e-3608-4423-b43f-68afa931ed91.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Massie files Hegseth impeachment articles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "We're still mad",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63054255",
-     "likes": 365,
-     "image": "https://lemmy.world/pictrs/image/97307c8d-5211-4459-a6a8-da5671b4fc46.jpeg"
+     "text": "Jake Lang and his hunt for furries",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54220591",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/b33a11f2-c23f-4983-9ad6-efe62c9424df.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "First steak I cooked. Marinated in bolgogi sauce. How is this more tender and better than any restaurant steak I had",
-     "author": "Dull Men's Club",
-     "url": "https://lemmy.world/post/54215955",
-     "likes": 69,
-     "image": "https://lemmy.world/pictrs/image/484338f6-c82c-496b-8dce-e56e952b6823.jpeg"
+     "text": "it's just not my rule",
+     "author": "196",
+     "url": "https://sh.itjust.works/post/69690028",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/3e7cde4a-28b5-433c-9ef8-75c63bfd8fc4.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The jacket stays on",
-     "author": "memes",
-     "url": "https://lemmy.world/post/54215471",
-     "likes": 190,
-     "image": "https://lemmy.world/pictrs/image/f4c1ec4e-45f9-46d8-9c78-f3c2b4ba9ee9.jpeg"
+     "text": "My first",
+     "author": "Political Memes",
+     "url": "https://lemmy.zip/post/74738919",
+     "likes": 29,
+     "image": "https://lemmy.zip/pictrs/image/0c5bd134-22d5-4fca-aace-695d1aeca446.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Van Hollen open to challenging Schumer for Senate majority leader",
+     "author": "News",
+     "url": "https://lemmy.world/post/54220715",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/54512532-267e-4269-a746-63ea1708f0e2.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T02:52:22.669509+00:00",
+   "fetched_at": "2026-11-10T03:22:31.978899+00:00",
    "stale": false,
    "items": [
     {
@@ -321,44 +321,44 @@
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you get two whales in a car? Start in England and drive West.",
+     "text": "What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.",
      "source": "Dad joke"
     },
     {
-     "text": "It's only a murder of crows if there's probable caws.",
+     "text": "I\u2019ve just been reading a book about anti-gravity, it\u2019s impossible to put down!",
      "source": "Dad joke"
     },
     {
-     "text": "Where does astronauts hangout after work? At the spacebar.",
+     "text": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
