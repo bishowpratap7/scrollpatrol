@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-10T13:25:40.108917+00:00",
+ "generated_at": "2026-11-10T13:55:46.964307+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T13:25:36.152480+00:00",
+   "fetched_at": "2026-11-10T13:55:41.904393+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "No one gets left behind!",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xsjb5x/no_one_gets_left_behind/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZWdkbzE2ZjhncjBpMaNXJMpkXc3XUMOQtGOpKLMdut7k6OlRTVSi7k6BAUpK.jpeg?width=320&crop=smart&auto=webp&s=0b19299c6dc94010e69fa5660048503a10cbff33"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,42 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/YmQzN3dxbWJtbzBpMVeKKvFCf3I213EjJ0kgeDi20_hz7PmPMCLRrtU6T-aM.png?width=320&crop=smart&auto=webp&s=63740cfaa7056d19e7d9768bbd1fe9559d55fb22"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xsicqp/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/i0d2uygd5r0i1.jpeg?width=640&crop=smart&auto=webp&s=127ce3c8b15bd71090fb1eb28dceaf80d19db13d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "DC Shocker: James Gunn, Peter Safran Out as Co-Presidents, Jeremy Latcham to Lead Comic Book Studio",
-     "url": "https://www.reddit.com/r/DC_Cinematic/comments/1xrxjwy/dc_shocker_james_gunn_peter_safran_out_as/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/aaoyxicbem0i1.jpeg?width=640&crop=smart&auto=webp&s=6d6af476e5a8e09001a1e62c79d2c80c89bbc765"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The kids got too jacked.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xrxfyb/the_kids_got_too_jacked/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/5c3hah1odm0i1.png?width=640&crop=smart&auto=webp&s=602108c52f56ac4cd32995fade3a69e10a662da3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I HATE it when Youtube says youve watched a video you've never seen",
-     "url": "https://www.reddit.com/r/hatethissmug/comments/1xskeux/i_hate_it_when_youtube_says_youve_watched_a_video/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/3uo5var1sr0i1.png?width=320&crop=smart&auto=webp&s=9c94b92d344c360f46b33e358fc37a371f5ad5c4"
     },
     {
      "source": "Reddit",
@@ -71,11 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "How do you feel about NewYork introducing a bill to ban former ICE agents from serving as police officers or teachers?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xsg0uh/how_do_you_feel_about_newyork_introducing_a_bill/",
+     "title": "The kids got too jacked.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xrxfyb/the_kids_got_too_jacked/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/5c3hah1odm0i1.png?width=640&crop=smart&auto=webp&s=602108c52f56ac4cd32995fade3a69e10a662da3"
     },
     {
      "source": "Reddit",
@@ -85,39 +40,70 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/jm01XUxfSCxGKtimqwh1cds4Rjyi72vznvzmtyXDRkE.jpeg?width=640&crop=smart&auto=webp&s=d0aa639661de33fec4a8006c36205386f5e1006f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "No one gets left behind!",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xsjb5x/no_one_gets_left_behind/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZWdkbzE2ZjhncjBpMaNXJMpkXc3XUMOQtGOpKLMdut7k6OlRTVSi7k6BAUpK.jpeg?width=320&crop=smart&auto=webp&s=0b19299c6dc94010e69fa5660048503a10cbff33"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xsicqp/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/i0d2uygd5r0i1.jpeg?width=640&crop=smart&auto=webp&s=127ce3c8b15bd71090fb1eb28dceaf80d19db13d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Will she, won't she?",
+     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xrwy7d/will_she_wont_she/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/pkwiqaxiam0i1.jpeg?width=640&crop=smart&auto=webp&s=45199f1f27ff59857758a105f6ae1d395504bf0b"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What is this bag found by police in my deceased dads home",
+     "url": "https://www.reddit.com/r/whatisit/comments/1xs8q5i/what_is_this_bag_found_by_police_in_my_deceased/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/fp007infjo0i1.jpeg?width=640&crop=smart&auto=webp&s=49e30ae4dbf1bffdaa395ed33bf84f6b8e533ea8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The way this coworker decorates her cubicle compared to the rest of the office",
+     "url": "https://www.reddit.com/r/pics/comments/1xrtsiz/the_way_this_coworker_decorates_her_cubicle/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/qo81j84kpl0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=882c0021f2e910054441011adde4ee71b11973f3"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T13:25:37.258393+00:00",
+   "fetched_at": "2026-11-10T13:55:43.179548+00:00",
    "stale": false,
    "items": [
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1530,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 199,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 674,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6708,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 67,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 1242,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,58 +114,72 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 559,
+     "title": "loveIsDefinitelyBlindYo",
+     "image": "https://i.redd.it/nx00zj9i4r0i1.png",
+     "url": "https://redd.it/1xsia4s",
+     "ups": 1486,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "r/whenthe didn't want my meme :(",
-     "image": "https://i.redd.it/uchh0vgf2r0i1.gif",
-     "url": "https://redd.it/1xsi3gc",
-     "ups": 1,
-     "sub": "r/memes"
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 25,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The correct use of this meme \ud83d\ude1c",
-     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
-     "url": "https://redd.it/1xserqv",
-     "ups": 262,
-     "sub": "r/memes"
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 1219,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "These Tech Bros fumbling one after another in just 2 weeks for no reason",
      "image": "https://i.redd.it/0t35xo0siq0i1.png",
      "url": "https://redd.it/1xsgffz",
-     "ups": 13,
+     "ups": 19,
      "sub": "r/memes"
     },
     {
-     "title": "Jensen just need to learn some gun-slinging",
-     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
-     "url": "https://redd.it/1xsarhm",
-     "ups": 618,
+     "title": "Huang, what did you do!?",
+     "image": "https://i.redd.it/s1znyqaqsl0i1.png",
+     "url": "https://redd.it/1xru9fb",
+     "ups": 474,
      "sub": "r/memes"
     },
     {
-     "title": "Which one first?",
-     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
-     "url": "https://redd.it/1xrt7ad",
-     "ups": 306,
+     "title": "Slander done out of pure rage and spite because DC Studios is changing heads again",
+     "image": "https://i.redd.it/pzbeihx9jn0i1.png",
+     "url": "https://redd.it/1xs3r34",
+     "ups": 2108,
      "sub": "r/memes"
     },
     {
-     "title": "For the Germans still up",
-     "image": "https://i.redd.it/asrk2d72gn0i1.png",
-     "url": "https://redd.it/1xs3a5w",
-     "ups": 253,
+     "title": "It feels... Amazing.. Satisfaction..",
+     "image": "https://i.redd.it/2reu2z5cml0i1.png",
+     "url": "https://redd.it/1xrtbys",
+     "ups": 936,
+     "sub": "r/memes"
+    },
+    {
+     "title": "CCP Honeypot got me acting unwise",
+     "image": "https://i.redd.it/1idjzerhun0i1.png",
+     "url": "https://redd.it/1xs5eaw",
+     "ups": 40,
+     "sub": "r/memes"
+    },
+    {
+     "title": "That's me!",
+     "image": "https://i.redd.it/h32y9k3tln0i1.png",
+     "url": "https://redd.it/1xs4721",
+     "ups": 64,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T13:25:39.065392+00:00",
+   "fetched_at": "2026-11-10T13:55:45.518815+00:00",
    "stale": false,
    "items": [
     {
@@ -200,9 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "NFL trade deadline approaches",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/120fad822dc8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Allegations against David Walliams",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democrats' congressional priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Democrats' congressional priorities",
+     "text": "House House's AI use in Big Walk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +264,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "House House's AI use in Big Walk",
+     "text": "Massie files Hegseth impeachment articles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nintendo adds eShop game gifting",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff25fe2e4ee9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
@@ -280,56 +280,44 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "Totally fake",
-     "author": "Political Memes",
-     "url": "https://reddthat.com/post/76378077",
-     "likes": 65,
-     "image": "https://lemmy.world/pictrs/image/43ce598e-967c-4034-9890-97ca58cba191.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
      "text": "What you heard",
      "author": "Political Memes",
      "url": "https://lemmy.dbzer0.com/post/78250223",
-     "likes": 40,
+     "likes": 100,
      "image": "https://lemmy.world/pictrs/image/52d37b15-fbab-481b-9dde-120089833f8b.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Anti data centre/Reform subvertisements in Havering, London",
-     "author": "Subvertising",
-     "url": "https://lemmy.blahaj.zone/post/50322682",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/7cc56d91-ed4e-45d8-9c89-df2d7b1ed523.webp"
+     "text": "Totally fake",
+     "author": "Political Memes",
+     "url": "https://reddthat.com/post/76378077",
+     "likes": 118,
+     "image": "https://lemmy.world/pictrs/image/43ce598e-967c-4034-9890-97ca58cba191.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "A long-awaited classic returns.",
+     "text": "Misinformation",
      "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/69708784",
-     "likes": 52,
-     "image": "https://lemmy.world/pictrs/image/77068605-e6f4-45a8-ab59-69355cc3e063.jpeg"
+     "url": "https://discuss.tchncs.de/post/70665241",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/2be1d94b-47f0-4238-acfe-fb303aca6c79.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "All Purpose Flour (2022-10-22)",
+     "author": "Perry Bible Fellowship",
+     "url": "https://discuss.online/post/48254252",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/4a727951-74ff-442d-9713-4aa678a3ff56.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T13:25:39.433115+00:00",
+   "fetched_at": "2026-11-10T13:55:46.306241+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "I decided to sell my Hoover\u2026 well it was just collecting dust.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Me and my mates are in a band called Duvet. We're a cover band.",
      "source": "Dad joke"
     },
     {
-     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
+     "text": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\".",
      "source": "Dad joke"
     },
     {
-     "text": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
+     "text": "Just watched a documentary about beavers\u2026 It was the best damn program I\u2019ve ever seen.",
      "source": "Dad joke"
     }
    ]
