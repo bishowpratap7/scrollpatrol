@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-10T03:52:38.993547+00:00",
+ "generated_at": "2026-11-10T04:22:44.067573+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T03:52:34.097941+00:00",
+   "fetched_at": "2026-11-10T04:22:40.626144+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The line to 7brew coffee in South Carolina",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xs92yt/the_line_to_7brew_coffee_in_south_carolina/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YmQzN3dxbWJtbzBpMVeKKvFCf3I213EjJ0kgeDi20_hz7PmPMCLRrtU6T-aM.png?width=320&crop=smart&auto=webp&s=63740cfaa7056d19e7d9768bbd1fe9559d55fb22"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,24 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/MWR0eXhtNjF5bzBpMTu9kawtZdw69GWKaq0xIArdo4FdfLLU7q4X8POTUnw0.jpeg?width=640&crop=smart&auto=webp&s=e93d5a7da2006c99fd1920c4e22d4357c48daa81"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xs6vc6/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/7p2vk5n85o0i1.jpeg?width=640&crop=smart&auto=webp&s=dd55fd927c8543a032a3b2c4d53cf0a0c7d673d5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The line to 7brew coffee in South Carolina",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xs92yt/the_line_to_7brew_coffee_in_south_carolina/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/YmQzN3dxbWJtbzBpMVeKKvFCf3I213EjJ0kgeDi20_hz7PmPMCLRrtU6T-aM.png?width=320&crop=smart&auto=webp&s=63740cfaa7056d19e7d9768bbd1fe9559d55fb22"
     },
     {
      "source": "Reddit",
@@ -35,11 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xs6vc6/meirl/",
+     "title": "Emilia Clarke survived 2 brain aneurysms during her time on GOT. In 2011 she got a subarachnoid hemorrhage from a ruptured aneurysm (1/3 of people die almost instantly). In 2013 she needed 2 surgeries for an aneurysm that had doubled in size. She then started SameYou, a brain injury recovery charity",
+     "url": "https://www.reddit.com/r/interesting/comments/1xs6i1c/emilia_clarke_survived_2_brain_aneurysms_during/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/7p2vk5n85o0i1.jpeg?width=640&crop=smart&auto=webp&s=dd55fd927c8543a032a3b2c4d53cf0a0c7d673d5"
+     "image": "https://preview.redd.it/hqplv5bb2o0i1.jpeg?width=640&crop=smart&auto=webp&s=82e9c3307c4828c61ad1a8c4a6ac3c48e2254e63"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Bad Alcohol Advice",
+     "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1xs90xm/bad_alcohol_advice/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/q7wogbrulo0i1.jpeg?width=640&crop=smart&auto=webp&s=baf2954ea774bc8d122857513e6fa0f9c357d053"
     },
     {
      "source": "Reddit",
@@ -67,30 +85,12 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/5c3hah1odm0i1.png?width=640&crop=smart&auto=webp&s=602108c52f56ac4cd32995fade3a69e10a662da3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Emilia Clarke survived 2 brain aneurysms during her time on GOT. In 2011 she got a subarachnoid hemorrhage from a ruptured aneurysm (1/3 of people die almost instantly). In 2013 she needed 2 surgeries for an aneurysm that had doubled in size. She then started SameYou, a brain injury recovery charity",
-     "url": "https://www.reddit.com/r/interesting/comments/1xs6i1c/emilia_clarke_survived_2_brain_aneurysms_during/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/hqplv5bb2o0i1.jpeg?width=640&crop=smart&auto=webp&s=82e9c3307c4828c61ad1a8c4a6ac3c48e2254e63"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Russell Brand Sentenced To 10 Years In Prison",
-     "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/jm01XUxfSCxGKtimqwh1cds4Rjyi72vznvzmtyXDRkE.jpeg?width=640&crop=smart&auto=webp&s=d0aa639661de33fec4a8006c36205386f5e1006f"
     }
    ]
   },
   "meme_stash": {
    "fetched_at": "2026-11-10T03:52:35.580472+00:00",
-   "stale": false,
+   "stale": true,
    "items": [
     {
      "title": "visualStudioIsMakingFunOfMe",
@@ -179,14 +179,30 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T03:52:37.622417+00:00",
+   "fetched_at": "2026-11-10T04:22:42.499722+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Vikings vs. Bills",
+     "text": "Massie files Hegseth impeachment articles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/085da988a5cf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democrats' congressional priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "'Who's really running your Bluesky' meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
      "likes": 0,
      "image": ""
     },
@@ -200,33 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth blocks officer promotions",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Jensen Huang honey trap report",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dab2159099f8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "California votes on billionaire tax",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "'Who's really running your Bluesky' meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
      "likes": 0,
      "image": ""
     },
@@ -248,76 +240,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "USPS unveils mythical creature stamps",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7fc79ad38959",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "CBS last in election night ratings",
+     "text": "James Gunn's reported DC Studios exit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9099e8ff9188",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/664294003eea",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen open to Senate leader run",
+     "text": "Krakow shooting suspect dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0df2245b26a9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Democrats' congressional priorities",
+     "text": "California votes on billionaire tax",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Van Hollen open to challenging Schumer for Senate majority leader",
-     "author": "News",
-     "url": "https://lemmy.world/post/54220715",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/54512532-267e-4269-a746-63ea1708f0e2.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "THIS WORLD IS SO FUCKING STUPID",
-     "author": "A Boring Dystopia",
-     "url": "https://lemmy.world/post/54220713",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/f91f2df1-e1c9-4ad2-b52f-e56d2dd5e170.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Jake Lang and his hunt for furries",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54220591",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/b33a11f2-c23f-4983-9ad6-efe62c9424df.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Israel's war in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29c959ea8508",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "kirk mirk sauce",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.blahaj.zone/post/50309389",
-     "likes": 13,
+     "likes": 39,
      "image": "https://lemmy.world/pictrs/image/c3fc5513-b4f7-46a7-ab73-2b8aa1016b4d.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Van Hollen open to challenging Schumer for Senate majority leader",
+     "author": "News",
+     "url": "https://lemmy.world/post/54220715",
+     "likes": 59,
+     "image": "https://lemmy.world/pictrs/image/54512532-267e-4269-a746-63ea1708f0e2.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Jake Lang and his hunt for furries",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54220591",
+     "likes": 76,
+     "image": "https://lemmy.world/pictrs/image/b33a11f2-c23f-4983-9ad6-efe62c9424df.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "THIS WORLD IS SO FUCKING STUPID",
+     "author": "A Boring Dystopia",
+     "url": "https://lemmy.world/post/54220713",
+     "likes": 52,
+     "image": "https://lemmy.world/pictrs/image/f91f2df1-e1c9-4ad2-b52f-e56d2dd5e170.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T03:52:38.412722+00:00",
+   "fetched_at": "2026-11-10T04:22:43.238443+00:00",
    "stale": false,
    "items": [
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
@@ -325,40 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "I was thinking about moving to Moscow but there is no point Russian into things.",
+     "text": "I went to the doctor today and he told me I had type A blood but it was a type O.",
      "source": "Dad joke"
     },
     {
-     "text": "I hate perforated lines, they're tearable.",
+     "text": "Did you hear the joke about the wandering nun? She was a roman catholic.",
      "source": "Dad joke"
     },
     {
-     "text": "I boiled a funny bone last night and had a laughing stock",
+     "text": "Why don\u2019t skeletons ever go trick or treating? Because they have nobody to go with.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
