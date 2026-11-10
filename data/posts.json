@@ -1,28 +1,10 @@
 {
- "generated_at": "2026-11-10T15:26:29.858029+00:00",
+ "generated_at": "2026-11-10T15:56:37.840509+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T15:26:24.923877+00:00",
+   "fetched_at": "2026-11-10T15:56:31.676425+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "No one gets left behind!",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xsjb5x/no_one_gets_left_behind/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZWdkbzE2ZjhncjBpMaNXJMpkXc3XUMOQtGOpKLMdut7k6OlRTVSi7k6BAUpK.jpeg?width=320&crop=smart&auto=webp&s=0b19299c6dc94010e69fa5660048503a10cbff33"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "How he smiles when he know's he's being mischievous.",
-     "url": "https://www.reddit.com/r/cats/comments/1xsnyru/how_he_smiles_when_he_knows_hes_being_mischievous/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/fig93uovms0i1.jpeg?width=640&crop=smart&auto=webp&s=d52d1551c00a0b8deb9e1850ba10e020410bc7ee"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -44,20 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "How he smiles when he know's he's being mischievous.",
+     "url": "https://www.reddit.com/r/cats/comments/1xsnyru/how_he_smiles_when_he_knows_hes_being_mischievous/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/fig93uovms0i1.jpeg?width=640&crop=smart&auto=webp&s=d52d1551c00a0b8deb9e1850ba10e020410bc7ee"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "What is this bag found by police in my deceased dads home",
      "url": "https://www.reddit.com/r/whatisit/comments/1xs8q5i/what_is_this_bag_found_by_police_in_my_deceased/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/fp007infjo0i1.jpeg?width=640&crop=smart&auto=webp&s=49e30ae4dbf1bffdaa395ed33bf84f6b8e533ea8"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Drinking fluoridated tap water for decades does not appear to cause cognitive decline in later life. A study of nearly 2,500 older adults in Ireland, which has fluoridated public water since 1964, found no link between lifetime fluoride exposure and scores on two tests used to screen for dementia.",
-     "url": "https://www.reddit.com/r/science/comments/1xskwyv/drinking_fluoridated_tap_water_for_decades_does/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/1Ai5N8nPqQBB3O3qEi4VsMFEHhFcRTdfrpYwtFdslEo.jpeg?width=640&crop=smart&auto=webp&s=e104b4d9b8dc6abdf7f75d6fa5298569dcd9fa5c"
     },
     {
      "source": "Reddit",
@@ -71,53 +53,64 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xsicqp/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/i0d2uygd5r0i1.jpeg?width=640&crop=smart&auto=webp&s=127ce3c8b15bd71090fb1eb28dceaf80d19db13d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "I Know Her Parents Didn\u2019t Name Her Mexican Scientist",
      "url": "https://www.reddit.com/r/BrandNewSentence/comments/1xsnl9n/i_know_her_parents_didnt_name_her_mexican/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/qcj10yo2ks0i1.jpeg?width=640&crop=smart&auto=webp&s=f9c96b2b1e035e9205d1f8915b29dc1dd5258792"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What are some unethical life hacks that are good to know for these trying times?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xsah82/what_are_some_unethical_life_hacks_that_are_good/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "No one gets left behind!",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xsjb5x/no_one_gets_left_behind/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZWdkbzE2ZjhncjBpMaNXJMpkXc3XUMOQtGOpKLMdut7k6OlRTVSi7k6BAUpK.jpeg?width=320&crop=smart&auto=webp&s=0b19299c6dc94010e69fa5660048503a10cbff33"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Drinking fluoridated tap water for decades does not appear to cause cognitive decline in later life. A study of nearly 2,500 older adults in Ireland, which has fluoridated public water since 1964, found no link between lifetime fluoride exposure and scores on two tests used to screen for dementia.",
+     "url": "https://www.reddit.com/r/science/comments/1xskwyv/drinking_fluoridated_tap_water_for_decades_does/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/1Ai5N8nPqQBB3O3qEi4VsMFEHhFcRTdfrpYwtFdslEo.jpeg?width=640&crop=smart&auto=webp&s=e104b4d9b8dc6abdf7f75d6fa5298569dcd9fa5c"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T15:26:26.132673+00:00",
+   "fetched_at": "2026-11-10T15:56:32.854320+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 498,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 73,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theTemporaryFixHasOutlivedTwoFrameworksAndARewrite",
-     "image": "https://i.redd.it/avuiifd42p0i1.png",
-     "url": "https://redd.it/1xsaz5k",
-     "ups": 894,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 123,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2311,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "refactoringComplete",
-     "image": "https://i.redd.it/pkmrs4913fzh1.png",
-     "url": "https://redd.it/1xmw6nu",
-     "ups": 5585,
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1360,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,76 +121,67 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 200,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6695,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Outstanding move",
-     "image": "https://i.redd.it/qye5o9fn6q0i1.png",
-     "url": "https://redd.it/1xsfa93",
-     "ups": 12,
-     "sub": "r/memes"
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 24,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Nvidia forgot to enable threat detection on the CEO",
      "image": "https://i.redd.it/65ntd6oixn0i1.png",
      "url": "https://redd.it/1xs5ssh",
-     "ups": 523,
-     "sub": "r/memes"
-    },
-    {
-     "title": "They have a cave troll!",
-     "image": "https://i.redd.it/2omh2l3tfs0i1.gif",
-     "url": "https://redd.it/1xsn1zn",
-     "ups": 4,
-     "sub": "r/memes"
-    },
-    {
-     "title": "That's me!",
-     "image": "https://i.redd.it/h32y9k3tln0i1.png",
-     "url": "https://redd.it/1xs4721",
-     "ups": 64,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Which one first?",
-     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
-     "url": "https://redd.it/1xrt7ad",
-     "ups": 317,
+     "ups": 556,
      "sub": "r/memes"
     },
     {
      "title": "For the Germans still up",
      "image": "https://i.redd.it/asrk2d72gn0i1.png",
      "url": "https://redd.it/1xs3a5w",
-     "ups": 284,
+     "ups": 291,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He just can't look like hippie",
+     "image": "https://i.redd.it/8oxpeinffs0i1.gif",
+     "url": "https://redd.it/1xsn0bt",
+     "ups": 20,
+     "sub": "r/memes"
+    },
+    {
+     "title": "That's me!",
+     "image": "https://i.redd.it/h32y9k3tln0i1.png",
+     "url": "https://redd.it/1xs4721",
+     "ups": 73,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I hope this letter finds you well",
+     "image": "https://i.redd.it/9nvy5zda7k0i1.png",
+     "url": "https://redd.it/1xrnp8f",
+     "ups": 448,
+     "sub": "r/memes"
+    },
+    {
+     "title": "These Tech Bros fumbling one after another in just 2 weeks for no reason",
+     "image": "https://i.redd.it/0t35xo0siq0i1.png",
+     "url": "https://redd.it/1xsgffz",
+     "ups": 24,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T15:26:28.262168+00:00",
+   "fetched_at": "2026-11-10T15:56:35.896204+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Calls to impeach Todd Blanche",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/36cf8f804d3d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Edmund Fitzgerald sinking anniversary",
@@ -208,9 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "David Walliams children's books pulped",
+     "text": "Hegseth says Trump ordered his actions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Massie files Hegseth impeachment articles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
@@ -224,14 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Future of DC's shared universe",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "US consumer prices rise in October",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5da79e9eae64",
@@ -240,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Future of DC's shared universe",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "David Walliams children's books pulped",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
      "likes": 0,
      "image": ""
     },
@@ -264,68 +256,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth says Trump ordered his actions",
+     "text": "Ocarina of Time remake release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Massie files Hegseth impeachment articles",
+     "text": "Democrats' congressional priorities",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Rubio defends Iran war at G7",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/46336d1909c9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Hot take",
+     "text": "$2,200 ruleset",
+     "author": "196",
+     "url": "https://lemmy.world/post/54241314",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/eb4f1880-4de0-430a-83a5-0b0d4201b114.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Cuck License",
+     "author": "Linux",
+     "url": "https://lemmy.ml/post/55146205",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/144e7dc6-6a41-4c4c-a1f9-a7c0f2eafb6c.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "YSK You Can Look Up Where Your Generic Prescription Drugs Are Made And See Factory Inspection Reports - Rx Inspector - ProPublica",
+     "author": "You Should Know",
+     "url": "https://lemmy.world/post/54241894",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/24764ce4-872b-48c7-a527-3e271f9346a2.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "POV: you're Jensen Huang",
      "author": "Memes",
-     "url": "https://reddthat.com/post/76382673",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/14707664-8a0a-401f-ac91-8ca6e2572740.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "No thanks, Honey isn't vegan",
-     "author": "Memes",
-     "url": "https://literature.cafe/post/37150745",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/65fffbb5-8b3f-4b2c-9c8b-52d491199170.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "bruh",
-     "author": "Political Memes",
-     "url": "https://thelemmy.club/post/58733266",
-     "likes": 113,
-     "image": "https://lemmy.world/pictrs/image/89f42d8c-4e3e-44f1-ab1d-8a4c52060d70.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "600,000-Member Machinists Union Calls on Schumer To Allow \u2018A New Generation To Lead\u2019 Democrats",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54239671",
-     "likes": 86,
-     "image": "https://lemmy.world/pictrs/image/551c0cbe-da36-4c2a-8654-d052bb447f97.jpeg"
+     "url": "https://sopuli.xyz/post/54412562",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/e7c1f4b1-e502-40d0-9477-dba0a5069adc.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T15:26:28.889483+00:00",
+   "fetched_at": "2026-11-10T15:56:36.623429+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you get when you cross a snowman with a vampire? Frostbite.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why was ten scared of seven? Because seven ate nine.",
      "source": "Dad joke"
     },
     {
-     "text": "Remember, the best angle to approach a problem from is the \"try\" angle.",
+     "text": "What\u2019s the longest word in the dictionary? Smiles. Because there\u2019s a mile between the two S\u2019s.",
      "source": "Dad joke"
     },
     {
-     "text": "Why don\u2019t skeletons ever go trick or treating? Because they have nobody to go with.",
+     "text": "Why did the half blind man fall in the well? Because he couldn't see that well!",
      "source": "Dad joke"
     }
    ]
