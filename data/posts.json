@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T06:53:35.270752+00:00",
+ "generated_at": "2026-11-10T07:23:42.012701+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T06:53:29.742761+00:00",
+   "fetched_at": "2026-11-10T07:23:36.754309+00:00",
    "stale": false,
    "items": [
     {
@@ -44,20 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Well done Montana",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xsc153/well_done_montana/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/7715okkkbp0i1.jpeg?width=640&crop=smart&auto=webp&s=fc18e6af3e1512b1a32812c2f36f9d1927f36b10"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Everyone but me..",
      "url": "https://www.reddit.com/r/memes/comments/1xscedk/everyone_but_me/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/p84730ysep0i1.jpeg?width=640&crop=smart&auto=webp&s=6b4c3e38af233972f1888fc068d0c5f4d32d2238"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Well done Montana",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xsc153/well_done_montana/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/7715okkkbp0i1.jpeg?width=640&crop=smart&auto=webp&s=fc18e6af3e1512b1a32812c2f36f9d1927f36b10"
     },
     {
      "source": "Reddit",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T06:53:30.737438+00:00",
+   "fetched_at": "2026-11-10T07:23:38.028404+00:00",
    "stale": false,
    "items": [
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 14,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 198,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1356,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,10 +114,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 72,
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 38,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,11 +135,32 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theTemporaryFixHasOutlivedTwoFrameworksAndARewrite",
-     "image": "https://i.redd.it/avuiifd42p0i1.png",
-     "url": "https://redd.it/1xsaz5k",
-     "ups": 341,
-     "sub": "r/ProgrammerHumor"
+     "title": "Introducing AMD InFidelityFX for Jensen",
+     "image": "https://i.redd.it/67v7i0685l0i1.png",
+     "url": "https://redd.it/1xrr4dx",
+     "ups": 50,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The correct use of this meme \ud83d\ude1c",
+     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
+     "url": "https://redd.it/1xserqv",
+     "ups": 4,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It feels... Amazing.. Satisfaction..",
+     "image": "https://i.redd.it/2reu2z5cml0i1.png",
+     "url": "https://redd.it/1xrtbys",
+     "ups": 823,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Interesting AI",
+     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
+     "url": "https://redd.it/1xrh4wo",
+     "ups": 264,
+     "sub": "r/memes"
     },
     {
      "title": "CCP Honeypot got me acting unwise",
@@ -135,74 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's hard to be a DC fan",
-     "image": "https://i.redd.it/zprw02tupn0i1.png",
-     "url": "https://redd.it/1xs4rwx",
-     "ups": 861,
+     "title": "it hurts \ud83e\udd40",
+     "image": "https://i.redd.it/yntzhoh1rk0i1.png",
+     "url": "https://redd.it/1xrpk2r",
+     "ups": 70,
      "sub": "r/memes"
-    },
-    {
-     "title": "Fascinating",
-     "image": "https://i.redd.it/hcvigeljef0i1.png",
-     "url": "https://redd.it/1xr49r5",
-     "ups": 5736,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Follow rule 2 guys",
-     "image": "https://i.redd.it/q53isefdne0i1.gif",
-     "url": "https://redd.it/1xr0nkx",
-     "ups": 1699,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I hope this letter finds you well",
-     "image": "https://i.redd.it/9nvy5zda7k0i1.png",
-     "url": "https://redd.it/1xrnp8f",
-     "ups": 422,
-     "sub": "r/memes"
-    },
-    {
-     "title": "'High Fidelity' only applies to real-time ray tracing",
-     "image": "https://i.redd.it/ov3hzq4wij0i1.png",
-     "url": "https://redd.it/1xrlknw",
-     "ups": 102,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Green Wave",
-     "image": "https://i.redd.it/3zl8p9oelwzh1.png",
-     "url": "https://redd.it/1xp1hav",
-     "ups": 8527,
-     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T06:53:33.259442+00:00",
+   "fetched_at": "2026-11-10T07:23:40.541032+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth blocks officer promotions",
+     "text": "Big Walk AI code allegations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Future of DC's shared universe",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
      "likes": 0,
      "image": ""
     },
@@ -211,14 +195,6 @@
      "text": "Democrats' congressional priorities",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang honey trap report",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dab2159099f8",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +216,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Jensen Huang honey trap report",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dab2159099f8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Massie files Hegseth impeachment articles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Future of DC's shared universe",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "The spy who could bring you down",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
@@ -256,109 +264,101 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Manchester United plans to replace Carrick",
+     "text": "California votes on billionaire tax",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21bbf0f7ed8d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Massie files Hegseth impeachment articles",
+     "text": "Hegseth blocks officer promotions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Seattle schools challenge Initiative 638",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdb772acff90",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "it career in mage career terms",
-     "author": "Programmer Humor",
-     "url": "https://lemmy.blahaj.zone/post/50313125",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/3e822ac7-fe04-4564-b5fe-ad8561307aee.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "\u2018Spiritual darkness\u2019: US ambassador to Israel says critics of Iran war are blinded by Satan",
-     "author": "World News",
-     "url": "https://lemmy.ca/post/73637780",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/22ddbbf1-b6d8-47f7-8b05-7aef4e0563a1.jpeg"
+     "text": ":D",
+     "author": "linuxmemes",
+     "url": "https://gehirneimer.de/m/linuxmemes@lemmy.world/t/1236504",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/b0904ffb-cea1-4a23-b127-001c5bd62b10.png"
     },
     {
      "kind": "Lemmy post",
      "text": "You are an adult and can do what you want!",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54225257",
-     "likes": 12,
+     "likes": 35,
      "image": "https://lemmy.world/pictrs/image/81f53849-d820-4340-8d2a-0bcd92ff579d.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Grok Calls Out Elon Musk for Chumming Around With an Actual Nazi: Maximum narc-seeking AI.",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54225031",
+     "text": "it career in mage career terms",
+     "author": "Programmer Humor",
+     "url": "https://lemmy.blahaj.zone/post/50313125",
+     "likes": 76,
+     "image": "https://lemmy.world/pictrs/image/3e822ac7-fe04-4564-b5fe-ad8561307aee.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "bi lighting",
+     "author": "Femcel Memes",
+     "url": "https://lemmy.blahaj.zone/post/50313872",
      "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/98b9f4f5-fd58-4024-afcd-692767c7217c.jpeg"
+     "image": "https://lemmy.world/pictrs/image/2064be7a-51ad-46ae-957d-d6e8ca094f5e.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T06:53:34.145766+00:00",
+   "fetched_at": "2026-11-10T07:23:41.290265+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
     {
      "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Did you know that ghosts call their true love their ghoul-friend?",
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
      "source": "Dad joke"
     },
     {
-     "text": "My friend keeps telling me \"Cheer up. You aren't stuck in a deep hole in the ground, filled with water.\"\r\nI know he means well.",
+     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
      "source": "Dad joke"
     },
     {
-     "text": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
+     "text": "What is the tallest building in the world? The library \u2013 it\u2019s got the most stories!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
