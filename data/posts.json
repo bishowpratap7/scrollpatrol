@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T10:24:47.132865+00:00",
+ "generated_at": "2026-11-10T10:25:04.324298+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T10:24:42.574313+00:00",
+   "fetched_at": "2026-11-10T10:24:59.545771+00:00",
    "stale": false,
    "items": [
     {
@@ -85,74 +85,101 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/aGZjY2ZleWI0bDBpMWnOwCRFiRnCsUbCtLHvL_i9liYw9vcxUprfpQmo_4cJ.png?width=320&crop=smart&auto=webp&s=42ee2f0e3606fb354ee7bafc12c78d6c4ff9643a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+     "url": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "Vibe coding in 2010",
+     "url": "https://www.reddit.com/r/funny/comments/1xs9ce3/vibe_coding_in_2010/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/NDZsbXJpc2VvbzBpMdkxHZ0CyVeFP3cVzIWmB1GjltobIJDHcgmfyS3kJigF.jpeg?width=640&crop=smart&auto=webp&s=1cddeb1de353833aebae0af75792aa58f6de49b2"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "Same same",
+     "url": "https://www.reddit.com/r/funny/comments/1xs5ukc/same_same/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/rrgolz1yxn0i1.jpeg?width=640&crop=smart&auto=webp&s=ede55d22d0bc992cf466d113fb66be03926db056"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T10:24:43.871610+00:00",
+   "fetched_at": "2026-11-10T10:25:00.968871+00:00",
    "stale": false,
    "items": [
     {
-     "title": "loveIsDefinitelyBlindYo",
-     "image": "https://i.redd.it/nx00zj9i4r0i1.png",
-     "url": "https://redd.it/1xsia4s",
-     "ups": 452,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 497,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 36,
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4109,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
+     "title": "meetPotentialLanguage",
+     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
+     "url": "https://redd.it/1xrwkc1",
+     "ups": 40,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 130,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 204,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 9767,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Huang, what did you do!?",
-     "image": "https://i.redd.it/s1znyqaqsl0i1.png",
-     "url": "https://redd.it/1xru9fb",
-     "ups": 450,
-     "sub": "r/memes"
-    },
-    {
-     "title": "No succulent Chinese meal for me...",
-     "image": "https://i.redd.it/xbhb2umxmq0i1.png",
-     "url": "https://redd.it/1xsgsn6",
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
      "ups": 17,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 60,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "These Tech Bros fumbling one after another in just 2 weeks for no reason",
+     "image": "https://i.redd.it/0t35xo0siq0i1.png",
+     "url": "https://redd.it/1xsgffz",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
-     "title": "CCP Honeypot got me acting unwise",
-     "image": "https://i.redd.it/1idjzerhun0i1.png",
-     "url": "https://redd.it/1xs5eaw",
-     "ups": 32,
+     "title": "It feels... Amazing.. Satisfaction..",
+     "image": "https://i.redd.it/2reu2z5cml0i1.png",
+     "url": "https://redd.it/1xrtbys",
+     "ups": 879,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A Sharp Mind",
+     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
+     "url": "https://redd.it/1xsi6xg",
+     "ups": 47,
      "sub": "r/memes"
     },
     {
@@ -163,23 +190,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's hard to be a DC fan",
-     "image": "https://i.redd.it/zprw02tupn0i1.png",
-     "url": "https://redd.it/1xs4rwx",
-     "ups": 1173,
+     "title": "Jensen just need to learn some gun-slinging",
+     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
+     "url": "https://redd.it/1xsarhm",
+     "ups": 466,
      "sub": "r/memes"
     },
     {
-     "title": "Fascinating",
-     "image": "https://i.redd.it/hcvigeljef0i1.png",
-     "url": "https://redd.it/1xr49r5",
-     "ups": 5788,
+     "title": "I hope this letter finds you well",
+     "image": "https://i.redd.it/9nvy5zda7k0i1.png",
+     "url": "https://redd.it/1xrnp8f",
+     "ups": 431,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T10:24:45.772838+00:00",
+   "fetched_at": "2026-11-10T10:25:03.255122+00:00",
    "stale": false,
    "items": [
     {
@@ -291,7 +318,7 @@
      "text": "2026 bingo: The Libertarian Party outflanking the dems from the left",
      "author": "Memes",
      "url": "https://lemmy.ml/post/55135376",
-     "likes": 30,
+     "likes": 31,
      "image": "https://lemmy.world/pictrs/image/36592e53-e74b-4f71-855a-844bbd9395f3.png"
     },
     {
@@ -313,23 +340,11 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T10:24:46.423463+00:00",
+   "fetched_at": "2026-11-10T10:25:03.673068+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +352,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "I decided to sell my Hoover\u2026 well it was just collecting dust.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What's red and bad for your teeth? A Brick.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the left eye say to the right eye? Between us, something smells!",
+     "text": "What's the difference between a guitar and a fish? You can tune a guitar but you can't \"tuna\" fish!",
      "source": "Dad joke"
     },
     {
-     "text": "Why was the picture sent to prison? It was framed.",
+     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
      "source": "Dad joke"
     }
    ]
