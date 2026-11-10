@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T20:27:46.489454+00:00",
+ "generated_at": "2026-11-10T20:28:04.337070+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T20:27:40.317203+00:00",
+   "fetched_at": "2026-11-10T20:27:58.296815+00:00",
    "stale": false,
    "items": [
     {
@@ -35,11 +35,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "What celebrity successfully swept their controversy under the rug and continued their career?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xskzlj/what_celebrity_successfully_swept_their/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Customers at the restaraunt I work at left this for their bill and walked out",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xsa23p/customers_at_the_restaraunt_i_work_at_left_this/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/2whm89okuo0i1.jpeg?width=640&crop=smart&auto=webp&s=d6b5e8d01a6aed8967b810e666fb6789d8ca5e30"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Commuters cram into a train during rush hour in Tokyo with the help of an oshiya (pusher).",
+     "url": "https://www.reddit.com/r/interesting/comments/1xsikbj/commuters_cram_into_a_train_during_rush_hour_in/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/am8xdmkwcXY3cjBpMaza9UmTh7V-yr_vEPuCVlUJSpJRFu39t4RFtGvj-luW.png?width=320&crop=smart&auto=webp&s=e5306ebd1a4734620cf8b1740f4c6dbe58c06d55"
     },
     {
      "source": "Reddit",
@@ -67,52 +85,13 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/19kn4pogbt0i1.jpeg?width=640&crop=smart&auto=webp&s=c971859608bb0b7ad3406b22fdd92a63431b92c0"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "What celebrity successfully swept their controversy under the rug and continued their career?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xskzlj/what_celebrity_successfully_swept_their/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Commuters cram into a train during rush hour in Tokyo with the help of an oshiya (pusher).",
-     "url": "https://www.reddit.com/r/interesting/comments/1xsikbj/commuters_cram_into_a_train_during_rush_hour_in/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/am8xdmkwcXY3cjBpMaza9UmTh7V-yr_vEPuCVlUJSpJRFu39t4RFtGvj-luW.png?width=320&crop=smart&auto=webp&s=e5306ebd1a4734620cf8b1740f4c6dbe58c06d55"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T20:27:41.500008+00:00",
+   "fetched_at": "2026-11-10T20:27:59.822795+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 367,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 441,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7456,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "visualStudioIsMakingFunOfMe",
      "image": "https://i.redd.it/nkcl8442cszh1.png",
@@ -121,38 +100,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 197,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 23194,
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 181,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Senator, she is Singaporean",
-     "image": "https://i.redd.it/k6qic4ritt0i1.png",
-     "url": "https://redd.it/1xsu7pt",
-     "ups": 119,
-     "sub": "r/memes"
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 502,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "one in a billionaire opportunity",
-     "image": "https://i.redd.it/ech35ify2t0i1.png",
-     "url": "https://redd.it/1xsqa4m",
-     "ups": 2604,
-     "sub": "r/memes"
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 413,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Jensen just need to learn some gun-slinging",
-     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
-     "url": "https://redd.it/1xsarhm",
-     "ups": 899,
+     "title": "unhappyCrustaceans",
+     "image": "https://i.redd.it/dgj598hkm20i1.png",
+     "url": "https://redd.it/1xpqmpe",
+     "ups": 165,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "It feels... Amazing.. Satisfaction..",
+     "image": "https://i.redd.it/2reu2z5cml0i1.png",
+     "url": "https://redd.it/1xrtbys",
+     "ups": 962,
      "sub": "r/memes"
     },
     {
@@ -163,23 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Nvidia forgot to enable threat detection on the CEO",
-     "image": "https://i.redd.it/65ntd6oixn0i1.png",
-     "url": "https://redd.it/1xs5ssh",
-     "ups": 609,
+     "title": "he simply can't help himself",
+     "image": "https://i.redd.it/bo47huawur0i1.png",
+     "url": "https://redd.it/1xskoqz",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "Catfishing ram altman \ud83e\udd24",
-     "image": "https://i.redd.it/ty23na5ozt0i1.png",
-     "url": "https://redd.it/1xsv51f",
-     "ups": 4,
+     "title": "The correct use of this meme \ud83d\ude1c",
+     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
+     "url": "https://redd.it/1xserqv",
+     "ups": 340,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Jensen just need to learn some gun-slinging",
+     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
+     "url": "https://redd.it/1xsarhm",
+     "ups": 899,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They have a cave troll!",
+     "image": "https://i.redd.it/2omh2l3tfs0i1.gif",
+     "url": "https://redd.it/1xsn1zn",
+     "ups": 46,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T20:27:44.649478+00:00",
+   "fetched_at": "2026-11-10T20:28:02.729566+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Neurodivergence",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.today/post/63100185",
-     "likes": 29,
+     "likes": 30,
      "image": "https://lemmy.world/pictrs/image/6b342c87-d2c7-4980-8b49-066fe2078f80.jpeg"
     },
     {
@@ -313,15 +313,23 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T20:27:45.389988+00:00",
+   "fetched_at": "2026-11-10T20:28:03.362565+00:00",
    "stale": false,
    "items": [
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
@@ -329,27 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What kind of magic do cows believe in? MOODOO.",
+     "text": "How was the snow globe feeling after the storm? A little shaken.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the late tomato say to the early tomato? I\u2019ll ketch up",
+     "text": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
      "source": "Dad joke"
     },
     {
-     "text": "How can you tell a vampire has a cold? They start coffin.",
+     "text": "What's the difference between a guitar and a fish? You can tune a guitar but you can't \"tuna\" fish!",
      "source": "Dad joke"
     }
    ]
