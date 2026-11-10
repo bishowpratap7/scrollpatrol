@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T20:28:04.337070+00:00",
+ "generated_at": "2026-11-10T20:58:10.162660+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T20:27:58.296815+00:00",
+   "fetched_at": "2026-11-10T20:58:05.891956+00:00",
    "stale": false,
    "items": [
     {
@@ -35,6 +35,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Sanders Says He Won\u2019t Support Schumer for Democratic Leader",
+     "url": "https://www.reddit.com/r/politics/comments/1xsu7uq/sanders_says_he_wont_support_schumer_for/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/tLfZ8B4YpAB9IMiowXqsFF6LtmLabE2b1NPxEaHEGKk.jpeg?width=640&crop=smart&auto=webp&s=90ffde8e8194097a3085920a65d159db4ffdfd63"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "What celebrity successfully swept their controversy under the rug and continued their career?",
      "url": "https://www.reddit.com/r/AskReddit/comments/1xskzlj/what_celebrity_successfully_swept_their/",
      "score": 0,
@@ -62,20 +71,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Ocasio-Cortez doesn\u2019t back Schumer in Senate leadership vote",
-     "url": "https://www.reddit.com/r/politics/comments/1xssob2/ocasiocortez_doesnt_back_schumer_in_senate/",
+     "title": "Abdul El-Sayed shares his \u201cNew Digs\u201d",
+     "url": "https://www.reddit.com/r/Fauxmoi/comments/1xsvc6s/abdul_elsayed_shares_his_new_digs/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/tXNckhZ6zxSKv2tjDZJO1ZBqLyN3d25v9qqkR6XIHgQ.jpeg?width=640&crop=smart&auto=webp&s=2b037b1c3e222975b0ea08f40d4bf614f93d21c0"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I want MORE",
-     "url": "https://www.reddit.com/r/comics/comments/1xsq6s8/i_want_more/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/yzyvt2pp2t0i1.png?width=640&crop=smart&auto=webp&s=73c23490ebbac2375f564920631b95260623ae19"
+     "image": "https://preview.redd.it/pojcv3601u0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=63b6826a6e86d139d8d48a1a5e699bb9d0595404"
     },
     {
      "source": "Reddit",
@@ -89,63 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T20:27:59.822795+00:00",
+   "fetched_at": "2026-11-10T20:58:07.298371+00:00",
    "stale": false,
    "items": [
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1227,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1500,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilationError",
-     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
-     "url": "https://redd.it/1xsgyfn",
-     "ups": 197,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 692,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
-     "ups": 181,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 198,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 502,
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 2469,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 413,
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 165,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2318,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "For the Germans still up",
+     "image": "https://i.redd.it/asrk2d72gn0i1.png",
+     "url": "https://redd.it/1xs3a5w",
+     "ups": 312,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Your time is limited",
+     "image": "https://i.redd.it/ds78gp8har0i1.gif",
+     "url": "https://redd.it/1xsisct",
+     "ups": 3251,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He just can't look like hippie",
+     "image": "https://i.redd.it/8oxpeinffs0i1.gif",
+     "url": "https://redd.it/1xsn0bt",
+     "ups": 64,
+     "sub": "r/memes"
     },
     {
      "title": "It feels... Amazing.. Satisfaction..",
      "image": "https://i.redd.it/2reu2z5cml0i1.png",
      "url": "https://redd.it/1xrtbys",
      "ups": 962,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Huang, what did you do!?",
-     "image": "https://i.redd.it/s1znyqaqsl0i1.png",
-     "url": "https://redd.it/1xru9fb",
-     "ups": 487,
      "sub": "r/memes"
     },
     {
@@ -156,40 +170,18 @@
      "sub": "r/memes"
     },
     {
-     "title": "The correct use of this meme \ud83d\ude1c",
-     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
-     "url": "https://redd.it/1xserqv",
-     "ups": 340,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jensen just need to learn some gun-slinging",
-     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
-     "url": "https://redd.it/1xsarhm",
-     "ups": 899,
-     "sub": "r/memes"
-    },
-    {
-     "title": "They have a cave troll!",
-     "image": "https://i.redd.it/2omh2l3tfs0i1.gif",
-     "url": "https://redd.it/1xsn1zn",
-     "ups": 46,
+     "title": "Senator, she is Singaporean",
+     "image": "https://i.redd.it/k6qic4ritt0i1.png",
+     "url": "https://redd.it/1xsu7pt",
+     "ups": 119,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T20:28:02.729566+00:00",
+   "fetched_at": "2026-11-10T20:58:08.806181+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Jordan vs. Scalise leadership race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/65be9b6917d0",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Bernie Sanders won't back Schumer",
@@ -200,9 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand London trial",
+     "text": "Unsexy policies that would help millions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1fd03c74158",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/23abc227a42a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "'Who's really running your Bluesky' meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "David Walliams children's books pulped",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Warner Bros. remaking You've Got Mail",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/49ddc974f300",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Russell Brand London trial",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1fd03c74158",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Warner Bros. remaking You've Got Mail",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/49ddc974f300",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "'Who's really running your Bluesky' meme",
+     "text": "Don Leonard alleges Democratic threats",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/46e270d091d1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unsexy policies that would help millions",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/23abc227a42a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hegseth responds to impeachment push",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -283,49 +283,45 @@
      "text": "Neurodivergence",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.today/post/63100185",
-     "likes": 30,
+     "likes": 84,
      "image": "https://lemmy.world/pictrs/image/6b342c87-d2c7-4980-8b49-066fe2078f80.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "House Republicans Pick Election Denier Jim Jordan to Lead Them",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54251482",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/fe24011a-cb9e-4346-914e-479510d001df.jpeg"
+     "text": "Moments of beauty",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63100335",
+     "likes": 76,
+     "image": "https://lemmy.world/pictrs/image/7479f0e4-03b2-45c8-9ed3-636f35ef1c31.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "dashboard",
-     "author": "Lemmy Shitpost",
-     "url": "https://sopuli.xyz/post/54421619",
-     "likes": 124,
-     "image": "https://lemmy.world/pictrs/image/1c812ad5-ec09-4bd3-aa17-aa959ebf8f73.webp"
+     "text": "I'm not locked in with you; you're locked in with me!",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63100398",
+     "likes": 63,
+     "image": "https://lemmy.world/pictrs/image/88ba7d48-2f64-498a-aee8-139f74840916.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Australia considers world-first criminal charges for AI companies that fail to prevent harm",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54251257",
-     "likes": 31,
-     "image": "https://live-production.wcms.abc-cdn.net.au/f52cf44950bd2bb7fde046fb2d52d288?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=1&width=862&height=485"
+     "text": "What a beautiful flower [War and Peas]",
+     "author": "Comic Strips",
+     "url": "https://lemmus.org/post/26819112",
+     "likes": 46,
+     "image": "https://lemmy.world/pictrs/image/b97c34e0-68f2-4813-8571-dcdcbb8b09d9.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T20:28:03.362565+00:00",
+   "fetched_at": "2026-11-10T20:58:09.426215+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "How was the snow globe feeling after the storm? A little shaken.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do robots eat guacamole? With computer chips.",
      "source": "Dad joke"
     },
     {
-     "text": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
+     "text": "Two peanuts were walking down the street. One was a salted.",
      "source": "Dad joke"
     },
     {
-     "text": "What's the difference between a guitar and a fish? You can tune a guitar but you can't \"tuna\" fish!",
+     "text": "What do you call a duck that gets all A's? A wise quacker.",
      "source": "Dad joke"
     }
    ]
