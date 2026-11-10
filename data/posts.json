@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-10T01:52:10.405583+00:00",
+ "generated_at": "2026-11-10T02:22:16.826328+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T01:52:05.496681+00:00",
+   "fetched_at": "2026-11-10T02:22:12.096531+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "DC Shocker: James Gunn, Peter Safran Out as Co-Presidents, Jeremy Latcham to Lead Comic Book Studio",
-     "url": "https://www.reddit.com/r/DC_Cinematic/comments/1xrxjwy/dc_shocker_james_gunn_peter_safran_out_as/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/aaoyxicbem0i1.jpeg?width=640&crop=smart&auto=webp&s=6d6af476e5a8e09001a1e62c79d2c80c89bbc765"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/7p2vk5n85o0i1.jpeg?width=640&crop=smart&auto=webp&s=dd55fd927c8543a032a3b2c4d53cf0a0c7d673d5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "DC Shocker: James Gunn, Peter Safran Out as Co-Presidents, Jeremy Latcham to Lead Comic Book Studio",
+     "url": "https://www.reddit.com/r/DC_Cinematic/comments/1xrxjwy/dc_shocker_james_gunn_peter_safran_out_as/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/aaoyxicbem0i1.jpeg?width=640&crop=smart&auto=webp&s=6d6af476e5a8e09001a1e62c79d2c80c89bbc765"
     },
     {
      "source": "Reddit",
@@ -89,50 +89,57 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T01:52:06.753140+00:00",
+   "fetched_at": "2026-11-10T02:22:13.338188+00:00",
    "stale": false,
    "items": [
     {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7313,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 661,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 39,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 289,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 169,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 115,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3298,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17592,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 25,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 337,
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 467,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "'High Fidelity' only applies to real-time ray tracing",
+     "image": "https://i.redd.it/ov3hzq4wij0i1.png",
+     "url": "https://redd.it/1xrlknw",
+     "ups": 96,
+     "sub": "r/memes"
     },
     {
      "title": "Slander done out of pure rage and spite because DC Studios is changing heads again",
@@ -142,44 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Introducing AMD InFidelityFX for Jensen",
-     "image": "https://i.redd.it/67v7i0685l0i1.png",
-     "url": "https://redd.it/1xrr4dx",
-     "ups": 48,
+     "title": "That's me!",
+     "image": "https://i.redd.it/h32y9k3tln0i1.png",
+     "url": "https://redd.it/1xs4721",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
-     "title": "Nvidia forgot to enable threat detection on the CEO",
-     "image": "https://i.redd.it/65ntd6oixn0i1.png",
-     "url": "https://redd.it/1xs5ssh",
-     "ups": 223,
+     "title": "When I'm in a \u201csounding like a villain competition\u201d",
+     "image": "https://i.redd.it/awimd36kpf0i1.png",
+     "url": "https://redd.it/1xr5rn0",
+     "ups": 716,
      "sub": "r/memes"
     },
     {
-     "title": "it hurts \ud83e\udd40",
-     "image": "https://i.redd.it/yntzhoh1rk0i1.png",
-     "url": "https://redd.it/1xrpk2r",
-     "ups": 71,
+     "title": "Follow rule 2 guys",
+     "image": "https://i.redd.it/q53isefdne0i1.gif",
+     "url": "https://redd.it/1xr0nkx",
+     "ups": 1680,
      "sub": "r/memes"
     },
     {
-     "title": "The best discoveries are accidental",
-     "image": "https://i.redd.it/aeeureujjm0i1.png",
-     "url": "https://redd.it/1xryc3o",
-     "ups": 10,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Just because he CUDA, doesn't mean he should'a",
-     "image": "https://i.redd.it/yf6pwrlmvk0i1.png",
-     "url": "https://redd.it/1xrq1pd",
-     "ups": 28,
-     "sub": "r/memes"
+     "title": "tale as old as time",
+     "image": "https://i.redd.it/n0pq1yjchmzh1.gif",
+     "url": "https://redd.it/1xnsnug",
+     "ups": 12025,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T01:52:09.014342+00:00",
+   "fetched_at": "2026-11-10T02:22:15.695384+00:00",
    "stale": false,
    "items": [
     {
@@ -192,25 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Hegseth blocks officer promotions",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Democrats' congressional priorities",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Massie files Hegseth impeachment articles",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Booker Prize winner announcement",
+     "text": "Godzilla Minus Zero opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402a5fdd3d9d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Eagles trade Jordan Davis",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e08d90ddab71",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "November 9 historical anniversaries",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8794aa8fe4ec",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Backyard bird sightings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo arrives in Argentina",
+     "text": "Massie files Hegseth impeachment articles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a14410a4117f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "College Football Playoff expands to 24 teams",
+     "text": "Midterm election race results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0143eda472d7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Senate votes on energy permitting bill",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/053229b6e075",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump claims he \"won in Iran\"",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b6f485ef877",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4d185ded6f",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Water conservation",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63054252",
-     "likes": 256,
+     "likes": 313,
      "image": "https://lemmy.world/pictrs/image/b997a03e-3608-4423-b43f-68afa931ed91.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "We're still mad",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63054255",
-     "likes": 268,
+     "likes": 326,
      "image": "https://lemmy.world/pictrs/image/97307c8d-5211-4459-a6a8-da5671b4fc46.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "First steak I cooked. Marinated in bolgogi sauce. How is this more tender and better than any restaurant steak I had",
      "author": "Dull Men's Club",
      "url": "https://lemmy.world/post/54215955",
-     "likes": 53,
+     "likes": 61,
      "image": "https://lemmy.world/pictrs/image/484338f6-c82c-496b-8dce-e56e952b6823.jpeg"
     },
     {
@@ -307,58 +307,58 @@
      "text": "The jacket stays on",
      "author": "memes",
      "url": "https://lemmy.world/post/54215471",
-     "likes": 144,
+     "likes": 166,
      "image": "https://lemmy.world/pictrs/image/f4c1ec4e-45f9-46d8-9c78-f3c2b4ba9ee9.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T01:52:09.691287+00:00",
+   "fetched_at": "2026-11-10T02:22:16.257559+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
     {
      "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Can February march? No, but April may.",
+     "text": "I have kleptomania, but when it gets bad, I take something for it.",
      "source": "Dad joke"
     },
     {
-     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
+     "text": "What happens when you anger a brain surgeon? They will give you a piece of your mind.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a fat psychic? A four-chin teller.",
+     "text": "Never take advice from electrons. They are always negative.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
