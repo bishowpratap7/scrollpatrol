@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T15:26:09.070347+00:00",
+ "generated_at": "2026-11-10T15:26:29.858029+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T15:26:01.116361+00:00",
+   "fetched_at": "2026-11-10T15:26:24.923877+00:00",
    "stale": false,
    "items": [
     {
@@ -89,42 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T15:26:02.193502+00:00",
+   "fetched_at": "2026-11-10T15:26:26.132673+00:00",
    "stale": false,
    "items": [
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 164,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1519,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 469,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 44,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 56,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 498,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,32 +107,32 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Your time is limited",
-     "image": "https://i.redd.it/ds78gp8har0i1.gif",
-     "url": "https://redd.it/1xsisct",
-     "ups": 1595,
-     "sub": "r/memes"
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2311,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "For the Germans still up",
-     "image": "https://i.redd.it/asrk2d72gn0i1.png",
-     "url": "https://redd.it/1xs3a5w",
-     "ups": 284,
-     "sub": "r/memes"
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5585,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "A Sharp Mind",
-     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
-     "url": "https://redd.it/1xsi6xg",
-     "ups": 567,
-     "sub": "r/memes"
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
+     "ups": 1519,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I hope this letter finds you well",
-     "image": "https://i.redd.it/9nvy5zda7k0i1.png",
-     "url": "https://redd.it/1xrnp8f",
-     "ups": 442,
-     "sub": "r/memes"
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 200,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Outstanding move",
@@ -170,16 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "Huang, what did you do!?",
-     "image": "https://i.redd.it/s1znyqaqsl0i1.png",
-     "url": "https://redd.it/1xru9fb",
-     "ups": 474,
+     "title": "Nvidia forgot to enable threat detection on the CEO",
+     "image": "https://i.redd.it/65ntd6oixn0i1.png",
+     "url": "https://redd.it/1xs5ssh",
+     "ups": 523,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They have a cave troll!",
+     "image": "https://i.redd.it/2omh2l3tfs0i1.gif",
+     "url": "https://redd.it/1xsn1zn",
+     "ups": 4,
+     "sub": "r/memes"
+    },
+    {
+     "title": "That's me!",
+     "image": "https://i.redd.it/h32y9k3tln0i1.png",
+     "url": "https://redd.it/1xs4721",
+     "ups": 64,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Which one first?",
+     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
+     "url": "https://redd.it/1xrt7ad",
+     "ups": 317,
+     "sub": "r/memes"
+    },
+    {
+     "title": "For the Germans still up",
+     "image": "https://i.redd.it/asrk2d72gn0i1.png",
+     "url": "https://redd.it/1xs3a5w",
+     "ups": 284,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T15:26:07.944525+00:00",
+   "fetched_at": "2026-11-10T15:26:28.262168+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Hot take",
      "author": "Memes",
      "url": "https://reddthat.com/post/76382673",
-     "likes": 47,
+     "likes": 48,
      "image": "https://lemmy.world/pictrs/image/14707664-8a0a-401f-ac91-8ca6e2572740.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "bruh",
      "author": "Political Memes",
      "url": "https://thelemmy.club/post/58733266",
-     "likes": 112,
+     "likes": 113,
      "image": "https://lemmy.world/pictrs/image/89f42d8c-4e3e-44f1-ab1d-8a4c52060d70.jpeg"
     },
     {
@@ -313,11 +313,27 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T15:26:08.304299+00:00",
+   "fetched_at": "2026-11-10T15:26:28.889483+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.",
+     "text": "What do you get when you cross a snowman with a vampire? Frostbite.",
      "source": "Dad joke"
     },
     {
-     "text": "What\u2019s the longest word in the dictionary? Smiles. Because there\u2019s a mile between the two S\u2019s.",
+     "text": "Remember, the best angle to approach a problem from is the \"try\" angle.",
      "source": "Dad joke"
     },
     {
-     "text": "I'd like to start a diet, but I've got too much on my plate right now.",
+     "text": "Why don\u2019t skeletons ever go trick or treating? Because they have nobody to go with.",
      "source": "Dad joke"
     }
    ]
