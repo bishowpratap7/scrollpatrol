@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-10T10:55:10.317133+00:00",
+ "generated_at": "2026-11-10T11:25:16.211675+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-10T10:55:06.093140+00:00",
-   "stale": false,
+   "stale": true,
    "items": [
     {
      "source": "Reddit",
@@ -89,70 +89,84 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T10:55:07.179486+00:00",
+   "fetched_at": "2026-11-10T11:25:12.700203+00:00",
    "stale": false,
    "items": [
     {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 82,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 167,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1533,
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 200,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 9767,
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
+     "ups": 1506,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 15,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 672,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 70,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6700,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17660,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 39,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Nvidia forgot to enable threat detection on the CEO",
-     "image": "https://i.redd.it/65ntd6oixn0i1.png",
-     "url": "https://redd.it/1xs5ssh",
-     "ups": 425,
+     "title": "A Sharp Mind",
+     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
+     "url": "https://redd.it/1xsi6xg",
+     "ups": 47,
      "sub": "r/memes"
     },
     {
-     "title": "Which one first?",
-     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
-     "url": "https://redd.it/1xrt7ad",
-     "ups": 309,
+     "title": "r/whenthe didn't want my meme :(",
+     "image": "https://i.redd.it/uchh0vgf2r0i1.gif",
+     "url": "https://redd.it/1xsi3gc",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
-     "title": "I hope this letter finds you well",
-     "image": "https://i.redd.it/9nvy5zda7k0i1.png",
-     "url": "https://redd.it/1xrnp8f",
-     "ups": 431,
+     "title": "That's me!",
+     "image": "https://i.redd.it/h32y9k3tln0i1.png",
+     "url": "https://redd.it/1xs4721",
+     "ups": 39,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Slander done out of pure rage and spite because DC Studios is changing heads again",
+     "image": "https://i.redd.it/pzbeihx9jn0i1.png",
+     "url": "https://redd.it/1xs3r34",
+     "ups": 1752,
+     "sub": "r/memes"
+    },
+    {
+     "title": "These Tech Bros fumbling one after another in just 2 weeks for no reason",
+     "image": "https://i.redd.it/0t35xo0siq0i1.png",
+     "url": "https://redd.it/1xsgffz",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
@@ -161,88 +175,26 @@
      "url": "https://redd.it/1xsfa93",
      "ups": 11,
      "sub": "r/memes"
-    },
-    {
-     "title": "Fascinating",
-     "image": "https://i.redd.it/hcvigeljef0i1.png",
-     "url": "https://redd.it/1xr49r5",
-     "ups": 5788,
-     "sub": "r/memes"
-    },
-    {
-     "title": "No succulent Chinese meal for me...",
-     "image": "https://i.redd.it/xbhb2umxmq0i1.png",
-     "url": "https://redd.it/1xsgsn6",
-     "ups": 17,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T10:55:09.066758+00:00",
+   "fetched_at": "2026-11-10T11:25:14.960596+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang honey trap report",
+     "text": "Conservatives pledge \u00a336bn welfare cuts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dab2159099f8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f6745d22806f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "House House's AI use in Big Walk",
+     "text": "Democrats' congressional priorities",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "'Who's really running your Bluesky' meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hegseth blocks officer promotions",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Future of DC's shared universe",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump's \"different shaped Ukraine\" remark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "The spy who could bring you down",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
@@ -256,68 +208,116 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Manchester United plans to replace Carrick",
+     "text": "'Who's really running your Bluesky' meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21bbf0f7ed8d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "California votes on billionaire tax",
+     "text": "House House's AI use in Big Walk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
+     "text": "Jensen Huang honey trap report",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dab2159099f8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Brand's father speaks outside court",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1fd03c74158",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "World of Warcraft: Forever launches",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea113d5ba1a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The spy who could bring you down",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic releases Claude Fable 5.2",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4e04c2fc542f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump claims he \"won in Iran\"",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b6f485ef877",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Midterm election aftermath",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "ONG \ud83d\udcaf",
+     "text": "I\u2019m new to the Fediverse, and so far I\u2019m loving it",
+     "author": "Fediverse",
+     "url": "https://lemmy.world/post/54232430",
+     "likes": 20,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Silence",
+     "author": "Memes",
+     "url": "https://piefed.social/c/memes@sopuli.xyz/p/2585182/silence",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/0351fbfa-25ed-4b30-9656-8e62a6a3e733.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Repost.",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/74752614",
-     "likes": 21,
-     "image": "https://lemmy.zip/pictrs/image/8b56d708-8486-4bca-b9e7-850e53e701c9.avif"
+     "url": "https://lemmy.world/post/54232851",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/35ba1df9-a62c-4d6d-9958-3e20d28e036e.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "ich\ud83c\udf46\ud83d\udca6\ud83d\udcc9iel",
-     "author": "ich_iel",
-     "url": "https://feddit.org/post/37842039",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/6b6b3e1f-13d0-4693-9281-9ee6b02c5273.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Data hacked from Russia's own statistics agency suggests more than 400,000 Russians have died in the war in Ukraine, a toll Moscow treats as a state secret.",
-     "author": "World News",
-     "url": "https://lemmy.wtf/post/51760789",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/902b7e08-9b36-4168-b71f-6fc11492ce8a.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
+     "text": "Repost.",
      "author": "linuxmemes",
-     "url": "https://feditown.com/post/3792643",
+     "url": "https://lemmy.world/post/54232900",
      "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/e3143729-7c61-4541-9bd8-f97b3306c6df.png"
+     "image": "https://lemmy.world/pictrs/image/198a1d82-19ee-4420-a834-347561e6b3c0.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T10:55:09.607705+00:00",
+   "fetched_at": "2026-11-10T11:25:15.546869+00:00",
    "stale": false,
    "items": [
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
@@ -325,40 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
+     "text": "A boy dug three holes in the yard. When his mother saw, she exclaimed: \"well, well, well\"",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a chicken with a skunk? A fowl smell!",
+     "text": "Today, my son asked \"Can I have a book mark?\" and I burst into tears. 11 years old and he still doesn't know my name is Brian.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a chicken with a skunk? A fowl smell!",
+     "text": "Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
