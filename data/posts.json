@@ -1,46 +1,10 @@
 {
- "generated_at": "2026-11-10T19:57:38.715598+00:00",
+ "generated_at": "2026-11-10T20:27:46.489454+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T19:57:33.166164+00:00",
+   "fetched_at": "2026-11-10T20:27:40.317203+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Ocasio-Cortez doesn\u2019t back Schumer in Senate leadership vote",
-     "url": "https://www.reddit.com/r/politics/comments/1xssob2/ocasiocortez_doesnt_back_schumer_in_senate/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/tXNckhZ6zxSKv2tjDZJO1ZBqLyN3d25v9qqkR6XIHgQ.jpeg?width=640&crop=smart&auto=webp&s=2b037b1c3e222975b0ea08f40d4bf614f93d21c0"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I want MORE",
-     "url": "https://www.reddit.com/r/comics/comments/1xsq6s8/i_want_more/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/yzyvt2pp2t0i1.png?width=640&crop=smart&auto=webp&s=73c23490ebbac2375f564920631b95260623ae19"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "\"We Didn't Start Iran War\": Pete Hegseth",
-     "url": "https://www.reddit.com/r/nottheonion/comments/1xst9xy/we_didnt_start_iran_war_pete_hegseth/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/qn-o49VL4KtPguxa2F4Rh-OjR6Kc5wTj2S3wArWlKoo.jpeg?width=640&crop=smart&auto=webp&s=b8ba5bcb3b1a8714667a4c9a10bb646beabc9e06"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "The line to 7brew coffee in South Carolina",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xs92yt/the_line_to_7brew_coffee_in_south_carolina/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YmQzN3dxbWJtbzBpMVeKKvFCf3I213EjJ0kgeDi20_hz7PmPMCLRrtU6T-aM.png?width=320&crop=smart&auto=webp&s=63740cfaa7056d19e7d9768bbd1fe9559d55fb22"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -62,11 +26,38 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What celebrity successfully swept their controversy under the rug and continued their career?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xskzlj/what_celebrity_successfully_swept_their/",
+     "title": "\"We Didn't Start Iran War\": Pete Hegseth",
+     "url": "https://www.reddit.com/r/nottheonion/comments/1xst9xy/we_didnt_start_iran_war_pete_hegseth/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/qn-o49VL4KtPguxa2F4Rh-OjR6Kc5wTj2S3wArWlKoo.jpeg?width=640&crop=smart&auto=webp&s=b8ba5bcb3b1a8714667a4c9a10bb646beabc9e06"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Customers at the restaraunt I work at left this for their bill and walked out",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xsa23p/customers_at_the_restaraunt_i_work_at_left_this/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/2whm89okuo0i1.jpeg?width=640&crop=smart&auto=webp&s=d6b5e8d01a6aed8967b810e666fb6789d8ca5e30"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Ocasio-Cortez doesn\u2019t back Schumer in Senate leadership vote",
+     "url": "https://www.reddit.com/r/politics/comments/1xssob2/ocasiocortez_doesnt_back_schumer_in_senate/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/tXNckhZ6zxSKv2tjDZJO1ZBqLyN3d25v9qqkR6XIHgQ.jpeg?width=640&crop=smart&auto=webp&s=2b037b1c3e222975b0ea08f40d4bf614f93d21c0"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "I want MORE",
+     "url": "https://www.reddit.com/r/comics/comments/1xsq6s8/i_want_more/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/yzyvt2pp2t0i1.png?width=640&crop=smart&auto=webp&s=73c23490ebbac2375f564920631b95260623ae19"
     },
     {
      "source": "Reddit",
@@ -80,6 +71,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "What celebrity successfully swept their controversy under the rug and continued their career?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xskzlj/what_celebrity_successfully_swept_their/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Commuters cram into a train during rush hour in Tokyo with the help of an oshiya (pusher).",
      "url": "https://www.reddit.com/r/interesting/comments/1xsikbj/commuters_cram_into_a_train_during_rush_hour_in/",
      "score": 0,
@@ -89,97 +89,97 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T19:57:34.417525+00:00",
+   "fetched_at": "2026-11-10T20:27:41.500008+00:00",
    "stale": false,
    "items": [
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1537,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 367,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 692,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 441,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 41,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7456,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1523,
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 1227,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6703,
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "perfectSquare",
-     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
-     "url": "https://redd.it/1xmmmd5",
-     "ups": 473,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23194,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everything has ups and downs",
-     "image": "https://i.redd.it/qzvqju9his0i1.png",
-     "url": "https://redd.it/1xsnez3",
-     "ups": 430,
+     "title": "Senator, she is Singaporean",
+     "image": "https://i.redd.it/k6qic4ritt0i1.png",
+     "url": "https://redd.it/1xsu7pt",
+     "ups": 119,
      "sub": "r/memes"
     },
     {
-     "title": "Your time is limited",
-     "image": "https://i.redd.it/ds78gp8har0i1.gif",
-     "url": "https://redd.it/1xsisct",
-     "ups": 3251,
+     "title": "one in a billionaire opportunity",
+     "image": "https://i.redd.it/ech35ify2t0i1.png",
+     "url": "https://redd.it/1xsqa4m",
+     "ups": 2604,
      "sub": "r/memes"
     },
     {
-     "title": "Well, that's and an end to that era",
-     "image": "https://i.redd.it/m9qwmbwuet0i1.png",
-     "url": "https://redd.it/1xss0ci",
-     "ups": 41,
+     "title": "Jensen just need to learn some gun-slinging",
+     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
+     "url": "https://redd.it/1xsarhm",
+     "ups": 899,
      "sub": "r/memes"
     },
     {
-     "title": "A Sharp Mind",
-     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
-     "url": "https://redd.it/1xsi6xg",
-     "ups": 1184,
+     "title": "Huang, what did you do!?",
+     "image": "https://i.redd.it/s1znyqaqsl0i1.png",
+     "url": "https://redd.it/1xru9fb",
+     "ups": 487,
      "sub": "r/memes"
     },
     {
-     "title": "It feels... Amazing.. Satisfaction..",
-     "image": "https://i.redd.it/2reu2z5cml0i1.png",
-     "url": "https://redd.it/1xrtbys",
-     "ups": 962,
+     "title": "Nvidia forgot to enable threat detection on the CEO",
+     "image": "https://i.redd.it/65ntd6oixn0i1.png",
+     "url": "https://redd.it/1xs5ssh",
+     "ups": 609,
      "sub": "r/memes"
     },
     {
-     "title": "These Tech Bros fumbling one after another in just 2 weeks for no reason",
-     "image": "https://i.redd.it/0t35xo0siq0i1.png",
-     "url": "https://redd.it/1xsgffz",
-     "ups": 35,
+     "title": "Catfishing ram altman \ud83e\udd24",
+     "image": "https://i.redd.it/ty23na5ozt0i1.png",
+     "url": "https://redd.it/1xsv51f",
+     "ups": 4,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T19:57:37.066910+00:00",
+   "fetched_at": "2026-11-10T20:27:44.649478+00:00",
    "stale": false,
    "items": [
     {
@@ -192,41 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vikings seek quarterback trade",
+     "text": "Bernie Sanders won't back Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/120fad822dc8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Unsexy policies that would help millions",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/23abc227a42a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia CEO shareholder lawsuit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Warner Bros. remaking You've Got Mail",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/49ddc974f300",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +208,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "David Walliams children's books pulped",
+     "text": "Nvidia CEO shareholder lawsuit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Vikings seek quarterback trade",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/120fad822dc8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Warner Bros. remaking You've Got Mail",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/49ddc974f300",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -256,6 +248,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Veterans Day observances",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "'Who's really running your Bluesky' meme",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
@@ -264,9 +264,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Don Leonard alleges Democratic threats",
+     "text": "Unsexy policies that would help millions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/46e270d091d1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/23abc227a42a",
      "likes": 0,
      "image": ""
     },
@@ -280,85 +280,85 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "Neurodivergence",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.today/post/63100185",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/6b342c87-d2c7-4980-8b49-066fe2078f80.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "House Republicans Pick Election Denier Jim Jordan to Lead Them",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54251482",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/fe24011a-cb9e-4346-914e-479510d001df.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "dashboard",
      "author": "Lemmy Shitpost",
      "url": "https://sopuli.xyz/post/54421619",
-     "likes": 67,
+     "likes": 124,
      "image": "https://lemmy.world/pictrs/image/1c812ad5-ec09-4bd3-aa17-aa959ebf8f73.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Text rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50336210",
-     "likes": 51,
-     "image": "https://lemmy.world/pictrs/image/380f6175-01bc-4d28-aaac-4f7f921b5bd7.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Revealed: David Walliams accused of using celebrity status to prey on young women for sex",
+     "text": "Australia considers world-first criminal charges for AI companies that fail to prevent harm",
      "author": "World News",
-     "url": "https://sh.itjust.works/post/69727103",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/bd31eaf2-b670-4ad2-9fc2-910822abcb8f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Poland isn't real",
-     "author": "CartographyAnarchy",
-     "url": "https://sh.itjust.works/post/69725529",
-     "likes": 50,
-     "image": "https://lemmy.world/pictrs/image/766eba84-7bef-460f-8b0b-bbd2806241e5.jpeg"
+     "url": "https://lemmy.world/post/54251257",
+     "likes": 31,
+     "image": "https://live-production.wcms.abc-cdn.net.au/f52cf44950bd2bb7fde046fb2d52d288?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=1&width=862&height=485"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T19:57:37.690092+00:00",
+   "fetched_at": "2026-11-10T20:27:45.389988+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
     {
      "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you organize a space party? You planet.",
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What kind of magic do cows believe in? MOODOO.",
      "source": "Dad joke"
     },
     {
-     "text": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
+     "text": "What did the late tomato say to the early tomato? I\u2019ll ketch up",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a cow with no legs? Ground beef.",
+     "text": "How can you tell a vampire has a cold? They start coffin.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
