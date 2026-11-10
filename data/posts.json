@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T07:23:42.012701+00:00",
+ "generated_at": "2026-11-10T07:53:48.651653+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T07:23:36.754309+00:00",
+   "fetched_at": "2026-11-10T07:53:43.760953+00:00",
    "stale": false,
    "items": [
     {
@@ -26,15 +26,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Why would I deceive you?",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsaggn/why_would_i_deceive_you/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/MWR0eXhtNjF5bzBpMTu9kawtZdw69GWKaq0xIArdo4FdfLLU7q4X8POTUnw0.jpeg?width=640&crop=smart&auto=webp&s=e93d5a7da2006c99fd1920c4e22d4357c48daa81"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Divorce lawyers of Reddit, what's the most shocking secret you've seen come out during a divorce?",
      "url": "https://www.reddit.com/r/AskReddit/comments/1xrtjxt/divorce_lawyers_of_reddit_whats_the_most_shocking/",
      "score": 0,
@@ -53,20 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Well done Montana",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xsc153/well_done_montana/",
+     "title": "Why would I deceive you?",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xsaggn/why_would_i_deceive_you/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/7715okkkbp0i1.jpeg?width=640&crop=smart&auto=webp&s=fc18e6af3e1512b1a32812c2f36f9d1927f36b10"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My son moved out, and my cat took his place at the dining room table",
-     "url": "https://www.reddit.com/r/blackcats/comments/1xsc9d0/my_son_moved_out_and_my_cat_took_his_place_at_the/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/q2wwtxyjdp0i1.jpeg?width=640&crop=smart&auto=webp&s=b57b6989e2faa791b98e8ed6389b58f5225c1f75"
+     "image": "https://external-preview.redd.it/MWR0eXhtNjF5bzBpMTu9kawtZdw69GWKaq0xIArdo4FdfLLU7q4X8POTUnw0.jpeg?width=640&crop=smart&auto=webp&s=e93d5a7da2006c99fd1920c4e22d4357c48daa81"
     },
     {
      "source": "Reddit",
@@ -80,44 +62,55 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Bad Alcohol Advice",
-     "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1xs90xm/bad_alcohol_advice/",
+     "title": "Well done Montana",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xsc153/well_done_montana/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/q7wogbrulo0i1.jpeg?width=640&crop=smart&auto=webp&s=baf2954ea774bc8d122857513e6fa0f9c357d053"
+     "image": "https://preview.redd.it/7715okkkbp0i1.jpeg?width=640&crop=smart&auto=webp&s=fc18e6af3e1512b1a32812c2f36f9d1927f36b10"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The kids got too jacked.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xrxfyb/the_kids_got_too_jacked/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/5c3hah1odm0i1.png?width=640&crop=smart&auto=webp&s=602108c52f56ac4cd32995fade3a69e10a662da3"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My son moved out, and my cat took his place at the dining room table",
+     "url": "https://www.reddit.com/r/blackcats/comments/1xsc9d0/my_son_moved_out_and_my_cat_took_his_place_at_the/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/q2wwtxyjdp0i1.jpeg?width=640&crop=smart&auto=webp&s=b57b6989e2faa791b98e8ed6389b58f5225c1f75"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T07:23:38.028404+00:00",
+   "fetched_at": "2026-11-10T07:53:45.024213+00:00",
    "stale": false,
    "items": [
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 198,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 14,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everyNetworkAPIOnThePlanetToday",
-     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
-     "url": "https://redd.it/1xoir0t",
-     "ups": 1356,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23024,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "shortCircuitEvaluation",
-     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
-     "url": "https://redd.it/1xkb8l0",
-     "ups": 692,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 2450,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,58 +121,65 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2242,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 153,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Introducing AMD InFidelityFX for Jensen",
-     "image": "https://i.redd.it/67v7i0685l0i1.png",
-     "url": "https://redd.it/1xrr4dx",
-     "ups": 50,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 669,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "made with microsoft paint",
+     "image": "https://i.redd.it/kgidyowp1n0i1.png",
+     "url": "https://redd.it/1xs15ev",
+     "ups": 18,
      "sub": "r/memes"
     },
     {
-     "title": "The correct use of this meme \ud83d\ude1c",
-     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
-     "url": "https://redd.it/1xserqv",
-     "ups": 4,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It feels... Amazing.. Satisfaction..",
-     "image": "https://i.redd.it/2reu2z5cml0i1.png",
-     "url": "https://redd.it/1xrtbys",
-     "ups": 823,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Interesting AI",
-     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
-     "url": "https://redd.it/1xrh4wo",
-     "ups": 264,
+     "title": "Which one first?",
+     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
+     "url": "https://redd.it/1xrt7ad",
+     "ups": 290,
      "sub": "r/memes"
     },
     {
      "title": "CCP Honeypot got me acting unwise",
      "image": "https://i.redd.it/1idjzerhun0i1.png",
      "url": "https://redd.it/1xs5eaw",
-     "ups": 20,
+     "ups": 26,
      "sub": "r/memes"
     },
     {
-     "title": "it hurts \ud83e\udd40",
-     "image": "https://i.redd.it/yntzhoh1rk0i1.png",
-     "url": "https://redd.it/1xrpk2r",
-     "ups": 70,
+     "title": "No succulent Chinese meal for me...",
+     "image": "https://i.redd.it/xbhb2umxmq0i1.png",
+     "url": "https://redd.it/1xsgsn6",
+     "ups": 3,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I hope this letter finds you well",
+     "image": "https://i.redd.it/9nvy5zda7k0i1.png",
+     "url": "https://redd.it/1xrnp8f",
+     "ups": 418,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Interesting AI",
+     "image": "https://i.redd.it/3t6xcq2y9i0i1.png",
+     "url": "https://redd.it/1xrh4wo",
+     "ups": 268,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T07:23:40.541032+00:00",
+   "fetched_at": "2026-11-10T07:53:47.475270+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Democrats' congressional priorities",
+     "text": "Trump's \"different shaped Ukraine\" remark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "'Who's really running your Bluesky' meme",
+     "text": "The spy who could bring you down",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democrats' congressional priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
@@ -224,22 +232,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Massie files Hegseth impeachment articles",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Future of DC's shared universe",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
@@ -248,33 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "The spy who could bring you down",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic releases Claude Fable 5.2",
+     "text": "Backyard bird sightings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4e04c2fc542f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "California votes on billionaire tax",
+     "text": "Krakow shooting suspect dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5fe1eb128bae",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0df2245b26a9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth blocks officer promotions",
+     "text": "Van Hollen open to Senate leader run",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7ea9bdc8eb4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Midterm election aftermath",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -283,45 +283,45 @@
      "text": ":D",
      "author": "linuxmemes",
      "url": "https://gehirneimer.de/m/linuxmemes@lemmy.world/t/1236504",
-     "likes": 21,
+     "likes": 63,
      "image": "https://lemmy.world/pictrs/image/b0904ffb-cea1-4a23-b127-001c5bd62b10.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "You are an adult and can do what you want!",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54225257",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/81f53849-d820-4340-8d2a-0bcd92ff579d.png"
+     "text": "Huang's Wang",
+     "author": "Funny",
+     "url": "https://programming.dev/post/59195222",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/cb78dd68-dd31-4197-b15b-4b610ed407dc.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "it career in mage career terms",
+     "text": "Nvidia",
      "author": "Programmer Humor",
-     "url": "https://lemmy.blahaj.zone/post/50313125",
-     "likes": 76,
-     "image": "https://lemmy.world/pictrs/image/3e822ac7-fe04-4564-b5fe-ad8561307aee.webp"
+     "url": "https://piefed.social/c/programmer_humor@programming.dev/p/2584736/nvidia",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/c732064e-b3c8-4840-ace9-626a96c4c5d4.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "bi lighting",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.blahaj.zone/post/50313872",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/2064be7a-51ad-46ae-957d-d6e8ca094f5e.webp"
+     "text": "Recursive",
+     "author": "Lemmy Shitpost",
+     "url": "https://sh.itjust.works/post/69698405",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/6d90ba9c-cfda-4e86-a277-f1c5841bfd51.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T07:23:41.290265+00:00",
+   "fetched_at": "2026-11-10T07:53:47.903135+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
@@ -329,11 +329,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do you call an old snowman? Water.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
+     "text": "Why was Pavlov's beard so soft?  Because he conditioned it.",
      "source": "Dad joke"
     },
     {
-     "text": "What is the tallest building in the world? The library \u2013 it\u2019s got the most stories!",
+     "text": "A man walks into a bar and orders helicopter flavor chips. The barman replies \u201csorry mate we only do plain\u201d",
      "source": "Dad joke"
     }
    ]
