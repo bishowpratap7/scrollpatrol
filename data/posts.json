@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-10T12:25:28.648775+00:00",
+ "generated_at": "2026-11-10T12:55:34.463281+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T12:25:23.923126+00:00",
+   "fetched_at": "2026-11-10T12:55:30.273877+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "No one gets left behind!",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xsjb5x/no_one_gets_left_behind/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZWdkbzE2ZjhncjBpMaNXJMpkXc3XUMOQtGOpKLMdut7k6OlRTVSi7k6BAUpK.jpeg?width=320&crop=smart&auto=webp&s=0b19299c6dc94010e69fa5660048503a10cbff33"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,15 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/YmQzN3dxbWJtbzBpMVeKKvFCf3I213EjJ0kgeDi20_hz7PmPMCLRrtU6T-aM.png?width=320&crop=smart&auto=webp&s=63740cfaa7056d19e7d9768bbd1fe9559d55fb22"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xsicqp/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/i0d2uygd5r0i1.jpeg?width=640&crop=smart&auto=webp&s=127ce3c8b15bd71090fb1eb28dceaf80d19db13d"
     },
     {
      "source": "Reddit",
@@ -44,29 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "How do you feel about NewYork introducing a bill to ban former ICE agents from serving as police officers or teachers?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xsg0uh/how_do_you_feel_about_newyork_introducing_a_bill/",
+     "title": "No one gets left behind!",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xsjb5x/no_one_gets_left_behind/",
      "score": 0,
      "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Everyone but me..",
-     "url": "https://www.reddit.com/r/memes/comments/1xscedk/everyone_but_me/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/p84730ysep0i1.jpeg?width=640&crop=smart&auto=webp&s=6b4c3e38af233972f1888fc068d0c5f4d32d2238"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Millennials, as we approach 45, what is your midlife crisis starting to look like?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xs1jkx/millennials_as_we_approach_45_what_is_your/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/ZWdkbzE2ZjhncjBpMaNXJMpkXc3XUMOQtGOpKLMdut7k6OlRTVSi7k6BAUpK.jpeg?width=320&crop=smart&auto=webp&s=0b19299c6dc94010e69fa5660048503a10cbff33"
     },
     {
      "source": "Reddit",
@@ -85,32 +49,54 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/s1lr8op5wo0i1.jpeg?width=640&crop=smart&auto=webp&s=648439c4fb89a2dfcaae48c8b695f866e0a864fd"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Russell Brand Sentenced To 10 Years In Prison",
+     "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/jm01XUxfSCxGKtimqwh1cds4Rjyi72vznvzmtyXDRkE.jpeg?width=640&crop=smart&auto=webp&s=d0aa639661de33fec4a8006c36205386f5e1006f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xsicqp/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/i0d2uygd5r0i1.jpeg?width=640&crop=smart&auto=webp&s=127ce3c8b15bd71090fb1eb28dceaf80d19db13d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Tech guy & Chinese spy wife or something idk",
+     "url": "https://www.reddit.com/r/Steam/comments/1xskndw/tech_guy_chinese_spy_wife_or_something_idk/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/7lq75jpiur0i1.jpeg?width=640&crop=smart&auto=webp&s=5f2a975812f274a0d97fed411bb4cbd97818a7d7"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Will she, won't she?",
+     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xrwy7d/will_she_wont_she/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/pkwiqaxiam0i1.jpeg?width=640&crop=smart&auto=webp&s=45199f1f27ff59857758a105f6ae1d395504bf0b"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T12:25:24.941378+00:00",
+   "fetched_at": "2026-11-10T12:55:31.223310+00:00",
    "stale": false,
    "items": [
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 67,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "samCanNeverTakeOurDram",
-     "image": "https://i.redd.it/0sugyt63d1zh1.png",
-     "url": "https://redd.it/1xl8yae",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 559,
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 275,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,31 +107,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 674,
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 474,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1219,
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
+     "ups": 1509,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "These Tech Bros fumbling one after another in just 2 weeks for no reason",
-     "image": "https://i.redd.it/0t35xo0siq0i1.png",
-     "url": "https://redd.it/1xsgffz",
-     "ups": 13,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1290,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 67,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Which one first?",
+     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
+     "url": "https://redd.it/1xrt7ad",
+     "ups": 306,
      "sub": "r/memes"
     },
     {
-     "title": "Your time is limited",
-     "image": "https://i.redd.it/ds78gp8har0i1.gif",
-     "url": "https://redd.it/1xsisct",
-     "ups": 786,
+     "title": "That's me!",
+     "image": "https://i.redd.it/h32y9k3tln0i1.png",
+     "url": "https://redd.it/1xs4721",
+     "ups": 59,
      "sub": "r/memes"
     },
     {
@@ -156,109 +156,45 @@
      "sub": "r/memes"
     },
     {
-     "title": "No succulent Chinese meal for me...",
-     "image": "https://i.redd.it/xbhb2umxmq0i1.png",
-     "url": "https://redd.it/1xsgsn6",
-     "ups": 36,
+     "title": "Nvidia forgot to enable threat detection on the CEO",
+     "image": "https://i.redd.it/65ntd6oixn0i1.png",
+     "url": "https://redd.it/1xs5ssh",
+     "ups": 473,
      "sub": "r/memes"
     },
     {
-     "title": "Outstanding move",
-     "image": "https://i.redd.it/qye5o9fn6q0i1.png",
-     "url": "https://redd.it/1xsfa93",
-     "ups": 10,
+     "title": "Jensen just need to learn some gun-slinging",
+     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
+     "url": "https://redd.it/1xsarhm",
+     "ups": 618,
      "sub": "r/memes"
     },
     {
-     "title": "That's me!",
-     "image": "https://i.redd.it/h32y9k3tln0i1.png",
-     "url": "https://redd.it/1xs4721",
-     "ups": 59,
+     "title": "Your time is limited",
+     "image": "https://i.redd.it/ds78gp8har0i1.gif",
+     "url": "https://redd.it/1xsisct",
+     "ups": 786,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T12:25:27.378024+00:00",
+   "fetched_at": "2026-11-10T12:55:33.168443+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang honey trap report",
+     "text": "Allegations against David Walliams",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dab2159099f8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth blocks officer promotions",
+     "text": "Conservatives pledge \u00a336bn welfare cuts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "'Who's really running your Bluesky' meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Future of DC's shared universe",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Disney partners with Adobe on AI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/02f8f8fc64ec",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "CBS last in election night ratings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9099e8ff9188",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Booker Prize winner announcement",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402a5fdd3d9d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "The spy who could bring you down",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f6745d22806f",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +208,98 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Conservatives pledge \u00a336bn welfare cuts",
+     "text": "Jensen Huang honey trap report",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f6745d22806f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dab2159099f8",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "House House's AI use in Big Walk",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Future of DC's shared universe",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "'Who's really running your Bluesky' meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The spy who could bring you down",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Backyard bird sightings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3983e0dce831",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Manchester United plans to replace Carrick",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21bbf0f7ed8d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's \"different shaped Ukraine\" remark",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Hegseth blocks officer promotions",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "A long-awaited classic returns.",
+     "author": "Lemmy Shitpost",
+     "url": "https://sh.itjust.works/post/69708784",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/77068605-e6f4-45a8-ab59-69355cc3e063.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Retired Navy Admiral Nancy Lacore fired by Hegseth wins House seat, says he damaged readiness of entire military",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54234537",
+     "likes": 62,
+     "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26301250605334.jpg?q=49&fit=crop&w=480&h=270&g=nowe%3A0%3A0&dpr=2"
     },
     {
      "kind": "Lemmy post",
      "text": "happy circulatory system walking through the kitchen day y'all",
      "author": "memes",
      "url": "https://lemmy.blahaj.zone/post/50320950",
-     "likes": 34,
+     "likes": 62,
      "image": "https://lemmy.world/pictrs/image/0edc88e4-5544-494a-8731-edd7946f05b6.webp"
     },
     {
@@ -291,41 +307,33 @@
      "text": "Poor Yuna Song",
      "author": "memes",
      "url": "https://piefed.zip/c/memes@lemmy.world/p/1985140/poor-yuna-song",
-     "likes": 35,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/06a00c02-4ad5-47cb-b0cc-f7edceebc412.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Retired Navy Admiral Nancy Lacore fired by Hegseth wins House seat, says he damaged readiness of entire military",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54234537",
-     "likes": 26,
-     "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/11/ap26301250605334.jpg?q=49&fit=crop&w=480&h=270&g=nowe%3A0%3A0&dpr=2"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "We have a new shadow president \u2013 and he can play Trump like a fiddle",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54234469",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/4cb5fcf5-7e82-47be-a783-0e9f8d13ff21.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T12:25:28.066526+00:00",
+   "fetched_at": "2026-11-10T12:55:33.802474+00:00",
    "stale": false,
    "items": [
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How come the stadium got hot after the game? Because all of the fans left.",
+     "text": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
      "source": "Dad joke"
     },
     {
-     "text": "Why was it called the dark ages? Because of all the knights. ",
+     "text": "So a duck walks into a pharmacy and says \u201cGive me some chap-stick\u2026 and put it on my bill\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "How do you steal a coat? You jacket.",
+     "text": "Breaking news! Energizer Bunny arrested \u2013 charged with battery.",
      "source": "Dad joke"
     }
    ]
