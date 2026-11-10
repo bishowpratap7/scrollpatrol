@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-10T09:24:35.148139+00:00",
+ "generated_at": "2026-11-10T09:54:40.690143+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T09:24:30.558228+00:00",
+   "fetched_at": "2026-11-10T09:54:36.657611+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Everyone but me..",
-     "url": "https://www.reddit.com/r/memes/comments/1xscedk/everyone_but_me/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/p84730ysep0i1.jpeg?width=640&crop=smart&auto=webp&s=6b4c3e38af233972f1888fc068d0c5f4d32d2238"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -31,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/aaoyxicbem0i1.jpeg?width=640&crop=smart&auto=webp&s=6d6af476e5a8e09001a1e62c79d2c80c89bbc765"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Well done Montana",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xsc153/well_done_montana/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/7715okkkbp0i1.jpeg?width=640&crop=smart&auto=webp&s=fc18e6af3e1512b1a32812c2f36f9d1927f36b10"
     },
     {
      "source": "Reddit",
@@ -71,6 +53,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Everyone but me..",
+     "url": "https://www.reddit.com/r/memes/comments/1xscedk/everyone_but_me/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/p84730ysep0i1.jpeg?width=640&crop=smart&auto=webp&s=6b4c3e38af233972f1888fc068d0c5f4d32d2238"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Russell Brand Sentenced To 10 Years In Prison",
      "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
      "score": 0,
@@ -85,108 +76,149 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/s1lr8op5wo0i1.jpeg?width=640&crop=smart&auto=webp&s=648439c4fb89a2dfcaae48c8b695f866e0a864fd"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "That face. Clearly busted",
+     "url": "https://www.reddit.com/r/AnimalsBeingDerps/comments/1xsftza/that_face_clearly_busted/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/dXE5cmI1ZmNjcTBpMXsUUbcnoDunz21hGwYDdXvVU5Vmdjyh1HunKJoqqVTh.jpeg?width=320&crop=smart&auto=webp&s=403e068e513ad44dae1ee694e26ba0f58ea9c8b9"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T09:24:31.515771+00:00",
+   "fetched_at": "2026-11-10T09:54:37.912272+00:00",
    "stale": false,
    "items": [
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 190,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 356,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 204,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 41,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theTemporaryFixHasOutlivedTwoFrameworksAndARewrite",
-     "image": "https://i.redd.it/avuiifd42p0i1.png",
-     "url": "https://redd.it/1xsaz5k",
-     "ups": 480,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17632,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 9722,
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1783,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3322,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23059,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 34,
+     "title": "dontComeNearMyRamSammyBoy",
+     "image": "https://i.redd.it/w14dgg7je1zh1.png",
+     "url": "https://redd.it/1xl94ur",
+     "ups": 182,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Outstanding move",
-     "image": "https://i.redd.it/qye5o9fn6q0i1.png",
-     "url": "https://redd.it/1xsfa93",
-     "ups": 7,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Introducing AMD InFidelityFX for Jensen",
-     "image": "https://i.redd.it/67v7i0685l0i1.png",
-     "url": "https://redd.it/1xrr4dx",
-     "ups": 50,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The correct use of this meme \ud83d\ude1c",
-     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
-     "url": "https://redd.it/1xserqv",
-     "ups": 177,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jensen just need to learn some gun-slinging",
-     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
-     "url": "https://redd.it/1xsarhm",
-     "ups": 332,
+     "title": "For the Germans still up",
+     "image": "https://i.redd.it/asrk2d72gn0i1.png",
+     "url": "https://redd.it/1xs3a5w",
+     "ups": 225,
      "sub": "r/memes"
     },
     {
      "title": "I hope this letter finds you well",
      "image": "https://i.redd.it/9nvy5zda7k0i1.png",
      "url": "https://redd.it/1xrnp8f",
-     "ups": 418,
+     "ups": 431,
      "sub": "r/memes"
     },
     {
-     "title": "Fascinating",
-     "image": "https://i.redd.it/hcvigeljef0i1.png",
-     "url": "https://redd.it/1xr49r5",
-     "ups": 5760,
+     "title": "No succulent Chinese meal for me...",
+     "image": "https://i.redd.it/xbhb2umxmq0i1.png",
+     "url": "https://redd.it/1xsgsn6",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The correct use of this meme \ud83d\ude1c",
+     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
+     "url": "https://redd.it/1xserqv",
+     "ups": 223,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Which one first?",
+     "image": "https://i.redd.it/0wrmhx2dll0i1.png",
+     "url": "https://redd.it/1xrt7ad",
+     "ups": 309,
+     "sub": "r/memes"
+    },
+    {
+     "title": "made with microsoft paint",
+     "image": "https://i.redd.it/kgidyowp1n0i1.png",
+     "url": "https://redd.it/1xs15ev",
+     "ups": 21,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T09:24:33.988612+00:00",
+   "fetched_at": "2026-11-10T09:54:39.471162+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Big Walk AI code allegations",
+     "text": "'Who's really running your Bluesky' meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The spy who could bring you down",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Future of DC's shared universe",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's \"different shaped Ukraine\" remark",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
@@ -208,33 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's \"different shaped Ukraine\" remark",
+     "text": "House House's AI use in Big Walk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "James Gunn's reported DC Studios exit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/664294003eea",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hegseth blocks officer promotions",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "The spy who could bring you down",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
      "likes": 0,
      "image": ""
     },
@@ -248,34 +256,50 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Disney partners with Adobe on AI",
+     "text": "Manchester United plans to replace Carrick",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/02f8f8fc64ec",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21bbf0f7ed8d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Democrats' congressional priorities",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump claims he \"won in Iran\"",
+     "text": "Massie files Hegseth impeachment articles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b6f485ef877",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Trump's \"should have had stock\" remark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fe2ae921d9",
-     "likes": 0,
+     "kind": "Lemmy post",
+     "text": "The dems are in the lab right now cooking up the giga-parlamentarian",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55135378",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/31059c9a-8bd4-43a1-8dd0-330207076909.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "2026 bingo: The Libertarian Party outflanking the dems from the left",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55135376",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/36592e53-e74b-4f71-855a-844bbd9395f3.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Cycling around Amsterdam with NJB",
+     "author": "Fuck Cars",
+     "url": "https://lemmy.world/post/54229537",
+     "likes": 9,
      "image": ""
     },
     {
@@ -283,49 +307,25 @@
      "text": "Would it be a speedrun?",
      "author": "Autism Memes",
      "url": "https://lemmy.zip/post/74749961",
-     "likes": 12,
+     "likes": 23,
      "image": "https://lemmy.zip/pictrs/image/08df341c-a3da-4e7e-b35f-82467262a3a1.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Tech support, how can i help you sir?",
-     "author": "linuxmemes",
-     "url": "https://sopuli.xyz/post/54398989",
-     "likes": 55,
-     "image": "https://lemmy.world/pictrs/image/ef0ed220-4637-4213-ae18-c6cd728321bc.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Whiplash",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63071435",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/cd759cea-7ac2-4857-804f-e0aabcf54fca.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Nvidia",
-     "author": "Programmer Humor",
-     "url": "https://piefed.social/c/programmer_humor@programming.dev/p/2584736/nvidia",
-     "likes": 98,
-     "image": "https://lemmy.world/pictrs/image/c732064e-b3c8-4840-ace9-626a96c4c5d4.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T09:24:34.413777+00:00",
+   "fetched_at": "2026-11-10T09:54:39.962899+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "What's the difference between a seal and a sea lion?\r\nAn ion! ",
+     "text": "Whiteboards ... are remarkable.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the octopus beat the shark in a fight? Because it was well armed.",
+     "text": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"\r\n\"Pop,\" goes the weasel.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are fish so smart? Because they live in schools!",
+     "text": "How does a dyslexic poet write? Inverse.",
      "source": "Dad joke"
     }
    ]
