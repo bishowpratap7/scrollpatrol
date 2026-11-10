@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-10T11:25:16.211675+00:00",
+ "generated_at": "2026-11-10T11:55:22.339894+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-10T10:55:06.093140+00:00",
-   "stale": true,
+   "fetched_at": "2026-11-10T11:55:18.060796+00:00",
+   "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Everyone but me..",
-     "url": "https://www.reddit.com/r/memes/comments/1xscedk/everyone_but_me/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/p84730ysep0i1.jpeg?width=640&crop=smart&auto=webp&s=6b4c3e38af233972f1888fc068d0c5f4d32d2238"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -31,6 +22,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/aaoyxicbem0i1.jpeg?width=640&crop=smart&auto=webp&s=6d6af476e5a8e09001a1e62c79d2c80c89bbc765"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "No one gets left behind!",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xsjb5x/no_one_gets_left_behind/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZWdkbzE2ZjhncjBpMaNXJMpkXc3XUMOQtGOpKLMdut7k6OlRTVSi7k6BAUpK.jpeg?width=320&crop=smart&auto=webp&s=0b19299c6dc94010e69fa5660048503a10cbff33"
     },
     {
      "source": "Reddit",
@@ -62,6 +62,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Girlfriend absolutely hates GTA VI and has threatened to end our relationship if I decide to buy it",
+     "url": "https://www.reddit.com/r/BoyDinnerDiaries/comments/1xsa8nc/girlfriend_absolutely_hates_gta_vi_and_has/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/s1lr8op5wo0i1.jpeg?width=640&crop=smart&auto=webp&s=648439c4fb89a2dfcaae48c8b695f866e0a864fd"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Russell Brand Sentenced To 10 Years In Prison",
      "url": "https://www.reddit.com/r/movies/comments/1xrt5na/russell_brand_sentenced_to_10_years_in_prison/",
      "score": 0,
@@ -71,27 +80,39 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "My son moved out, and my cat took his place at the dining room table",
-     "url": "https://www.reddit.com/r/blackcats/comments/1xsc9d0/my_son_moved_out_and_my_cat_took_his_place_at_the/",
+     "title": "100s of people gathered at Millennium Park today to move the iconic Bean 7 inches.",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xrr07v/100s_of_people_gathered_at_millennium_park_today/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/q2wwtxyjdp0i1.jpeg?width=640&crop=smart&auto=webp&s=b57b6989e2faa791b98e8ed6389b58f5225c1f75"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Well done Montana",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xsc153/well_done_montana/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/7715okkkbp0i1.jpeg?width=640&crop=smart&auto=webp&s=fc18e6af3e1512b1a32812c2f36f9d1927f36b10"
+     "image": "https://external-preview.redd.it/aGZjY2ZleWI0bDBpMWnOwCRFiRnCsUbCtLHvL_i9liYw9vcxUprfpQmo_4cJ.png?width=320&crop=smart&auto=webp&s=42ee2f0e3606fb354ee7bafc12c78d6c4ff9643a"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-10T11:25:12.700203+00:00",
+   "fetched_at": "2026-11-10T11:55:19.058591+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 469,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23081,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 243,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "justUseWebm",
      "image": "https://i.redd.it/naj70oqxc4zh1.png",
@@ -100,86 +121,65 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 200,
+     "title": "withholdingDRAM",
+     "image": "https://i.redd.it/13cdasenalzh1.png",
+     "url": "https://redd.it/1xnn01s",
+     "ups": 204,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1506,
+     "title": "shortCircuitEvaluation",
+     "image": "https://i.redd.it/urbt8qtv8tyh1.png",
+     "url": "https://redd.it/1xkb8l0",
+     "ups": 688,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 672,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6700,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 39,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "A Sharp Mind",
-     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
-     "url": "https://redd.it/1xsi6xg",
-     "ups": 47,
-     "sub": "r/memes"
-    },
-    {
-     "title": "r/whenthe didn't want my meme :(",
-     "image": "https://i.redd.it/uchh0vgf2r0i1.gif",
-     "url": "https://redd.it/1xsi3gc",
-     "ups": 3,
-     "sub": "r/memes"
-    },
-    {
-     "title": "That's me!",
-     "image": "https://i.redd.it/h32y9k3tln0i1.png",
-     "url": "https://redd.it/1xs4721",
-     "ups": 39,
-     "sub": "r/memes"
     },
     {
      "title": "Slander done out of pure rage and spite because DC Studios is changing heads again",
      "image": "https://i.redd.it/pzbeihx9jn0i1.png",
      "url": "https://redd.it/1xs3r34",
-     "ups": 1752,
+     "ups": 1913,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's hard to be a DC fan",
+     "image": "https://i.redd.it/zprw02tupn0i1.png",
+     "url": "https://redd.it/1xs4rwx",
+     "ups": 1302,
      "sub": "r/memes"
     },
     {
      "title": "These Tech Bros fumbling one after another in just 2 weeks for no reason",
      "image": "https://i.redd.it/0t35xo0siq0i1.png",
      "url": "https://redd.it/1xsgffz",
-     "ups": 5,
+     "ups": 13,
      "sub": "r/memes"
     },
     {
-     "title": "Outstanding move",
-     "image": "https://i.redd.it/qye5o9fn6q0i1.png",
-     "url": "https://redd.it/1xsfa93",
-     "ups": 11,
+     "title": "The correct use of this meme \ud83d\ude1c",
+     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
+     "url": "https://redd.it/1xserqv",
+     "ups": 262,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It feels... Amazing.. Satisfaction..",
+     "image": "https://i.redd.it/2reu2z5cml0i1.png",
+     "url": "https://redd.it/1xrtbys",
+     "ups": 912,
+     "sub": "r/memes"
+    },
+    {
+     "title": "r/whenthe didn't want my meme :(",
+     "image": "https://i.redd.it/uchh0vgf2r0i1.gif",
+     "url": "https://redd.it/1xsi3gc",
+     "ups": 1,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-10T11:25:14.960596+00:00",
+   "fetched_at": "2026-11-10T11:55:21.360771+00:00",
    "stale": false,
    "items": [
     {
@@ -187,38 +187,6 @@
      "text": "Conservatives pledge \u00a336bn welfare cuts",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f6745d22806f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Democrats' congressional priorities",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Booker Prize winner announcement",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402a5fdd3d9d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "'Who's really running your Bluesky' meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "House House's AI use in Big Walk",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
      "likes": 0,
      "image": ""
     },
@@ -232,100 +200,132 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Brand's father speaks outside court",
+     "text": "Hegseth blocks officer promotions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1fd03c74158",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/44fe6dafc0da",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "World of Warcraft: Forever launches",
+     "text": "Future of DC's shared universe",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea113d5ba1a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "The spy who could bring you down",
+     "text": "House House's AI use in Big Walk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ea0294fa407",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b2e89ebac6c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic releases Claude Fable 5.2",
+     "text": "'Who's really running your Bluesky' meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4e04c2fc542f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump claims he \"won in Iran\"",
+     "text": "Disney partners with Adobe on AI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b6f485ef877",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/02f8f8fc64ec",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election aftermath",
+     "text": "Booker Prize winner announcement",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402a5fdd3d9d",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "I\u2019m new to the Fediverse, and so far I\u2019m loving it",
-     "author": "Fediverse",
-     "url": "https://lemmy.world/post/54232430",
-     "likes": 20,
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Silence",
-     "author": "Memes",
-     "url": "https://piefed.social/c/memes@sopuli.xyz/p/2585182/silence",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/0351fbfa-25ed-4b30-9656-8e62a6a3e733.png"
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Repost.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54232851",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/35ba1df9-a62c-4d6d-9958-3e20d28e036e.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Trump's \"different shaped Ukraine\" remark",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democrats' congressional priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Repost.",
      "author": "linuxmemes",
      "url": "https://lemmy.world/post/54232900",
-     "likes": 13,
+     "likes": 41,
      "image": "https://lemmy.world/pictrs/image/198a1d82-19ee-4420-a834-347561e6b3c0.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Repost.",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54232851",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/35ba1df9-a62c-4d6d-9958-3e20d28e036e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Silence",
+     "author": "Memes",
+     "url": "https://piefed.social/c/memes@sopuli.xyz/p/2585182/silence",
+     "likes": 79,
+     "image": "https://lemmy.world/pictrs/image/0351fbfa-25ed-4b30-9656-8e62a6a3e733.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I\u2019m new to the Fediverse, and so far I\u2019m loving it",
+     "author": "Fediverse",
+     "url": "https://lemmy.world/post/54232430",
+     "likes": 46,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-10T11:25:15.546869+00:00",
+   "fetched_at": "2026-11-10T11:55:21.721784+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "A boy dug three holes in the yard. When his mother saw, she exclaimed: \"well, well, well\"",
+     "text": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"\r\n\"Pop,\" goes the weasel.",
      "source": "Dad joke"
     },
     {
-     "text": "Today, my son asked \"Can I have a book mark?\" and I burst into tears. 11 years old and he still doesn't know my name is Brian.",
+     "text": "Atheism is a non-prophet organisation.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!",
+     "text": "Why do mathematicians hate the U.S.? Because it's indivisible.",
      "source": "Dad joke"
     }
    ]
