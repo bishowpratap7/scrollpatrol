@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-11T18:03:45.276592+00:00",
+ "generated_at": "2026-11-11T18:33:53.618703+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T18:03:39.421798+00:00",
+   "fetched_at": "2026-11-11T18:33:46.954140+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xtibq9/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/2g91bkh6oz0i1.png?width=640&crop=smart&auto=webp&s=19248914b89e1387d263df2a42636331f9a4c109"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,24 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Based Bryan Cranston",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xt01cw/based_bryan_cranston/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/MThuczh4Z3V4dTBpMbunmm06C5M12Oes_6TEi9z8ods9n9lfQ7SzIZB75Kdp.jpeg?width=320&crop=smart&auto=webp&s=c9fd550071713d6a884a4c49ffa11af3b88e0620"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "True couple",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xtj5ea/true_couple/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/4fssryy8uz0i1.jpeg?width=640&crop=smart&auto=webp&s=1e1a3161de16426eff82372867208351ff36fa20"
     },
     {
      "source": "Reddit",
@@ -53,11 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Wildlife in barren fields after forests were burned for palm oil plantations in Indonesia",
-     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xtmivp/wildlife_in_barren_fields_after_forests_were/",
+     "title": "The nation wants to know... why him?",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xtjxyn/the_nation_wants_to_know_why_him/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/r29y5fpre01i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7099744cb915197ea1ca1f06515a171495930df0"
+     "image": "https://preview.redd.it/4rnrt3pzzz0i1.jpeg?width=640&crop=smart&auto=webp&s=242b8df60dcefd01cf8fffa8ec19e2e5be429b2b"
     },
     {
      "source": "Reddit",
@@ -85,25 +58,73 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Wildlife in barren fields after forests were burned for palm oil plantations in Indonesia",
+     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xtmivp/wildlife_in_barren_fields_after_forests_were/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/r29y5fpre01i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7099744cb915197ea1ca1f06515a171495930df0"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xtivet/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/y5g2k3i6sz0i1.jpeg?width=640&crop=smart&auto=webp&s=4cdf6d3c6457315ce87b8a84af947122825bd256"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang \u2014 helped move 240,000 banned chips into China, mostly H100 and H200",
+     "url": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/fYhB5RsjEApFRXZ9RFPuhKdSXNmGGKl_CGG3PlxVVJw.png?width=640&crop=smart&auto=webp&s=465a2bc70c26f25d48efe950c1c439c0b062f30a"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T18:03:40.743068+00:00",
+   "fetched_at": "2026-11-11T18:33:48.292307+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1556,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "productionGradeFirmware",
      "image": "https://i.redd.it/23qg78crai0i1.png",
      "url": "https://redd.it/1xrh8bs",
-     "ups": 45,
+     "ups": 46,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7535,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 1762,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 469,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23430,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,151 +135,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
-     "image": "https://i.redd.it/hwkbe95immzh1.gif",
-     "url": "https://redd.it/1xntl51",
-     "ups": 69,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4201,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1290,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "A more honest version of that ONE Reddit popup",
-     "image": "https://i.redd.it/bxbq3qd7py0i1.png",
-     "url": "https://redd.it/1xteks7",
-     "ups": 18,
+     "title": "A Sharp Mind",
+     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
+     "url": "https://redd.it/1xsi6xg",
+     "ups": 1663,
      "sub": "r/memes"
     },
     {
-     "title": "He just can't look like hippie",
-     "image": "https://i.redd.it/8oxpeinffs0i1.gif",
-     "url": "https://redd.it/1xsn0bt",
-     "ups": 286,
+     "title": "Every single time",
+     "image": "https://i.redd.it/v5je8ay99x0i1.png",
+     "url": "https://redd.it/1xt9vcc",
+     "ups": 38,
      "sub": "r/memes"
     },
     {
-     "title": "I feel myself getting better just maths phone call",
-     "image": "https://i.redd.it/bbwbcnxxxu0i1.gif",
-     "url": "https://redd.it/1xt01wo",
-     "ups": 2344,
+     "title": "This damn pop-up",
+     "image": "https://i.redd.it/ywzy7idwjy0i1.png",
+     "url": "https://redd.it/1xte3e3",
+     "ups": 711,
      "sub": "r/memes"
     },
     {
-     "title": "My job here is done \ud83d\udc4d",
-     "image": "https://i.redd.it/wr9zu7qh001i1.png",
-     "url": "https://redd.it/1xtk0lw",
-     "ups": 11,
+     "title": "Fyi sam,i on average have 9 gigs unused on my laptop everyday",
+     "image": "https://i.redd.it/ye6w33tkpz0i1.png",
+     "url": "https://redd.it/1xtiijd",
+     "ups": 26,
      "sub": "r/memes"
     },
     {
-     "title": "Honestly, they had it coming...",
-     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
-     "url": "https://redd.it/1xt8s1h",
-     "ups": 18725,
+     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
+     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
+     "url": "https://redd.it/1xt2h77",
+     "ups": 10501,
      "sub": "r/memes"
     },
     {
-     "title": "Senator, she is Singaporean",
-     "image": "https://i.redd.it/k6qic4ritt0i1.png",
-     "url": "https://redd.it/1xsu7pt",
-     "ups": 5544,
+     "title": "Bro actually warned them",
+     "image": "https://i.redd.it/igfp0w5l7y0i1.png",
+     "url": "https://redd.it/1xtd14t",
+     "ups": 657,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T18:03:43.550005+00:00",
+   "fetched_at": "2026-11-11T18:33:51.844126+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Michael Marra calls to rejoin EU",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e49dc2ea6a4e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Israel's actions in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7902e7b085f1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Books to take the oath on",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang and Alice Huang",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Coachella announces 2027 lineup",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/20705083eddf",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Danny Kelly dies",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f2a1fa96f027",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Manchester United eyes Mauricio Pochettino",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62d09bad7a2c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "CBS last in election night ratings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9099e8ff9188",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Racist video at Ole Miss",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f7f10515f17",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +200,81 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Remembering relatives who served in war",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake sales",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Rex Ryan arrested in Nashville",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/297b1f01e9f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang and Alice Huang",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Books to take the oath on",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Godzilla Minus Zero opens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Racist video at Ole Miss",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f7f10515f17",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "White House counsel warns House Democrats",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f59709337f6a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "House minority leader election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/65be9b6917d0",
      "likes": 0,
      "image": ""
     },
@@ -283,53 +283,41 @@
      "text": "Potato root looks like a spider. (OC)",
      "author": "Mildly Interesting",
      "url": "https://lemmy.world/post/54287244",
-     "likes": 25,
+     "likes": 65,
      "image": "https://lemmy.world/pictrs/image/3cde92f5-0edc-4ac2-bb24-02dc34f8eaef.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Hakeem Jeffries, Dems Who Missed Hegseth Vote Blamed by Left",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54286526",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/32dbd28b-036f-46d6-8862-9c6038f90ecf.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "She saw her husband and daughter off to Egypt. An Israeli soldier killed her on the way home",
-     "author": "World News",
-     "url": "https://lemmy.ca/post/73709446",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/901c9c1d-19f0-4f2d-b9e5-6761c74cf81d.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "the fix",
      "author": "Femcel Memes",
      "url": "https://lemmy.world/post/54287481",
-     "likes": 13,
+     "likes": 36,
      "image": "https://lemmy.world/pictrs/image/844af078-c6ec-4d25-a3bb-be52e6ab92b2.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "She saw her husband and daughter off to Egypt. An Israeli soldier killed her on the way home",
+     "author": "World News",
+     "url": "https://lemmy.ca/post/73709446",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/901c9c1d-19f0-4f2d-b9e5-6761c74cf81d.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "OccupySaaS - \"They laid us off. We're rebuilding their SaaS\"",
+     "author": "Technology",
+     "url": "https://piefed.ca/c/technology@lemmy.world/p/1066493/occupysaas-they-laid-us-off-we-re-rebuilding-their-saas",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/daf66384-4ab9-4edb-ad94-2c363b421a7b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T18:03:44.036227+00:00",
+   "fetched_at": "2026-11-11T18:33:52.535072+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Why can\u2019t you hear a pterodactyl go to the bathroom? The p is silent.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
      "source": "Dad joke"
     },
     {
-     "text": "I tried to write a chemistry joke, but could never get a reaction.",
+     "text": "My boss told me to have a good day. So I went home...",
      "source": "Dad joke"
     },
     {
-     "text": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
+     "text": "Chances are if you' ve seen one shopping center, you've seen a mall.",
      "source": "Dad joke"
     }
    ]
