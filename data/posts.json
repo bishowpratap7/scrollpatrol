@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-11T02:59:44.610500+00:00",
+ "generated_at": "2026-11-11T03:29:51.318896+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T02:59:39.469069+00:00",
+   "fetched_at": "2026-11-11T03:29:45.971817+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "El Ni\u00f1o 2023 vs El Ni\u00f1o 2026",
+     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xt3ahv/el_ni\u00f1o_2023_vs_el_ni\u00f1o_2026/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/fl84q8wkmv0i1.jpeg?width=140&height=80&auto=webp&s=4aad0360b5902e2e81247ab577b7cacc936e2e27"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -26,6 +35,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Pro",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xt3c4w/pro/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/MWNzbzRybHptdjBpMS5jrETRlqvN1G_Wym4bOrg-X-OqjeVJGlow8YWLLU8R.png?width=640&crop=smart&auto=webp&s=f791bc172916b902a413f9e5dcbdb799051fa70b"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Based Bryan Cranston",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xt01cw/based_bryan_cranston/",
      "score": 0,
@@ -35,11 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "El Ni\u00f1o 2023 vs El Ni\u00f1o 2026",
-     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xt3ahv/el_ni\u00f1o_2023_vs_el_ni\u00f1o_2026/",
+     "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang \u2014 helped move 240,000 banned chips into China, mostly H100 and H200",
+     "url": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/fl84q8wkmv0i1.jpeg?width=140&height=80&auto=webp&s=4aad0360b5902e2e81247ab577b7cacc936e2e27"
+     "image": "https://external-preview.redd.it/fYhB5RsjEApFRXZ9RFPuhKdSXNmGGKl_CGG3PlxVVJw.png?width=640&crop=smart&auto=webp&s=465a2bc70c26f25d48efe950c1c439c0b062f30a"
     },
     {
      "source": "Reddit",
@@ -62,24 +80,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang \u2014 helped move 240,000 banned chips into China, mostly H100 and H200",
-     "url": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/fYhB5RsjEApFRXZ9RFPuhKdSXNmGGKl_CGG3PlxVVJw.png?width=640&crop=smart&auto=webp&s=465a2bc70c26f25d48efe950c1c439c0b062f30a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Pro",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xt3c4w/pro/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/MWNzbzRybHptdjBpMS5jrETRlqvN1G_Wym4bOrg-X-OqjeVJGlow8YWLLU8R.png?width=640&crop=smart&auto=webp&s=f791bc172916b902a413f9e5dcbdb799051fa70b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Everyone\u2019s a critic.",
      "url": "https://www.reddit.com/r/RandomVideos/comments/1xsp5r0/everyones_a_critic/",
      "score": 0,
@@ -89,77 +89,70 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T02:59:40.849191+00:00",
+   "fetched_at": "2026-11-11T03:29:47.107899+00:00",
    "stale": false,
    "items": [
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 165,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 239,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 455,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17770,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 477,
+     "title": "meetPotentialLanguage",
+     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
+     "url": "https://redd.it/1xrwkc1",
+     "ups": 72,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "refactoringComplete",
-     "image": "https://i.redd.it/pkmrs4913fzh1.png",
-     "url": "https://redd.it/1xmw6nu",
-     "ups": 5587,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1292,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 1595,
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1362,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1223,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2311,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Busy crosswalks got me feeling like",
-     "image": "https://i.redd.it/wgq3w1vffu0i1.png",
-     "url": "https://redd.it/1xsxgs5",
-     "ups": 26,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Your time is limited",
-     "image": "https://i.redd.it/ds78gp8har0i1.gif",
-     "url": "https://redd.it/1xsisct",
-     "ups": 4425,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
-     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
-     "url": "https://redd.it/1xt2h77",
-     "ups": 979,
-     "sub": "r/memes"
     },
     {
      "title": "It's hard to be a DC fan",
      "image": "https://i.redd.it/zprw02tupn0i1.png",
      "url": "https://redd.it/1xs4rwx",
      "ups": 1698,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A Sharp Mind",
+     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
+     "url": "https://redd.it/1xsi6xg",
+     "ups": 1460,
+     "sub": "r/memes"
+    },
+    {
+     "title": "My daughter is doing a report on Shrek for school, she drew this and asked me to turn it into a meme",
+     "image": "https://i.redd.it/c3f4fi39tu0i1.png",
+     "url": "https://redd.it/1xszfeb",
+     "ups": 19,
      "sub": "r/memes"
     },
     {
@@ -170,23 +163,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "she left him sad and heartbroken \ud83d\ude22",
-     "image": "https://i.redd.it/z69gi9dlgu0i1.png",
-     "url": "https://redd.it/1xsxqq5",
-     "ups": 206,
+     "title": "Jensen just need to learn some gun-slinging",
+     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
+     "url": "https://redd.it/1xsarhm",
+     "ups": 968,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He just can't look like hippie",
+     "image": "https://i.redd.it/8oxpeinffs0i1.gif",
+     "url": "https://redd.it/1xsn0bt",
+     "ups": 189,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T02:59:43.375884+00:00",
+   "fetched_at": "2026-11-11T03:29:49.601180+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth responds to impeachment push",
+     "text": "Lanterns reportedly not renewed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a8ba781b4c2",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Edmund Fitzgerald sinking anniversary",
+     "text": "Hegseth responds to impeachment push",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3d76e98966",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Lanterns reportedly not renewed",
+     "text": "'Who's really running your Bluesky' meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a8ba781b4c2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Marine Corps turns 251",
+     "text": "Edmund Fitzgerald sinking anniversary",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/77860c8d3e74",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3d76e98966",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -256,84 +256,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Scion returns with kei truck",
+     "text": "US consumer prices rise in October",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b600968c0d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5da79e9eae64",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unsexy policies that would help millions",
+     "text": "Colom vs. Hyde-Smith Senate race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/23abc227a42a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Progressives oppose Jeffries as Speaker",
+     "text": "Midterm election aftermath",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/46713aea71f9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "I created a community about CRTs! please come, subscribe and share your tv!",
-     "author": "RetroGaming",
-     "url": "https://lemmy.ca/post/73677554",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/8ec0c77f-dbde-4ee4-96f6-821cd5aff1d6.webp"
+     "text": "NO!",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54262370",
+     "likes": 75,
+     "image": "https://lemmy.world/pictrs/image/14ce2f0c-4930-44a7-807a-64ef6b71e1f3.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Australia on the way to become the first nation to prosecute AI companies",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54257568",
-     "likes": 93,
-     "image": "https://lemmy.world/pictrs/image/58624c20-c507-46af-9faf-e7a253ea069a.jpeg"
+     "text": "Rendering Pipeline Rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50349598",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/d2404df0-2892-4985-bb6f-724ebd7fd2ef.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "It's never too late for love",
-     "author": "Out of Context Comics",
-     "url": "https://piefed.social/c/outofcontextcomics@lemmy.world/p/2587854/it-s-never-too-late-for-love",
-     "likes": 64,
-     "image": "https://lemmy.world/pictrs/image/48899edd-c362-42d2-b696-c8482250898f.png"
+     "text": "Oh lord",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.today/post/63114108",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/8d82abed-6100-480a-bac2-0d5c75e564e8.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "No lies detected",
-     "author": "Share Funny Videos, Images, Memes, Quotes and more ",
-     "url": "https://lemmy.ml/post/55161149",
-     "likes": 90,
-     "image": "https://lemmy.world/pictrs/image/968db85b-94b8-479d-8a7c-370db758494a.jpeg"
+     "text": "Trump Says It\u2019s Fine for a CEO to Cheat on His Wife With an Alleged Spy",
+     "author": "Not The Onion",
+     "url": "https://lemmy.nz/post/43745662",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/68a39594-9084-4312-ac84-7fbc7c3163dc.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T02:59:43.960690+00:00",
+   "fetched_at": "2026-11-11T03:29:50.685676+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "No matter how kind you are, German children are kinder.",
      "source": "Dad joke"
     },
     {
-     "text": "I fear for the calendar, its days are numbered.\n",
+     "text": "\"Why do seagulls fly over the ocean?\" \"Because if they flew over the bay, we'd call them bagels.\"",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call someone with no nose? Nobody knows.",
+     "text": "Two parrots are sitting on a perch. One turns to the other and asks, \"do you smell fish?\"",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
