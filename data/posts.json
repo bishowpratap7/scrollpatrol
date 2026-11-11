@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T01:29:09.751146+00:00",
+ "generated_at": "2026-11-11T01:29:25.734137+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T01:29:04.646801+00:00",
+   "fetched_at": "2026-11-11T01:29:20.085231+00:00",
    "stale": false,
    "items": [
     {
@@ -89,56 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T01:29:06.389858+00:00",
+   "fetched_at": "2026-11-11T01:29:21.722065+00:00",
    "stale": false,
    "items": [
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4157,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 465,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17754,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 1560,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6717,
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 2472,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 209,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 692,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dontComeNearMyRamSammyBoy",
-     "image": "https://i.redd.it/w14dgg7je1zh1.png",
-     "url": "https://redd.it/1xl94ur",
+     "title": "samCanNeverTakeOurDram",
+     "image": "https://i.redd.it/0sugyt63d1zh1.png",
+     "url": "https://redd.it/1xl8yae",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1545,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "He just can't look like hippie",
+     "image": "https://i.redd.it/8oxpeinffs0i1.gif",
+     "url": "https://redd.it/1xsn0bt",
+     "ups": 161,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A Sharp Mind",
+     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
+     "url": "https://redd.it/1xsi6xg",
+     "ups": 1397,
+     "sub": "r/memes"
+    },
+    {
+     "title": "she left him sad and heartbroken \ud83d\ude22",
+     "image": "https://i.redd.it/z69gi9dlgu0i1.png",
+     "url": "https://redd.it/1xsxqq5",
      "ups": 188,
-     "sub": "r/ProgrammerHumor"
+     "sub": "r/memes"
     },
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 15,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Anti-cheat system activated",
-     "image": "https://i.redd.it/7mudooxpwu0i1.png",
-     "url": "https://redd.it/1xszx64",
-     "ups": 14,
+     "title": "The correct use of this meme \ud83d\ude1c",
+     "image": "https://i.redd.it/o2qds3ec1q0i1.png",
+     "url": "https://redd.it/1xserqv",
+     "ups": 363,
      "sub": "r/memes"
     },
     {
@@ -149,37 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Nvidia forgot to enable threat detection on the CEO",
-     "image": "https://i.redd.it/65ntd6oixn0i1.png",
-     "url": "https://redd.it/1xs5ssh",
-     "ups": 635,
-     "sub": "r/memes"
-    },
-    {
      "title": "Slander done out of pure rage and spite because DC Studios is changing heads again",
      "image": "https://i.redd.it/pzbeihx9jn0i1.png",
      "url": "https://redd.it/1xs3r34",
      "ups": 2664,
      "sub": "r/memes"
-    },
-    {
-     "title": "Jensen just need to learn some gun-slinging",
-     "image": "https://i.redd.it/g5tnapkk0p0i1.png",
-     "url": "https://redd.it/1xsarhm",
-     "ups": 951,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's hard to be a DC fan",
-     "image": "https://i.redd.it/zprw02tupn0i1.png",
-     "url": "https://redd.it/1xs4rwx",
-     "ups": 1665,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T01:29:08.469024+00:00",
+   "fetched_at": "2026-11-11T01:29:24.611293+00:00",
    "stale": false,
    "items": [
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T01:29:08.920337+00:00",
+   "fetched_at": "2026-11-11T01:29:25.118968+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "What did the mountain climber name his son? Cliff.",
+     "text": "What did the calculator say to the student? You can count on me.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a chicken with a skunk? A fowl smell!",
+     "text": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
      "source": "Dad joke"
     },
     {
-     "text": "I have kleptomania, but when it gets bad, I take something for it.",
+     "text": "I just broke my guitar. It's okay, I won't fret",
      "source": "Dad joke"
     }
    ]
