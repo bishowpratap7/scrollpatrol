@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-11T03:59:58.420174+00:00",
+ "generated_at": "2026-11-11T04:30:05.515786+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T03:59:52.721065+00:00",
+   "fetched_at": "2026-11-11T04:30:00.044628+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "El Ni\u00f1o 2023 vs El Ni\u00f1o 2026",
+     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xt3ahv/el_ni\u00f1o_2023_vs_el_ni\u00f1o_2026/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/fl84q8wkmv0i1.jpeg?width=140&height=80&auto=webp&s=4aad0360b5902e2e81247ab577b7cacc936e2e27"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -17,11 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "El Ni\u00f1o 2023 vs El Ni\u00f1o 2026",
-     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xt3ahv/el_ni\u00f1o_2023_vs_el_ni\u00f1o_2026/",
+     "title": "Dressed my son as my childhood doll. He\u2019s a real life cabbage patch kid.",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xt6b3o/dressed_my_son_as_my_childhood_doll_hes_a_real/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/fl84q8wkmv0i1.jpeg?width=140&height=80&auto=webp&s=4aad0360b5902e2e81247ab577b7cacc936e2e27"
+     "image": "https://preview.redd.it/1pr90gjzbw0i1.jpeg?width=640&crop=smart&auto=webp&s=b380c27406feddc8f7849495284ba71c80232df5"
     },
     {
      "source": "Reddit",
@@ -44,29 +53,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Commuters cram into a train during rush hour in Tokyo with the help of an oshiya (pusher).",
-     "url": "https://www.reddit.com/r/interesting/comments/1xsikbj/commuters_cram_into_a_train_during_rush_hour_in/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/am8xdmkwcXY3cjBpMaza9UmTh7V-yr_vEPuCVlUJSpJRFu39t4RFtGvj-luW.png?width=320&crop=smart&auto=webp&s=e5306ebd1a4734620cf8b1740f4c6dbe58c06d55"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Pro",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xt3c4w/pro/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/MWNzbzRybHptdjBpMS5jrETRlqvN1G_Wym4bOrg-X-OqjeVJGlow8YWLLU8R.png?width=640&crop=smart&auto=webp&s=f791bc172916b902a413f9e5dcbdb799051fa70b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "6hr30min flight food",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xsrie0/6hr30min_flight_food/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/y419t12kbt0i1.jpeg?width=640&crop=smart&auto=webp&s=b12cbcc2e20e35c6c2f129dee726f4f5daf6affa"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Commuters cram into a train during rush hour in Tokyo with the help of an oshiya (pusher).",
+     "url": "https://www.reddit.com/r/interesting/comments/1xsikbj/commuters_cram_into_a_train_during_rush_hour_in/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/am8xdmkwcXY3cjBpMaza9UmTh7V-yr_vEPuCVlUJSpJRFu39t4RFtGvj-luW.png?width=320&crop=smart&auto=webp&s=e5306ebd1a4734620cf8b1740f4c6dbe58c06d55"
     },
     {
      "source": "Reddit",
@@ -89,70 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T03:59:54.525998+00:00",
+   "fetched_at": "2026-11-11T04:30:01.448114+00:00",
    "stale": false,
    "items": [
     {
-     "title": "emacsToVim",
-     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
-     "url": "https://redd.it/1xlibre",
-     "ups": 84,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
      "ups": 1544,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1501,
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5587,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 477,
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 39,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2327,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7475,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "one in a billionaire opportunity",
-     "image": "https://i.redd.it/ech35ify2t0i1.png",
-     "url": "https://redd.it/1xsqa4m",
-     "ups": 6657,
-     "sub": "r/memes"
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "They have a cave troll!",
-     "image": "https://i.redd.it/2omh2l3tfs0i1.gif",
-     "url": "https://redd.it/1xsn1zn",
-     "ups": 67,
-     "sub": "r/memes"
+     "title": "vibeCoding",
+     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
+     "url": "https://redd.it/1xl7dzz",
+     "ups": 194,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Senator, she is Singaporean",
-     "image": "https://i.redd.it/k6qic4ritt0i1.png",
-     "url": "https://redd.it/1xsu7pt",
-     "ups": 2413,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Slander done out of pure rage and spite because DC Studios is changing heads again",
-     "image": "https://i.redd.it/pzbeihx9jn0i1.png",
-     "url": "https://redd.it/1xs3r34",
-     "ups": 2776,
+     "title": "Anti-cheat system activated",
+     "image": "https://i.redd.it/7mudooxpwu0i1.png",
+     "url": "https://redd.it/1xszx64",
+     "ups": 27,
      "sub": "r/memes"
     },
     {
@@ -163,33 +149,39 @@
      "sub": "r/memes"
     },
     {
-     "title": "Nvidia forgot to enable threat detection on the CEO",
-     "image": "https://i.redd.it/65ntd6oixn0i1.png",
-     "url": "https://redd.it/1xs5ssh",
-     "ups": 657,
+     "title": "He just can't look like hippie",
+     "image": "https://i.redd.it/8oxpeinffs0i1.gif",
+     "url": "https://redd.it/1xsn0bt",
+     "ups": 215,
      "sub": "r/memes"
     },
     {
-     "title": "Almost done?",
-     "image": "https://i.redd.it/5qx9skm4kv0i1.gif",
-     "url": "https://redd.it/1xt2yze",
-     "ups": 75,
-     "sub": "r/dankmemes"
+     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
+     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
+     "url": "https://redd.it/1xt2h77",
+     "ups": 2886,
+     "sub": "r/memes"
+    },
+    {
+     "title": "she left him sad and heartbroken \ud83d\ude22",
+     "image": "https://i.redd.it/z69gi9dlgu0i1.png",
+     "url": "https://redd.it/1xsxqq5",
+     "ups": 224,
+     "sub": "r/memes"
+    },
+    {
+     "title": "No succulent Chinese meal for me...",
+     "image": "https://i.redd.it/xbhb2umxmq0i1.png",
+     "url": "https://redd.it/1xsgsn6",
+     "ups": 108,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T03:59:57.006845+00:00",
+   "fetched_at": "2026-11-11T04:30:03.995311+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Lanterns reportedly not renewed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a8ba781b4c2",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "11 Democrats miss impeachment vote",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth responds to impeachment push",
+     "text": "Unsexy policies that would help millions",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/23abc227a42a",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
+     "text": "Lanterns reportedly not renewed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a8ba781b4c2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
@@ -256,109 +256,109 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Scion returns with kei truck",
+     "text": "US consumer prices rise in October",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b600968c0d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5da79e9eae64",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
+     "text": "Jordan vs. Scalise leadership race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/65be9b6917d0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to replace Schumer, Jeffries",
+     "text": "Hegseth responds to impeachment push",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Figures [flork of cows]",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/69744861",
+     "likes": 9,
+     "image": "https://sh.itjust.works/pictrs/image/9f1051d1-1fba-4e9d-8b50-dd9774589bda.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "\u201cThe Time Is Now for Change\u201d: Sanders Says He Won\u2019t Back Schumer for Leader",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54264398",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/cdd2775a-2ec9-4ba0-bfa5-8a07c1dbe852.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "\u201cThe Time Is Now for Change\u201d: Sanders Says He Won\u2019t Back Schumer for Leader",
+     "author": "Progressive Politics",
+     "url": "https://lemmy.world/post/54264397",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/84cac2a1-bd44-4e1d-bd79-941ccd0421a0.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Odo: Yeah, what he said",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://piefed.world/c/tenforward/p/1526952/odo-yeah-what-he-said",
-     "likes": 18,
+     "likes": 28,
      "image": "https://lemmy.world/pictrs/image/72b86494-1942-45ab-9eba-a3a68be7f0f5.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Rendering Pipeline Rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50349598",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/d2404df0-2892-4985-bb6f-724ebd7fd2ef.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "NO!",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54262370",
-     "likes": 126,
-     "image": "https://lemmy.world/pictrs/image/14ce2f0c-4930-44a7-807a-64ef6b71e1f3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "House votes to effectively end the impeachment effort against Pete Hegseth",
-     "author": "News",
-     "url": "https://lemmy.world/post/54262969",
-     "likes": 33,
-     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T03:59:57.721455+00:00",
+   "fetched_at": "2026-11-11T04:30:04.855024+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I was wondering why the frisbee was getting bigger, then it hit me.",
+     "text": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you give a sick lemon? Lemonaid.",
+     "text": "What did the digital clock say to the grandfather clock? Look, no hands!",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear about the new restaurant on the moon? The food is great, but there\u2019s just no atmosphere.",
+     "text": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
