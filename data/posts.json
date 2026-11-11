@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-11T22:04:58.669162+00:00",
+ "generated_at": "2026-11-11T22:35:04.843993+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T22:04:53.362898+00:00",
+   "fetched_at": "2026-11-11T22:35:00.220644+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Who is married and happy?",
+     "url": "https://www.reddit.com/r/Millennials/comments/1xti23j/who_is_married_and_happy/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/sb7a6DVnHhhBB0CJ40qg-OGP_7X6UhfwsesUXNYrl6E.jpeg?width=640&crop=smart&auto=webp&s=3caab3118955361a5baf7038c8ea0c51883d7813"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "This man kicked me on purpose in the movie theater",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xtr0sg/this_man_kicked_me_on_purpose_in_the_movie_theater/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/n0utqpyva11i1.jpeg?width=640&crop=smart&auto=webp&s=88651e79f28d974dee95db4a50bc9a3997253a11"
     },
     {
      "source": "Reddit",
@@ -35,20 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Hegseth\u2019s group reprimanded for laughing during Veterans Day honoring at Tomb of the Unknown Soldier",
-     "url": "https://www.reddit.com/r/politics/comments/1xtrhyg/hegseths_group_reprimanded_for_laughing_during/",
+     "title": "This man kicked me on purpose in the movie theater",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xtr0sg/this_man_kicked_me_on_purpose_in_the_movie_theater/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/GjGc8cg8evRnUL1D1rtzpM8LDLanqWMzlpcNt7SWOf0.png?width=640&crop=smart&auto=webp&s=e84d80a621193a9ce974ef799e4389532696f638"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Who is married and happy?",
-     "url": "https://www.reddit.com/r/Millennials/comments/1xti23j/who_is_married_and_happy/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/n0utqpyva11i1.jpeg?width=640&crop=smart&auto=webp&s=88651e79f28d974dee95db4a50bc9a3997253a11"
     },
     {
      "source": "Reddit",
@@ -58,15 +49,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dzBwbWgyMW1uMDFpMd-s0BDhorbNG0hAw8ZgHusA-10Gq6V4Hgb_Q4-hu958.png?width=320&crop=smart&auto=webp&s=33c313c321aed15db2e60b6682af8e46c2527e91"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Wildlife in barren fields after forests were burned for palm oil plantations in Indonesia",
-     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xtmivp/wildlife_in_barren_fields_after_forests_were/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/r29y5fpre01i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7099744cb915197ea1ca1f06515a171495930df0"
     },
     {
      "source": "Reddit",
@@ -85,74 +67,85 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dHZobms3NDRzeDBpMQ7S0wECGZKHAA8JmswzOG8xb_W_k7MAV9Duqu4AywPv.png?width=320&crop=smart&auto=webp&s=4e751f1eb95e16e04ecf597d6dc936e710673178"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Hegseth\u2019s group reprimanded for laughing during Veterans Day honoring at Tomb of the Unknown Soldier",
+     "url": "https://www.reddit.com/r/politics/comments/1xtrhyg/hegseths_group_reprimanded_for_laughing_during/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/GjGc8cg8evRnUL1D1rtzpM8LDLanqWMzlpcNt7SWOf0.png?width=640&crop=smart&auto=webp&s=e84d80a621193a9ce974ef799e4389532696f638"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "160 families pool their money to buy groceries at cheap wholesale price",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xtgu8o/160_families_pool_their_money_to_buy_groceries_at/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/eXRhd3VsMndiejBpMaUmKQssfBrualZGuYEwNxur4xatNhfzG-yywligZMAx.png?width=320&crop=smart&auto=webp&s=33167b87c3f7652849f4325b3423b13fd36dda0b"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T22:04:54.117497+00:00",
+   "fetched_at": "2026-11-11T22:35:00.999672+00:00",
    "stale": false,
    "items": [
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 173,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 13,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2321,
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 82,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 386,
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
+     "ups": 1580,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1236,
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1871,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 550,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6717,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4218,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everything has ups and downs",
-     "image": "https://i.redd.it/qzvqju9his0i1.png",
-     "url": "https://redd.it/1xsnez3",
-     "ups": 1139,
+     "title": "At least Huang scored high, unlike Andy Byron.",
+     "image": "https://i.redd.it/8vu61htpju0i1.png",
+     "url": "https://redd.it/1xsy42i",
+     "ups": 88,
      "sub": "r/memes"
     },
     {
-     "title": "Every single time",
-     "image": "https://i.redd.it/v5je8ay99x0i1.png",
-     "url": "https://redd.it/1xt9vcc",
-     "ups": 39,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Those were the good old days.",
-     "image": "https://i.redd.it/3cnm4uep101i1.png",
-     "url": "https://redd.it/1xtk6se",
-     "ups": 113,
+     "title": "one in a billionaire opportunity",
+     "image": "https://i.redd.it/ech35ify2t0i1.png",
+     "url": "https://redd.it/1xsqa4m",
+     "ups": 9920,
      "sub": "r/memes"
     },
     {
@@ -163,46 +156,53 @@
      "sub": "r/memes"
     },
     {
-     "title": "Senator, she is Singaporean",
-     "image": "https://i.redd.it/k6qic4ritt0i1.png",
-     "url": "https://redd.it/1xsu7pt",
-     "ups": 5719,
+     "title": "Honestly, they had it coming...",
+     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
+     "url": "https://redd.it/1xt8s1h",
+     "ups": 22156,
      "sub": "r/memes"
     },
     {
-     "title": "Man they just can't let the fans be happy can they",
-     "image": "https://i.redd.it/v8rclrjtay0i1.png",
-     "url": "https://redd.it/1xtdbgv",
-     "ups": 39,
+     "title": "Bro actually warned them",
+     "image": "https://i.redd.it/igfp0w5l7y0i1.png",
+     "url": "https://redd.it/1xtd14t",
+     "ups": 1058,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Your time is limited",
+     "image": "https://i.redd.it/ds78gp8har0i1.gif",
+     "url": "https://redd.it/1xsisct",
+     "ups": 5509,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T22:04:56.881362+00:00",
+   "fetched_at": "2026-11-11T22:35:03.674216+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election race results",
+     "text": "Jensen Huang and Alice Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4d185ded6f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SS United States becomes reef",
+     "text": "Ukraine reports daily Russian losses",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Arlington guard reprimands Hegseth's entourage",
+     "text": "Calls to release Epstein files",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c9a7019a7a35",
      "likes": 0,
      "image": ""
     },
@@ -216,6 +216,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "SS United States becomes reef",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "'Who's really running your Bluesky' meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Books to take the oath on",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Films watched more than six times",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
@@ -224,47 +256,15 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang and Alice Huang",
+     "text": "CBS last in election night ratings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9099e8ff9188",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Stacy Keach dies at 85",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bc6ffe95e747",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "James Gunn fired from DC Studios",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Booker Prize winner announcement",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402a5fdd3d9d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
+     "text": "Mississippi votes in Senate race",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "White House counsel warns House Democrats",
+     "text": "Arlington guard reprimands Hegseth's entourage",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f59709337f6a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "House Democrats Blame Traffic for Missing Key Hegseth Impeachment Vote",
-     "author": "Not The Onion",
-     "url": "https://lemmy.world/post/54293834",
-     "likes": 37,
-     "image": "https://lemmy.world/pictrs/image/cfba9a0c-e6cb-4ea1-8900-be3214da22d3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "You finally have a third option when you die",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54293608",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/fc8c2904-512d-458f-9c64-e7cc0e3e17be.png"
+     "text": "Democrat Scott Colom will win a US Senate seat in deep-red Mississippi, CNN projects",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54295821",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/a5906659-d2c1-4b28-a659-8b4b9eb0354e.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "lil babby",
      "author": "cats",
      "url": "https://lemmy.today/post/63157315",
-     "likes": 15,
+     "likes": 50,
      "image": "https://lemmy.world/pictrs/image/bcdd751c-cdf5-4344-98e1-bc7c80206f83.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Have no idea what it means but have seen many people recently wearing this cap",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54293546",
-     "likes": 43,
-     "image": "https://lemmy.world/pictrs/image/83254ef6-0d37-42ca-b791-7a5913244879.png"
+     "text": "House Democrats Blame Traffic for Missing Key Hegseth Impeachment Vote",
+     "author": "Not The Onion",
+     "url": "https://lemmy.world/post/54293834",
+     "likes": 79,
+     "image": "https://lemmy.world/pictrs/image/cfba9a0c-e6cb-4ea1-8900-be3214da22d3.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "TIL Marthe Gautier helped make a major Down syndrome discovery, but history credited her male colleague",
+     "author": "Today I Learned",
+     "url": "https://sh.itjust.works/post/69785088",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/a3a93082-e896-477d-8ea3-9d650c3d7c07.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T22:04:57.821429+00:00",
+   "fetched_at": "2026-11-11T22:35:04.329876+00:00",
    "stale": false,
    "items": [
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Writing with a broken pencil is pointless.",
+     "text": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
      "source": "Dad joke"
     },
     {
-     "text": "If two vegans are having an argument, is it still considered beef?",
+     "text": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
      "source": "Dad joke"
     },
     {
-     "text": "A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.",
+     "text": "What kind of dinosaur loves to sleep? A stega-snore-us.",
      "source": "Dad joke"
     }
    ]
