@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T19:04:00.980345+00:00",
+ "generated_at": "2026-11-11T19:34:08.324771+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T19:03:55.247340+00:00",
+   "fetched_at": "2026-11-11T19:34:03.456125+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "It would be funny as all.",
-     "url": "https://www.reddit.com/r/memes/comments/1xt6sx4/it_would_be_funny_as_all/",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xtivet/meirl/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/6nmh4x6bgw0i1.jpeg?width=640&crop=smart&auto=webp&s=a0a42d8055f7b7a63c8a70c91850e1e70e35b97b"
+     "image": "https://preview.redd.it/y5g2k3i6sz0i1.jpeg?width=640&crop=smart&auto=webp&s=4cdf6d3c6457315ce87b8a84af947122825bd256"
     },
     {
      "source": "Reddit",
@@ -35,11 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xtivet/meirl/",
+     "title": "\ud83d\udd25 Photographer captures iguana that looks like Godzilla",
+     "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xtlktp/photographer_captures_iguana_that_looks_like/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/y5g2k3i6sz0i1.jpeg?width=640&crop=smart&auto=webp&s=4cdf6d3c6457315ce87b8a84af947122825bd256"
+     "image": "https://preview.redd.it/2ye0vno7b01i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a5ff924955003fb815eaf51cd008f1938975cead"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "It would be funny as all.",
+     "url": "https://www.reddit.com/r/memes/comments/1xt6sx4/it_would_be_funny_as_all/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/6nmh4x6bgw0i1.jpeg?width=640&crop=smart&auto=webp&s=a0a42d8055f7b7a63c8a70c91850e1e70e35b97b"
     },
     {
      "source": "Reddit",
@@ -62,15 +71,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\ud83d\udd25 Photographer captures iguana that looks like Godzilla",
-     "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xtlktp/photographer_captures_iguana_that_looks_like/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/2ye0vno7b01i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a5ff924955003fb815eaf51cd008f1938975cead"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "where is the close button, morons",
      "url": "https://www.reddit.com/r/help/comments/1xtdlqo/where_is_the_close_button_morons/",
      "score": 0,
@@ -89,144 +89,112 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T19:03:56.531717+00:00",
+   "fetched_at": "2026-11-11T19:34:04.764051+00:00",
    "stale": false,
    "items": [
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 16,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 1762,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "vibeCoding",
-     "image": "https://i.redd.it/2ey0lcgb21zh1.png",
-     "url": "https://redd.it/1xl7dzz",
-     "ups": 200,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 6932,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "idTakeTheseTrashFor51Dollars",
-     "image": "https://i.redd.it/viukgq4zt01i1.png",
-     "url": "https://redd.it/1xtohq4",
-     "ups": 570,
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4208,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17822,
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6718,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 1861,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2380,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2314,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 546,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "she left him sad and heartbroken \ud83d\ude22",
-     "image": "https://i.redd.it/z69gi9dlgu0i1.png",
-     "url": "https://redd.it/1xsxqq5",
-     "ups": 351,
+     "title": "everything you see is not your to decide",
+     "image": "https://i.redd.it/ox2a390pxz0i1.png",
+     "url": "https://redd.it/1xtjoaa",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
-     "title": "I feel myself getting better just maths phone call",
-     "image": "https://i.redd.it/bbwbcnxxxu0i1.gif",
-     "url": "https://redd.it/1xt01wo",
-     "ups": 2344,
+     "title": "I dont have the time to post th..",
+     "image": "https://i.redd.it/k8bjprlyjy0i1.png",
+     "url": "https://redd.it/1xte2yr",
+     "ups": 28,
      "sub": "r/memes"
     },
     {
-     "title": "My job here is done \ud83d\udc4d",
-     "image": "https://i.redd.it/wr9zu7qh001i1.png",
-     "url": "https://redd.it/1xtk0lw",
-     "ups": 11,
+     "title": "A more honest version of that ONE Reddit popup",
+     "image": "https://i.redd.it/bxbq3qd7py0i1.png",
+     "url": "https://redd.it/1xteks7",
+     "ups": 18,
      "sub": "r/memes"
     },
     {
-     "title": "A Sharp Mind",
-     "image": "https://i.redd.it/xhymtkgc3r0i1.png",
-     "url": "https://redd.it/1xsi6xg",
-     "ups": 1663,
+     "title": "Your time is limited",
+     "image": "https://i.redd.it/ds78gp8har0i1.gif",
+     "url": "https://redd.it/1xsisct",
+     "ups": 5436,
      "sub": "r/memes"
     },
     {
-     "title": "Man they just can't let the fans be happy can they",
-     "image": "https://i.redd.it/v8rclrjtay0i1.png",
-     "url": "https://redd.it/1xtdbgv",
-     "ups": 34,
+     "title": "At least Huang scored high, unlike Andy Byron.",
+     "image": "https://i.redd.it/8vu61htpju0i1.png",
+     "url": "https://redd.it/1xsy42i",
+     "ups": 90,
      "sub": "r/memes"
     },
     {
-     "title": "everything has ups and downs",
-     "image": "https://i.redd.it/qzvqju9his0i1.png",
-     "url": "https://redd.it/1xsnez3",
-     "ups": 1107,
+     "title": "POV: You are learning Japanese",
+     "image": "https://i.redd.it/5kmheetbky0i1.png",
+     "url": "https://redd.it/1xte4a1",
+     "ups": 13,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T19:03:59.134390+00:00",
+   "fetched_at": "2026-11-11T19:34:06.668500+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Russian envoy Alexander Darchiev dies",
+     "text": "ICE reportedly detains Haitian boy",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ef4705b2182",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9716d266c42d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "11 Democrats miss Hegseth vote",
+     "text": "Calls for Medicare for All",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Remembering relatives who served in war",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Rex Ryan arrested in Nashville",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/297b1f01e9f3",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Books to take the oath on",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang and Alice Huang",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fdaf6a017354",
      "likes": 0,
      "image": ""
     },
@@ -248,108 +216,140 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Remembering relatives who served in war",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Child vaccination rates fall nationwide",
+     "text": "Jensen Huang and Alice Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/02089603d775",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "White House counsel warns House Democrats",
+     "text": "Books to take the oath on",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f59709337f6a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alex Karp open to 2028 Democrat",
+     "text": "Rex Ryan arrested in Nashville",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae2a865f276e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/297b1f01e9f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Danny Kelly dies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f2a1fa96f027",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Edmund Fitzgerald sinking anniversary",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3d76e98966",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "RFK Jr.'s vaccine agenda",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/458f10898f50",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "OccupySaaS - \"They laid us off. We're rebuilding their SaaS\"",
-     "author": "Technology",
-     "url": "https://piefed.ca/c/technology@lemmy.world/p/1066493/occupysaas-they-laid-us-off-we-re-rebuilding-their-saas",
-     "likes": 63,
-     "image": "https://lemmy.world/pictrs/image/daf66384-4ab9-4edb-ad94-2c363b421a7b.jpeg"
+     "text": "TIL that Spotify ran ICE recruitment ads. Boycott Spotify!",
+     "author": "Today I Learned",
+     "url": "https://lemmy.world/post/54289021",
+     "likes": 67,
+     "image": "https://lemmy.world/pictrs/image/1ddac83d-fc6b-4bd3-9041-1343cd959502.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Might have done that once or twice \ud83d\ude01",
      "author": "RPGMemes ",
      "url": "https://lemmy.dbzer0.com/post/78309884",
-     "likes": 14,
+     "likes": 38,
      "image": "https://lemmy.world/pictrs/image/358ff1e7-0295-4f6a-afb9-774bb05b0d21.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Tech CEOs Bow Down to Their Democratic Overlords: \"I\u2019ve been a Democrat my whole life.\"",
-     "author": "News",
-     "url": "https://lemmy.world/post/54287727",
-     "likes": 43,
-     "image": "https://lemmy.world/pictrs/image/6c8d50e4-19cb-4c2c-abdd-bf8f931bd500.jpeg"
+     "text": "\"Can I open those for you, ma'am?\"",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.dbzer0.com/post/78310497",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/65dc15ed-b741-46d7-b083-f748c006bc94.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "She saw her husband and daughter off to Egypt. An Israeli soldier killed her on the way home",
-     "author": "World News",
-     "url": "https://lemmy.ca/post/73709446",
-     "likes": 66,
-     "image": "https://lemmy.world/pictrs/image/901c9c1d-19f0-4f2d-b9e5-6761c74cf81d.jpeg"
+     "text": "95% of Lemmy would buy the album, though",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.dbzer0.com/post/78310746",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/6a34a241-06db-4eca-95be-5f23d48d372f.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T19:03:59.868243+00:00",
+   "fetched_at": "2026-11-11T19:34:07.439123+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
     {
      "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the coffee file a police report? It got mugged.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do you call a pig that knows karate? A pork chop!",
      "source": "Dad joke"
     },
     {
-     "text": "What has ears but cannot hear? A field of corn.",
+     "text": "What do you call a magician who has lost their magic? Ian.",
      "source": "Dad joke"
     },
     {
-     "text": "I once lost a banana at court but then I appealed. ",
+     "text": "Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.",
      "source": "Dad joke"
     }
    ]
