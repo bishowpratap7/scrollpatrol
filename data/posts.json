@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T06:30:33.770260+00:00",
+ "generated_at": "2026-11-11T06:30:49.970742+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T06:30:28.048417+00:00",
+   "fetched_at": "2026-11-11T06:30:45.305771+00:00",
    "stale": false,
    "items": [
     {
@@ -89,21 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T06:30:29.246796+00:00",
+   "fetched_at": "2026-11-11T06:30:46.603944+00:00",
    "stale": false,
    "items": [
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 693,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2318,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2329,
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 1229,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17768,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1547,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 43,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,41 +135,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 2472,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7486,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 487,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "They have a cave troll!",
-     "image": "https://i.redd.it/2omh2l3tfs0i1.gif",
-     "url": "https://redd.it/1xsn1zn",
-     "ups": 72,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Busy crosswalks got me feeling like",
-     "image": "https://i.redd.it/wgq3w1vffu0i1.png",
-     "url": "https://redd.it/1xsxgs5",
-     "ups": 34,
-     "sub": "r/memes"
-    },
-    {
      "title": "Nvidia forgot to enable threat detection on the CEO",
      "image": "https://i.redd.it/65ntd6oixn0i1.png",
      "url": "https://redd.it/1xs5ssh",
@@ -156,10 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "My daughter is doing a report on Shrek for school, she drew this and asked me to turn it into a meme",
-     "image": "https://i.redd.it/c3f4fi39tu0i1.png",
-     "url": "https://redd.it/1xszfeb",
-     "ups": 22,
+     "title": "Senator, she is Singaporean",
+     "image": "https://i.redd.it/k6qic4ritt0i1.png",
+     "url": "https://redd.it/1xsu7pt",
+     "ups": 3109,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He just can't look like hippie",
+     "image": "https://i.redd.it/8oxpeinffs0i1.gif",
+     "url": "https://redd.it/1xsn0bt",
+     "ups": 232,
      "sub": "r/memes"
     },
     {
@@ -175,90 +168,25 @@
      "url": "https://redd.it/1xsi6xg",
      "ups": 1544,
      "sub": "r/memes"
+    },
+    {
+     "title": "Anti-cheat system activated",
+     "image": "https://i.redd.it/7mudooxpwu0i1.png",
+     "url": "https://redd.it/1xszx64",
+     "ups": 34,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T06:30:31.849564+00:00",
+   "fetched_at": "2026-11-11T06:30:48.680762+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "11 Democrats miss impeachment vote",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a74764fed24",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Hegseth responds to impeachment push",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0cd51e302521",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day observances",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FFXIV cross-data center wolqotd prompts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bdc2c972ec6a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US consumer prices rise in October",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5da79e9eae64",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Booker Prize winner announcement",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402a5fdd3d9d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia CEO shareholder lawsuit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +200,81 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Colom vs. Hyde-Smith Senate race",
+     "text": "Veterans Day observances",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US consumer prices rise in October",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5da79e9eae64",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Stacy Keach dies at 85",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bc6ffe95e747",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Scion returns with kei truck",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2b600968c0d7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Child vaccination rates fall nationwide",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/02089603d775",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia CEO shareholder lawsuit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "11 Democrats miss impeachment vote",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a74764fed24",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports daily Russian losses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
@@ -313,11 +313,19 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T06:30:33.046098+00:00",
+   "fetched_at": "2026-11-11T06:30:49.167415+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
@@ -325,11 +333,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
@@ -337,19 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why did the feline fail the lie detector test? Because he be lion.",
+     "text": "Why was ten scared of seven? Because seven ate nine.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call two barracuda fish?  A Pairacuda!",
+     "text": "So a duck walks into a pharmacy and says \u201cGive me some chap-stick\u2026 and put it on my bill\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a rabbit with a water hose? Hare spray.",
+     "text": "How does a penguin build it\u2019s house? Igloos it together.",
      "source": "Dad joke"
     }
    ]
