@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T21:34:36.533299+00:00",
+ "generated_at": "2026-11-11T21:34:51.795361+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-11T21:34:31.809596+00:00",
+   "fetched_at": "2026-11-11T21:34:47.605540+00:00",
    "stale": false,
    "items": [
     {
@@ -89,77 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-11T21:34:33.045558+00:00",
+   "fetched_at": "2026-11-11T21:34:48.336889+00:00",
    "stale": false,
    "items": [
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4218,
+     "title": "itWasJustOneVariable",
+     "image": "https://i.redd.it/1g1ms7yi670i1.png",
+     "url": "https://redd.it/1xq77a7",
+     "ups": 3405,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 212,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 520,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 550,
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 82,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 173,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23437,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 1905,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2321,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 698,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Every single time",
-     "image": "https://i.redd.it/v5je8ay99x0i1.png",
-     "url": "https://redd.it/1xt9vcc",
-     "ups": 36,
-     "sub": "r/memes"
-    },
-    {
-     "title": "POV: You are learning Japanese",
-     "image": "https://i.redd.it/5kmheetbky0i1.png",
-     "url": "https://redd.it/1xte4a1",
-     "ups": 13,
-     "sub": "r/memes"
-    },
-    {
-     "title": "everything you see is not your to decide",
-     "image": "https://i.redd.it/ox2a390pxz0i1.png",
-     "url": "https://redd.it/1xtjoaa",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "This damn pop-up",
-     "image": "https://i.redd.it/ywzy7idwjy0i1.png",
-     "url": "https://redd.it/1xte3e3",
-     "ups": 797,
+     "title": "I dont have the time to post th..",
+     "image": "https://i.redd.it/k8bjprlyjy0i1.png",
+     "url": "https://redd.it/1xte2yr",
+     "ups": 29,
      "sub": "r/memes"
     },
     {
@@ -170,16 +149,37 @@
      "sub": "r/memes"
     },
     {
+     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
+     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
+     "url": "https://redd.it/1xt2h77",
+     "ups": 10837,
+     "sub": "r/memes"
+    },
+    {
      "title": "At least Huang scored high, unlike Andy Byron.",
      "image": "https://i.redd.it/8vu61htpju0i1.png",
      "url": "https://redd.it/1xsy42i",
      "ups": 92,
      "sub": "r/memes"
+    },
+    {
+     "title": "I feel myself getting better just maths phone call",
+     "image": "https://i.redd.it/bbwbcnxxxu0i1.gif",
+     "url": "https://redd.it/1xt01wo",
+     "ups": 2470,
+     "sub": "r/memes"
+    },
+    {
+     "title": "POV: You are learning Japanese",
+     "image": "https://i.redd.it/5kmheetbky0i1.png",
+     "url": "https://redd.it/1xte4a1",
+     "ups": 13,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-11T21:34:35.306734+00:00",
+   "fetched_at": "2026-11-11T21:34:50.484728+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "You finally have a third option when you die",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54293608",
-     "likes": 18,
+     "likes": 19,
      "image": "https://lemmy.world/pictrs/image/fc8c2904-512d-458f-9c64-e7cc0e3e17be.png"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Have no idea what it means but have seen many people recently wearing this cap",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54293546",
-     "likes": 17,
+     "likes": 18,
      "image": "https://lemmy.world/pictrs/image/83254ef6-0d37-42ca-b791-7a5913244879.png"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Lawmakers Report That Some Democrats Missed Hegseth Impeachment Vote to Attend Event for \u2018AIPAC Front Group\u2019 | Common Dreams",
      "author": "World News",
      "url": "https://kbin.earth/m/worldnews@lemmy.ml/t/3373385",
-     "likes": 18,
+     "likes": 19,
      "image": "https://lemmy.world/pictrs/image/3245fa80-5b33-43be-a8be-91fd673777e7.jpeg"
     },
     {
@@ -307,17 +307,17 @@
      "text": "Mind reader [Work Chronicles]",
      "author": "NPCs (NonPolitical Comics)",
      "url": "https://piefed.social/c/nonpolitical_comics@piefed.social/p/2591163/mind-reader-work-chronicles",
-     "likes": 53,
+     "likes": 54,
      "image": "https://lemmy.world/pictrs/image/2a0eecde-af96-4d9e-9f11-dda2e7e46154.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-11T21:34:35.750828+00:00",
+   "fetched_at": "2026-11-11T21:34:51.169931+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -325,31 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
      "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Who is the coolest Doctor in the hospital? The hip Doctor!",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.\r\n\r\n",
      "source": "Dad joke"
     },
     {
-     "text": "I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.",
+     "text": "What do you call a dictionary on drugs? High definition.",
      "source": "Dad joke"
     },
     {
-     "text": "My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.",
+     "text": "Did you hear the one about the giant pickle?  He was kind of a big dill.",
      "source": "Dad joke"
     }
    ]
