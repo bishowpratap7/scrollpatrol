@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T01:05:37.251822+00:00",
+ "generated_at": "2026-11-12T01:35:43.065503+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T01:05:32.272568+00:00",
+   "fetched_at": "2026-11-12T01:35:38.679983+00:00",
    "stale": false,
    "items": [
     {
@@ -35,6 +35,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Scott Colon has officially turned Mississippi blue!",
+     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xtvo4z/scott_colon_has_officially_turned_mississippi_blue/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/suzdz2ej721i1.jpeg?width=640&crop=smart&auto=webp&s=15b595814fc32eb45b50d3a92fe14c2c9f1e2076"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Steph Curry calls out Nick Young, Gilbert Arenas, and everyone else talking about Ayesha Curry, telling them to keep his wife\u2019s name out of their mouths.",
      "url": "https://www.reddit.com/r/nba/comments/1xtsgoy/steph_curry_calls_out_nick_young_gilbert_arenas/",
      "score": 0,
@@ -53,20 +62,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Unidentified liquid",
-     "url": "https://www.reddit.com/r/whatisit/comments/1xtbn92/unidentified_liquid/",
+     "title": "This man kicked me on purpose in the movie theater",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xtr0sg/this_man_kicked_me_on_purpose_in_the_movie_theater/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/dHZobms3NDRzeDBpMQ7S0wECGZKHAA8JmswzOG8xb_W_k7MAV9Duqu4AywPv.png?width=320&crop=smart&auto=webp&s=4e751f1eb95e16e04ecf597d6dc936e710673178"
+     "image": "https://preview.redd.it/n0utqpyva11i1.jpeg?width=640&crop=smart&auto=webp&s=88651e79f28d974dee95db4a50bc9a3997253a11"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Scott Colon has officially turned Mississippi blue!",
-     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xtvo4z/scott_colon_has_officially_turned_mississippi_blue/",
+     "title": "Would you rather save a random baby or your cat",
+     "url": "https://www.reddit.com/r/teenagers/comments/1xtn0j4/would_you_rather_save_a_random_baby_or_your_cat/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/suzdz2ej721i1.jpeg?width=640&crop=smart&auto=webp&s=15b595814fc32eb45b50d3a92fe14c2c9f1e2076"
+     "image": "https://preview.redd.it/oj29rj2qk01i1.jpeg?width=640&crop=smart&auto=webp&s=7368b75ad3419b5c4b1586ed33fd3868ec4c9036"
     },
     {
      "source": "Reddit",
@@ -76,34 +85,25 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/a3pmMTZ4bGwxMjFpMfMFyjMdDnDAbuRRcM2CNGUvRqriawn7i_vK_F2G39VJ.png?width=640&crop=smart&auto=webp&s=1ce46c175289969f579ec279f85d4343ce9b4912"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "This man kicked me on purpose in the movie theater",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xtr0sg/this_man_kicked_me_on_purpose_in_the_movie_theater/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/n0utqpyva11i1.jpeg?width=640&crop=smart&auto=webp&s=88651e79f28d974dee95db4a50bc9a3997253a11"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T01:05:33.035780+00:00",
+   "fetched_at": "2026-11-12T01:35:39.351561+00:00",
    "stale": false,
    "items": [
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 359,
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1877,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2145,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 8722,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,6 +114,20 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 36,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 169,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
      "title": "codeReview",
      "image": "https://i.redd.it/haju1lljr21i1.gif",
      "url": "https://redd.it/1xty9e4",
@@ -121,31 +135,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7564,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1290,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I feel myself getting better just maths phone call",
-     "image": "https://i.redd.it/bbwbcnxxxu0i1.gif",
-     "url": "https://redd.it/1xt01wo",
-     "ups": 2674,
+     "title": "I just want ES6\u2026.",
+     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
+     "url": "https://redd.it/1xtv76z",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
-     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
-     "url": "https://redd.it/1xt2h77",
-     "ups": 11200,
+     "title": "she left him sad and heartbroken \ud83d\ude22",
+     "image": "https://i.redd.it/z69gi9dlgu0i1.png",
+     "url": "https://redd.it/1xsxqq5",
+     "ups": 361,
      "sub": "r/memes"
     },
     {
@@ -156,53 +156,53 @@
      "sub": "r/memes"
     },
     {
-     "title": "Bro actually warned them",
-     "image": "https://i.redd.it/igfp0w5l7y0i1.png",
-     "url": "https://redd.it/1xtd14t",
-     "ups": 1202,
+     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
+     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
+     "url": "https://redd.it/1xt2h77",
+     "ups": 11200,
      "sub": "r/memes"
     },
     {
-     "title": "Every single time",
-     "image": "https://i.redd.it/v5je8ay99x0i1.png",
-     "url": "https://redd.it/1xt9vcc",
-     "ups": 41,
+     "title": "Fyi sam,i on average have 9 gigs unused on my laptop everyday",
+     "image": "https://i.redd.it/ye6w33tkpz0i1.png",
+     "url": "https://redd.it/1xtiijd",
+     "ups": 33,
      "sub": "r/memes"
     },
     {
-     "title": "Man they just can't let the fans be happy can they",
-     "image": "https://i.redd.it/v8rclrjtay0i1.png",
-     "url": "https://redd.it/1xtdbgv",
-     "ups": 37,
+     "title": "Your time is limited",
+     "image": "https://i.redd.it/ds78gp8har0i1.gif",
+     "url": "https://redd.it/1xsisct",
+     "ups": 5540,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T01:05:35.835956+00:00",
+   "fetched_at": "2026-11-12T01:35:42.006262+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "House veterans bill vote",
+     "text": "Hakeem Jeffries' bid for Speaker",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4895c678138",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bb029be914b8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia CEO Jensen Huang",
+     "text": "Adam Smith hedges on Hegseth impeachment",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cadb806dd713",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "White House counsel warns House Democrats",
+     "text": "AL Cy Young Award voting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f59709337f6a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f376d0ddbc64",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SS United States becomes reef",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Study finds low regret after youth transition",
+     "text": "SS United States becomes reef",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3d08a63bfb4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Arlington guard reprimands Hegseth's entourage",
+     "text": "House veterans bill vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4895c678138",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mississippi election evokes civil rights legacy",
+     "text": "Mississippi Senate race and trans rights",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3acdf519907",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
      "author": "News",
      "url": "https://lemmy.world/post/54297149",
-     "likes": 178,
+     "likes": 217,
      "image": "https://lemmy.world/pictrs/image/df565dc1-5ca8-4950-b2b3-e391b6fc8884.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier",
      "author": "News",
      "url": "https://lemmy.world/post/54297821",
-     "likes": 111,
+     "likes": 142,
      "image": "https://lemmy.world/pictrs/image/9f0df27e-1357-426e-8c61-cd12a99ed5fa.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Jenson Huang ladies and gentlemen",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54296918",
-     "likes": 128,
+     "likes": 148,
      "image": "https://lemmy.world/pictrs/image/62ffc478-5773-4162-bbac-c6cb4dad0c54.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1875 after narrow win \u2013 US politics live",
      "author": "politics ",
      "url": "https://lemmy.world/post/54297695",
-     "likes": 79,
+     "likes": 99,
      "image": "https://lemmy.world/pictrs/image/7998636b-19a7-4e3d-88c3-bf23227673c2.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T01:05:36.697721+00:00",
+   "fetched_at": "2026-11-12T01:35:42.599648+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"We messed up the keming again guys.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "What's brown and sticky? A stick.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
      "source": "Dad joke"
     },
     {
-     "text": "What's brown and sticky? A stick.",
+     "text": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
      "source": "Dad joke"
     },
     {
-     "text": "Two dyslexics walk into a bra.",
+     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
      "source": "Dad joke"
     }
    ]
