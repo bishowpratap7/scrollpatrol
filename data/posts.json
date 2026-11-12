@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-12T01:35:43.065503+00:00",
+ "generated_at": "2026-11-12T02:05:49.427136+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T01:35:38.679983+00:00",
+   "fetched_at": "2026-11-12T02:05:44.653194+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Democrat Colom Wins Mississippi Senate Race, CNN Projects",
-     "url": "https://www.reddit.com/r/politics/comments/1xtvbnm/democrat_colom_wins_mississippi_senate_race_cnn/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/0j-iy9qazGWzJIO4N_bhuI4hHCBaR5WI8SW0nV9hdiw.jpeg?width=640&crop=smart&auto=webp&s=42d15f5166eab3c53b44c08f154b99817791a8bd"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dzBwbWgyMW1uMDFpMd-s0BDhorbNG0hAw8ZgHusA-10Gq6V4Hgb_Q4-hu958.png?width=320&crop=smart&auto=webp&s=33c313c321aed15db2e60b6682af8e46c2527e91"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Democrat Colom Wins Mississippi Senate Race, CNN Projects",
+     "url": "https://www.reddit.com/r/politics/comments/1xtvbnm/democrat_colom_wins_mississippi_senate_race_cnn/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/0j-iy9qazGWzJIO4N_bhuI4hHCBaR5WI8SW0nV9hdiw.jpeg?width=640&crop=smart&auto=webp&s=42d15f5166eab3c53b44c08f154b99817791a8bd"
     },
     {
      "source": "Reddit",
@@ -40,6 +40,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/suzdz2ej721i1.jpeg?width=640&crop=smart&auto=webp&s=15b595814fc32eb45b50d3a92fe14c2c9f1e2076"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Sentinel at the Tomb of the Unknown Soldier shouts at Pete Hegseth's group for laughing during photoshoot: \u201cAll visitors will maintain an atmosphere of silence and respect at all times.\u201d",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xtuujn/sentinel_at_the_tomb_of_the_unknown_soldier/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/a3pmMTZ4bGwxMjFpMfMFyjMdDnDAbuRRcM2CNGUvRqriawn7i_vK_F2G39VJ.png?width=640&crop=smart&auto=webp&s=1ce46c175289969f579ec279f85d4343ce9b4912"
     },
     {
      "source": "Reddit",
@@ -71,95 +80,93 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Would you rather save a random baby or your cat",
-     "url": "https://www.reddit.com/r/teenagers/comments/1xtn0j4/would_you_rather_save_a_random_baby_or_your_cat/",
+     "title": "What's the adult version of finding out Santa doesn't exist?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xttkc4/whats_the_adult_version_of_finding_out_santa/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/oj29rj2qk01i1.jpeg?width=640&crop=smart&auto=webp&s=7368b75ad3419b5c4b1586ed33fd3868ec4c9036"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Sentinel at the Tomb of the Unknown Soldier shouts at Pete Hegseth's group for laughing during photoshoot: \u201cAll visitors will maintain an atmosphere of silence and respect at all times.\u201d",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xtuujn/sentinel_at_the_tomb_of_the_unknown_soldier/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/a3pmMTZ4bGwxMjFpMfMFyjMdDnDAbuRRcM2CNGUvRqriawn7i_vK_F2G39VJ.png?width=640&crop=smart&auto=webp&s=1ce46c175289969f579ec279f85d4343ce9b4912"
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T01:35:39.351561+00:00",
+   "fetched_at": "2026-11-12T02:05:45.428302+00:00",
    "stale": false,
    "items": [
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1877,
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5587,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 8722,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2318,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "rustIsFungus",
-     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
-     "url": "https://redd.it/1xm1h0e",
-     "ups": 36,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 169,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "codeReview",
-     "image": "https://i.redd.it/haju1lljr21i1.gif",
-     "url": "https://redd.it/1xty9e4",
-     "ups": 22,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I just want ES6\u2026.",
-     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
-     "url": "https://redd.it/1xtv76z",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "she left him sad and heartbroken \ud83d\ude22",
-     "image": "https://i.redd.it/z69gi9dlgu0i1.png",
-     "url": "https://redd.it/1xsxqq5",
-     "ups": 361,
-     "sub": "r/memes"
-    },
-    {
-     "title": "POV: You are learning Japanese",
-     "image": "https://i.redd.it/5kmheetbky0i1.png",
-     "url": "https://redd.it/1xte4a1",
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
      "ups": 13,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4223,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2145,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 421,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "emacsToVim",
+     "image": "https://i.redd.it/02lqs4uaa3zh1.png",
+     "url": "https://redd.it/1xlibre",
+     "ups": 82,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "While supplies last.",
+     "image": "https://i.redd.it/354tfkw2oz0i1.png",
+     "url": "https://redd.it/1xtibch",
+     "ups": 348,
      "sub": "r/memes"
     },
     {
-     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
-     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
-     "url": "https://redd.it/1xt2h77",
-     "ups": 11200,
+     "title": "It was the most BORING thing ever bro",
+     "image": "https://i.redd.it/l7zvfr12t21i1.png",
+     "url": "https://redd.it/1xtyg1i",
+     "ups": 8,
+     "sub": "r/memes"
+    },
+    {
+     "title": "one in a billionaire opportunity",
+     "image": "https://i.redd.it/ech35ify2t0i1.png",
+     "url": "https://redd.it/1xsqa4m",
+     "ups": 10143,
+     "sub": "r/memes"
+    },
+    {
+     "title": "POV: you are jensen after a long day at NVIDIA",
+     "image": "https://i.redd.it/ikleqytrq21i1.png",
+     "url": "https://redd.it/1xty5x7",
+     "ups": 124,
+     "sub": "r/memes"
+    },
+    {
+     "title": "ATTA GIRL BIG U!",
+     "image": "https://i.redd.it/qoi11l13231i1.png",
+     "url": "https://redd.it/1xtzjy6",
+     "ups": 20,
      "sub": "r/memes"
     },
     {
@@ -168,97 +175,18 @@
      "url": "https://redd.it/1xtiijd",
      "ups": 33,
      "sub": "r/memes"
-    },
-    {
-     "title": "Your time is limited",
-     "image": "https://i.redd.it/ds78gp8har0i1.gif",
-     "url": "https://redd.it/1xsisct",
-     "ups": 5540,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T01:35:42.006262+00:00",
+   "fetched_at": "2026-11-12T02:05:48.122146+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Hakeem Jeffries' bid for Speaker",
+     "text": "Trump's White House ballroom",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bb029be914b8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Adam Smith hedges on Hegseth impeachment",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cadb806dd713",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AL Cy Young Award voting",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f376d0ddbc64",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day tributes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Building collapse reported in Brooklyn",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Books to take the oath on",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "SS United States becomes reef",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6641ce992760",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +200,81 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mississippi Senate race and trans rights",
+     "text": "Veterans Day tributes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3acdf519907",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Building collapse reported in Brooklyn",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SS United States becomes reef",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Leather jackets in tech",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AL Cy Young Award voting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f376d0ddbc64",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Rex Ryan arrested in Nashville",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/297b1f01e9f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Adam Smith hedges on Hegseth impeachment",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cadb806dd713",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mississippi election evokes civil rights legacy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
      "author": "News",
      "url": "https://lemmy.world/post/54297149",
-     "likes": 217,
+     "likes": 265,
      "image": "https://lemmy.world/pictrs/image/df565dc1-5ca8-4950-b2b3-e391b6fc8884.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier",
      "author": "News",
      "url": "https://lemmy.world/post/54297821",
-     "likes": 142,
+     "likes": 181,
      "image": "https://lemmy.world/pictrs/image/9f0df27e-1357-426e-8c61-cd12a99ed5fa.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Jenson Huang ladies and gentlemen",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54296918",
-     "likes": 148,
+     "likes": 166,
      "image": "https://lemmy.world/pictrs/image/62ffc478-5773-4162-bbac-c6cb4dad0c54.jpeg"
     },
     {
@@ -307,33 +307,17 @@
      "text": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1875 after narrow win \u2013 US politics live",
      "author": "politics ",
      "url": "https://lemmy.world/post/54297695",
-     "likes": 99,
+     "likes": 134,
      "image": "https://lemmy.world/pictrs/image/7998636b-19a7-4e3d-88c3-bf23227673c2.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T01:35:42.599648+00:00",
+   "fetched_at": "2026-11-12T02:05:48.742493+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why do ducks make great detectives? They always quack the case.",
      "source": "Dad joke"
     },
     {
-     "text": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
+     "text": "Why did the miner get fired from his job? He took it for granite...",
      "source": "Dad joke"
     },
     {
-     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
+     "text": "What do you call a group of disorganized cats? A cat-tastrophe.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
