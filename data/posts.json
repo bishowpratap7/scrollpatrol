@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T07:36:53.610678+00:00",
+ "generated_at": "2026-11-12T07:37:08.020009+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T07:36:50.450418+00:00",
+   "fetched_at": "2026-11-12T07:37:03.758492+00:00",
    "stale": false,
    "items": [
     {
@@ -89,21 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T07:36:51.011017+00:00",
+   "fetched_at": "2026-11-12T07:37:04.931706+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6725,
+     "title": "technoLogy",
+     "image": "https://i.redd.it/gmenfy19f31i1.png",
+     "url": "https://redd.it/1xu12dy",
+     "ups": 1446,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 570,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7576,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 547,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,72 +128,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 579,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 391,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 521,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 598,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "love is so dead...",
-     "image": "https://i.redd.it/mwd64rib941i1.png",
-     "url": "https://redd.it/1xu4c7u",
-     "ups": 15,
+     "title": "Those were the good old days.",
+     "image": "https://i.redd.it/3cnm4uep101i1.png",
+     "url": "https://redd.it/1xtk6se",
+     "ups": 201,
      "sub": "r/memes"
     },
     {
-     "title": "It was the most BORING thing ever bro",
-     "image": "https://i.redd.it/l7zvfr12t21i1.png",
-     "url": "https://redd.it/1xtyg1i",
-     "ups": 9,
+     "title": "This damn pop-up",
+     "image": "https://i.redd.it/ywzy7idwjy0i1.png",
+     "url": "https://redd.it/1xte3e3",
+     "ups": 1012,
      "sub": "r/memes"
     },
     {
-     "title": "I feel myself getting better just maths phone call",
-     "image": "https://i.redd.it/bbwbcnxxxu0i1.gif",
-     "url": "https://redd.it/1xt01wo",
-     "ups": 2783,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I just want ES6\u2026.",
-     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
-     "url": "https://redd.it/1xtv76z",
+     "title": "Fyi sam,i on average have 9 gigs unused on my laptop everyday",
+     "image": "https://i.redd.it/ye6w33tkpz0i1.png",
+     "url": "https://redd.it/1xtiijd",
      "ups": 36,
      "sub": "r/memes"
     },
     {
-     "title": "POV: you are jensen after a long day at NVIDIA",
-     "image": "https://i.redd.it/ikleqytrq21i1.png",
-     "url": "https://redd.it/1xty5x7",
-     "ups": 1125,
+     "title": "one in a billionaire opportunity",
+     "image": "https://i.redd.it/ech35ify2t0i1.png",
+     "url": "https://redd.it/1xsqa4m",
+     "ups": 10319,
      "sub": "r/memes"
     },
     {
-     "title": "Honestly, they had it coming...",
-     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
-     "url": "https://redd.it/1xt8s1h",
-     "ups": 25410,
+     "title": "ATTA GIRL BIG U!",
+     "image": "https://i.redd.it/qoi11l13231i1.png",
+     "url": "https://redd.it/1xtzjy6",
+     "ups": 2181,
+     "sub": "r/memes"
+    },
+    {
+     "title": "My job here is done \ud83d\udc4d",
+     "image": "https://i.redd.it/wr9zu7qh001i1.png",
+     "url": "https://redd.it/1xtk0lw",
+     "ups": 29,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T07:36:52.565306+00:00",
+   "fetched_at": "2026-11-12T07:37:06.598814+00:00",
    "stale": false,
    "items": [
     {
@@ -313,15 +313,11 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T07:36:53.249916+00:00",
+   "fetched_at": "2026-11-12T07:37:07.257915+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Can February march? No, but April may.",
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How many seconds are in a year?\r\n12.\r\nJanuary 2nd, February 2nd, March 2nd, April 2nd.... etc",
      "source": "Dad joke"
     },
     {
-     "text": "When you have a bladder infection, urine trouble.",
+     "text": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. \r\nHe also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. \r\nThis made him a super calloused fragile mystic hexed by halitosis.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the hat say to the scarf?\r\nYou can hang around. I'll just go on ahead.\r\n",
+     "text": "Why does Superman get invited to dinners? Because he is a Supperhero.",
      "source": "Dad joke"
     }
    ]
