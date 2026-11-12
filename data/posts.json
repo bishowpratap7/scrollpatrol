@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T15:39:00.383155+00:00",
+ "generated_at": "2026-11-12T16:09:06.185414+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T15:38:56.239868+00:00",
+   "fetched_at": "2026-11-12T16:09:02.313833+00:00",
    "stale": false,
    "items": [
     {
@@ -35,8 +35,8 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "New York City building collapse traps people in rubble",
-     "url": "https://www.reddit.com/r/news/comments/1xtvp9c/new_york_city_building_collapse_traps_people_in/",
+     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -44,26 +44,8 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "These are some hard hitting facts",
-     "url": "https://www.reddit.com/r/interesting/comments/1xtwvs3/these_are_some_hard_hitting_facts/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YmN3eGhsM25nMjFpMclJg3EcEvdhF11pMbG5ATdATcGrlGdn_UPITFv4GsxY.jpeg?width=640&crop=smart&auto=webp&s=643dd0dac6bfd9bdd8b9cfc80301d9f25610527c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Send me pictures of your cats, and I\u2019ll draw them \u2728",
-     "url": "https://www.reddit.com/r/cats/comments/1xtsoe3/send_me_pictures_of_your_cats_and_ill_draw_them/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/r8ofis26m11i1.jpeg?width=640&crop=smart&auto=webp&s=3f0adc67238c54a5ac42384a1c28a5aca5f6f09d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
+     "title": "New York City building collapse traps people in rubble",
+     "url": "https://www.reddit.com/r/news/comments/1xtvp9c/new_york_city_building_collapse_traps_people_in/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -80,6 +62,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "These are some hard hitting facts",
+     "url": "https://www.reddit.com/r/interesting/comments/1xtwvs3/these_are_some_hard_hitting_facts/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/YmN3eGhsM25nMjFpMclJg3EcEvdhF11pMbG5ATdATcGrlGdn_UPITFv4GsxY.jpeg?width=640&crop=smart&auto=webp&s=643dd0dac6bfd9bdd8b9cfc80301d9f25610527c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xudjr6/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/qlcdoduhu61i1.png?width=640&crop=smart&auto=webp&s=0528f313b47ca1282547e30bef28e6c6c6f9d16f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Hasan Piker shows off thrifted $100 Armani pinstripe suit",
      "url": "https://www.reddit.com/r/LivestreamFail/comments/1xu18y6/hasan_piker_shows_off_thrifted_100_armani/",
      "score": 0,
@@ -89,57 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T15:38:56.838801+00:00",
+   "fetched_at": "2026-11-12T16:09:02.863776+00:00",
    "stale": false,
    "items": [
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 587,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 9,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justUseWebm",
-     "image": "https://i.redd.it/naj70oqxc4zh1.png",
-     "url": "https://redd.it/1xlmwai",
-     "ups": 174,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 398,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1287,
+     "title": "refactoringComplete",
+     "image": "https://i.redd.it/pkmrs4913fzh1.png",
+     "url": "https://redd.it/1xmw6nu",
+     "ups": 5586,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 834,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 115,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 912,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2020,
+     "title": "unhappyCrustaceans",
+     "image": "https://i.redd.it/dgj598hkm20i1.png",
+     "url": "https://redd.it/1xpqmpe",
+     "ups": 176,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "love is so dead...",
-     "image": "https://i.redd.it/mwd64rib941i1.png",
-     "url": "https://redd.it/1xu4c7u",
-     "ups": 1411,
-     "sub": "r/memes"
     },
     {
      "title": "They are just never gonna stop",
@@ -149,37 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "Artists be like",
-     "image": "https://i.redd.it/m2ph7z8j841i1.png",
-     "url": "https://redd.it/1xu496i",
-     "ups": 7,
+     "title": "i'm never going to financially recover from this",
+     "image": "https://i.redd.it/tz2bql2bm61i1.gif",
+     "url": "https://redd.it/1xucigh",
+     "ups": 18,
      "sub": "r/memes"
     },
     {
      "title": "ATTA GIRL BIG U!",
      "image": "https://i.redd.it/qoi11l13231i1.png",
      "url": "https://redd.it/1xtzjy6",
-     "ups": 3643,
+     "ups": 3993,
      "sub": "r/memes"
     },
     {
-     "title": "I just want ES6\u2026.",
-     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
-     "url": "https://redd.it/1xtv76z",
-     "ups": 51,
+     "title": "Forget AI, put all your savings on memes",
+     "image": "https://i.redd.it/swzo5l1qx61i1.png",
+     "url": "https://redd.it/1xue0rc",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "Sounds like someone wants detention",
-     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
-     "url": "https://redd.it/1xtx1id",
-     "ups": 2215,
+     "title": "Jensen Huang x Affair",
+     "image": "https://i.redd.it/iqwm3d9sj41i1.png",
+     "url": "https://redd.it/1xu5dc0",
+     "ups": 97,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Honestly, they had it coming...",
+     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
+     "url": "https://redd.it/1xt8s1h",
+     "ups": 26820,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T15:38:59.361664+00:00",
+   "fetched_at": "2026-11-12T16:09:05.302174+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reports Starshield speed limits",
+     "text": "Trump warns of migrant caravans",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7cad4567cfaf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e405942ddfa6",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Star Wars 50th anniversary re-release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/586f1a9346ed",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Jensen Huang affair reports",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -240,17 +224,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Humble Bundle website redesign",
+     "text": "Star Wars 50th anniversary re-release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aeee560ca08",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/586f1a9346ed",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Building collapse reported in Brooklyn",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Humble Bundle website redesign",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aeee560ca08",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +256,109 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Lutnick and Nvidia's China chips",
+     "text": "Michael Carrick sacked as manager",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a466ffd4851e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62d09bad7a2c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Calls for Schumer to step down",
+     "text": "Ukraine reports Starshield speed limits",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7cad4567cfaf",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Catherine Liu's NYT \"woke\" op-ed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62bcc1aa1ab9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "2026-11-12 #2",
-     "author": "The Far Side",
-     "url": "https://discuss.online/post/48360762",
-     "likes": 46,
-     "image": "https://lemmy.world/pictrs/image/ac2a0676-3cec-4454-992f-77e1cbd76acc.webp"
+     "text": "Stab Rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50410987",
+     "likes": 55,
+     "image": "https://lemmy.world/pictrs/image/d289753f-36bd-418a-a100-341d29147267.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "El-Sayed says Dems need to earn their mandate and take 'righteous risks'",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54324693",
-     "likes": 76,
-     "image": ""
+     "text": "Blexas, Bay-bee!",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54325917",
+     "likes": 47,
+     "image": "https://lemmy.world/pictrs/image/7535a058-1d69-49f6-b452-c9f5ed37e8be.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "2026-11-11",
-     "author": "Cyanide & Happiness",
-     "url": "https://discuss.online/post/48360754",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/bc6549f0-c5a1-4d9f-a5d2-59bee197acd4.png"
+     "text": "Give In To The Rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50410849",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/77f62bd6-ddda-4f01-a247-c147f83c52cc.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "2026-11-12 #4",
-     "author": "The Far Side",
-     "url": "https://discuss.online/post/48360765",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/ed0361a6-e8fa-4595-8c18-3a854c8ff327.webp"
+     "text": "Rule Cats",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50410883",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/ed96922e-2667-4e8c-9bca-37beea11df49.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T15:38:59.929419+00:00",
+   "fetched_at": "2026-11-12T16:09:05.733205+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Some people say that I never got over my obsession with Phil Collins.\r\nBut take a look at me now.",
+     "text": "If you\u2019re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
      "source": "Dad joke"
     },
     {
-     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
+     "text": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the ocean say to the shore? Nothing, it just waved.",
+     "text": "Why was the strawberry sad? Its parents were in a jam.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
