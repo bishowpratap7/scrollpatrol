@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-12T08:07:15.064067+00:00",
+ "generated_at": "2026-11-12T08:37:22.246353+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T08:07:10.321772+00:00",
+   "fetched_at": "2026-11-12T08:37:17.443305+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "After years of hearing that MLB games can't be discussed without express written consent, I decided to ask for it. They actually said yes.",
-     "url": "https://www.reddit.com/r/baseball/comments/1xu1l4t/after_years_of_hearing_that_mlb_games_cant_be/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/gzhrjs2sj31i1.png?width=640&crop=smart&auto=webp&s=bd59cc9a25089a317aab2af0d2e63783a2c432b1"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "This man kicked me on purpose in the movie theater",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xtr0sg/this_man_kicked_me_on_purpose_in_the_movie_theater/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/n0utqpyva11i1.jpeg?width=640&crop=smart&auto=webp&s=88651e79f28d974dee95db4a50bc9a3997253a11"
     },
     {
      "source": "Reddit",
@@ -35,29 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Absolute Cinematic reality we live right now!",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/dnNobTV2cGRoMzFpMeEk5YGsuD5ftC7lOICpDANnx-mMjrDh5rR8_7gHAbOL.png?width=640&crop=smart&auto=webp&s=2611fe0b128dab9faf1bf0a6a9722a1cfa6590e5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "thought we were having a good time then she says this \ud83d\udc94",
      "url": "https://www.reddit.com/r/texts/comments/1xtqyal/thought_we_were_having_a_good_time_then_she_says/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/hf8uhhsea11i1.jpeg?width=320&crop=smart&auto=webp&s=dc0129a4b407c1e7e0aac68d4622be1f63863cd9"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "This man kicked me on purpose in the movie theater",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xtr0sg/this_man_kicked_me_on_purpose_in_the_movie_theater/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/n0utqpyva11i1.jpeg?width=640&crop=smart&auto=webp&s=88651e79f28d974dee95db4a50bc9a3997253a11"
     },
     {
      "source": "Reddit",
@@ -85,108 +67,126 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "After years of hearing that MLB games can't be discussed without express written consent, I decided to ask for it. They actually said yes.",
+     "url": "https://www.reddit.com/r/baseball/comments/1xu1l4t/after_years_of_hearing_that_mlb_games_cant_be/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/gzhrjs2sj31i1.png?width=640&crop=smart&auto=webp&s=bd59cc9a25089a317aab2af0d2e63783a2c432b1"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "160 families pool their money to buy groceries at cheap wholesale price",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xtgu8o/160_families_pool_their_money_to_buy_groceries_at/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/eXRhd3VsMndiejBpMaUmKQssfBrualZGuYEwNxur4xatNhfzG-yywligZMAx.png?width=320&crop=smart&auto=webp&s=33167b87c3f7652849f4325b3423b13fd36dda0b"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T08:07:11.661366+00:00",
+   "fetched_at": "2026-11-12T08:37:18.773256+00:00",
    "stale": false,
    "items": [
     {
-     "title": "refactoringComplete",
-     "image": "https://i.redd.it/pkmrs4913fzh1.png",
-     "url": "https://redd.it/1xmw6nu",
-     "ups": 5584,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2328,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "unhappyCrustaceans",
      "image": "https://i.redd.it/dgj598hkm20i1.png",
      "url": "https://redd.it/1xpqmpe",
-     "ups": 177,
+     "ups": 172,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23512,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "rustIsFungus",
+     "image": "https://i.redd.it/ac9rsm6u48zh1.png",
+     "url": "https://redd.it/1xm1h0e",
+     "ups": 39,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 579,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "visualStudioIsMakingFunOfMe",
      "image": "https://i.redd.it/nkcl8442cszh1.png",
      "url": "https://redd.it/1xoh3fl",
-     "ups": 1241,
+     "ups": 1234,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 364,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 558,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "one in a billionaire opportunity",
-     "image": "https://i.redd.it/ech35ify2t0i1.png",
-     "url": "https://redd.it/1xsqa4m",
-     "ups": 10395,
+     "title": "It felt surreal talking with him and finding that out.",
+     "image": "https://i.redd.it/re2cy98vq21i1.gif",
+     "url": "https://redd.it/1xty78g",
+     "ups": 273,
      "sub": "r/memes"
     },
     {
-     "title": "While supplies last.",
-     "image": "https://i.redd.it/354tfkw2oz0i1.png",
-     "url": "https://redd.it/1xtibch",
-     "ups": 386,
+     "title": "Artists be like",
+     "image": "https://i.redd.it/m2ph7z8j841i1.png",
+     "url": "https://redd.it/1xu496i",
+     "ups": 7,
      "sub": "r/memes"
     },
     {
-     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
-     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
-     "url": "https://redd.it/1xt2h77",
-     "ups": 11586,
+     "title": "Senator, she is Singaporean",
+     "image": "https://i.redd.it/k6qic4ritt0i1.png",
+     "url": "https://redd.it/1xsu7pt",
+     "ups": 6017,
      "sub": "r/memes"
     },
     {
-     "title": "ATTA GIRL BIG U!",
-     "image": "https://i.redd.it/qoi11l13231i1.png",
-     "url": "https://redd.it/1xtzjy6",
-     "ups": 2660,
+     "title": "Honestly, they had it coming...",
+     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
+     "url": "https://redd.it/1xt8s1h",
+     "ups": 25801,
      "sub": "r/memes"
     },
     {
-     "title": "I just want ES6\u2026.",
-     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
-     "url": "https://redd.it/1xtv76z",
-     "ups": 39,
+     "title": "Jensen Huang x Affair",
+     "image": "https://i.redd.it/iqwm3d9sj41i1.png",
+     "url": "https://redd.it/1xu5dc0",
+     "ups": 29,
      "sub": "r/memes"
     },
     {
-     "title": "Professional lurker",
-     "image": "https://i.redd.it/roh4oqjkq31i1.png",
-     "url": "https://redd.it/1xu2d6y",
-     "ups": 43,
+     "title": "Fyi sam,i on average have 9 gigs unused on my laptop everyday",
+     "image": "https://i.redd.it/ye6w33tkpz0i1.png",
+     "url": "https://redd.it/1xtiijd",
+     "ups": 35,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T08:07:13.910903+00:00",
+   "fetched_at": "2026-11-12T08:37:21.046819+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Trump's stance on Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
      "likes": 0,
      "image": ""
     },
@@ -200,49 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's stance on Jensen Huang",
+     "text": "SS United States is sunk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day tributes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
      "likes": 0,
      "image": ""
     },
@@ -256,100 +216,140 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "U.S. Soccer eyes Pep Guardiola",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/279152075305",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
+     "text": "Manchester United eyes Mauricio Pochettino",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62d09bad7a2c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's White House ballroom",
+     "text": "Stacy Keach dies at 85",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6641ce992760",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bc6ffe95e747",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "James Gunn fired from DC Studios",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Danny Kelly dies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f2a1fa96f027",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Scott Colom's Senate campaign ad",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f52103738b75",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports daily Russian losses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "\u2018In Europe, there are increasingly close ties between far-right parties and the Russia-China axis\u2019",
-     "author": "Europe",
-     "url": "https://scribe.disroot.org/post/12428823",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/02cde1c8-6a64-4db1-9018-3f4e6ea51584.jpeg"
+     "text": "Frog ruleing guide",
+     "author": "196",
+     "url": "https://lemmy.ca/post/73737389",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/90bf3adf-b8a2-458c-b924-395d1dee1a98.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "screenshot",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55216415",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/b5af3fd2-b033-46de-81d0-4b127394b24d.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI: Latest example of the AI boom\u2019s circular financing comes as AI trade wobbles.",
      "author": "Technology",
      "url": "https://lemmy.world/post/54309252",
-     "likes": 22,
+     "likes": 39,
      "image": "https://lemmy.world/pictrs/image/dc2bfd59-e6a0-4f04-a536-6df4b1765253.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Suave motherfucker \ud83d\ude04\ud83d\udc99",
-     "author": "Political Memes",
-     "url": "https://lemmy.dbzer0.com/post/78333241",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/178c7394-bbd8-441d-ab77-65b3a506a8da.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "by @Buri",
-     "author": "Traditional Art",
-     "url": "https://lemmy.world/post/54309247",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/b95c146c-7ddf-4f2d-9b84-1af166320050.jpeg"
+     "text": "\u2018In Europe, there are increasingly close ties between far-right parties and the Russia-China axis\u2019",
+     "author": "Europe",
+     "url": "https://scribe.disroot.org/post/12428823",
+     "likes": 46,
+     "image": "https://lemmy.world/pictrs/image/02cde1c8-6a64-4db1-9018-3f4e6ea51584.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T08:07:14.550044+00:00",
+   "fetched_at": "2026-11-12T08:37:21.732823+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "My pet mouse 'Elvis' died last night. He was caught in a trap..",
+     "text": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
      "source": "Dad joke"
     },
     {
-     "text": "*Reversing the car* \"Ah, this takes me back\"",
+     "text": "New atoms frequently lose electrons when they fail to keep an ion them.",
      "source": "Dad joke"
     },
     {
-     "text": "How does a dyslexic poet write? Inverse.",
+     "text": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up.",
      "source": "Dad joke"
     }
    ]
