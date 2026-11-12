@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T17:39:28.551015+00:00",
+ "generated_at": "2026-11-12T17:39:44.529567+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T17:39:20.010214+00:00",
+   "fetched_at": "2026-11-12T17:39:38.484906+00:00",
    "stale": false,
    "items": [
     {
@@ -89,56 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T17:39:20.653631+00:00",
+   "fetched_at": "2026-11-12T17:39:40.071631+00:00",
    "stale": false,
    "items": [
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 588,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 526,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 117,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2314,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3433,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 590,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 969,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 740,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1599,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 395,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 160,
+     "title": "perfectSquare",
+     "image": "https://i.redd.it/dx5vvwmqnczh1.png",
+     "url": "https://redd.it/1xmmmd5",
+     "ups": 475,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Sounds like someone wants detention",
-     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
-     "url": "https://redd.it/1xtx1id",
-     "ups": 2341,
+     "title": "It felt surreal talking with him and finding that out.",
+     "image": "https://i.redd.it/re2cy98vq21i1.gif",
+     "url": "https://redd.it/1xty78g",
+     "ups": 1063,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Professional lurker",
+     "image": "https://i.redd.it/roh4oqjkq31i1.png",
+     "url": "https://redd.it/1xu2d6y",
+     "ups": 133,
+     "sub": "r/memes"
+    },
+    {
+     "title": "one in a billionaire opportunity",
+     "image": "https://i.redd.it/ech35ify2t0i1.png",
+     "url": "https://redd.it/1xsqa4m",
+     "ups": 10745,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I just want ES6\u2026.",
+     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
+     "url": "https://redd.it/1xtv76z",
+     "ups": 51,
      "sub": "r/memes"
     },
     {
@@ -149,37 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "He just doesn't learn.",
-     "image": "https://i.redd.it/4u95n13p441i1.png",
-     "url": "https://redd.it/1xu3umt",
-     "ups": 23,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Its not popping",
-     "image": "https://i.redd.it/cr7xmu4l751i1.gif",
-     "url": "https://redd.it/1xu7j43",
-     "ups": 36,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It felt surreal talking with him and finding that out.",
-     "image": "https://i.redd.it/re2cy98vq21i1.gif",
-     "url": "https://redd.it/1xty78g",
-     "ups": 1063,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Forget AI, put all your savings on memes",
-     "image": "https://i.redd.it/swzo5l1qx61i1.png",
-     "url": "https://redd.it/1xue0rc",
-     "ups": 12,
-     "sub": "r/memes"
+     "title": "Almost done?",
+     "image": "https://i.redd.it/5qx9skm4kv0i1.gif",
+     "url": "https://redd.it/1xt2yze",
+     "ups": 668,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T17:39:23.181965+00:00",
+   "fetched_at": "2026-11-12T17:39:42.983506+00:00",
    "stale": false,
    "items": [
     {
@@ -299,7 +299,7 @@
      "text": "To be, or not to be, Glorious",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://piefed.world/c/tenforward/p/1530252/to-be-or-not-to-be-glorious",
-     "likes": 42,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/501cd2d3-59ea-4939-bb83-9f5c83158a2f.webp"
     },
     {
@@ -307,13 +307,13 @@
      "text": "preaching to the choir",
      "author": "Late Stage Capitalism",
      "url": "https://lemmy.ca/post/73754093",
-     "likes": 104,
+     "likes": 106,
      "image": "https://lemmy.world/pictrs/image/c4294ec1-478e-4bb4-8588-f4e55dd5340e.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T17:39:27.428320+00:00",
+   "fetched_at": "2026-11-12T17:39:43.707840+00:00",
    "stale": false,
    "items": [
     {
@@ -321,35 +321,35 @@
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a cow on a trampoline? A milk shake!",
+     "text": "What do you call a female snake. misssssssss ",
      "source": "Dad joke"
     },
     {
-     "text": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.",
+     "text": "What does a pirate pay for his corn? A buccaneer!",
      "source": "Dad joke"
     },
     {
-     "text": "I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.",
+     "text": "Thanks for explaining the word \"many\" to me. It means a lot.",
      "source": "Dad joke"
     }
    ]
