@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T00:35:30.662056+00:00",
+ "generated_at": "2026-11-12T01:05:37.251822+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T00:35:26.826150+00:00",
+   "fetched_at": "2026-11-12T01:05:32.272568+00:00",
    "stale": false,
    "items": [
     {
@@ -53,20 +53,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Scott Colon has officially turned Mississippi blue!",
-     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xtvo4z/scott_colon_has_officially_turned_mississippi_blue/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/suzdz2ej721i1.jpeg?width=640&crop=smart&auto=webp&s=15b595814fc32eb45b50d3a92fe14c2c9f1e2076"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Unidentified liquid",
      "url": "https://www.reddit.com/r/whatisit/comments/1xtbn92/unidentified_liquid/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dHZobms3NDRzeDBpMQ7S0wECGZKHAA8JmswzOG8xb_W_k7MAV9Duqu4AywPv.png?width=320&crop=smart&auto=webp&s=4e751f1eb95e16e04ecf597d6dc936e710673178"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Scott Colon has officially turned Mississippi blue!",
+     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xtvo4z/scott_colon_has_officially_turned_mississippi_blue/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/suzdz2ej721i1.jpeg?width=640&crop=smart&auto=webp&s=15b595814fc32eb45b50d3a92fe14c2c9f1e2076"
     },
     {
      "source": "Reddit",
@@ -80,86 +80,65 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Jeffries Dragged for 'Serious Leadership Problem' as Hegseth Impeachment Bid Falls 7 Votes Short With 11 Dem No-Shows",
-     "url": "https://www.reddit.com/r/politics/comments/1xtdaow/jeffries_dragged_for_serious_leadership_problem/",
+     "title": "This man kicked me on purpose in the movie theater",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xtr0sg/this_man_kicked_me_on_purpose_in_the_movie_theater/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/klCFck44mIfjETmOfGFIaQaN6NiBxiV1uIhbrJ9yS-U.png?width=640&crop=smart&auto=webp&s=e622dd87ac6f03039fd65fd79f442cbda8b7a6b2"
+     "image": "https://preview.redd.it/n0utqpyva11i1.jpeg?width=640&crop=smart&auto=webp&s=88651e79f28d974dee95db4a50bc9a3997253a11"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T00:35:27.589128+00:00",
+   "fetched_at": "2026-11-12T01:05:33.035780+00:00",
    "stale": false,
    "items": [
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 11493,
+     "title": "tryHackMeKindaUnseriousNow",
+     "image": "https://i.redd.it/bggqfn70jlzh1.png",
+     "url": "https://redd.it/1xnnyjx",
+     "ups": 359,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "withholdingDRAM",
-     "image": "https://i.redd.it/13cdasenalzh1.png",
-     "url": "https://redd.it/1xnn01s",
-     "ups": 214,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2145,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4223,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2318,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1233,
+     "title": "codeReview",
+     "image": "https://i.redd.it/haju1lljr21i1.gif",
+     "url": "https://redd.it/1xty9e4",
+     "ups": 22,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 388,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7564,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 550,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1290,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Honestly, they had it coming...",
-     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
-     "url": "https://redd.it/1xt8s1h",
-     "ups": 23331,
-     "sub": "r/memes"
-    },
-    {
-     "title": "one in a billionaire opportunity",
-     "image": "https://i.redd.it/ech35ify2t0i1.png",
-     "url": "https://redd.it/1xsqa4m",
-     "ups": 10051,
-     "sub": "r/memes"
-    },
-    {
-     "title": "everything you see is not your to decide",
-     "image": "https://i.redd.it/ox2a390pxz0i1.png",
-     "url": "https://redd.it/1xtjoaa",
-     "ups": 6,
-     "sub": "r/memes"
-    },
-    {
-     "title": "everything has ups and downs",
-     "image": "https://i.redd.it/qzvqju9his0i1.png",
-     "url": "https://redd.it/1xsnez3",
-     "ups": 1137,
+     "title": "I feel myself getting better just maths phone call",
+     "image": "https://i.redd.it/bbwbcnxxxu0i1.gif",
+     "url": "https://redd.it/1xt01wo",
+     "ups": 2674,
      "sub": "r/memes"
     },
     {
@@ -170,18 +149,47 @@
      "sub": "r/memes"
     },
     {
-     "title": "My job here is done \ud83d\udc4d",
-     "image": "https://i.redd.it/wr9zu7qh001i1.png",
-     "url": "https://redd.it/1xtk0lw",
-     "ups": 23,
+     "title": "POV: You are learning Japanese",
+     "image": "https://i.redd.it/5kmheetbky0i1.png",
+     "url": "https://redd.it/1xte4a1",
+     "ups": 13,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Bro actually warned them",
+     "image": "https://i.redd.it/igfp0w5l7y0i1.png",
+     "url": "https://redd.it/1xtd14t",
+     "ups": 1202,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time",
+     "image": "https://i.redd.it/v5je8ay99x0i1.png",
+     "url": "https://redd.it/1xt9vcc",
+     "ups": 41,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Man they just can't let the fans be happy can they",
+     "image": "https://i.redd.it/v8rclrjtay0i1.png",
+     "url": "https://redd.it/1xtdbgv",
+     "ups": 37,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T00:35:29.218581+00:00",
+   "fetched_at": "2026-11-12T01:05:35.835956+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "House veterans bill vote",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4895c678138",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Nvidia CEO Jensen Huang",
@@ -192,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hakeem Jeffries' bid for Speaker",
+     "text": "White House counsel warns House Democrats",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bb029be914b8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ayanna Pressley for Speaker",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/80fe27b00494",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f59709337f6a",
      "likes": 0,
      "image": ""
     },
@@ -224,14 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "SS United States becomes reef",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
@@ -248,9 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "James Gunn fired from DC Studios",
+     "text": "Leather jackets in tech",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Books to take the oath on",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
      "likes": 0,
      "image": ""
     },
@@ -264,15 +264,15 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK widens under-16 social media ban",
+     "text": "Arlington guard reprimands Hegseth's entourage",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f684b506a296",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Black voters organizing in South",
+     "text": "Mississippi election evokes civil rights legacy",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
@@ -283,7 +283,7 @@
      "text": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
      "author": "News",
      "url": "https://lemmy.world/post/54297149",
-     "likes": 132,
+     "likes": 178,
      "image": "https://lemmy.world/pictrs/image/df565dc1-5ca8-4950-b2b3-e391b6fc8884.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier",
      "author": "News",
      "url": "https://lemmy.world/post/54297821",
-     "likes": 69,
+     "likes": 111,
      "image": "https://lemmy.world/pictrs/image/9f0df27e-1357-426e-8c61-cd12a99ed5fa.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Jenson Huang ladies and gentlemen",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54296918",
-     "likes": 107,
+     "likes": 128,
      "image": "https://lemmy.world/pictrs/image/62ffc478-5773-4162-bbac-c6cb4dad0c54.jpeg"
     },
     {
@@ -307,33 +307,21 @@
      "text": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1875 after narrow win \u2013 US politics live",
      "author": "politics ",
      "url": "https://lemmy.world/post/54297695",
-     "likes": 54,
+     "likes": 79,
      "image": "https://lemmy.world/pictrs/image/7998636b-19a7-4e3d-88c3-bf23227673c2.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T00:35:30.125060+00:00",
+   "fetched_at": "2026-11-12T01:05:36.697721+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "What do birds give out on Halloween? Tweets.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What's brown and sticky? A stick.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did Mozart kill all his chickens?\r\nBecause when he asked them who the best composer was, they'd all say \"Bach bach bach!\"\r\n",
+     "text": "What's brown and sticky? A stick.",
      "source": "Dad joke"
     },
     {
-     "text": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
+     "text": "Two dyslexics walk into a bra.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
