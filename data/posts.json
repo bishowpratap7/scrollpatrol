@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T06:06:40.351962+00:00",
+ "generated_at": "2026-11-12T06:36:44.864958+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T06:06:37.315933+00:00",
+   "fetched_at": "2026-11-12T06:36:41.655988+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Absolute Cinematic reality we live right now!",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
+     "title": "What's the adult version of finding out Santa doesn't exist?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xttkc4/whats_the_adult_version_of_finding_out_santa/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/dnNobTV2cGRoMzFpMeEk5YGsuD5ftC7lOICpDANnx-mMjrDh5rR8_7gHAbOL.png?width=640&crop=smart&auto=webp&s=2611fe0b128dab9faf1bf0a6a9722a1cfa6590e5"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -53,20 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "[Highlight] T.J. McConnell stood up on his own after hitting the floor, so his Pacers teammates made him sit back down so they could help him up",
-     "url": "https://www.reddit.com/r/nba/comments/1xu0qpe/highlight_tj_mcconnell_stood_up_on_his_own_after/",
+     "title": "Absolute Cinematic reality we live right now!",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/LN-SrRQ00EtF91E1qWF49AxmFDcaPh_tmis3PvH4wsU.jpeg?width=640&crop=smart&auto=webp&s=7519b9c81269ed7682b9daa977498e3996c586b3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "What's the adult version of finding out Santa doesn't exist?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xttkc4/whats_the_adult_version_of_finding_out_santa/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/dnNobTV2cGRoMzFpMeEk5YGsuD5ftC7lOICpDANnx-mMjrDh5rR8_7gHAbOL.png?width=640&crop=smart&auto=webp&s=2611fe0b128dab9faf1bf0a6a9722a1cfa6590e5"
     },
     {
      "source": "Reddit",
@@ -85,81 +76,83 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dzBwbWgyMW1uMDFpMd-s0BDhorbNG0hAw8ZgHusA-10Gq6V4Hgb_Q4-hu958.png?width=320&crop=smart&auto=webp&s=33c313c321aed15db2e60b6682af8e46c2527e91"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "You deserve the tank shortage",
+     "url": "https://www.reddit.com/r/wowforever/comments/1xtotr2/you_deserve_the_tank_shortage/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T06:06:37.921533+00:00",
+   "fetched_at": "2026-11-12T06:36:42.250442+00:00",
    "stale": false,
    "items": [
     {
-     "title": "technoLogy",
-     "image": "https://i.redd.it/gmenfy19f31i1.png",
-     "url": "https://redd.it/1xu12dy",
-     "ups": 663,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 9456,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4235,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7576,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 165,
+     "title": "justUseWebm",
+     "image": "https://i.redd.it/naj70oqxc4zh1.png",
+     "url": "https://redd.it/1xlmwai",
+     "ups": 168,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2318,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2403,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 48,
+     "title": "unhappyCrustaceans",
+     "image": "https://i.redd.it/dgj598hkm20i1.png",
+     "url": "https://redd.it/1xpqmpe",
+     "ups": 177,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 579,
+     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
+     "image": "https://i.redd.it/tx20kggzj9zh1.png",
+     "url": "https://redd.it/1xm9d3b",
+     "ups": 1292,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Your time is limited",
-     "image": "https://i.redd.it/ds78gp8har0i1.gif",
-     "url": "https://redd.it/1xsisct",
-     "ups": 5613,
+     "title": "Sounds like someone wants detention",
+     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
+     "url": "https://redd.it/1xtx1id",
+     "ups": 1042,
      "sub": "r/memes"
     },
     {
-     "title": "I just want ES6\u2026.",
-     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
-     "url": "https://redd.it/1xtv76z",
-     "ups": 36,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He just doesn't learn.",
-     "image": "https://i.redd.it/4u95n13p441i1.png",
-     "url": "https://redd.it/1xu3umt",
+     "title": "Stonks stonks stonks",
+     "image": "https://i.redd.it/65v7prw9b31i1.png",
+     "url": "https://redd.it/1xu0lln",
      "ups": 7,
      "sub": "r/memes"
     },
     {
-     "title": "My job here is done \ud83d\udc4d",
-     "image": "https://i.redd.it/wr9zu7qh001i1.png",
-     "url": "https://redd.it/1xtk0lw",
-     "ups": 29,
+     "title": "This damn pop-up",
+     "image": "https://i.redd.it/ywzy7idwjy0i1.png",
+     "url": "https://redd.it/1xte3e3",
+     "ups": 1012,
      "sub": "r/memes"
     },
     {
@@ -170,16 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
-     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
-     "url": "https://redd.it/1xt2h77",
-     "ups": 11513,
+     "title": "It felt surreal talking with him and finding that out.",
+     "image": "https://i.redd.it/re2cy98vq21i1.gif",
+     "url": "https://redd.it/1xty78g",
+     "ups": 27,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Those were the good old days.",
+     "image": "https://i.redd.it/3cnm4uep101i1.png",
+     "url": "https://redd.it/1xtk6se",
+     "ups": 201,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T06:06:39.481938+00:00",
+   "fetched_at": "2026-11-12T06:36:43.893818+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's White House ballroom",
+     "text": "Kushner, Witkoff lead Ukraine talks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6641ce992760",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Playing Deadlock",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Building collapse reported in Brooklyn",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
      "likes": 0,
      "image": ""
     },
@@ -232,33 +224,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ring unveils home patrol drone",
+     "text": "Building collapse reported in Brooklyn",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fec489a4d57c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "US may lose measles-free status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/458f10898f50",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SS United States is sunk",
+     "text": "James Gunn fired from DC Studios",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Study finds low regret after youth transition",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3d08a63bfb4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Manchester United eyes Mauricio Pochettino",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62d09bad7a2c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's White House ballroom",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6641ce992760",
      "likes": 0,
      "image": ""
     },
@@ -271,61 +279,49 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Mississippi Senate race and trans rights",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says: Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54307282",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/2154e351-3161-4f2f-a19c-08f00c0c1101.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Yakuza boss sues expressway owners for discrimination against criminals",
      "author": "Not The Onion",
      "url": "https://lemmus.org/post/26854216",
-     "likes": 17,
+     "likes": 38,
      "image": "https://lemmy.world/pictrs/image/84d89d66-ac89-4955-89e2-6d0cc72bbfa5.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Anyone here in therapy?",
+     "author": "Autism",
+     "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1063552/anyone-here-in-therapy",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/973c019b-7802-4c61-b440-e1ea96ac38c2.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Do you agree?",
      "author": "General Memes & Private Chuckle",
      "url": "https://piefed.blahaj.zone/c/Memes@lemmy.dbzer0.com/p/1063636/do-you-agree",
-     "likes": 17,
+     "likes": 30,
      "image": "https://lemmy.world/pictrs/image/b05eb8f9-0a85-4e4f-b9b1-12c5910817d4.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I accept the sentence",
-     "author": "NiceMemes",
-     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1063594/i-accept-the-sentence",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/8ffa387e-3d2e-4c9e-9ced-d967047709e0.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Me_irl",
-     "author": "me_irl",
-     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1063532/me-irl",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/7fa1221b-791a-4ea3-868c-ecbee192bc1a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T06:06:39.952513+00:00",
+   "fetched_at": "2026-11-12T06:36:44.532210+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What has ears but cannot hear? A field of corn.",
      "source": "Dad joke"
     },
     {
-     "text": "A bartender broke up with her boyfriend, but he kept asking her for another shot.",
+     "text": "What is the tallest building in the world? The library \u2013 it\u2019s got the most stories!",
      "source": "Dad joke"
     },
     {
-     "text": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.\r\n\r\n",
+     "text": "My wife said I was immature. So I told her to get out of my fort.",
      "source": "Dad joke"
     }
    ]
