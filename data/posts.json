@@ -1,27 +1,36 @@
 {
- "generated_at": "2026-11-12T18:09:52.092648+00:00",
+ "generated_at": "2026-11-12T18:39:59.718552+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T18:09:45.918586+00:00",
+   "fetched_at": "2026-11-12T18:39:53.669331+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xudjr6/meirl/",
+     "title": "These are some hard hitting facts",
+     "url": "https://www.reddit.com/r/interesting/comments/1xtwvs3/these_are_some_hard_hitting_facts/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/qlcdoduhu61i1.png?width=640&crop=smart&auto=webp&s=0528f313b47ca1282547e30bef28e6c6c6f9d16f"
+     "image": "https://external-preview.redd.it/YmN3eGhsM25nMjFpMclJg3EcEvdhF11pMbG5ATdATcGrlGdn_UPITFv4GsxY.jpeg?width=640&crop=smart&auto=webp&s=643dd0dac6bfd9bdd8b9cfc80301d9f25610527c"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What's the biggest cult hiding in plain sight that most people would defend if you called it one?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xtzyoo/whats_the_biggest_cult_hiding_in_plain_sight_that/",
+     "title": "New York City building collapse traps people in rubble",
+     "url": "https://www.reddit.com/r/news/comments/1xtvp9c/new_york_city_building_collapse_traps_people_in/",
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Tinder / When you finally meet her",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xuffl1/tinder_when_you_finally_meet_her/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/fsaj0adz771i1.jpeg?width=640&crop=smart&auto=webp&s=00881c45606ec126da4fc093e6e004417304934b"
     },
     {
      "source": "Reddit",
@@ -44,15 +53,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Chicago schools tell Google they'd rather lose Search than be forced to accept AI",
-     "url": "https://www.reddit.com/r/technology/comments/1xueam3/chicago_schools_tell_google_theyd_rather_lose/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/JuczXkZeg2-M0qJurS2pjpA10Qrl4JkouYLvdVHBCtc.jpeg?width=640&crop=smart&auto=webp&s=89beaa80f88c6d2740b5f80951d078395b053440"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "NVIDIA Announces CEO Transition",
      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
      "score": 0,
@@ -62,83 +62,111 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Tinder / When you finally meet her",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xuffl1/tinder_when_you_finally_meet_her/",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xudjr6/meirl/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/fsaj0adz771i1.jpeg?width=640&crop=smart&auto=webp&s=00881c45606ec126da4fc093e6e004417304934b"
+     "image": "https://preview.redd.it/qlcdoduhu61i1.png?width=640&crop=smart&auto=webp&s=0528f313b47ca1282547e30bef28e6c6c6f9d16f"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "These are some hard hitting facts",
-     "url": "https://www.reddit.com/r/interesting/comments/1xtwvs3/these_are_some_hard_hitting_facts/",
+     "title": "Mod Giveaway - 2 Winners. One gets Full WWE Skins Set, one gets WWE Money in the Bank Scenery",
+     "url": "https://www.reddit.com/r/ClashOfClans/comments/1xugt0e/mod_giveaway_2_winners_one_gets_full_wwe_skins/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/YmN3eGhsM25nMjFpMclJg3EcEvdhF11pMbG5ATdATcGrlGdn_UPITFv4GsxY.jpeg?width=640&crop=smart&auto=webp&s=643dd0dac6bfd9bdd8b9cfc80301d9f25610527c"
+     "image": "https://preview.redd.it/e6x3ltftg71i1.jpeg?width=640&crop=smart&auto=webp&s=b6a0193ead60028bcb8998538fb77ad28840a8be"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Agree?",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xuelk1/agree/",
+     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/pcr2x614271i1.png?width=320&crop=smart&auto=webp&s=3cbf03a10407171433500cdedd294eef68ee4402"
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T18:09:47.498317+00:00",
+   "fetched_at": "2026-11-12T18:39:55.206603+00:00",
    "stale": false,
    "items": [
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 12308,
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1919,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 590,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1020,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2578,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 14,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 887,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17883,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 45,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2048,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3433,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7614,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Those were the good old days.",
-     "image": "https://i.redd.it/3cnm4uep101i1.png",
-     "url": "https://redd.it/1xtk6se",
-     "ups": 217,
+     "title": "POV: you are jensen after a long day at NVIDIA",
+     "image": "https://i.redd.it/ikleqytrq21i1.png",
+     "url": "https://redd.it/1xty5x7",
+     "ups": 5552,
+     "sub": "r/memes"
+    },
+    {
+     "title": "ATTA GIRL BIG U!",
+     "image": "https://i.redd.it/qoi11l13231i1.png",
+     "url": "https://redd.it/1xtzjy6",
+     "ups": 4292,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Forget AI, put all your savings on memes",
+     "image": "https://i.redd.it/swzo5l1qx61i1.png",
+     "url": "https://redd.it/1xue0rc",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Thank you dear.",
+     "image": "https://i.redd.it/lr3id5pp151i1.png",
+     "url": "https://redd.it/1xu70rn",
+     "ups": 6570,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He just doesn't learn.",
+     "image": "https://i.redd.it/4u95n13p441i1.png",
+     "url": "https://redd.it/1xu3umt",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
@@ -147,54 +175,34 @@
      "url": "https://redd.it/1xufn01",
      "ups": 5,
      "sub": "r/memes"
-    },
-    {
-     "title": "Sounds like someone wants detention",
-     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
-     "url": "https://redd.it/1xtx1id",
-     "ups": 2434,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It felt surreal talking with him and finding that out.",
-     "image": "https://i.redd.it/re2cy98vq21i1.gif",
-     "url": "https://redd.it/1xty78g",
-     "ups": 1297,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I miss mobile games from old times",
-     "image": "https://i.redd.it/7ubanbmtf61i1.png",
-     "url": "https://redd.it/1xubqsx",
-     "ups": 241,
-     "sub": "r/memes"
-    },
-    {
-     "title": "love is so dead...",
-     "image": "https://i.redd.it/mwd64rib941i1.png",
-     "url": "https://redd.it/1xu4c7u",
-     "ups": 1815,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T18:09:50.413160+00:00",
+   "fetched_at": "2026-11-12T18:39:57.534121+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Next Nvidia CEO, wrong answers only",
+     "text": "Building collapse reported in Brooklyn",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ba52044ff23",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump warns of migrant caravans",
+     "text": "Adam Smith hedges on Hegseth impeachment",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e405942ddfa6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cadb806dd713",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Next Nvidia CEO, wrong answers only",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7ba52044ff23",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang affair reports",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang spy allegations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/afcb97703920",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
@@ -232,14 +232,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Films watched more than six times",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
@@ -248,108 +240,116 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Building collapse reported in Brooklyn",
+     "text": "Sonic's \"Memories and Beyond\" animation released",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bb7c6cce080",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "SS United States is sunk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump says no Iran deal needed",
+     "text": "Humble Bundle website redesign",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eaf8c17d557d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aeee560ca08",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Adam Smith hedges on Hegseth impeachment",
+     "text": "Scott Colom's Senate campaign ad",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cadb806dd713",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f52103738b75",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Arlington guard reprimands Hegseth's entourage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Believe it!",
+     "author": "Animemes",
+     "url": "https://thebrainbin.org/m/animemes@ani.social/t/2037126",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/afd3229f-a8e5-4c26-ae28-b26ff439f3db.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Putin too, for some reason",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54330054",
-     "likes": 44,
+     "likes": 82,
      "image": "https://lemmy.world/pictrs/image/72d0fb84-0709-45c5-8d5e-f146603a4553.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "It's right half the year",
-     "author": "People Twitter",
-     "url": "https://sh.itjust.works/post/69825251",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/0bb09b9c-2f4f-4316-bb90-7c0d953478f1.jpeg"
+     "text": "Kim Davis owes a gay couple $565,000. A federal judge wants her to stop lying about her assets.",
+     "author": "Atheism",
+     "url": "https://lemmy.sdf.org/post/61789268",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/623fb2b7-e145-4213-82a5-64b2684b286c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Vibes Mode",
-     "author": "Comic Strips",
-     "url": "https://lemmy.zip/post/74906332",
-     "likes": 72,
-     "image": "https://lemmy.zip/pictrs/image/ed47d09b-c0e9-4ed2-9568-d8582e2480da.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Cow-tipping?",
-     "author": "People Twitter",
-     "url": "https://sh.itjust.works/post/69825409",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/78e504a6-db7e-4498-9e82-cdd2c89991b4.png"
+     "text": "How Do You Rule Me?",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50416345",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/9d9e0ac6-0fb5-4ef9-b97f-561c39f56ad1.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T18:09:51.257511+00:00",
+   "fetched_at": "2026-11-12T18:39:58.892808+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear the joke about the wandering nun? She was a roman catholic.",
+     "text": "What do you get when you cross a chicken with a skunk? A fowl smell!",
      "source": "Dad joke"
     },
     {
-     "text": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.",
+     "text": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, \u201csorry we don\u2019t serve spirits\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "A man walks into a bar and orders helicopter flavor chips. The barman replies \u201csorry mate we only do plain\u201d",
+     "text": "I hate perforated lines, they're tearable.",
      "source": "Dad joke"
     }
    ]
