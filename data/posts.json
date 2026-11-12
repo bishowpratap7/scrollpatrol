@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T10:37:46.672119+00:00",
+ "generated_at": "2026-11-12T11:07:53.090871+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T10:37:42.249753+00:00",
+   "fetched_at": "2026-11-12T11:07:48.236888+00:00",
    "stale": false,
    "items": [
     {
@@ -62,6 +62,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Mutated fish found in Mekong River, Myanmar, possibly caused by toxic water contamination from rare earth mining.",
+     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xu5vyi/mutated_fish_found_in_mekong_river_myanmar/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/rri0k7bep41i1.jpeg?width=640&crop=smart&auto=webp&s=7c19a6ac3c850662d0f466baa033f3b4c626a336"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Another video of Usman attack",
      "url": "https://www.reddit.com/r/ufc/comments/1xtovi4/another_video_of_usman_attack/",
      "score": 0,
@@ -76,41 +85,25 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "New York City building collapse traps people in rubble",
-     "url": "https://www.reddit.com/r/news/comments/1xtvp9c/new_york_city_building_collapse_traps_people_in/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T10:37:43.460884+00:00",
+   "fetched_at": "2026-11-12T11:07:49.585348+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6726,
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 75,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3421,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17859,
+     "title": "technoLogy",
+     "image": "https://i.redd.it/gmenfy19f31i1.png",
+     "url": "https://redd.it/1xu12dy",
+     "ups": 3495,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,52 +114,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1601,
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 580,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 114,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 741,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83e\udee5\ud83d\ude14",
-     "image": "https://i.redd.it/0r8ccoxfgv0i1.png",
-     "url": "https://redd.it/1xt2h77",
-     "ups": 11648,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2316,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "another jensen meme",
+     "image": "https://i.redd.it/fdtcz7a0m41i1.png",
+     "url": "https://redd.it/1xu5koi",
+     "ups": 9,
      "sub": "r/memes"
     },
     {
-     "title": "Always has been",
-     "image": "https://i.redd.it/9g67t7m8t41i1.png",
-     "url": "https://redd.it/1xu69hk",
-     "ups": 15,
+     "title": "Thank you dear.",
+     "image": "https://i.redd.it/lr3id5pp151i1.png",
+     "url": "https://redd.it/1xu70rn",
+     "ups": 171,
      "sub": "r/memes"
     },
     {
-     "title": "It was the most BORING thing ever bro",
-     "image": "https://i.redd.it/l7zvfr12t21i1.png",
-     "url": "https://redd.it/1xtyg1i",
-     "ups": 10,
+     "title": "This damn pop-up",
+     "image": "https://i.redd.it/ywzy7idwjy0i1.png",
+     "url": "https://redd.it/1xte3e3",
+     "ups": 1030,
      "sub": "r/memes"
     },
     {
-     "title": "Those were the good old days.",
-     "image": "https://i.redd.it/3cnm4uep101i1.png",
-     "url": "https://redd.it/1xtk6se",
-     "ups": 210,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Its not popping",
-     "image": "https://i.redd.it/cr7xmu4l751i1.gif",
-     "url": "https://redd.it/1xu7j43",
-     "ups": 12,
+     "title": "Senator, she is Singaporean",
+     "image": "https://i.redd.it/k6qic4ritt0i1.png",
+     "url": "https://redd.it/1xsu7pt",
+     "ups": 6064,
      "sub": "r/memes"
     },
     {
@@ -175,21 +168,20 @@
      "url": "https://redd.it/1xtx1id",
      "ups": 1711,
      "sub": "r/memes"
+    },
+    {
+     "title": "Honestly, they had it coming...",
+     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
+     "url": "https://redd.it/1xt8s1h",
+     "ups": 26016,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T10:37:45.683789+00:00",
+   "fetched_at": "2026-11-12T11:07:51.817440+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Humble Bundle website redesign",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aeee560ca08",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Scott Colom's Senate campaign ad",
@@ -200,25 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's stance on Jensen Huang",
+     "text": "Kushner, Witkoff lead Ukraine talks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Michael Carrick's future at Manchester United",
+     "text": "Michael Carrick sacked as manager",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62d09bad7a2c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Building collapse reported in Brooklyn",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
@@ -240,84 +224,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Books to take the oath on",
+     "text": "David Walliams faces misconduct allegations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Rings of Power season 3",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a1adf1fe9566",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "'Who's really running your Bluesky' meme",
+     "text": "Leather jackets in tech",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/af60e8ea7b06",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK widens under-16 social media ban",
+     "text": "GTA 6 pre-load opens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f684b506a296",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d82adc7aabd5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's White House ballroom",
+     "text": "Building collapse reported in Brooklyn",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6641ce992760",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Arlington guard reprimands Hegseth's entourage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports Starshield speed limits",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7cad4567cfaf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security",
-     "author": "Games",
-     "url": "https://lemmy.zip/post/74889899",
-     "likes": 24,
-     "image": ""
+     "text": "moderate rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50402327",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/d96cddfe-cd12-4705-a829-9788c95be3f8.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "This one seems borderline -- what do you guys think?",
+     "author": "Dad Jokes",
+     "url": "https://lemmy.zip/post/74890796",
+     "likes": 27,
+     "image": "https://lemmy.zip/pictrs/image/7369429a-6657-4e64-83e5-41cd9e73a495.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Anyone else have some secrets they'd like to share with total strangers?",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/74890794",
+     "likes": 30,
+     "image": "https://lemmy.zip/pictrs/image/67109abc-06b4-44da-b354-69ec9f5fe04c.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "discord user",
      "author": "Lemmy Shitpost",
      "url": "https://sopuli.xyz/post/54493594",
-     "likes": 17,
+     "likes": 43,
      "image": "https://lemmy.world/pictrs/image/89d2590b-0398-44d9-a9b0-598b2b0ce6a4.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Floating bus stops explained",
-     "author": "United Kingdom",
-     "url": "https://leminal.space/post/41888173",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/74f88bb2-af3c-4878-9ee5-641f85dcaf76.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "It's the perfect time to change it!",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/74890482",
-     "likes": 9,
-     "image": "https://lemmy.zip/pictrs/image/506bc433-6c9d-4a31-a3cd-70bda7b69eca.avif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T10:37:46.188146+00:00",
+   "fetched_at": "2026-11-12T11:07:52.480470+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -325,40 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Leather is great for sneaking around because it's made of hide.",
+     "text": "What type of music do balloons hate? Pop music!",
      "source": "Dad joke"
     },
     {
-     "text": "What does a female snake use for support? A co-Bra!",
+     "text": "I just broke my guitar. It's okay, I won't fret",
      "source": "Dad joke"
     },
     {
-     "text": "If I could name myself after any Egyptian god, I'd be Set.",
+     "text": "What is the least spoken language in the world?\r\nSign Language",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
