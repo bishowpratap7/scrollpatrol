@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-12T14:38:49.620163+00:00",
+ "generated_at": "2026-11-12T15:08:54.498496+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T14:38:46.284462+00:00",
+   "fetched_at": "2026-11-12T15:08:51.286281+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -44,11 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Jensen Huang entering NVIDIA Office",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu9ka5/jensen_huang_entering_nvidia_office/",
+     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/dXBlaWs1aGV1NTFpMeOoqlVvsrja4-79yJ72ifWWSkAO6WqsHqWaOAveMhAi.png?width=320&crop=smart&auto=webp&s=6d7a2af2143e12a4ef1fc0746477d2fb53de26df"
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
     },
     {
      "source": "Reddit",
@@ -62,71 +62,36 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "[F1] BREAKING: Racing Bulls retain Arvid Lindblad and Liam Lawson for 2027",
-     "url": "https://www.reddit.com/r/formula1/comments/1xu9y4e/f1_breaking_racing_bulls_retain_arvid_lindblad/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/shkf7secy51i1.jpeg?width=640&crop=smart&auto=webp&s=b29b052b5f32efd382fe6a8b884896db5a326704"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Footage of Usman Nurmagomedov attacking Merab has been released",
-     "url": "https://www.reddit.com/r/ufc/comments/1xtnh18/footage_of_usman_nurmagomedov_attacking_merab_has/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/dzBwbWgyMW1uMDFpMd-s0BDhorbNG0hAw8ZgHusA-10Gq6V4Hgb_Q4-hu958.png?width=320&crop=smart&auto=webp&s=33c313c321aed15db2e60b6682af8e46c2527e91"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "New York City building collapse traps people in rubble",
      "url": "https://www.reddit.com/r/news/comments/1xtvp9c/new_york_city_building_collapse_traps_people_in/",
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "These are some hard hitting facts",
+     "url": "https://www.reddit.com/r/interesting/comments/1xtwvs3/these_are_some_hard_hitting_facts/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/YmN3eGhsM25nMjFpMclJg3EcEvdhF11pMbG5ATdATcGrlGdn_UPITFv4GsxY.jpeg?width=640&crop=smart&auto=webp&s=643dd0dac6bfd9bdd8b9cfc80301d9f25610527c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Send me pictures of your cats, and I\u2019ll draw them \u2728",
+     "url": "https://www.reddit.com/r/cats/comments/1xtsoe3/send_me_pictures_of_your_cats_and_ill_draw_them/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/r8ofis26m11i1.jpeg?width=640&crop=smart&auto=webp&s=3f0adc67238c54a5ac42384a1c28a5aca5f6f09d"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T14:38:46.828936+00:00",
+   "fetched_at": "2026-11-12T15:08:52.134201+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 10103,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "everyNetworkAPIOnThePlanetToday",
-     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
-     "url": "https://redd.it/1xoir0t",
-     "ups": 1381,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 48,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 259,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4246,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "meetPotentialLanguage",
      "image": "https://i.redd.it/6o5ak71z7m0i1.png",
@@ -135,82 +100,101 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Somebody had to do it",
-     "image": "https://i.redd.it/xm0lrew1k61i1.png",
-     "url": "https://redd.it/1xuc8ko",
-     "ups": 35,
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 594,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2318,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "agenticCodingHasTurnedMovieProgrammerClicheIntoReality",
+     "image": "https://i.redd.it/hwkbe95immzh1.gif",
+     "url": "https://redd.it/1xntl51",
+     "ups": 72,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1505,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 165,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "there is no law against p batman!",
+     "image": "https://i.redd.it/4yf6msz8j61i1.png",
+     "url": "https://redd.it/1xuc5gv",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
-     "title": "Those were the good old days.",
-     "image": "https://i.redd.it/3cnm4uep101i1.png",
-     "url": "https://redd.it/1xtk6se",
-     "ups": 210,
+     "title": "Always has been",
+     "image": "https://i.redd.it/9g67t7m8t41i1.png",
+     "url": "https://redd.it/1xu69hk",
+     "ups": 32,
      "sub": "r/memes"
     },
     {
-     "title": "Professional lurker",
-     "image": "https://i.redd.it/roh4oqjkq31i1.png",
-     "url": "https://redd.it/1xu2d6y",
-     "ups": 123,
+     "title": "I just want ES6\u2026.",
+     "image": "https://i.redd.it/jhvaoaq4421i1.gif",
+     "url": "https://redd.it/1xtv76z",
+     "ups": 51,
      "sub": "r/memes"
     },
     {
-     "title": "Thank you dear.",
-     "image": "https://i.redd.it/lr3id5pp151i1.png",
-     "url": "https://redd.it/1xu70rn",
-     "ups": 2601,
+     "title": "love is so dead...",
+     "image": "https://i.redd.it/mwd64rib941i1.png",
+     "url": "https://redd.it/1xu4c7u",
+     "ups": 1411,
      "sub": "r/memes"
     },
     {
-     "title": "Senator, she is Singaporean",
-     "image": "https://i.redd.it/k6qic4ritt0i1.png",
-     "url": "https://redd.it/1xsu7pt",
-     "ups": 6177,
+     "title": "They are just never gonna stop",
+     "image": "https://i.redd.it/p9owa94ip61i1.png",
+     "url": "https://redd.it/1xucw9m",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
-     "title": "Artists be like",
-     "image": "https://i.redd.it/m2ph7z8j841i1.png",
-     "url": "https://redd.it/1xu496i",
-     "ups": 7,
-     "sub": "r/memes"
+     "title": "China be like:",
+     "image": "https://i.redd.it/xvbwf1uvun0i1.png",
+     "url": "https://redd.it/1xs5f1g",
+     "ups": 144,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T14:38:48.764189+00:00",
+   "fetched_at": "2026-11-12T15:08:53.589932+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang affair reports",
+     "text": "Active shooter reported in Logan Circle",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cdcdc5cc06d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "House veterans bill vote",
+     "text": "Kushner, Witkoff lead Ukraine talks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4895c678138",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine reports Starshield speed limits",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7cad4567cfaf",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Humble Bundle website redesign",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aeee560ca08",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
@@ -219,6 +203,14 @@
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang affair reports",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/980cf819e6aa",
      "likes": 0,
      "image": ""
     },
@@ -240,17 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand sexual assault trial",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Humble Bundle website redesign",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aeee560ca08",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SS United States is sunk",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
      "likes": 0,
      "image": ""
     },
@@ -264,17 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump says no Iran deal needed",
+     "text": "Ukraine reports Starshield speed limits",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eaf8c17d557d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7cad4567cfaf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Scott Colom's Senate campaign ad",
+     "text": "Trump says no Iran deal needed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f52103738b75",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eaf8c17d557d",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Jensen Huang resigns as Nvidia CEO immediately",
      "author": "Technology",
      "url": "https://lemmy.zip/post/74899332",
-     "likes": 81,
+     "likes": 147,
      "image": ""
     },
     {
@@ -291,49 +291,49 @@
      "text": "NVIDIA Announces CEO Transition",
      "author": "Technology",
      "url": "https://lemmy.world/post/54323769",
-     "likes": 63,
+     "likes": 115,
      "image": "https://lemmy.world/pictrs/image/ed33eb94-faac-4c80-83d5-6cb5d1ab0ccc.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Nvidia\u2019s Jensen Huang resigns after mounting scandal upends US tech giant",
-     "author": "News",
-     "url": "https://piefed.social/c/news@lemmy.world/p/2593740/nvidias-jensen-huang-resigns-after-mounting-scandal-upends-us-tech-giant",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/9e480f93-59a6-48ed-b163-d0b50726458e.jpeg"
+     "text": "When you're playing as the medic, but you have the most kills",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.world/post/54324103",
+     "likes": 59,
+     "image": "https://lemmy.world/pictrs/image/b387c9b9-7642-4f6e-bd9b-9e10d6444bdd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "dont look a day over twelve",
-     "author": "Lemmy Shitpost",
-     "url": "https://quokk.au/c/lemmyshitpost/p/1311833/dont-look-a-day-over-twelve",
-     "likes": 92,
-     "image": "https://lemmy.world/pictrs/image/dcc0e9b4-f69b-40d1-a5fc-d7a7d01c5adc.webp"
+     "text": "El-Sayed says Dems need to earn their mandate and take 'righteous risks'",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54324693",
+     "likes": 30,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T14:38:49.157978+00:00",
+   "fetched_at": "2026-11-12T15:08:53.946215+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
@@ -341,24 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "Did you know crocodiles could grow up to 15 feet? But most just have 4.",
+     "text": "They're making a movie about clocks. It's about time",
      "source": "Dad joke"
     },
     {
-     "text": "Archaeology really is a career in ruins.",
+     "text": "Today a girl said she recognized me from vegetarian club, but I\u2019m sure I\u2019ve never met herbivore.",
      "source": "Dad joke"
     },
     {
-     "text": "I gave all my dead batteries away today, free of charge.",
+     "text": "To the guy who invented zero... thanks for nothing.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
