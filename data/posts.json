@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-12T20:10:22.318063+00:00",
+ "generated_at": "2026-11-12T20:40:29.848543+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T20:10:16.749075+00:00",
+   "fetched_at": "2026-11-12T20:40:23.949034+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Camera operator deftly spots the laser pointer at a football match",
+     "url": "https://www.reddit.com/r/interesting/comments/1xulwgc/camera_operator_deftly_spots_the_laser_pointer_at/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/dndmaTBvdnJlODFpMZV3yWOEktxj_TPrAxJIMbZJx41omvb1P0jNlR-9JPJa.jpeg?width=640&crop=smart&auto=webp&s=8db5a83a2c67efdcc399f091bbe94fb4b8b9d43c"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "NVIDIA Announces CEO Transition",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
     },
     {
      "source": "Reddit",
@@ -44,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Is this normal?",
-     "url": "https://www.reddit.com/r/cats/comments/1xuicge/is_this_normal/",
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/o090u73ir71i1.jpeg?width=640&crop=smart&auto=webp&s=3ab1c1c10aa05e7b50800bee5fc615df77cfba04"
+     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
     },
     {
      "source": "Reddit",
@@ -62,6 +62,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Microsoft Office seems to be down",
+     "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
      "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters/",
      "score": 0,
@@ -71,74 +80,86 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Look at this breakfast the Hilton Hotel in San Antonio is charging $15.95 for. This is the platonic ideal of a \"free hotel breakfast\".",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xudx1i/look_at_this_breakfast_the_hilton_hotel_in_san/",
+     "title": "Dry weddings aren\u2019t a big deal, it just makes people who complain look bad",
+     "url": "https://www.reddit.com/r/unpopularopinion/comments/1xubhzt/dry_weddings_arent_a_big_deal_it_just_makes/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/g8b9u3qxw61i1.jpeg?width=640&crop=smart&auto=webp&s=0a84bba3a61aaf0e78e5091b1765294654c9e0ce"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "A huge amount of respect to that Soilder .",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xuh689/a_huge_amount_of_respect_to_that_soilder/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/bjAzOHpxaW9qNzFpMU3CikMjT6annzdhamWABAAtFl1hx7kdJ3zP_Ym4HfdX.png?width=640&crop=smart&auto=webp&s=37202e27d66b29308d6592bec47df12be48da385"
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T20:10:18.399750+00:00",
+   "fetched_at": "2026-11-12T20:40:25.494865+00:00",
    "stale": false,
    "items": [
     {
-     "title": "visualStudioIsMakingFunOfMe",
-     "image": "https://i.redd.it/nkcl8442cszh1.png",
-     "url": "https://redd.it/1xoh3fl",
-     "ups": 1243,
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1379,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 10408,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 101,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 710,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "whenYourLaptopBecomesAHandDryer",
      "image": "https://i.redd.it/ki5ld4n6h30i1.png",
      "url": "https://redd.it/1xpub0e",
-     "ups": 14,
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 560,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 384,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 12412,
-     "sub": "r/ProgrammerHumor"
+     "title": "Always has been",
+     "image": "https://i.redd.it/9g67t7m8t41i1.png",
+     "url": "https://redd.it/1xu69hk",
+     "ups": 47,
+     "sub": "r/memes"
     },
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 55,
-     "sub": "r/ProgrammerHumor"
+     "title": "Jensen Huang x Affair",
+     "image": "https://i.redd.it/iqwm3d9sj41i1.png",
+     "url": "https://redd.it/1xu5dc0",
+     "ups": 106,
+     "sub": "r/memes"
     },
     {
-     "title": "ATTA GIRL BIG U!",
-     "image": "https://i.redd.it/qoi11l13231i1.png",
-     "url": "https://redd.it/1xtzjy6",
-     "ups": 4496,
+     "title": "It felt surreal talking with him and finding that out.",
+     "image": "https://i.redd.it/re2cy98vq21i1.gif",
+     "url": "https://redd.it/1xty78g",
+     "ups": 1439,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Hiding in the shadows. Hiding from who you truly are!",
+     "image": "https://i.redd.it/eo0lvlofj71i1.png",
+     "url": "https://redd.it/1xuh53w",
+     "ups": 20,
      "sub": "r/memes"
     },
     {
@@ -149,76 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Characters whose name everyone gets wrong: Annual meeting",
-     "image": "https://i.redd.it/gsfok1n4c71i1.png",
-     "url": "https://redd.it/1xug1qc",
-     "ups": 422,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Where, Who and What?",
-     "image": "https://i.redd.it/ip6klvet271i1.png",
-     "url": "https://redd.it/1xuep2v",
-     "ups": 891,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Always has been",
-     "image": "https://i.redd.it/9g67t7m8t41i1.png",
-     "url": "https://redd.it/1xu69hk",
-     "ups": 47,
-     "sub": "r/memes"
-    },
-    {
-     "title": "i'm never going to financially recover from this",
-     "image": "https://i.redd.it/tz2bql2bm61i1.gif",
-     "url": "https://redd.it/1xucigh",
-     "ups": 23,
+     "title": "POV: you are jensen after a long day at NVIDIA",
+     "image": "https://i.redd.it/ikleqytrq21i1.png",
+     "url": "https://redd.it/1xty5x7",
+     "ups": 5821,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T20:10:20.822180+00:00",
+   "fetched_at": "2026-11-12T20:40:28.328786+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Philadelphia region tornado watch",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8a8fc5ebe0b7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft 365 outage reported",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Jensen Huang resigns from Nvidia",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Scott Colom's Senate campaign ad",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Video pitches Trumpcare to Trump",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ba50a7d07dcc",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Humble Bundle website redesign",
+     "text": "Video pitches Trumpcare to Trump",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1aeee560ca08",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ba50a7d07dcc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Star Wars 50th anniversary re-release",
+     "text": "Adam Smith hedges on Hegseth impeachment",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/586f1a9346ed",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cadb806dd713",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft 365 outage reported",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
+     "text": "Star Wars 50th anniversary re-release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/586f1a9346ed",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Philadelphia region tornado watch",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8a8fc5ebe0b7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia stock drops",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4df0d5680489",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "James Gunn fired from DC Studios",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Scott Colom's Senate campaign ad",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a6b73c76957",
      "likes": 0,
      "image": ""
     },
@@ -271,85 +279,77 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "House veterans bill vote",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4895c678138",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "Happy Holiday",
      "author": "Microblog Memes",
      "url": "https://lemmy.wtf/post/51874702",
-     "likes": 19,
+     "likes": 94,
      "image": "https://lemmy.world/pictrs/image/2428d515-f1db-4980-b37f-03eb27ace584.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Cha-click Cha-clunk",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54333287",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/f3ba05fd-716e-49ec-a7f1-6bdfc68df369.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Billions lost and markets roiled by one man\u2019s indiscretion. Isn\u2019t it now clear that these tech bros are too powerful? Nvidia CEO Jensen Huang\u2019s affair must be the costliest fling in human history\u2026",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54333220",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/f61f7389-886b-4e99-bc1d-b3fcad8c0d70.jpeg"
+     "text": "\u2206Tip: Naps have a chance of clearing debuffs",
+     "author": "Memes",
+     "url": "https://lemy.lol/post/74137057",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/60a4ecdb-ab7c-45d4-8cae-e6ad8b62c245.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Man of the Year",
      "author": "Microblog Memes",
      "url": "https://piefed.social/c/microblogmemes@lemmy.world/p/2596460/man-of-the-year",
-     "likes": 12,
+     "likes": 58,
      "image": "https://lemmy.world/pictrs/image/a3558514-fffb-4fdc-8f48-80acf053d784.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "the beauty of life",
+     "author": "Lemmy Shitpost",
+     "url": "https://piefed.zip/c/lemmyshitpost@lemmy.world/p/1995031/the-beauty-of-life",
+     "likes": 61,
+     "image": "https://lemmy.world/pictrs/image/944a4c1c-749d-47de-a8c5-624f15c1cd85.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T20:10:21.534243+00:00",
+   "fetched_at": "2026-11-12T20:40:29.019547+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
+     "text": "Why don't sharks eat clowns?  Because they taste funny.",
      "source": "Dad joke"
     },
     {
-     "text": "If you\u2019re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
+     "text": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
      "source": "Dad joke"
     },
     {
-     "text": "What time did the man go to the dentist? Tooth hurt-y.",
+     "text": "How many apples grow on a tree? All of them!",
      "source": "Dad joke"
     }
    ]
