@@ -1,15 +1,33 @@
 {
- "generated_at": "2026-11-13T12:14:30.685884+00:00",
+ "generated_at": "2026-11-13T12:44:36.485705+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T12:14:26.469726+00:00",
+   "fetched_at": "2026-11-13T12:44:32.147795+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "15 hours and counting",
+     "url": "https://www.reddit.com/r/memes/comments/1xv4i0w/15_hours_and_counting/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/lxfmvim6yc1i1.png?width=640&crop=smart&auto=webp&s=13742592fbb2c81e517753ea26a2383d3f2e9275"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Microsoft Office seems to be down",
      "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -26,47 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
-     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
      "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "All That\u2019s Left of a 12 Year Marriage",
-     "url": "https://www.reddit.com/r/texts/comments/1xunp1x/all_thats_left_of_a_12_year_marriage/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/fhyvjjktq81i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bef9b55996e3f3209b3b826fb35a9e2ba4e25fa"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "NYC deli prices",
-     "url": "https://www.reddit.com/r/KitchenConfidential/comments/1xusd1d/nyc_deli_prices/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/hv8uhl68o91i1.jpeg?width=640&crop=smart&auto=webp&s=af1d32cf490e7960b7d937ab6649abfa067abf02"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Protest turns into chaos",
-     "url": "https://www.reddit.com/r/cringereels/comments/1xuu1db/protest_turns_into_chaos/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/c3BkbWlpcWgyYTFpMbTxz9NiVP00QA1dX8XibT3CTlzZzoqwGilJJd3iaOj2.jpeg?width=320&crop=smart&auto=webp&s=027ba707e9beb85b49fe400ef725865bfa94fe18"
     },
     {
      "source": "Reddit",
@@ -80,79 +62,83 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "15 hours and counting",
-     "url": "https://www.reddit.com/r/memes/comments/1xv4i0w/15_hours_and_counting/",
+     "title": "Nailed it.",
+     "url": "https://www.reddit.com/r/justgalsbeingchicks/comments/1xv3qup/nailed_it/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/lxfmvim6yc1i1.png?width=640&crop=smart&auto=webp&s=13742592fbb2c81e517753ea26a2383d3f2e9275"
+     "image": "https://external-preview.redd.it/dDZqaHp1NW5wYzFpMWwmo3TkU9xmxPHNC56xQC_-94L_mV26HyVnUdpo6J2Z.png?width=640&crop=smart&auto=webp&s=8a6915dd7ad5cfee8123c8fc9a8a83b65f594e8a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "NYC deli prices",
+     "url": "https://www.reddit.com/r/KitchenConfidential/comments/1xusd1d/nyc_deli_prices/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/hv8uhl68o91i1.jpeg?width=640&crop=smart&auto=webp&s=af1d32cf490e7960b7d937ab6649abfa067abf02"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Microsoft says attempts to fix global outage not going 'as expected'",
+     "url": "https://www.reddit.com/r/technology/comments/1xuzvn8/microsoft_says_attempts_to_fix_global_outage_not/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/E2L59yHc0NsYuURJTayZSvhxiNGq6ii9PDDzWt6IVrA.jpeg?width=640&crop=smart&auto=webp&s=fa8e417501b55b6455cc970cd04a182bd64b653e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T12:14:27.202521+00:00",
+   "fetched_at": "2026-11-13T12:44:32.884612+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2747,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 163,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "heyMicrosoftHereIsAnEasyFix",
-     "image": "https://i.redd.it/4l6bldecjc1i1.png",
-     "url": "https://redd.it/1xv37rk",
-     "ups": 9,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17929,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "cmonGitHubAgain",
      "image": "https://i.redd.it/jnx3yr1ms11i1.png",
      "url": "https://redd.it/1xttllg",
-     "ups": 1087,
+     "ups": 1090,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 124,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 1377,
-     "sub": "r/memes"
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 628,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "\"diversify your portfolio\" they say...",
-     "image": "https://i.redd.it/3wemmg9rt91i1.png",
-     "url": "https://redd.it/1xusyxf",
-     "ups": 37,
-     "sub": "r/memes"
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2749,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I was fine lol",
-     "image": "https://i.redd.it/l5hxh7uu9b1i1.gif",
-     "url": "https://redd.it/1xuywgv",
-     "ups": 26,
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 62,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I miss mobile games from old times",
+     "image": "https://i.redd.it/7ubanbmtf61i1.png",
+     "url": "https://redd.it/1xubqsx",
+     "ups": 499,
      "sub": "r/memes"
     },
     {
@@ -163,38 +149,60 @@
      "sub": "r/memes"
     },
     {
-     "title": "I miss mobile games from old times",
-     "image": "https://i.redd.it/7ubanbmtf61i1.png",
-     "url": "https://redd.it/1xubqsx",
-     "ups": 499,
+     "title": "Jensen Huang just updated his LinkedIn Portfolio",
+     "image": "https://i.redd.it/69nrtp6xqc1i1.png",
+     "url": "https://redd.it/1xv3ub7",
+     "ups": 13,
      "sub": "r/memes"
     },
     {
-     "title": "The Great Out(look)age of 2026",
-     "image": "https://i.redd.it/nrbxiudeob1i1.png",
-     "url": "https://redd.it/1xv0e0w",
-     "ups": 84,
+     "title": "Might be true \ud83e\udd27",
+     "image": "https://i.redd.it/midr38zv4d1i1.png",
+     "url": "https://redd.it/1xv55c5",
+     "ups": 27,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"diversify your portfolio\" they say...",
+     "image": "https://i.redd.it/3wemmg9rt91i1.png",
+     "url": "https://redd.it/1xusyxf",
+     "ups": 37,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Does anyone else's computers just...",
+     "image": "https://i.redd.it/60yhv4hjk91i1.png",
+     "url": "https://redd.it/1xurta4",
+     "ups": 48,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T12:14:29.623609+00:00",
+   "fetched_at": "2026-11-13T12:44:35.287287+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft 365 outage continues",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Concert history meme",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db4b37537fe0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russell Brand's sexual offences case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft 365 outage continues",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries lists Democratic priorities",
+     "text": "Pochettino to lead Manchester United",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7273607d8cca",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner meets Zelenskyy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
@@ -232,22 +248,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pochettino to lead Manchester United",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7273607d8cca",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "El Ni\u00f1o brings storms to California",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62469417a673",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -256,72 +256,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Building collapse reported in Brooklyn",
+     "text": "Quotes that stuck with you",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reports Starshield speed limits",
+     "text": "Hegseth impeachment vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7cad4567cfaf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "White House counsel warns House Democrats",
+     "text": "Strikes hit Ukrainian and Russian plants",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f59709337f6a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4af0c9494ebc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "The real key to getting a great job",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54356576",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/a44f4556-29d7-49f9-bfff-e16bf07780d6.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "\u300c\u8d70\u308c\u3001\u8d70\u308c\u3001\u751f\u6210AI\uff01\u300d",
-     "author": "Programmer Humor",
-     "url": "https://lemmy.world/post/54357034",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/18223fe2-177f-4c71-aa7c-27a23db82e48.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Sleepy bengal mouser",
-     "author": "cats",
-     "url": "https://lemmy.world/post/54356094",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/22df0b90-6fc8-46da-b5fc-d81effa9372c.jpeg"
+     "text": "So far...",
+     "author": "memes",
+     "url": "https://lemmy.world/post/54357564",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/1319a380-fa44-4da0-a5d1-00dc9da6605b.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Before Resigning, Jensen Huang Admitted He Was Facing an \u201cAvalanche\u201d of Excess Wafers and Memory, New Report Sheds More Light on the GPU & RAM Crisis",
      "author": "Technology",
      "url": "https://lemmy.dbzer0.com/post/78385105",
-     "likes": 10,
+     "likes": 42,
      "image": "https://lemmy.world/pictrs/image/94e244e9-8496-4686-902a-1f9b3f4b74eb.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The real key to getting a great job",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54356576",
+     "likes": 63,
+     "image": "https://lemmy.world/pictrs/image/a44f4556-29d7-49f9-bfff-e16bf07780d6.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "it's gonna be fucking incredible",
+     "author": "Wholesome",
+     "url": "https://lemmy.today/post/63237968",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/0e64cdee-3efb-4e87-b3dd-117f9bdec430.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T12:14:30.212595+00:00",
+   "fetched_at": "2026-11-13T12:44:36.066048+00:00",
    "stale": false,
    "items": [
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
      "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.",
+     "text": "Want to hear a joke about construction? Nah, I'm still working on it.",
      "source": "Dad joke"
     },
     {
-     "text": "Where did Captain Hook get his hook? From a second hand store.",
+     "text": "What do you call an eagle who can play the piano? Talonted!",
      "source": "Dad joke"
     },
     {
-     "text": "What did the digital clock say to the grandfather clock? Look, no hands!",
+     "text": "Leather is great for sneaking around because it's made of hide.",
      "source": "Dad joke"
     }
    ]
