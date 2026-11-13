@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T05:42:58.695606+00:00",
+ "generated_at": "2026-11-13T06:13:03.065307+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T05:42:55.028562+00:00",
+   "fetched_at": "2026-11-13T06:13:00.135673+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
+     "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
+     "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
+     "image": "https://external-preview.redd.it/NGQyZjZnb28wNjFpMTlyQ4U0zO7GXsGeJljKULuKO1opfdFIlvERUwKxRpw5.png?width=320&crop=smart&auto=webp&s=bcef42885488b3597338bb568b5d7c5a6772918d"
     },
     {
      "source": "Reddit",
@@ -35,11 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
-     "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters/",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/NGQyZjZnb28wNjFpMTlyQ4U0zO7GXsGeJljKULuKO1opfdFIlvERUwKxRpw5.png?width=320&crop=smart&auto=webp&s=bcef42885488b3597338bb568b5d7c5a6772918d"
+     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
     },
     {
      "source": "Reddit",
@@ -80,18 +80,32 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Senator Chris Van Hollen Announces He Is Running For Senate Majority Leader",
-     "url": "https://www.reddit.com/r/Fauxmoi/comments/1xuvmmx/senator_chris_van_hollen_announces_he_is_running/",
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/1hezwhg4ga1i1.jpeg?width=640&crop=smart&auto=webp&s=7720526f9e8aa2d22fee0b902b45cec6d38159a6"
+     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T05:42:55.714295+00:00",
+   "fetched_at": "2026-11-13T06:13:00.775747+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 2492,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1169,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "chancesAreLowButNeverZero",
      "image": "https://i.redd.it/230tjjlzxm0i1.png",
@@ -100,86 +114,72 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenYourLaptopBecomesAHandDryer",
-     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
-     "url": "https://redd.it/1xpub0e",
-     "ups": 16,
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1571,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 533,
+     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
+     "image": "https://i.redd.it/j84tkm75xvzh1.png",
+     "url": "https://redd.it/1xoypp2",
+     "ups": 1616,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 1652,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 161,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 99,
-     "sub": "r/ProgrammerHumor"
+     "title": "The Crying Game",
+     "image": "https://i.redd.it/t4arzyhxm91i1.png",
+     "url": "https://redd.it/1xus38q",
+     "ups": 43,
+     "sub": "r/memes"
     },
     {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
+     "title": "Sounds like someone wants detention",
+     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
+     "url": "https://redd.it/1xtx1id",
+     "ups": 2769,
+     "sub": "r/memes"
     },
     {
      "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
      "image": "https://i.redd.it/ys3te4flk81i1.png",
      "url": "https://redd.it/1xumu5h",
-     "ups": 113,
-     "sub": "r/memes"
-    },
-    {
-     "title": "When the recycling bin starts harmonizing",
-     "image": "https://i.redd.it/k453lbnu7a1i1.png",
-     "url": "https://redd.it/1xuupub",
-     "ups": 273,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Where, Who and What?",
-     "image": "https://i.redd.it/ip6klvet271i1.png",
-     "url": "https://redd.it/1xuep2v",
-     "ups": 1592,
+     "ups": 179,
      "sub": "r/memes"
     },
     {
      "title": "3 is a lucky number",
      "image": "https://i.redd.it/che4kcx0u91i1.png",
      "url": "https://redd.it/1xut0xd",
-     "ups": 12,
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "A necessary inconvenience \ud83d\ude15",
-     "image": "https://i.redd.it/fdl760zuf81i1.png",
-     "url": "https://redd.it/1xum2mf",
-     "ups": 1995,
+     "title": "Nothing. I do nothing.",
+     "image": "https://i.redd.it/tl2ercw8991i1.png",
+     "url": "https://redd.it/1xuqb2g",
+     "ups": 20,
      "sub": "r/memes"
     },
     {
-     "title": "Thank you dear.",
-     "image": "https://i.redd.it/lr3id5pp151i1.png",
-     "url": "https://redd.it/1xu70rn",
-     "ups": 10471,
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2396,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T05:42:57.753503+00:00",
+   "fetched_at": "2026-11-13T06:13:02.292252+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Microsoft 365 outage continues",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Lutnick and Nvidia's China chips",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a466ffd4851e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jeffries lists Democratic priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Quotes that stuck with you",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Star Wars 50th anniversary re-release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/586f1a9346ed",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "El Ni\u00f1o brings storms to California",
+     "text": "Building collapse reported in Brooklyn",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62469417a673",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nintendo announces Black Friday deals",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4efd84db3303",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Close midterm races being counted",
+     "text": "Ukraine reports daily Russian losses",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ayanna Pressley for Speaker",
+     "text": "Arlington guard reprimands Hegseth's entourage",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/80fe27b00494",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
      "likes": 0,
      "image": ""
     },
@@ -283,82 +283,82 @@
      "text": "I love dads!",
      "author": "NiceMemes",
      "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1063602/i-love-dads",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/779f9c98-eb80-424d-8a6e-75c1714ab85d.jpeg"
+     "likes": 53,
+     "image": "https://lemmy.world/pictrs/image/d58ad3c4-4605-4329-8ead-1e7ce0aaddc5.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Anon is a grandma",
-     "author": "Greentext",
-     "url": "https://sh.itjust.works/post/69849893",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/9c92696d-6dbd-4cdb-a1a1-440e373b6657.jpeg"
+     "text": "Do you get this?",
+     "author": "Autism",
+     "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1063556/do-you-get-this",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/0b557e2b-abfa-4372-ad48-f2d4e576716d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54347121",
-     "likes": 12,
-     "image": ""
+     "text": "How long does it take you to get going?",
+     "author": "MentalHealth",
+     "url": "https://piefed.blahaj.zone/c/mentalhealth@piefed.blahaj.zone/p/1063515/how-long-does-it-take-you-to-get-going",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/f76e87be-1b57-406a-b483-72ec6d59686b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Customer busted for using AI image of burnt pizza to scam restaurant",
-     "author": "Not The Onion",
-     "url": "https://piefed.social/c/nottheonion@lemmy.world/p/2597638/customer-busted-for-using-ai-image-of-burnt-pizza-to-scam-restaurant",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/a26f8a5a-c273-47e6-bdb1-b5279cb9f4a4.png"
+     "text": "I'm ollllddd",
+     "author": "General Memes & Private Chuckle",
+     "url": "https://piefed.blahaj.zone/c/Memes@lemmy.dbzer0.com/p/1063638/i-m-ollllddd",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/56a4fdf6-0b13-43e3-a999-cc4bb2ad046c.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T05:42:58.296986+00:00",
+   "fetched_at": "2026-11-13T06:13:02.657682+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
     {
      "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why are snake races so exciting? They're always neck and neck.",
+     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
      "source": "Dad joke"
     },
     {
-     "text": "I\u2019m only familiar with 25 letters in the English language. I don\u2019t know why.",
+     "text": "Wife: Honey I\u2019m pregnant.\r\n\r\nMe: Well\u2026. what do we do now?\r\n\r\nWife: Well, I guess we should go to a baby doctor.\r\n\r\nMe: Hm.. I think I\u2019d be a lot more comfortable going to an adult doctor.",
      "source": "Dad joke"
     },
     {
-     "text": "what happens when you cross a sheep with a kangaroo ? A woolly jumper!",
+     "text": "What was the pumpkin\u2019s favorite sport?\r\n\r\nSquash.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
