@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-13T21:47:48.790565+00:00",
+ "generated_at": "2026-11-13T22:17:55.069344+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T21:47:44.287374+00:00",
+   "fetched_at": "2026-11-13T22:17:50.665327+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "FAA issues nationwide ground stop",
+     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/qq8qei0jqb1i1.jpeg?width=640&crop=smart&auto=webp&s=40a938ca2d33f1736e3c5bea5b6f7d0bf89584c2"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "They disappeared at the end of the 90s. Just like yearly raises",
-     "url": "https://www.reddit.com/r/WeirdCareers/comments/1xv3orh/they_disappeared_at_the_end_of_the_90s_just_like/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/bthyhdr5pc1i1.png?width=640&crop=smart&auto=webp&s=d430cd3933c8f23ec2e8875307027e2b67d1c041"
     },
     {
      "source": "Reddit",
@@ -35,42 +35,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Vance considers pulling out of 2028 run for president",
-     "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aeTYYnGWG8Uw7BAeCfqFVJdSsh_BeiBvfc8ps1YykuY.jpeg?width=640&crop=smart&auto=webp&s=d9c16c6d0af9485bfa6dd058b8c76ad37ad32777"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "(OC)- me in 2025 versus me now in 2026. I\u2019m proud of myself for the progress I\u2019ve made in life.",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvhv9g/oc_me_in_2025_versus_me_now_in_2026_im_proud_of/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jsc302ilpf1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=628cf026f6a51b682be359968b4c26cf8aaa9592"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Is this a widespread problem? And where?",
-     "url": "https://www.reddit.com/r/interesting/comments/1xv7sgq/is_this_a_widespread_problem_and_where/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/05zkpifmsd1i1.jpeg?width=640&crop=smart&auto=webp&s=0649d87bab548366ba4e9a5bf4e63411195cd083"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Who needs GTA when we have this",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvdzgd/who_needs_gta_when_we_have_this/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/bGZoczhiMnl6ZTFpMSaOcKO_OrHntUmXvLhAlsmBXVMI-gSGhT858NKUVxW1.png?width=640&crop=smart&auto=webp&s=386b5cc55f8bce8ff28272075e999ec617f93c61"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Has it really been that long...",
      "url": "https://www.reddit.com/r/gaming/comments/1xvg21o/has_it_really_been_that_long/",
      "score": 0,
@@ -80,59 +44,130 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Let's be Friends (Part 3/3) - Gator Days",
-     "url": "https://www.reddit.com/r/comics/comments/1xveeje/lets_be_friends_part_33_gator_days/",
+     "title": "They disappeared at the end of the 90s. Just like yearly raises",
+     "url": "https://www.reddit.com/r/WeirdCareers/comments/1xv3orh/they_disappeared_at_the_end_of_the_90s_just_like/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/xxsn8n4n2f1i1.png?width=640&crop=smart&auto=webp&s=26fd40322f0086074d6c68765c2f30ca88a19b9f"
+     "image": "https://preview.redd.it/bthyhdr5pc1i1.png?width=640&crop=smart&auto=webp&s=d430cd3933c8f23ec2e8875307027e2b67d1c041"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Vance considers pulling out of 2028 run for president",
+     "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aeTYYnGWG8Uw7BAeCfqFVJdSsh_BeiBvfc8ps1YykuY.jpeg?width=640&crop=smart&auto=webp&s=d9c16c6d0af9485bfa6dd058b8c76ad37ad32777"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "National ground stop throughout the USA happening?",
+     "url": "https://www.reddit.com/r/aviation/comments/1xvj4u8/national_ground_stop_throughout_the_usa_happening/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Elon Musk has evaded subpoenas to testify about DOGE since January 2025. Democrats plan to change that.",
+     "url": "https://www.reddit.com/r/law/comments/1xvguxn/elon_musk_has_evaded_subpoenas_to_testify_about/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/V123g7uHWj638XngK843IWaQ-bQy8fPzYovSwh5txKY.jpeg?width=640&crop=smart&auto=webp&s=6054c2c2e831dd347723b3b4eaeeee8f6294f1ac"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Who needs GTA when we have this",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvdzgd/who_needs_gta_when_we_have_this/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bGZoczhiMnl6ZTFpMSaOcKO_OrHntUmXvLhAlsmBXVMI-gSGhT858NKUVxW1.png?width=640&crop=smart&auto=webp&s=386b5cc55f8bce8ff28272075e999ec617f93c61"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T21:47:45.040115+00:00",
+   "fetched_at": "2026-11-13T22:17:51.494764+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3458,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 13403,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 52,
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 167,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 177,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 58,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1213,
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4301,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17945,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 72,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 2496,
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 69,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "It just feels right",
+     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
+     "url": "https://redd.it/1xvjur1",
+     "ups": 34,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I swear, I was trying to help!",
+     "image": "https://i.redd.it/m1nx1up89b1i1.png",
+     "url": "https://redd.it/1xuyuge",
+     "ups": 158,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2777,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was fine lol",
+     "image": "https://i.redd.it/l5hxh7uu9b1i1.gif",
+     "url": "https://redd.it/1xuywgv",
+     "ups": 70,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Outlook 11.12.26",
+     "image": "https://i.redd.it/52of20ebmd1i1.png",
+     "url": "https://redd.it/1xv70q9",
+     "ups": 129,
+     "sub": "r/memes"
     },
     {
      "title": "you pay 100$ to throw dog poop at people, while im here doing it for free",
@@ -140,53 +175,18 @@
      "url": "https://redd.it/1xvfnk6",
      "ups": 13,
      "sub": "r/memes"
-    },
-    {
-     "title": "Let's respect his request",
-     "image": "https://i.redd.it/bebibo2yjf1i1.png",
-     "url": "https://redd.it/1xvh0uh",
-     "ups": 52,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Peace of Mind",
-     "image": "https://i.redd.it/9rsuriwv9c1i1.gif",
-     "url": "https://redd.it/1xv2ct7",
-     "ups": 70,
-     "sub": "r/memes"
-    },
-    {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 43584,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Characters whose name everyone gets wrong: Annual meeting",
-     "image": "https://i.redd.it/gsfok1n4c71i1.png",
-     "url": "https://redd.it/1xug1qc",
-     "ups": 2469,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Found the culprit...",
-     "image": "https://i.redd.it/nbiutdm8nd1i1.png",
-     "url": "https://redd.it/1xv752p",
-     "ups": 64,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T21:47:47.792203+00:00",
+   "fetched_at": "2026-11-13T22:17:53.748143+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft outage, flight ground stop",
+     "text": "Tanker hits cruise ship in New Orleans",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/86feefeff529",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
      "likes": 0,
      "image": ""
     },
@@ -200,25 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Weird wisdom tooth stories",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4ff7d19d90",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Flavor Flav reports flight ground stop",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
      "likes": 0,
      "image": ""
     },
@@ -232,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's Nvidia stock trades",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Concert history meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db4b37537fe0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Concert history meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db4b37537fe0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Steve Miner to direct new Friday the 13th",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -279,11 +263,27 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Kushner meets Zelenskyy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's Nvidia stock trades",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "FAA issues nationwide ground stop for all flights due to \u2018extrodinary circumstances\u2019 and safety",
      "author": "News",
      "url": "https://lemmy.world/post/54375336",
-     "likes": 55,
+     "likes": 128,
      "image": "https://lemmy.world/pictrs/image/4f75423a-cef8-4477-9d74-7847360be67e.png"
     },
     {
@@ -291,74 +291,74 @@
      "text": "Ground stop ordered for all airports nationwide for \u2018reasons of safety\u2019",
      "author": "News",
      "url": "https://lemmy.world/post/54375366",
-     "likes": 34,
+     "likes": 70,
      "image": "https://lemmy.world/pictrs/image/a8f8c717-1a0f-456d-b8cc-845b3a30512d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Rep. Lauren Boebert, conservative firebrand from Colorado, loses her race for re-election",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54374732",
-     "likes": 56,
-     "image": "https://lemmy.world/pictrs/image/593626b2-8c1b-4257-b294-9e4f1add837c.jpeg"
+     "text": "Yeehaw Pluribus",
+     "author": "Comic Strips",
+     "url": "https://coves.social/ap/object/did:plc:lmdkqemqrqnfiix72pyjhfey/social.coves.community.postv2/3n27w6rw74bvl",
+     "likes": 29,
+     "image": "https://img.coves.social/img/content_full/plain/did:plc:lmdkqemqrqnfiix72pyjhfey/bafkreigqgnpv4yfq54hndur7px7qoa7a2spfw3nosstxe5idm6rioiac4u"
     },
     {
      "kind": "Lemmy post",
-     "text": "Fox ponders 'disturbing evidence' Trump officials in on 'conspiracy'",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54374852",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/b10d4e4e-974e-4527-bca5-c23f00b25a7f.jpeg"
+     "text": "Fascist Paramilitary Brutalize Man during Abduction, Punch Him in the Face, and Nearly Break His Arm as Children Cry in Terror (Robbinsdale, MN, 11/11/2026)",
+     "author": "Crimes of ICE",
+     "url": "https://infosec.pub/post/54886615",
+     "likes": 21,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T21:47:48.288633+00:00",
+   "fetched_at": "2026-11-13T22:17:54.406067+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
     {
      "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do you do when your bunny gets wet? You get your hare dryer.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear the joke about the wandering nun? She was a roman catholic.",
+     "text": "I've just written a song about a tortilla. Well, it is more of a rap really.",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of award did the dentist receive? A little plaque.",
+     "text": "What is a witch's favorite subject in school? Spelling!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
