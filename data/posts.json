@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-13T17:45:53.839068+00:00",
+ "generated_at": "2026-11-13T18:16:00.349229+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T17:45:49.464139+00:00",
+   "fetched_at": "2026-11-13T18:15:55.234130+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "NYC deli prices",
+     "url": "https://www.reddit.com/r/KitchenConfidential/comments/1xusd1d/nyc_deli_prices/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/hv8uhl68o91i1.jpeg?width=640&crop=smart&auto=webp&s=af1d32cf490e7960b7d937ab6649abfa067abf02"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,24 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/M2F0aTM5ZHJhZTFpMagMvd3qFS58qd5sw81PBE0TWN-qqwF0UGUOtDZHv37m.png?width=320&crop=smart&auto=webp&s=6bdfe2f3fc3635ab9e5d8dc33ff11bb6eddc44ce"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I hate Russophobia",
-     "url": "https://www.reddit.com/r/hatethissmug/comments/1xv35q0/i_hate_russophobia/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/cy7mc6l4jc1i1.jpeg?width=140&height=140&auto=webp&s=204ea4769e38f101ef02e2f2da9c51890e8015f1"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "In 2024, emperor penguin named Gus was found on an Australian beach, the first of his kind ever recorded in the country. He had somehow travelled over 2,200 miles from Antarctica.",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xv9hus/in_2024_emperor_penguin_named_gus_was_found_on_an/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aWE0YTh4ajc1ZTFpMU5_df-vLwgk9uIyjkkLmnkZjzG7VogBEzu95VaxQs7v.png?width=320&crop=smart&auto=webp&s=7325809b338049e4d2f21c0024c9bc43e6ca308e"
     },
     {
      "source": "Reddit",
@@ -44,15 +35,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "NYC deli prices",
-     "url": "https://www.reddit.com/r/KitchenConfidential/comments/1xusd1d/nyc_deli_prices/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/hv8uhl68o91i1.jpeg?width=640&crop=smart&auto=webp&s=af1d32cf490e7960b7d937ab6649abfa067abf02"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Jensen Huang's final hours at Nvidia, he was broken, said 'whatever, IDC', his main concern is wife",
      "url": "https://www.reddit.com/r/TopTrendingNewsUSA/comments/1xv0kzs/jensen_huangs_final_hours_at_nvidia_he_was_broken/",
      "score": 0,
@@ -62,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Vance considers pulling out of 2028 run for president",
-     "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
+     "title": "In 2024, emperor penguin named Gus was found on an Australian beach, the first of his kind ever recorded in the country. He had somehow travelled over 2,200 miles from Antarctica.",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xv9hus/in_2024_emperor_penguin_named_gus_was_found_on_an/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/aeTYYnGWG8Uw7BAeCfqFVJdSsh_BeiBvfc8ps1YykuY.jpeg?width=640&crop=smart&auto=webp&s=d9c16c6d0af9485bfa6dd058b8c76ad37ad32777"
+     "image": "https://external-preview.redd.it/aWE0YTh4ajc1ZTFpMU5_df-vLwgk9uIyjkkLmnkZjzG7VogBEzu95VaxQs7v.png?width=320&crop=smart&auto=webp&s=7325809b338049e4d2f21c0024c9bc43e6ca308e"
     },
     {
      "source": "Reddit",
@@ -85,32 +67,57 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/bthyhdr5pc1i1.png?width=640&crop=smart&auto=webp&s=d430cd3933c8f23ec2e8875307027e2b67d1c041"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Vance considers pulling out of 2028 run for president",
+     "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aeTYYnGWG8Uw7BAeCfqFVJdSsh_BeiBvfc8ps1YykuY.jpeg?width=640&crop=smart&auto=webp&s=d9c16c6d0af9485bfa6dd058b8c76ad37ad32777"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Lyre made out of human skull with antelope horns, Africa 19th c.",
+     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xvb3ji/lyre_made_out_of_human_skull_with_antelope_horns/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/dsf1qjkisc1i1.jpeg?width=640&crop=smart&auto=webp&s=fc9284c52b86cc552f7e504da267a6a24820c1df"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T17:45:50.702136+00:00",
+   "fetched_at": "2026-11-13T18:15:56.868654+00:00",
    "stale": false,
    "items": [
     {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 539,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 194,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 125,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 101,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 53,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,65 +128,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nvidiaEmployeesWantJensenToStay",
-     "image": "https://i.redd.it/ch1nft4yqe1i1.png",
-     "url": "https://redd.it/1xvcmjk",
-     "ups": 4,
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1376,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "outlookNotSoGood",
-     "image": "https://i.redd.it/bl3df5io291i1.png",
-     "url": "https://redd.it/1xupe36",
-     "ups": 803,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "What a drag",
-     "image": "https://i.redd.it/84qob0mzmb1i1.png",
-     "url": "https://redd.it/1xv0aiu",
-     "ups": 20,
-     "sub": "r/memes"
     },
     {
      "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
      "image": "https://i.redd.it/ys3te4flk81i1.png",
      "url": "https://redd.it/1xumu5h",
-     "ups": 419,
+     "ups": 457,
      "sub": "r/memes"
     },
     {
-     "title": "The Great Out(look)age of 2026",
-     "image": "https://i.redd.it/nrbxiudeob1i1.png",
-     "url": "https://redd.it/1xv0e0w",
-     "ups": 130,
+     "title": "Just why dude",
+     "image": "https://i.redd.it/mjhaagjcw91i1.png",
+     "url": "https://redd.it/1xutac2",
+     "ups": 200,
      "sub": "r/memes"
     },
     {
-     "title": "Where, Who and What?",
-     "image": "https://i.redd.it/ip6klvet271i1.png",
-     "url": "https://redd.it/1xuep2v",
-     "ups": 1939,
+     "title": "Peace of Mind",
+     "image": "https://i.redd.it/9rsuriwv9c1i1.gif",
+     "url": "https://redd.it/1xv2ct7",
+     "ups": 69,
      "sub": "r/memes"
     },
     {
-     "title": "I swear, I was trying to help!",
-     "image": "https://i.redd.it/m1nx1up89b1i1.png",
-     "url": "https://redd.it/1xuyuge",
-     "ups": 114,
+     "title": "Characters whose name everyone gets wrong: Annual meeting",
+     "image": "https://i.redd.it/gsfok1n4c71i1.png",
+     "url": "https://redd.it/1xug1qc",
+     "ups": 2332,
      "sub": "r/memes"
     },
     {
-     "title": "Outlook 11.12.26",
-     "image": "https://i.redd.it/52of20ebmd1i1.png",
-     "url": "https://redd.it/1xv70q9",
-     "ups": 75,
+     "title": "love is so dead...",
+     "image": "https://i.redd.it/mwd64rib941i1.png",
+     "url": "https://redd.it/1xu4c7u",
+     "ups": 2462,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Found the culprit...",
+     "image": "https://i.redd.it/nbiutdm8nd1i1.png",
+     "url": "https://redd.it/1xv752p",
+     "ups": 54,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T17:45:52.452376+00:00",
+   "fetched_at": "2026-11-13T18:15:58.918213+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,14 @@
      "text": "Concert history meme",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db4b37537fe0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Steve Miner to direct new Friday the 13th",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
      "likes": 0,
      "image": ""
     },
@@ -200,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries lists Democratic priorities",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Jensen Huang affair reports",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a09490021bc",
@@ -216,17 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "\"Save the whales\" campaign succeeds",
+     "text": "Close midterm races being counted",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/aedc1d1adb13",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Taylor Swift's GMA announcement",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e4e997193cc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Pochettino to lead Manchester United",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7273607d8cca",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "\"Save the whales\" campaign succeeds",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/aedc1d1adb13",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jeffries lists Democratic priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -271,69 +279,61 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Judge Reyes holds golf course hearing",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98a5c84b1c1a",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Control-Z",
+     "author": "Programmer Humor",
+     "url": "https://lemmy.world/post/54368968",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/e055c3a7-2446-4029-9a95-37dd5c631d2a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Florida Residents Lose It After DEI Law Backfires and Takes Their Beloved St. Patrick\u2019s Day Parade Down With It",
-     "author": "News",
-     "url": "https://lemmy.blahaj.zone/post/50452800",
-     "likes": 72,
-     "image": "https://lemmy.world/pictrs/image/5a484e81-6328-44a8-ad9b-0abd898dd0bb.webp"
+     "text": "Hand signals",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63250907",
+     "likes": 46,
+     "image": "https://lemmy.world/pictrs/image/0e1bf178-64e7-44e1-8c4e-3fb36fa6774d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "I love Comedy!",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54367387",
-     "likes": 50,
-     "image": "https://lemmy.world/pictrs/image/2ae32f5b-b749-4daa-9bc6-6ee52230463f.jpeg"
+     "text": "Context",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63250899",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/7ec34197-e742-4a43-8ae7-550412943388.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "moors law is alive",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.blahaj.zone/post/50452747",
-     "likes": 62,
-     "image": "https://lemmy.blahaj.zone/pictrs/image/26cac39c-a4e5-47b3-9c54-b4891a974fb8.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Microsoft outage: Impact shows risk of M365 bundle lock-in",
-     "author": "Technology",
-     "url": "https://lemmy.nz/post/43823688",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/38378514-dc4b-4c32-a2f6-ac06491a8ec5.jpeg"
+     "text": "Orthopedic surgery",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63251236",
+     "likes": 44,
+     "image": "https://lemmy.world/pictrs/image/02c86a5e-058f-49d1-915c-74ec5ab2310a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T17:45:53.203978+00:00",
+   "fetched_at": "2026-11-13T18:15:59.512948+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "Got a new suit recently made entirely of living plants. I wasn\u2019t sure at first, but it\u2019s grown on me",
+     "text": "Where do hamburgers go to dance? The meat-ball.",
      "source": "Dad joke"
     },
     {
-     "text": "I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.",
+     "text": "Why did the teddy bear say \u201cno\u201d to dessert? Because she was stuffed.",
      "source": "Dad joke"
     },
     {
-     "text": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
+     "text": "Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
