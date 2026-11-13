@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-13T09:13:55.856314+00:00",
+ "generated_at": "2026-11-13T09:44:01.947247+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T09:13:51.488305+00:00",
+   "fetched_at": "2026-11-13T09:43:57.592778+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,24 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
-     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "A masterpiece of medieval engineering, crafted to protect every detail!",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xux7yj/a_masterpiece_of_medieval_engineering_crafted_to/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/amEwMTV4Nnl0YTFpMeTrDi43dkTqeLF446Rgv9_ErA1sErhDBkZBAKMkC1EJ.png?width=320&crop=smart&auto=webp&s=b3cbeda68834fecdb162fffc92257d3ec8506017"
     },
     {
      "source": "Reddit",
@@ -53,11 +26,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Chris Van Hollen Is Challenging Chuck Schumer for Democratic Leader",
-     "url": "https://www.reddit.com/r/politics/comments/1xuvirm/chris_van_hollen_is_challenging_chuck_schumer_for/",
+     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/dWPlgJSAUJoKxvFEkqYRbi_YBuLwXgC7rNNR0_ANGsg.jpeg?width=640&crop=smart&auto=webp&s=848d94a2c2f62fa27d0e4ca0099324e6b53f57be"
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "A masterpiece of medieval engineering, crafted to protect every detail!",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xux7yj/a_masterpiece_of_medieval_engineering_crafted_to/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/amEwMTV4Nnl0YTFpMeTrDi43dkTqeLF446Rgv9_ErA1sErhDBkZBAKMkC1EJ.png?width=320&crop=smart&auto=webp&s=b3cbeda68834fecdb162fffc92257d3ec8506017"
     },
     {
      "source": "Reddit",
@@ -85,74 +76,76 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/fhyvjjktq81i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bef9b55996e3f3209b3b826fb35a9e2ba4e25fa"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "New Nvidia CEO just announced!!",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xv0l91/new_nvidia_ceo_just_announced/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/252ufarlqb1i1.png?width=640&crop=smart&auto=webp&s=f5f0da4fbce7a5b0591d6947acd71eaa9497c722"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T09:13:52.196153+00:00",
+   "fetched_at": "2026-11-13T09:43:58.372456+00:00",
    "stale": false,
    "items": [
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17919,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 396,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 23644,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 61,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 13,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 1742,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
-     "ups": 0,
+     "title": "outlookNotSoGood",
+     "image": "https://i.redd.it/bl3df5io291i1.png",
+     "url": "https://redd.it/1xupe36",
+     "ups": 710,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 777,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 17,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "tryHackMeKindaUnseriousNow",
-     "image": "https://i.redd.it/bggqfn70jlzh1.png",
-     "url": "https://redd.it/1xnnyjx",
-     "ups": 364,
+     "title": "wheresTheLove",
+     "image": "https://i.redd.it/aas3ndrapozh1.png",
+     "url": "https://redd.it/1xo40he",
+     "ups": 1512,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "POV: you are jensen after a long day at NVIDIA",
-     "image": "https://i.redd.it/ikleqytrq21i1.png",
-     "url": "https://redd.it/1xty5x7",
-     "ups": 6568,
+     "title": "Where, Who and What?",
+     "image": "https://i.redd.it/ip6klvet271i1.png",
+     "url": "https://redd.it/1xuep2v",
+     "ups": 1782,
      "sub": "r/memes"
     },
     {
-     "title": "Somebody had to do it",
-     "image": "https://i.redd.it/xm0lrew1k61i1.png",
-     "url": "https://redd.it/1xuc8ko",
-     "ups": 2499,
-     "sub": "r/memes"
-    },
-    {
-     "title": "3 is a lucky number",
-     "image": "https://i.redd.it/che4kcx0u91i1.png",
-     "url": "https://redd.it/1xut0xd",
-     "ups": 13,
+     "title": "Sounds like someone wants detention",
+     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
+     "url": "https://redd.it/1xtx1id",
+     "ups": 2784,
      "sub": "r/memes"
     },
     {
@@ -163,25 +156,40 @@
      "sub": "r/memes"
     },
     {
-     "title": "The Crying Game",
-     "image": "https://i.redd.it/t4arzyhxm91i1.png",
-     "url": "https://redd.it/1xus38q",
-     "ups": 61,
+     "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
+     "image": "https://i.redd.it/ys3te4flk81i1.png",
+     "url": "https://redd.it/1xumu5h",
+     "ups": 241,
      "sub": "r/memes"
     },
     {
-     "title": "Friday the 13th is much better than Monday the whatever. Happy Friday the 13th!",
-     "image": "https://i.redd.it/5y2ekv5i4b1i1.png",
-     "url": "https://redd.it/1xuyd6x",
-     "ups": 11,
+     "title": "Always hits at the most random moments",
+     "image": "https://i.redd.it/vnf4me0oxa1i1.gif",
+     "url": "https://redd.it/1xuxmri",
+     "ups": 10,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They must be fuming",
+     "image": "https://i.redd.it/t0kz2njo0c1i1.gif",
+     "url": "https://redd.it/1xv1iyk",
+     "ups": 10,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T09:13:54.604551+00:00",
+   "fetched_at": "2026-11-13T09:44:00.828172+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Andy Burnham and EU rejoining",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c69d0250b5d6",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Microsoft 365 outage continues",
@@ -192,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
+     "text": "Senator seeks majority leader post",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kushner meets Zelenskyy",
+     "text": "Quotes that stuck with you",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "El Ni\u00f1o brings storms to California",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62469417a673",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Johnny Depp's Ebenezer reviews",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dc95c2a7574",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -248,14 +240,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Autumn foliage photos",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
@@ -264,92 +248,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
+     "text": "World of Warcraft Forever servers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/be9382ce3dfe",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries lists Democratic priorities",
+     "text": "Nintendo announces Black Friday deals",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4efd84db3303",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner meets Zelenskyy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Strikes hit Ukrainian and Russian plants",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4af0c9494ebc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "An interesting study, perhaps.",
-     "author": "linuxmemes",
-     "url": "https://lemmy.zip/post/74940483",
-     "likes": 67,
-     "image": "https://lemmy.zip/pictrs/image/fa77f732-b089-47ce-bedf-18d634cc21ff.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Inside rule.",
+     "text": "Outlook rule",
      "author": "196",
-     "url": "https://lemmy.zip/post/74941023",
-     "likes": 30,
-     "image": "https://lemmy.zip/pictrs/image/5df2cbe8-c1b9-4c37-a662-3c12af02555e.avif"
+     "url": "https://lemmy.blahaj.zone/post/50439728",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/01f794ea-c42b-4938-9e84-075e04976c63.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Nvidia's new interim CEO Colette Kress and the company's deep ties to Israel",
-     "author": "Privacy",
-     "url": "https://lemmy.ml/post/55256030",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/ff2c9bcf-2ddb-4d38-8835-586b844614d4.jpeg"
+     "text": "Day 848 of posting a Daily Screenshot from the games I've been playing",
+     "author": "Games",
+     "url": "https://lemmy.world/post/54353194",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/cd439e5b-c8a0-4212-90a4-dac811ad94e0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "This post is the Mario's Mystery Meat of Lemmy",
-     "author": "Microblog Memes",
-     "url": "https://piefed.zip/c/microblogmemes@lemmy.world/p/1997396/this-post-is-the-mario-s-mystery-meat-of-lemmy",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/3bf6156b-69ea-428a-8cfe-2e32e49be202.jpeg"
+     "text": "is there a lore reason why clark did this? is he stupid??",
+     "author": "Comic Book Shitposting",
+     "url": "https://lemmy.zip/post/74942949",
+     "likes": 8,
+     "image": "https://lemmy.zip/pictrs/image/679c0c7f-8305-4a90-b407-91d923d1ef19.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "A surprise Digital Sovereignty test.",
+     "author": "Buy European",
+     "url": "https://lemmy.world/post/54353631",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/125c2093-8641-4d3f-a565-297ecefa4117.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T09:13:55.375603+00:00",
+   "fetched_at": "2026-11-13T09:44:01.503862+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Hear about the new restaurant called Karma? There\u2019s no menu: You get what you deserve.",
+     "text": "What did the ocean say to the beach? Thanks for all the sediment.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!",
+     "text": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
      "source": "Dad joke"
     },
     {
-     "text": "Don\u2019t interrupt someone working intently on a puzzle. Chances are, you\u2019ll hear some crosswords.",
+     "text": "Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.",
      "source": "Dad joke"
     }
    ]
