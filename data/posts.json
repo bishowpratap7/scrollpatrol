@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T10:44:13.742346+00:00",
+ "generated_at": "2026-11-13T11:14:19.290263+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T10:44:09.159799+00:00",
+   "fetched_at": "2026-11-13T11:14:15.117600+00:00",
    "stale": false,
    "items": [
     {
@@ -17,8 +17,17 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Microsoft Office seems to be down",
-     "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -35,38 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
-     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
+     "title": "Microsoft Office seems to be down",
+     "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Jensen Huang Had A Third Affair\u2014With Another Nvidia Employee",
-     "url": "https://www.reddit.com/r/technology/comments/1xunjfl/jensen_huang_had_a_third_affairwith_another/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/-5finBjJ4OQ_lgy3uITJWl56B9qdbiQlWEt38zZW1Uw.jpeg?width=640&crop=smart&auto=webp&s=bfbf75c819833b13182a4d55673409cf8376c260"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
     },
     {
      "source": "Reddit",
@@ -80,6 +62,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Jensen Huang Had A Third Affair\u2014With Another Nvidia Employee",
+     "url": "https://www.reddit.com/r/technology/comments/1xunjfl/jensen_huang_had_a_third_affairwith_another/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/-5finBjJ4OQ_lgy3uITJWl56B9qdbiQlWEt38zZW1Uw.jpeg?width=640&crop=smart&auto=webp&s=bfbf75c819833b13182a4d55673409cf8376c260"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why aren't we doing this",
+     "url": "https://www.reddit.com/r/okbuddycinephile/comments/1xuzwa7/why_arent_we_doing_this/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wbx2z0sijb1i1.jpeg?width=640&crop=smart&auto=webp&s=95bcff7a1c9345226f4da2a421b8bb1d25e74b2c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "(OC) Spotted in rural SoCal",
      "url": "https://www.reddit.com/r/pics/comments/1xuwta9/oc_spotted_in_rural_socal/",
      "score": 0,
@@ -89,7 +89,7 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T10:44:09.902165+00:00",
+   "fetched_at": "2026-11-13T11:14:15.851565+00:00",
    "stale": false,
    "items": [
     {
@@ -100,86 +100,86 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7664,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 1782,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "outlookNotSoGood",
-     "image": "https://i.redd.it/bl3df5io291i1.png",
-     "url": "https://redd.it/1xupe36",
-     "ups": 748,
+     "title": "visualStudioIsMakingFunOfMe",
+     "image": "https://i.redd.it/nkcl8442cszh1.png",
+     "url": "https://redd.it/1xoh3fl",
+     "ups": 1243,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 100,
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 574,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1570,
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1377,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 133,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2449,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I was fine lol",
-     "image": "https://i.redd.it/l5hxh7uu9b1i1.gif",
-     "url": "https://redd.it/1xuywgv",
-     "ups": 23,
+     "title": "I miss mobile games from old times",
+     "image": "https://i.redd.it/7ubanbmtf61i1.png",
+     "url": "https://redd.it/1xubqsx",
+     "ups": 480,
      "sub": "r/memes"
     },
     {
-     "title": "It felt surreal talking with him and finding that out.",
-     "image": "https://i.redd.it/re2cy98vq21i1.gif",
-     "url": "https://redd.it/1xty78g",
-     "ups": 2009,
+     "title": "\"diversify your portfolio\" they say...",
+     "image": "https://i.redd.it/3wemmg9rt91i1.png",
+     "url": "https://redd.it/1xusyxf",
+     "ups": 34,
      "sub": "r/memes"
     },
     {
-     "title": "I swear, I was trying to help!",
-     "image": "https://i.redd.it/m1nx1up89b1i1.png",
-     "url": "https://redd.it/1xuyuge",
-     "ups": 65,
+     "title": "Does anyone else's computers just...",
+     "image": "https://i.redd.it/60yhv4hjk91i1.png",
+     "url": "https://redd.it/1xurta4",
+     "ups": 48,
      "sub": "r/memes"
     },
     {
-     "title": "Sounds like someone wants detention",
-     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
-     "url": "https://redd.it/1xtx1id",
-     "ups": 2802,
+     "title": "A necessary inconvenience \ud83d\ude15",
+     "image": "https://i.redd.it/fdl760zuf81i1.png",
+     "url": "https://redd.it/1xum2mf",
+     "ups": 2755,
      "sub": "r/memes"
     },
     {
-     "title": "POV: you are jensen after a long day at NVIDIA",
-     "image": "https://i.redd.it/ikleqytrq21i1.png",
-     "url": "https://redd.it/1xty5x7",
-     "ups": 6615,
+     "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
+     "image": "https://i.redd.it/ys3te4flk81i1.png",
+     "url": "https://redd.it/1xumu5h",
+     "ups": 280,
      "sub": "r/memes"
     },
     {
-     "title": "Ready for promotion",
-     "image": "https://i.redd.it/phloocgn1b1i1.png",
-     "url": "https://redd.it/1xuy1xz",
-     "ups": 10,
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2559,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T10:44:12.299570+00:00",
+   "fetched_at": "2026-11-13T11:14:18.252801+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
+     "text": "Jeffries lists Democratic priorities",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries lists Democratic priorities",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +224,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "David Walliams faces misconduct allegations",
+     "text": "Google cuts search for AI-banning schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nintendo announces Black Friday deals",
+     "text": "Russell Brand's sexual offences case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4efd84db3303",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "Quotes that stuck with you",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Baby found alive in buried crate",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/df040d444fb5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
      "likes": 0,
      "image": ""
     },
@@ -279,61 +271,65 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "[Repost from Reddit] Microsoft owes you money for today's outage. They won't tell you. Here's how to claim it.",
-     "author": "Windows 11",
-     "url": "https://lemmy.world/post/54354442",
-     "likes": 36,
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "A surprise Digital Sovereignty test.",
-     "author": "Buy European",
-     "url": "https://lemmy.world/post/54353631",
-     "likes": 64,
-     "image": "https://lemmy.world/pictrs/image/125c2093-8641-4d3f-a565-297ecefa4117.png"
+     "text": "This post is the pong of shitposts",
+     "author": "Lemmy Shitpost",
+     "url": "https://piefed.world/c/lemmyshitpost/p/1531743/this-post-is-the-pong-of-shitposts",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/650d3d1e-c905-401a-a155-e9f87144c7f9.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "[Repost from Reddit] Microsoft owes you money for today's outage. They won't tell you. Here's how to claim it.",
+     "author": "Windows 11",
+     "url": "https://lemmy.world/post/54354442",
+     "likes": 67,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "ich\ud83d\udce8iel",
+     "author": "ich_iel",
+     "url": "https://feddit.org/post/37968411",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/644c0d81-fc4a-4eac-abd4-5c7eb41d9ad3.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "[Repost from Reddit] Microsoft owes you money for today's outage. They won't tell you. Here's how to claim it.",
      "author": "Sysadmin",
      "url": "https://lemmy.world/post/54354563",
-     "likes": 18,
+     "likes": 34,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "abortolly problem",
-     "author": "Memes",
-     "url": "https://lemmy.ml/post/55257429",
-     "likes": 64,
-     "image": "https://lemmy.world/pictrs/image/da0a837c-7f6c-4ae2-a37b-749824f2b468.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T10:44:13.344524+00:00",
+   "fetched_at": "2026-11-13T11:14:18.896382+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
     {
      "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "They're making a movie about clocks. It's about time",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two silk worms had a race. They ended up in a tie.",
      "source": "Dad joke"
     },
     {
-     "text": "I invented a new word! Plagiarism!",
+     "text": "The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.",
      "source": "Dad joke"
     },
     {
-     "text": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
+     "text": "I\u2019m only familiar with 25 letters in the English language. I don\u2019t know why.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
