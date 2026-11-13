@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-12T23:41:29.933082+00:00",
+ "generated_at": "2026-11-13T00:11:36.015919+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-12T23:41:25.218882+00:00",
+   "fetched_at": "2026-11-13T00:11:31.528251+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Jensen Huang Had A Third Affair\u2014With Another Nvidia Employee",
-     "url": "https://www.reddit.com/r/technology/comments/1xunjfl/jensen_huang_had_a_third_affairwith_another/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/-5finBjJ4OQ_lgy3uITJWl56B9qdbiQlWEt38zZW1Uw.jpeg?width=640&crop=smart&auto=webp&s=bfbf75c819833b13182a4d55673409cf8376c260"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/rssa2lzr591i1.jpeg?width=640&crop=smart&auto=webp&s=6d1866700ac5a4952f29b4b88ae6ee670e0ffd10"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Jensen Huang Had A Third Affair\u2014With Another Nvidia Employee",
+     "url": "https://www.reddit.com/r/technology/comments/1xunjfl/jensen_huang_had_a_third_affairwith_another/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/-5finBjJ4OQ_lgy3uITJWl56B9qdbiQlWEt38zZW1Uw.jpeg?width=640&crop=smart&auto=webp&s=bfbf75c819833b13182a4d55673409cf8376c260"
     },
     {
      "source": "Reddit",
@@ -44,20 +44,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "I bet tigers would feel so dumb if they knew they were orange to us",
+     "url": "https://www.reddit.com/r/BrandNewSentence/comments/1xuprwp/i_bet_tigers_would_feel_so_dumb_if_they_knew_they/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/bss7pzoj591i1.jpeg?width=640&crop=smart&auto=webp&s=a7d54d8b80eaa9b02602948f812ce90392754830"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuqve9/judging_by_the_current_exponential_rate_jensen/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/xrn8a2tgd91i1.png?width=640&crop=smart&auto=webp&s=a4fb748a6842a1dc7e933e6403710495acf27d43"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
      "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Aww Punch \u2764\ufe0f",
-     "url": "https://www.reddit.com/r/BeAmazed/comments/1xuly03/aww_punch/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/cn83rwi3f81i1.jpeg?width=640&crop=smart&auto=webp&s=8394ad3090d5c1548ad66e376a0a8d34567bcb16"
     },
     {
      "source": "Reddit",
@@ -76,125 +85,116 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "NVIDIA Announces CEO Transition",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-12T23:41:26.462208+00:00",
+   "fetched_at": "2026-11-13T00:11:32.897071+00:00",
    "stale": false,
    "items": [
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1945,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 14,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 2487,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 58,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "twoSidesOfAI",
-     "image": "https://i.redd.it/8c90e9cda71i1.png",
-     "url": "https://redd.it/1xufsfm",
-     "ups": 4,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 584,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6732,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 12625,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1018,
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 588,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 13,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2690,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Always has been",
-     "image": "https://i.redd.it/9g67t7m8t41i1.png",
-     "url": "https://redd.it/1xu69hk",
-     "ups": 50,
+     "title": "POV: you are jensen after a long day at NVIDIA",
+     "image": "https://i.redd.it/ikleqytrq21i1.png",
+     "url": "https://redd.it/1xty5x7",
+     "ups": 6113,
      "sub": "r/memes"
     },
     {
-     "title": "come on, again?",
-     "image": "https://i.redd.it/ja2qszvc971i1.gif",
-     "url": "https://redd.it/1xufn01",
-     "ups": 10,
+     "title": "Characters whose name everyone gets wrong: Annual meeting",
+     "image": "https://i.redd.it/gsfok1n4c71i1.png",
+     "url": "https://redd.it/1xug1qc",
+     "ups": 1125,
      "sub": "r/memes"
     },
     {
-     "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
-     "image": "https://i.redd.it/ys3te4flk81i1.png",
-     "url": "https://redd.it/1xumu5h",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Forget AI, put all your savings on memes",
-     "image": "https://i.redd.it/swzo5l1qx61i1.png",
-     "url": "https://redd.it/1xue0rc",
-     "ups": 19,
+     "title": "Professional lurker",
+     "image": "https://i.redd.it/roh4oqjkq31i1.png",
+     "url": "https://redd.it/1xu2d6y",
+     "ups": 160,
      "sub": "r/memes"
     },
     {
      "title": "Honestly, they had it coming...",
      "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
      "url": "https://redd.it/1xt8s1h",
-     "ups": 27442,
+     "ups": 27679,
      "sub": "r/memes"
     },
     {
-     "title": "A necessary inconvenience \ud83d\ude15",
-     "image": "https://i.redd.it/fdl760zuf81i1.png",
-     "url": "https://redd.it/1xum2mf",
-     "ups": 384,
+     "title": "The Crying Game",
+     "image": "https://i.redd.it/t4arzyhxm91i1.png",
+     "url": "https://redd.it/1xus38q",
+     "ups": 7,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Its not popping",
+     "image": "https://i.redd.it/cr7xmu4l751i1.gif",
+     "url": "https://redd.it/1xu7j43",
+     "ups": 47,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-12T23:41:28.421735+00:00",
+   "fetched_at": "2026-11-13T00:11:34.831505+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump names Stephen Miller chief of staff",
+     "text": "Trump ends Vance's Iran talks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27b93d15db5c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b62d6568e5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kansas governor race results",
+     "text": "Lutnick and Nvidia's China chips",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a4984f73b4f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a466ffd4851e",
      "likes": 0,
      "image": ""
     },
@@ -203,6 +203,22 @@
      "text": "Microsoft 365 outage reported",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang resigns from Nvidia",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Leather jackets in tech",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
      "likes": 0,
      "image": ""
     },
@@ -224,41 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Building collapse reported in Brooklyn",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
+     "text": "Rings of Power season 3",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a1adf1fe9566",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
+     "text": "Veterans Day tributes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Books to take the oath on",
+     "text": "Kansas governor race results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nintendo announces Black Friday deals",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4efd84db3303",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a4984f73b4f",
      "likes": 0,
      "image": ""
     },
@@ -271,94 +279,86 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Lutnick and Nvidia's China chips",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a466ffd4851e",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "TIL that AMD is led by Jensen Huang's cousin, Lisa Su.",
+     "author": "Today I Learned",
+     "url": "https://lemmy.zip/post/74922875",
+     "likes": 51,
+     "image": "https://lemmy.zip/pictrs/image/ff115b65-c9fc-44c4-a38f-e6d385584fd3.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "We doin' Klingons today, eh?",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://discuss.online/post/48380328",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/e87acfff-e6c3-4ad7-bf4e-c1533e70b9ba.webp"
+     "text": "Chinese Spy Running Out Of Excuses Not To Hang Out With JD Vance",
+     "author": "The Onion and other satire w/ layers",
+     "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1069162/chinese-spy-running-out-of-excuses-not-to-hang-out-with-jd-vance",
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/2fa22a69-77f3-4e22-8a78-59535786af0b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Fucking armpits, how do they work?",
-     "author": "Lemmy Shitpost",
-     "url": "https://eviltoast.org/post/33397522",
-     "likes": 66,
-     "image": "https://lemmy.world/pictrs/image/b24e404d-93a1-42c0-9f29-88aaa4ede670.jpeg"
+     "text": "Beauty standards rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50426049",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/a3f4ecfc-18cc-42d1-b3fc-29a272c5584b.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Vivaldi CEO explains his anti-AI stance: most users don\u2019t want AI in the browser",
-     "author": "Technology",
-     "url": "https://lemmy.blahaj.zone/post/50424070",
-     "likes": 129,
-     "image": "https://lemmy.world/pictrs/image/15645899-f608-4c5f-9a60-28820c42f71b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mad Karma with Jim Cramer",
-     "author": "Antique Memes Roadshow",
-     "url": "https://piefed.social/c/antiquememesroadshow@lemmy.world/p/2596951/mad-karma-with-jim-cramer",
-     "likes": 78,
-     "image": "https://lemmy.world/pictrs/image/754ef8e9-295c-4ff4-ae48-b445a8bd2a8a.jpeg"
+     "text": "Ah, day's finally over!",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54338972",
+     "likes": 64,
+     "image": "https://lemmy.world/pictrs/image/a989abf6-98b4-4684-a0a1-478e2502267a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-12T23:41:29.306562+00:00",
+   "fetched_at": "2026-11-13T00:11:35.360884+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
     {
      "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why do pumpkins sit on people\u2019s porches?\r\n\r\nThey have no hands to knock on the door.",
+     "text": "I always wanted to look into why I procrastinate, but I keep putting it off. ",
      "source": "Dad joke"
     },
     {
-     "text": "Today, my son asked \"Can I have a book mark?\" and I burst into tears. 11 years old and he still doesn't know my name is Brian.",
+     "text": "What do you call a troublesome Canadian high schooler? A poutine.",
      "source": "Dad joke"
     },
     {
-     "text": "Thanks for explaining the word \"many\" to me. It means a lot.",
+     "text": "What's large, grey, and doesn't matter?\r\nAn irrelephant.\r\n",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
