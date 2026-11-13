@@ -1,33 +1,15 @@
 {
- "generated_at": "2026-11-13T02:12:03.317501+00:00",
+ "generated_at": "2026-11-13T02:42:09.828021+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T02:11:58.033153+00:00",
+   "fetched_at": "2026-11-13T02:42:04.815453+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuqve9/judging_by_the_current_exponential_rate_jensen/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/xrn8a2tgd91i1.png?width=640&crop=smart&auto=webp&s=a4fb748a6842a1dc7e933e6403710495acf27d43"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Microsoft Office seems to be down",
      "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
-     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -44,20 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
      "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/NGQyZjZnb28wNjFpMTlyQ4U0zO7GXsGeJljKULuKO1opfdFIlvERUwKxRpw5.png?width=320&crop=smart&auto=webp&s=bcef42885488b3597338bb568b5d7c5a6772918d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "NVIDIA Announces CEO Transition",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
     },
     {
      "source": "Reddit",
@@ -71,11 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Look at this breakfast the Hilton Hotel in San Antonio is charging $15.95 for. This is the platonic ideal of a \"free hotel breakfast\".",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xudx1i/look_at_this_breakfast_the_hilton_hotel_in_san/",
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/g8b9u3qxw61i1.jpeg?width=640&crop=smart&auto=webp&s=0a84bba3a61aaf0e78e5091b1765294654c9e0ce"
+     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
     },
     {
      "source": "Reddit",
@@ -85,60 +67,78 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Look at this breakfast the Hilton Hotel in San Antonio is charging $15.95 for. This is the platonic ideal of a \"free hotel breakfast\".",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xudx1i/look_at_this_breakfast_the_hilton_hotel_in_san/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/g8b9u3qxw61i1.jpeg?width=640&crop=smart&auto=webp&s=0a84bba3a61aaf0e78e5091b1765294654c9e0ce"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuqve9/judging_by_the_current_exponential_rate_jensen/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/xrn8a2tgd91i1.png?width=640&crop=smart&auto=webp&s=a4fb748a6842a1dc7e933e6403710495acf27d43"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T02:11:59.459082+00:00",
+   "fetched_at": "2026-11-13T02:42:06.076617+00:00",
    "stale": false,
    "items": [
     {
-     "title": "garbageCollectionIsNowRubbish",
-     "image": "https://i.redd.it/k1sq4fmluszh1.png",
-     "url": "https://redd.it/1xoj8ut",
-     "ups": 591,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 772,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
-     "image": "https://i.redd.it/0akjqy877ezh1.png",
-     "url": "https://redd.it/1xmrune",
-     "ups": 2319,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23608,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 95,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 52,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "twoSidesOfAI",
-     "image": "https://i.redd.it/8c90e9cda71i1.png",
-     "url": "https://redd.it/1xufsfm",
-     "ups": 8,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 395,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 526,
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1568,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 10670,
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 16,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "\"diversify your portfolio\" they say...",
-     "image": "https://i.redd.it/3wemmg9rt91i1.png",
-     "url": "https://redd.it/1xusyxf",
-     "ups": 10,
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2144,
      "sub": "r/memes"
     },
     {
@@ -156,37 +156,45 @@
      "sub": "r/memes"
     },
     {
-     "title": "Somebody had to do it",
-     "image": "https://i.redd.it/xm0lrew1k61i1.png",
-     "url": "https://redd.it/1xuc8ko",
-     "ups": 2144,
+     "title": "Just why dude",
+     "image": "https://i.redd.it/mjhaagjcw91i1.png",
+     "url": "https://redd.it/1xutac2",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
-     "title": "love is so dead...",
-     "image": "https://i.redd.it/mwd64rib941i1.png",
-     "url": "https://redd.it/1xu4c7u",
-     "ups": 2176,
+     "title": "Where, Who and What?",
+     "image": "https://i.redd.it/ip6klvet271i1.png",
+     "url": "https://redd.it/1xuep2v",
+     "ups": 1483,
      "sub": "r/memes"
     },
     {
-     "title": "Having an affair in the 90's was only the entry level. Ask your father.",
-     "image": "https://i.redd.it/1m1hr5n8e61i1.png",
-     "url": "https://redd.it/1xubl5t",
-     "ups": 43,
+     "title": "\"diversify your portfolio\" they say...",
+     "image": "https://i.redd.it/3wemmg9rt91i1.png",
+     "url": "https://redd.it/1xusyxf",
+     "ups": 10,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T02:12:01.870355+00:00",
+   "fetched_at": "2026-11-13T02:42:08.539451+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Calls for Schumer to step down",
+     "text": "Microsoft 365 outage reported",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jeffries lists Democratic priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -200,33 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft 365 outage reported",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Johnny Depp's Ebenezer reviews",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dc95c2a7574",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Films watched more than six times",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang resigns from Nvidia",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
@@ -240,17 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Sonic's \"Memories and Beyond\" animation released",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "OCASK prompt on notable features",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5710792a22ec",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bb7c6cce080",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Spain general strike over housing",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/80880444f998",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
@@ -279,11 +271,19 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Lutnick and Nvidia's China chips",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a466ffd4851e",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "TIL that AMD is led by Jensen Huang's cousin, Lisa Su.",
      "author": "Today I Learned",
      "url": "https://lemmy.zip/post/74922875",
-     "likes": 173,
+     "likes": 204,
      "image": "https://lemmy.zip/pictrs/image/ff115b65-c9fc-44c4-a38f-e6d385584fd3.avif"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Chinese Spy Running Out Of Excuses Not To Hang Out With JD Vance",
      "author": "The Onion and other satire w/ layers",
      "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1069162/chinese-spy-running-out-of-excuses-not-to-hang-out-with-jd-vance",
-     "likes": 127,
+     "likes": 143,
      "image": "https://lemmy.world/pictrs/image/2fa22a69-77f3-4e22-8a78-59535786af0b.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Beauty standards rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50426049",
-     "likes": 127,
+     "likes": 142,
      "image": "https://lemmy.world/pictrs/image/a3f4ecfc-18cc-42d1-b3fc-29a272c5584b.webp"
     },
     {
@@ -307,29 +307,25 @@
      "text": "Ah, day's finally over!",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/54338972",
-     "likes": 200,
+     "likes": 228,
      "image": "https://lemmy.world/pictrs/image/a989abf6-98b4-4684-a0a1-478e2502267a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T02:12:02.665207+00:00",
+   "fetched_at": "2026-11-13T02:42:09.201280+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "I don\u2019t play soccer because I enjoy the sport. I\u2019m just doing it for kicks.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "New atoms frequently lose electrons when they fail to keep an ion them.",
      "source": "Dad joke"
     },
     {
-     "text": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
+     "text": "I asked a frenchman if he played video games. He said \"Wii\"",
      "source": "Dad joke"
     },
     {
-     "text": "Just watched a documentary about beavers\u2026 It was the best damn program I\u2019ve ever seen.",
+     "text": "Why don't skeletons ride roller coasters? They don't have the stomach for it.",
      "source": "Dad joke"
     }
    ]
