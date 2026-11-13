@@ -1,15 +1,33 @@
 {
- "generated_at": "2026-11-13T06:13:03.065307+00:00",
+ "generated_at": "2026-11-13T06:43:08.707321+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T06:13:00.135673+00:00",
+   "fetched_at": "2026-11-13T06:43:05.163007+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Microsoft Office seems to be down",
      "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -26,20 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
-     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
+     "title": "A masterpiece of medieval engineering, crafted to protect every detail!",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xux7yj/a_masterpiece_of_medieval_engineering_crafted_to/",
      "score": 0,
      "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
+     "image": "https://external-preview.redd.it/amEwMTV4Nnl0YTFpMeTrDi43dkTqeLF446Rgv9_ErA1sErhDBkZBAKMkC1EJ.png?width=320&crop=smart&auto=webp&s=b3cbeda68834fecdb162fffc92257d3ec8506017"
     },
     {
      "source": "Reddit",
@@ -71,81 +80,79 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A masterpiece of medieval engineering, crafted to protect every detail!",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xux7yj/a_masterpiece_of_medieval_engineering_crafted_to/",
+     "title": "All That\u2019s Left of a 12 Year Marriage",
+     "url": "https://www.reddit.com/r/texts/comments/1xunp1x/all_thats_left_of_a_12_year_marriage/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/amEwMTV4Nnl0YTFpMeTrDi43dkTqeLF446Rgv9_ErA1sErhDBkZBAKMkC1EJ.png?width=320&crop=smart&auto=webp&s=b3cbeda68834fecdb162fffc92257d3ec8506017"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "NVIDIA Announces CEO Transition",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
+     "image": "https://preview.redd.it/fhyvjjktq81i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bef9b55996e3f3209b3b826fb35a9e2ba4e25fa"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T06:13:00.775747+00:00",
+   "fetched_at": "2026-11-13T06:43:05.767671+00:00",
    "stale": false,
    "items": [
     {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 2492,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 773,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1169,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 532,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "chancesAreLowButNeverZero",
      "image": "https://i.redd.it/230tjjlzxm0i1.png",
      "url": "https://redd.it/1xs0jz8",
-     "ups": 2075,
+     "ups": 2073,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1571,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 14,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "programmingLanguagesWhenYouAskThemToDoSomthing",
-     "image": "https://i.redd.it/j84tkm75xvzh1.png",
-     "url": "https://redd.it/1xoypp2",
-     "ups": 1616,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 96,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 161,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 10765,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The Crying Game",
-     "image": "https://i.redd.it/t4arzyhxm91i1.png",
-     "url": "https://redd.it/1xus38q",
-     "ups": 43,
+     "title": "Characters whose name everyone gets wrong: Annual meeting",
+     "image": "https://i.redd.it/gsfok1n4c71i1.png",
+     "url": "https://redd.it/1xug1qc",
+     "ups": 1675,
      "sub": "r/memes"
     },
     {
-     "title": "Sounds like someone wants detention",
-     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
-     "url": "https://redd.it/1xtx1id",
-     "ups": 2769,
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2396,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Does anyone else's computers just...",
+     "image": "https://i.redd.it/60yhv4hjk91i1.png",
+     "url": "https://redd.it/1xurta4",
+     "ups": 45,
      "sub": "r/memes"
     },
     {
@@ -156,30 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "3 is a lucky number",
-     "image": "https://i.redd.it/che4kcx0u91i1.png",
-     "url": "https://redd.it/1xut0xd",
-     "ups": 17,
+     "title": "The Crying Game",
+     "image": "https://i.redd.it/t4arzyhxm91i1.png",
+     "url": "https://redd.it/1xus38q",
+     "ups": 43,
      "sub": "r/memes"
     },
     {
-     "title": "Nothing. I do nothing.",
-     "image": "https://i.redd.it/tl2ercw8991i1.png",
-     "url": "https://redd.it/1xuqb2g",
-     "ups": 20,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Somebody had to do it",
-     "image": "https://i.redd.it/xm0lrew1k61i1.png",
-     "url": "https://redd.it/1xuc8ko",
-     "ups": 2396,
+     "title": "Where, Who and What?",
+     "image": "https://i.redd.it/ip6klvet271i1.png",
+     "url": "https://redd.it/1xuep2v",
+     "ups": 1700,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T06:13:02.292252+00:00",
+   "fetched_at": "2026-11-13T06:43:07.887214+00:00",
    "stale": false,
    "items": [
     {
@@ -208,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries lists Democratic priorities",
+     "text": "COP31 climate summit in Antalya",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Quotes that stuck with you",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Star Wars 50th anniversary re-release",
+     "text": "David Walliams faces misconduct allegations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/586f1a9346ed",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nintendo announces Black Friday deals",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4efd84db3303",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "BreakingKindSongs daily music prompts",
+     "text": "Leather jackets in tech",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/adddcb8c3a52",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
      "likes": 0,
      "image": ""
     },
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Arlington guard reprimands Hegseth's entourage",
+     "text": "Trump calls Democrats corrupt and evil",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba552802f17",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/86e85d137a36",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I love dads!",
-     "author": "NiceMemes",
-     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1063602/i-love-dads",
-     "likes": 53,
-     "image": "https://lemmy.world/pictrs/image/d58ad3c4-4605-4329-8ead-1e7ce0aaddc5.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Do you get this?",
      "author": "Autism",
      "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1063556/do-you-get-this",
-     "likes": 8,
+     "likes": 41,
      "image": "https://lemmy.world/pictrs/image/0b557e2b-abfa-4372-ad48-f2d4e576716d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "How long does it take you to get going?",
-     "author": "MentalHealth",
-     "url": "https://piefed.blahaj.zone/c/mentalhealth@piefed.blahaj.zone/p/1063515/how-long-does-it-take-you-to-get-going",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/f76e87be-1b57-406a-b483-72ec6d59686b.jpeg"
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1063537/me-irl",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/20433148-10c6-4447-8ef8-d7c05701a794.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "I'm ollllddd",
-     "author": "General Memes & Private Chuckle",
-     "url": "https://piefed.blahaj.zone/c/Memes@lemmy.dbzer0.com/p/1063638/i-m-ollllddd",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/56a4fdf6-0b13-43e3-a999-cc4bb2ad046c.jpeg"
+     "text": "I love dads!",
+     "author": "NiceMemes",
+     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1063602/i-love-dads",
+     "likes": 86,
+     "image": "https://lemmy.world/pictrs/image/d58ad3c4-4605-4329-8ead-1e7ce0aaddc5.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Icj\ud83e\udde5iel",
+     "author": "ich_iel",
+     "url": "https://sopuli.xyz/post/54531864",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/855b6eb9-7b70-4960-a0e8-8b2ec0d9500d.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T06:13:02.657682+00:00",
+   "fetched_at": "2026-11-13T06:43:08.346948+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+     "text": "What time did the man go to the dentist? Tooth hurt-y.",
      "source": "Dad joke"
     },
     {
-     "text": "Wife: Honey I\u2019m pregnant.\r\n\r\nMe: Well\u2026. what do we do now?\r\n\r\nWife: Well, I guess we should go to a baby doctor.\r\n\r\nMe: Hm.. I think I\u2019d be a lot more comfortable going to an adult doctor.",
+     "text": "Milk is also the fastest liquid on earth \u2013 its pasteurized before you even see it",
      "source": "Dad joke"
     },
     {
-     "text": "What was the pumpkin\u2019s favorite sport?\r\n\r\nSquash.",
+     "text": "Why do crabs never give to charity? Because they\u2019re shellfish.",
      "source": "Dad joke"
     }
    ]
