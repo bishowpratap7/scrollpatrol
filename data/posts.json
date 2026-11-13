@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-13T20:47:36.312292+00:00",
+ "generated_at": "2026-11-13T21:17:42.919279+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T20:47:32.304786+00:00",
+   "fetched_at": "2026-11-13T21:17:37.825142+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Who needs GTA when we have this",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvdzgd/who_needs_gta_when_we_have_this/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/bGZoczhiMnl6ZTFpMSaOcKO_OrHntUmXvLhAlsmBXVMI-gSGhT858NKUVxW1.png?width=640&crop=smart&auto=webp&s=386b5cc55f8bce8ff28272075e999ec617f93c61"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -26,11 +17,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "(OC)- me in 2025 versus me now in 2026. I\u2019m proud of myself for the progress I\u2019ve made in life.",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvhv9g/oc_me_in_2025_versus_me_now_in_2026_im_proud_of/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jsc302ilpf1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=628cf026f6a51b682be359968b4c26cf8aaa9592"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "\u201cYou will own nothing\u201d",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xvae2z/you_will_own_nothing/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/6botghxrbe1i1.jpeg?width=640&crop=smart&auto=webp&s=8925603cde41c6e3e171fe68fc9a92c86d9e3ea5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Who needs GTA when we have this",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xvdzgd/who_needs_gta_when_we_have_this/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bGZoczhiMnl6ZTFpMSaOcKO_OrHntUmXvLhAlsmBXVMI-gSGhT858NKUVxW1.png?width=640&crop=smart&auto=webp&s=386b5cc55f8bce8ff28272075e999ec617f93c61"
     },
     {
      "source": "Reddit",
@@ -62,15 +71,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Is this a widespread problem? And where?",
-     "url": "https://www.reddit.com/r/interesting/comments/1xv7sgq/is_this_a_widespread_problem_and_where/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/05zkpifmsd1i1.jpeg?width=640&crop=smart&auto=webp&s=0649d87bab548366ba4e9a5bf4e63411195cd083"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "This elderly man taking care of his elderly dog",
      "url": "https://www.reddit.com/r/interestingasfuck/comments/1xvc1bt/this_elderly_man_taking_care_of_his_elderly_dog/",
      "score": 0,
@@ -80,32 +80,18 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "(OC)- me in 2025 versus me now in 2026. I\u2019m proud of myself for the progress I\u2019ve made in life.",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvhv9g/oc_me_in_2025_versus_me_now_in_2026_im_proud_of/",
+     "title": "Has it really been that long...",
+     "url": "https://www.reddit.com/r/gaming/comments/1xvg21o/has_it_really_been_that_long/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/jsc302ilpf1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=628cf026f6a51b682be359968b4c26cf8aaa9592"
+     "image": "https://external-preview.redd.it/7Iu3JcYTVKFA948Cgpxor0QajQuwhUWtHZjv6203KG4.png?width=640&crop=smart&auto=webp&s=3a89e0cb561b051ba171bf843cfa43d5f600ead1"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T20:47:33.142734+00:00",
+   "fetched_at": "2026-11-13T21:17:39.492495+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "thisTimeItsAlpine",
-     "image": "https://i.redd.it/6r51mbqsetzh1.png",
-     "url": "https://redd.it/1xom14p",
-     "ups": 6732,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "codeReviewIn2026",
      "image": "https://i.redd.it/s1c5fp18dy0i1.png",
@@ -114,74 +100,96 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "frontendAndBackend",
-     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
-     "url": "https://redd.it/1xojfbi",
-     "ups": 1568,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 541,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "outlookNotSoGood",
-     "image": "https://i.redd.it/bl3df5io291i1.png",
-     "url": "https://redd.it/1xupe36",
-     "ups": 838,
+     "title": "iDontGetHowThisIsDifficult",
+     "image": "https://i.redd.it/ek06257kbzzh1.png",
+     "url": "https://redd.it/1xpapxq",
+     "ups": 399,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 2637,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 52,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Characters whose name everyone gets wrong: Annual meeting",
-     "image": "https://i.redd.it/gsfok1n4c71i1.png",
-     "url": "https://redd.it/1xug1qc",
-     "ups": 2403,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 398,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 97,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "They must be fuming",
+     "image": "https://i.redd.it/t0kz2njo0c1i1.gif",
+     "url": "https://redd.it/1xv1iyk",
+     "ups": 82,
      "sub": "r/memes"
     },
     {
-     "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
-     "image": "https://i.redd.it/ys3te4flk81i1.png",
-     "url": "https://redd.it/1xumu5h",
-     "ups": 476,
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2751,
      "sub": "r/memes"
     },
     {
-     "title": "I swear, I was trying to help!",
-     "image": "https://i.redd.it/m1nx1up89b1i1.png",
-     "url": "https://redd.it/1xuyuge",
-     "ups": 143,
+     "title": "Found the culprit...",
+     "image": "https://i.redd.it/nbiutdm8nd1i1.png",
+     "url": "https://redd.it/1xv752p",
+     "ups": 59,
      "sub": "r/memes"
     },
     {
-     "title": "Let's respect his request",
-     "image": "https://i.redd.it/bebibo2yjf1i1.png",
-     "url": "https://redd.it/1xvh0uh",
-     "ups": 5,
+     "title": "The kids online are crying losing their unfunny overused joke.",
+     "image": "https://i.redd.it/xok32bs6bf1i1.png",
+     "url": "https://redd.it/1xvfoy9",
+     "ups": 359,
      "sub": "r/memes"
     },
     {
-     "title": "Peace of Mind",
-     "image": "https://i.redd.it/9rsuriwv9c1i1.gif",
-     "url": "https://redd.it/1xv2ct7",
-     "ups": 72,
+     "title": "Might be true \ud83e\udd27",
+     "image": "https://i.redd.it/midr38zv4d1i1.png",
+     "url": "https://redd.it/1xv55c5",
+     "ups": 252,
      "sub": "r/memes"
     },
     {
-     "title": "The Great Out(look)age of 2026",
-     "image": "https://i.redd.it/nrbxiudeob1i1.png",
-     "url": "https://redd.it/1xv0e0w",
-     "ups": 152,
+     "title": "pretty giddy",
+     "image": "https://i.redd.it/0imb5hl2id1i1.gif",
+     "url": "https://redd.it/1xv6k89",
+     "ups": 10,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T20:47:35.161366+00:00",
+   "fetched_at": "2026-11-13T21:17:41.644403+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "FAA orders nationwide ground stop",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Tanker hits cruise ship in New Orleans",
@@ -200,9 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boebert's Colorado House race called",
+     "text": "Trump's Nvidia stock trades",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/383bbf3610f1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jeffries lists Democratic priorities",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -224,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senator seeks majority leader post",
+     "text": "Coachella lineup age meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/929a5b665f23",
      "likes": 0,
      "image": ""
     },
@@ -240,125 +256,109 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Coachella lineup age meme",
+     "text": "Logan Circle shooting suspect dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/929a5b665f23",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cdcdc5cc06d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
+     "text": "Boebert's Colorado House race called",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/383bbf3610f1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Quotes that stuck with you",
+     "text": "Senator seeks majority leader post",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jeffries lists Democratic priorities",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Lutnick faces Nvidia scrutiny over Megaspeed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9d8b84f5d35",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Pro tip",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54372937",
-     "likes": 100,
-     "image": "https://lemmy.world/pictrs/image/d4e804a3-3de7-4fab-b888-b80f68e1338e.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "I heard it's been 24 hours already",
      "author": "memes",
      "url": "https://poptalk.scrubbles.tech/post/5067695",
-     "likes": 35,
+     "likes": 99,
      "image": "https://lemmy.world/pictrs/image/d9f5a24a-0d51-473a-b642-953f627449f2.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "St. Patrick\u2019s Day parade canceled in Florida thanks to state\u2019s anti-DEI law",
-     "author": "Not The Onion",
-     "url": "https://lemmy.world/post/54372968",
-     "likes": 60,
-     "image": "https://lemmy.world/pictrs/image/28ca277d-6a4e-4369-a920-b5de54105b7b.jpeg"
+     "text": "Did the cat pretend they didn't know him?",
+     "author": "People Twitter",
+     "url": "https://sh.itjust.works/post/69882808",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/0cf37ecc-174e-4e84-b790-e9d05152d580.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Wholesome Bob",
-     "author": "Wholesome",
-     "url": "https://lemmy.world/post/54373100",
-     "likes": 56,
-     "image": "https://lemmy.world/pictrs/image/af4305c8-2cf7-4b55-b395-2a11cddfd063.jpeg"
+     "text": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+     "author": "Technology",
+     "url": "https://lemmy.vg/post/9068633",
+     "likes": 49,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "These F-ing Logins Nowadays",
+     "author": "Programmer Humor",
+     "url": "https://lemmy.today/post/63260141",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/f1d48cdd-1baf-4e00-97d6-381f91aefda9.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T20:47:35.667175+00:00",
+   "fetched_at": "2026-11-13T21:17:42.282189+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Breaking news! Energizer Bunny arrested \u2013 charged with battery.",
+     "text": "Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the barber win the race? He took a short cut.",
+     "text": "What do you call a magician who has lost their magic? Ian.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear about the two thieves who stole a calendar? They each got six months.",
+     "text": "I\u2019ll tell you something about German sausages, they\u2019re the wurst",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
