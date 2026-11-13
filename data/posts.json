@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T04:42:48.127612+00:00",
+ "generated_at": "2026-11-13T05:12:53.550904+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T04:42:44.996553+00:00",
+   "fetched_at": "2026-11-13T05:12:49.523799+00:00",
    "stale": false,
    "items": [
     {
@@ -17,8 +17,17 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Microsoft Office seems to be down",
-     "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
+     "title": "Chris Van Hollen Is Challenging Chuck Schumer for Democratic Leader",
+     "url": "https://www.reddit.com/r/politics/comments/1xuvirm/chris_van_hollen_is_challenging_chuck_schumer_for/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/dWPlgJSAUJoKxvFEkqYRbi_YBuLwXgC7rNNR0_ANGsg.jpeg?width=640&crop=smart&auto=webp&s=848d94a2c2f62fa27d0e4ca0099324e6b53f57be"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -26,8 +35,8 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Why is Trump\u2019s Ballroom bigger than the White House?",
-     "url": "https://www.reddit.com/r/askanything/comments/1xui7mp/why_is_trumps_ballroom_bigger_than_the_white_house/",
+     "title": "Microsoft Office seems to be down",
+     "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -71,41 +80,18 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Chris Van Hollen Is Challenging Chuck Schumer for Democratic Leader",
-     "url": "https://www.reddit.com/r/politics/comments/1xuvirm/chris_van_hollen_is_challenging_chuck_schumer_for/",
+     "title": "Look at this breakfast the Hilton Hotel in San Antonio is charging $15.95 for. This is the platonic ideal of a \"free hotel breakfast\".",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xudx1i/look_at_this_breakfast_the_hilton_hotel_in_san/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/dWPlgJSAUJoKxvFEkqYRbi_YBuLwXgC7rNNR0_ANGsg.jpeg?width=640&crop=smart&auto=webp&s=848d94a2c2f62fa27d0e4ca0099324e6b53f57be"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Senator Chris Van Hollen Announces He Is Running For Senate Majority Leader",
-     "url": "https://www.reddit.com/r/Fauxmoi/comments/1xuvmmx/senator_chris_van_hollen_announces_he_is_running/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/1hezwhg4ga1i1.jpeg?width=640&crop=smart&auto=webp&s=7720526f9e8aa2d22fee0b902b45cec6d38159a6"
+     "image": "https://preview.redd.it/g8b9u3qxw61i1.jpeg?width=640&crop=smart&auto=webp&s=0a84bba3a61aaf0e78e5091b1765294654c9e0ce"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T04:42:45.636263+00:00",
+   "fetched_at": "2026-11-13T05:12:50.167995+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1169,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 12861,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "frontendAndBackend",
      "image": "https://i.redd.it/4ggbp0gxvszh1.png",
@@ -114,38 +100,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2075,
+     "title": "everyNetworkAPIOnThePlanetToday",
+     "image": "https://i.redd.it/k0ofbdhtqszh1.gif",
+     "url": "https://redd.it/1xoir0t",
+     "ups": 1376,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 10733,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 398,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iLoveConst",
-     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
-     "url": "https://redd.it/1xpd5m4",
-     "ups": 0,
+     "title": "promptEngineeringIsMyArchitecture",
+     "image": "https://i.redd.it/0kl3jadyotzh1.png",
+     "url": "https://redd.it/1xonk0a",
+     "ups": 716,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "\"diversify your portfolio\" they say...",
-     "image": "https://i.redd.it/3wemmg9rt91i1.png",
-     "url": "https://redd.it/1xusyxf",
-     "ups": 12,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 566,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 573,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Just why dude",
+     "image": "https://i.redd.it/mjhaagjcw91i1.png",
+     "url": "https://redd.it/1xutac2",
+     "ups": 9,
      "sub": "r/memes"
     },
     {
-     "title": "The Crying Game",
-     "image": "https://i.redd.it/t4arzyhxm91i1.png",
-     "url": "https://redd.it/1xus38q",
-     "ups": 36,
+     "title": "POV: you are jensen after a long day at NVIDIA",
+     "image": "https://i.redd.it/ikleqytrq21i1.png",
+     "url": "https://redd.it/1xty5x7",
+     "ups": 6308,
+     "sub": "r/memes"
+    },
+    {
+     "title": "3 is a lucky number",
+     "image": "https://i.redd.it/che4kcx0u91i1.png",
+     "url": "https://redd.it/1xut0xd",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
@@ -156,30 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "A necessary inconvenience \ud83d\ude15",
-     "image": "https://i.redd.it/fdl760zuf81i1.png",
-     "url": "https://redd.it/1xum2mf",
-     "ups": 1995,
+     "title": "Sounds like someone wants detention",
+     "image": "https://i.redd.it/hmemw5jzh21i1.gif",
+     "url": "https://redd.it/1xtx1id",
+     "ups": 2737,
      "sub": "r/memes"
     },
     {
-     "title": "Somebody had to do it",
-     "image": "https://i.redd.it/xm0lrew1k61i1.png",
-     "url": "https://redd.it/1xuc8ko",
-     "ups": 2301,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Nothing. I do nothing.",
-     "image": "https://i.redd.it/tl2ercw8991i1.png",
-     "url": "https://redd.it/1xuqb2g",
-     "ups": 19,
+     "title": "Thank you dear.",
+     "image": "https://i.redd.it/lr3id5pp151i1.png",
+     "url": "https://redd.it/1xu70rn",
+     "ups": 10471,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T04:42:47.201426+00:00",
+   "fetched_at": "2026-11-13T05:12:52.833960+00:00",
    "stale": false,
    "items": [
     {
@@ -195,14 +195,6 @@
      "text": "Senator seeks majority leader post",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Chris Van Hollen on MSNBC",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d54bd5ff5f2",
      "likes": 0,
      "image": ""
     },
@@ -224,57 +216,65 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Johnny Depp's Ebenezer reviews",
+     "text": "Jeffries lists Democratic priorities",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dc95c2a7574",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Quotes that stuck with you",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
+     "text": "Building collapse reported in Brooklyn",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Books to take the oath on",
+     "text": "Dan Hicks dies at 64",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1983ecd53f2a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Logan Circle shooting suspect's condo dispute",
+     "text": "Russell Brand sexual assault trial",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cdcdc5cc06d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth impeachment vote",
+     "text": "Anthropic releases Claude Fable 5.2",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4e04c2fc542f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ayanna Pressley for Speaker",
+     "text": "Congress debates ICE overhaul",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/80fe27b00494",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Close midterm races being counted",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
      "likes": 0,
      "image": ""
     },
@@ -283,82 +283,82 @@
      "text": "There's nothing I don't tell the love of my life!",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54345755",
-     "likes": 28,
+     "likes": 56,
      "image": "https://lemmy.world/pictrs/image/409def30-ffb6-4461-a707-7a6005cd3129.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "God damnit",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54344588",
-     "likes": 174,
-     "image": "https://lemmy.world/pictrs/image/4c56ec51-64d9-4fc3-895a-106c1db1e093.jpeg"
+     "text": "Customer busted for using AI image of burnt pizza to scam restaurant",
+     "author": "Not The Onion",
+     "url": "https://piefed.social/c/nottheonion@lemmy.world/p/2597638/customer-busted-for-using-ai-image-of-burnt-pizza-to-scam-restaurant",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/a26f8a5a-c273-47e6-bdb1-b5279cb9f4a4.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Stabby stabby",
-     "author": "Microblog Memes",
-     "url": "https://k.fe.derate.me/m/microblogmemes@lemmy.world/t/924628",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/df7503f4-e540-4641-9fde-282373c93990.png"
+     "text": "doing an inspection",
+     "author": "cats",
+     "url": "https://lemmy.blahaj.zone/post/50433211",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/d9874efd-3478-476f-8f65-528dc8ecabb1.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "New break in the Microsoft outage mystery. CCTV footage from inside outlook datacentre",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54344995",
-     "likes": 58,
-     "image": "https://lemmy.world/pictrs/image/be799094-f2e9-4aa1-af5d-c016364ef15d.png"
+     "text": "Chris Van Hollen launches challenge against Chuck Schumer to lead Senate Democrats",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54345743",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/39392de4-9a81-47c7-aba5-3ebc18c8e68f.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T04:42:47.677858+00:00",
+   "fetched_at": "2026-11-13T05:12:53.225954+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
+     "text": "Why did the house go to the doctor? It was having window panes.",
      "source": "Dad joke"
     },
     {
-     "text": "A Skeleton walked into a bar he said I need a beer and a mop",
+     "text": "Two parrots are sitting on a perch. One turns to the other and asks, \"do you smell fish?\"",
      "source": "Dad joke"
     },
     {
-     "text": "Why do mathematicians hate the U.S.? Because it's indivisible.",
+     "text": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
