@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T01:41:56.232373+00:00",
+ "generated_at": "2026-11-13T02:12:03.317501+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T01:41:50.836282+00:00",
+   "fetched_at": "2026-11-13T02:11:58.033153+00:00",
    "stale": false,
    "items": [
     {
@@ -53,15 +53,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "I feel seen\u2026",
-     "url": "https://www.reddit.com/r/Millennials/comments/1xupt3q/i_feel_seen/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/rssa2lzr591i1.jpeg?width=640&crop=smart&auto=webp&s=6d1866700ac5a4952f29b4b88ae6ee670e0ffd10"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "NVIDIA Announces CEO Transition",
      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
      "score": 0,
@@ -80,137 +71,130 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "I bet tigers would feel so dumb if they knew they were orange to us",
-     "url": "https://www.reddit.com/r/BrandNewSentence/comments/1xuprwp/i_bet_tigers_would_feel_so_dumb_if_they_knew_they/",
+     "title": "Look at this breakfast the Hilton Hotel in San Antonio is charging $15.95 for. This is the platonic ideal of a \"free hotel breakfast\".",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xudx1i/look_at_this_breakfast_the_hilton_hotel_in_san/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/bss7pzoj591i1.jpeg?width=640&crop=smart&auto=webp&s=a7d54d8b80eaa9b02602948f812ce90392754830"
+     "image": "https://preview.redd.it/g8b9u3qxw61i1.jpeg?width=640&crop=smart&auto=webp&s=0a84bba3a61aaf0e78e5091b1765294654c9e0ce"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor's race",
+     "url": "https://www.reddit.com/r/news/comments/1xus677/democrat_cindy_holscher_defeats_republican_ty/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T01:41:52.319901+00:00",
+   "fetched_at": "2026-11-13T02:11:59.459082+00:00",
    "stale": false,
    "items": [
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 12715,
+     "title": "garbageCollectionIsNowRubbish",
+     "image": "https://i.redd.it/k1sq4fmluszh1.png",
+     "url": "https://redd.it/1xoj8ut",
+     "ups": 591,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4267,
+     "title": "seeSamAltmanImUsingMoreThan5PercentOfMyRAM",
+     "image": "https://i.redd.it/0akjqy877ezh1.png",
+     "url": "https://redd.it/1xmrune",
+     "ups": 2319,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "gettingPromotedFromProgrammerToClaudeDelegator",
-     "image": "https://i.redd.it/tx20kggzj9zh1.png",
-     "url": "https://redd.it/1xm9d3b",
-     "ups": 1294,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 95,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2068,
+     "title": "twoSidesOfAI",
+     "image": "https://i.redd.it/8c90e9cda71i1.png",
+     "url": "https://redd.it/1xufsfm",
+     "ups": 8,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 55,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 526,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1937,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 10670,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "A necessary inconvenience \ud83d\ude15",
-     "image": "https://i.redd.it/fdl760zuf81i1.png",
-     "url": "https://redd.it/1xum2mf",
-     "ups": 915,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Somebody had to do it",
-     "image": "https://i.redd.it/xm0lrew1k61i1.png",
-     "url": "https://redd.it/1xuc8ko",
-     "ups": 2009,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Always has been",
-     "image": "https://i.redd.it/9g67t7m8t41i1.png",
-     "url": "https://redd.it/1xu69hk",
-     "ups": 53,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Honestly, they had it coming...",
-     "image": "https://i.redd.it/g6u9y3pfyw0i1.png",
-     "url": "https://redd.it/1xt8s1h",
-     "ups": 27679,
+     "title": "\"diversify your portfolio\" they say...",
+     "image": "https://i.redd.it/3wemmg9rt91i1.png",
+     "url": "https://redd.it/1xusyxf",
+     "ups": 10,
      "sub": "r/memes"
     },
     {
      "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
      "image": "https://i.redd.it/ys3te4flk81i1.png",
      "url": "https://redd.it/1xumu5h",
-     "ups": 33,
+     "ups": 65,
      "sub": "r/memes"
     },
     {
-     "title": "Hiding in the shadows. Hiding from who you truly are!",
-     "image": "https://i.redd.it/eo0lvlofj71i1.png",
-     "url": "https://redd.it/1xuh53w",
-     "ups": 23,
+     "title": "Does anyone else's computers just...",
+     "image": "https://i.redd.it/60yhv4hjk91i1.png",
+     "url": "https://redd.it/1xurta4",
+     "ups": 29,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2144,
+     "sub": "r/memes"
+    },
+    {
+     "title": "love is so dead...",
+     "image": "https://i.redd.it/mwd64rib941i1.png",
+     "url": "https://redd.it/1xu4c7u",
+     "ups": 2176,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Having an affair in the 90's was only the entry level. Ask your father.",
+     "image": "https://i.redd.it/1m1hr5n8e61i1.png",
+     "url": "https://redd.it/1xubl5t",
+     "ups": 43,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T01:41:54.803013+00:00",
+   "fetched_at": "2026-11-13T02:12:01.870355+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Calls for Schumer to step down",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Talarico urges working with Trump",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/52ff8e3bc7a6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Lutnick and Nvidia's China chips",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a466ffd4851e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft 365 outage reported",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +208,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Microsoft 365 outage reported",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Johnny Depp's Ebenezer reviews",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dc95c2a7574",
@@ -232,33 +224,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Wolfenstein 3 enters production",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d314493f7344",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SS United States is sunk",
+     "text": "Star Wars 50th anniversary re-release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0c7093e783eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/586f1a9346ed",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Philadelphia region tornado watch",
+     "text": "OCASK prompt on notable features",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8a8fc5ebe0b7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5710792a22ec",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Building collapse reported in Brooklyn",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth impeachment vote",
+     "text": "House veterans bill vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4895c678138",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "TIL that AMD is led by Jensen Huang's cousin, Lisa Su.",
      "author": "Today I Learned",
      "url": "https://lemmy.zip/post/74922875",
-     "likes": 135,
+     "likes": 173,
      "image": "https://lemmy.zip/pictrs/image/ff115b65-c9fc-44c4-a38f-e6d385584fd3.avif"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Chinese Spy Running Out Of Excuses Not To Hang Out With JD Vance",
      "author": "The Onion and other satire w/ layers",
      "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1069162/chinese-spy-running-out-of-excuses-not-to-hang-out-with-jd-vance",
-     "likes": 103,
+     "likes": 127,
      "image": "https://lemmy.world/pictrs/image/2fa22a69-77f3-4e22-8a78-59535786af0b.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Beauty standards rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50426049",
-     "likes": 106,
+     "likes": 127,
      "image": "https://lemmy.world/pictrs/image/a3f4ecfc-18cc-42d1-b3fc-29a272c5584b.webp"
     },
     {
@@ -307,58 +307,58 @@
      "text": "Ah, day's finally over!",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/54338972",
-     "likes": 168,
+     "likes": 200,
      "image": "https://lemmy.world/pictrs/image/a989abf6-98b4-4684-a0a1-478e2502267a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T01:41:55.345633+00:00",
+   "fetched_at": "2026-11-13T02:12:02.665207+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
     {
      "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I think circles are pointless.",
+     "text": "I don\u2019t play soccer because I enjoy the sport. I\u2019m just doing it for kicks.",
      "source": "Dad joke"
     },
     {
-     "text": "Want to hear a joke about construction? Nah, I'm still working on it.",
+     "text": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
      "source": "Dad joke"
     },
     {
-     "text": "What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.",
+     "text": "Just watched a documentary about beavers\u2026 It was the best damn program I\u2019ve ever seen.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
