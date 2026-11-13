@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T18:46:06.643643+00:00",
+ "generated_at": "2026-11-13T18:46:20.304582+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T18:46:01.914018+00:00",
+   "fetched_at": "2026-11-13T18:46:16.381653+00:00",
    "stale": false,
    "items": [
     {
@@ -89,14 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T18:46:03.298325+00:00",
+   "fetched_at": "2026-11-13T18:46:17.137907+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3451,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23688,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "unhappyCrustaceans",
+     "image": "https://i.redd.it/dgj598hkm20i1.png",
+     "url": "https://redd.it/1xpqmpe",
+     "ups": 179,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2096,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "meetPotentialLanguage",
+     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
+     "url": "https://redd.it/1xrwkc1",
+     "ups": 126,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "outlookNotSoGood",
+     "image": "https://i.redd.it/bl3df5io291i1.png",
+     "url": "https://redd.it/1xupe36",
+     "ups": 823,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,38 +135,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7692,
-     "sub": "r/ProgrammerHumor"
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 35371,
+     "sub": "r/memes"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 219,
-     "sub": "r/ProgrammerHumor"
+     "title": "Just why dude",
+     "image": "https://i.redd.it/mjhaagjcw91i1.png",
+     "url": "https://redd.it/1xutac2",
+     "ups": 200,
+     "sub": "r/memes"
     },
     {
-     "title": "friedThatBum",
-     "image": "https://i.redd.it/t54hs6rk550i1.png",
-     "url": "https://redd.it/1xq0d1a",
-     "ups": 162,
-     "sub": "r/ProgrammerHumor"
+     "title": "Found the culprit...",
+     "image": "https://i.redd.it/nbiutdm8nd1i1.png",
+     "url": "https://redd.it/1xv752p",
+     "ups": 54,
+     "sub": "r/memes"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Might be true \ud83e\udd27",
-     "image": "https://i.redd.it/midr38zv4d1i1.png",
-     "url": "https://redd.it/1xv55c5",
-     "ups": 229,
+     "title": "pretty giddy",
+     "image": "https://i.redd.it/0imb5hl2id1i1.gif",
+     "url": "https://redd.it/1xv6k89",
+     "ups": 13,
      "sub": "r/memes"
     },
     {
@@ -149,37 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Peace of Mind",
-     "image": "https://i.redd.it/9rsuriwv9c1i1.gif",
-     "url": "https://redd.it/1xv2ct7",
-     "ups": 69,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I swear, I was trying to help!",
-     "image": "https://i.redd.it/m1nx1up89b1i1.png",
-     "url": "https://redd.it/1xuyuge",
-     "ups": 130,
-     "sub": "r/memes"
-    },
-    {
-     "title": "They must be fuming",
-     "image": "https://i.redd.it/t0kz2njo0c1i1.gif",
-     "url": "https://redd.it/1xv1iyk",
-     "ups": 75,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Where, Who and What?",
-     "image": "https://i.redd.it/ip6klvet271i1.png",
-     "url": "https://redd.it/1xuep2v",
-     "ups": 1958,
+     "title": "Everyone knows schrodinger's cat, but do you know schrodinger's charging cable",
+     "image": "https://i.redd.it/ys3te4flk81i1.png",
+     "url": "https://redd.it/1xumu5h",
+     "ups": 457,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T18:46:04.996579+00:00",
+   "fetched_at": "2026-11-13T18:46:19.160614+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Control-Z",
      "author": "Programmer Humor",
      "url": "https://lemmy.world/post/54368968",
-     "likes": 95,
+     "likes": 96,
      "image": "https://lemmy.world/pictrs/image/e055c3a7-2446-4029-9a95-37dd5c631d2a.jpeg"
     },
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T18:46:05.929450+00:00",
+   "fetched_at": "2026-11-13T18:46:19.642726+00:00",
    "stale": false,
    "items": [
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A bartender broke up with her boyfriend, but he kept asking her for another shot.",
+     "text": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
      "source": "Dad joke"
     },
     {
-     "text": "How many tickles does it take to tickle an octopus? Ten-tickles!",
+     "text": "Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.",
      "source": "Dad joke"
     },
     {
-     "text": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.",
+     "text": "I had a dream that I was a muffler last night. I woke up exhausted!",
      "source": "Dad joke"
     }
    ]
