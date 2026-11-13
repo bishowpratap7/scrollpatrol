@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T23:48:14.595486+00:00",
+ "generated_at": "2026-11-13T23:48:30.868434+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T23:48:09.966304+00:00",
+   "fetched_at": "2026-11-13T23:48:25.582068+00:00",
    "stale": false,
    "items": [
     {
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T23:48:10.770258+00:00",
+   "fetched_at": "2026-11-13T23:48:27.176108+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "whenYourLaptopBecomesAHandDryer",
+     "image": "https://i.redd.it/ki5ld4n6h30i1.png",
+     "url": "https://redd.it/1xpub0e",
+     "ups": 17,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2777,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 202,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "codexUseSudo",
      "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
@@ -100,31 +121,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 231,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 1869,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1960,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11037,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 256,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,24 +135,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Let's respect his request",
-     "image": "https://i.redd.it/bebibo2yjf1i1.png",
-     "url": "https://redd.it/1xvh0uh",
-     "ups": 66,
+     "title": "The kids online are crying losing their unfunny overused joke.",
+     "image": "https://i.redd.it/xok32bs6bf1i1.png",
+     "url": "https://redd.it/1xvfoy9",
+     "ups": 1966,
      "sub": "r/memes"
     },
     {
-     "title": "Somebody had to do it",
-     "image": "https://i.redd.it/xm0lrew1k61i1.png",
-     "url": "https://redd.it/1xuc8ko",
-     "ups": 2781,
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 45610,
      "sub": "r/memes"
     },
     {
-     "title": "you pay 100$ to throw dog poop at people, while im here doing it for free",
-     "image": "https://i.redd.it/uuvq2b0raf1i1.png",
-     "url": "https://redd.it/1xvfnk6",
-     "ups": 21,
+     "title": "What's next?",
+     "image": "https://i.redd.it/9a0qbxyzng1i1.png",
+     "url": "https://redd.it/1xvmlx5",
+     "ups": 13,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I swear, I was trying to help!",
+     "image": "https://i.redd.it/m1nx1up89b1i1.png",
+     "url": "https://redd.it/1xuyuge",
+     "ups": 173,
      "sub": "r/memes"
     },
     {
@@ -163,23 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Characters whose name everyone gets wrong: Annual meeting",
-     "image": "https://i.redd.it/gsfok1n4c71i1.png",
-     "url": "https://redd.it/1xug1qc",
-     "ups": 2537,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I swear, I was trying to help!",
-     "image": "https://i.redd.it/m1nx1up89b1i1.png",
-     "url": "https://redd.it/1xuyuge",
-     "ups": 173,
+     "title": "Let's respect his request",
+     "image": "https://i.redd.it/bebibo2yjf1i1.png",
+     "url": "https://redd.it/1xvh0uh",
+     "ups": 66,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T23:48:13.588470+00:00",
+   "fetched_at": "2026-11-13T23:48:29.464723+00:00",
    "stale": false,
    "items": [
     {
@@ -313,23 +313,23 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T23:48:14.126798+00:00",
+   "fetched_at": "2026-11-13T23:48:30.111400+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
+     "text": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
      "source": "Dad joke"
     },
     {
-     "text": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
+     "text": "I just broke my guitar. It's okay, I won't fret",
      "source": "Dad joke"
     },
     {
-     "text": "What is red and smells like blue paint?\r\nRed paint!",
+     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
      "source": "Dad joke"
     }
    ]
