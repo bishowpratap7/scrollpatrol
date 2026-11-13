@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-13T04:12:43.556861+00:00",
+ "generated_at": "2026-11-13T04:42:48.127612+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T04:12:39.660972+00:00",
+   "fetched_at": "2026-11-13T04:42:44.996553+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Microsoft Office seems to be down",
-     "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
+     "title": "Microsoft Office seems to be down",
+     "url": "https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft_office_seems_to_be_down/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -35,20 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
      "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/NGQyZjZnb28wNjFpMTlyQ4U0zO7GXsGeJljKULuKO1opfdFIlvERUwKxRpw5.png?width=320&crop=smart&auto=webp&s=bcef42885488b3597338bb568b5d7c5a6772918d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/wgg4019hja1i1.jpeg?width=640&crop=smart&auto=webp&s=5f4da339dd806f5a52f3c5fedcaf783dfa8a5ca1"
     },
     {
      "source": "Reddit",
@@ -62,6 +62,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Chris Van Hollen Is Challenging Chuck Schumer for Democratic Leader",
      "url": "https://www.reddit.com/r/politics/comments/1xuvirm/chris_van_hollen_is_challenging_chuck_schumer_for/",
      "score": 0,
@@ -71,95 +80,93 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor's race",
-     "url": "https://www.reddit.com/r/news/comments/1xus677/democrat_cindy_holscher_defeats_republican_ty/",
+     "title": "Senator Chris Van Hollen Announces He Is Running For Senate Majority Leader",
+     "url": "https://www.reddit.com/r/Fauxmoi/comments/1xuvmmx/senator_chris_van_hollen_announces_he_is_running/",
      "score": 0,
      "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "NVIDIA Announces CEO Transition",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg?width=640&crop=smart&auto=webp&s=34035a61cac2c1c64a0a42b565a17ffbfa79599e"
+     "image": "https://preview.redd.it/1hezwhg4ga1i1.jpeg?width=640&crop=smart&auto=webp&s=7720526f9e8aa2d22fee0b902b45cec6d38159a6"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T04:12:40.375587+00:00",
+   "fetched_at": "2026-11-13T04:42:45.636263+00:00",
    "stale": false,
    "items": [
     {
-     "title": "twoSidesOfAI",
-     "image": "https://i.redd.it/8c90e9cda71i1.png",
-     "url": "https://redd.it/1xufsfm",
-     "ups": 10,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1169,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 12861,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "frontendAndBackend",
+     "image": "https://i.redd.it/4ggbp0gxvszh1.png",
+     "url": "https://redd.it/1xojfbi",
+     "ups": 1571,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "chancesAreLowButNeverZero",
      "image": "https://i.redd.it/230tjjlzxm0i1.png",
      "url": "https://redd.it/1xs0jz8",
-     "ups": 2072,
+     "ups": 2075,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 401,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 10733,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "unhappyCrustaceans",
-     "image": "https://i.redd.it/dgj598hkm20i1.png",
-     "url": "https://redd.it/1xpqmpe",
-     "ups": 177,
+     "title": "iLoveConst",
+     "image": "https://i.redd.it/4ugi0a4uxzzh1.png",
+     "url": "https://redd.it/1xpd5m4",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "declareVars",
-     "image": "https://i.redd.it/qkqspxktezzh1.png",
-     "url": "https://redd.it/1xpb0ug",
-     "ups": 2495,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "wheresTheLove",
-     "image": "https://i.redd.it/aas3ndrapozh1.png",
-     "url": "https://redd.it/1xo40he",
-     "ups": 1506,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Having an affair in the 90's was only the entry level. Ask your father.",
-     "image": "https://i.redd.it/1m1hr5n8e61i1.png",
-     "url": "https://redd.it/1xubl5t",
-     "ups": 47,
+     "title": "\"diversify your portfolio\" they say...",
+     "image": "https://i.redd.it/3wemmg9rt91i1.png",
+     "url": "https://redd.it/1xusyxf",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "Thank you dear.",
-     "image": "https://i.redd.it/lr3id5pp151i1.png",
-     "url": "https://redd.it/1xu70rn",
-     "ups": 10471,
+     "title": "The Crying Game",
+     "image": "https://i.redd.it/t4arzyhxm91i1.png",
+     "url": "https://redd.it/1xus38q",
+     "ups": 36,
      "sub": "r/memes"
     },
     {
-     "title": "I miss mobile games from old times",
-     "image": "https://i.redd.it/7ubanbmtf61i1.png",
-     "url": "https://redd.it/1xubqsx",
-     "ups": 435,
+     "title": "Does anyone else's computers just...",
+     "image": "https://i.redd.it/60yhv4hjk91i1.png",
+     "url": "https://redd.it/1xurta4",
+     "ups": 36,
      "sub": "r/memes"
     },
     {
-     "title": "Characters whose name everyone gets wrong: Annual meeting",
-     "image": "https://i.redd.it/gsfok1n4c71i1.png",
-     "url": "https://redd.it/1xug1qc",
-     "ups": 1508,
+     "title": "A necessary inconvenience \ud83d\ude15",
+     "image": "https://i.redd.it/fdl760zuf81i1.png",
+     "url": "https://redd.it/1xum2mf",
+     "ups": 1995,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Somebody had to do it",
+     "image": "https://i.redd.it/xm0lrew1k61i1.png",
+     "url": "https://redd.it/1xuc8ko",
+     "ups": 2301,
      "sub": "r/memes"
     },
     {
@@ -168,28 +175,13 @@
      "url": "https://redd.it/1xuqb2g",
      "ups": 19,
      "sub": "r/memes"
-    },
-    {
-     "title": "It felt surreal talking with him and finding that out.",
-     "image": "https://i.redd.it/re2cy98vq21i1.gif",
-     "url": "https://redd.it/1xty78g",
-     "ups": 1853,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T04:12:42.467765+00:00",
+   "fetched_at": "2026-11-13T04:42:47.201426+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Senator seeks majority leader post",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Microsoft 365 outage continues",
@@ -200,65 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kushner meets Zelenskyy",
+     "text": "Senator seeks majority leader post",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Leather jackets in tech",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Philadelphia region tornado watch",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8a8fc5ebe0b7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "David Walliams faces misconduct allegations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US may lose measles-free status",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/458f10898f50",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
      "likes": 0,
      "image": ""
     },
@@ -272,6 +208,70 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang resigns from Nvidia",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Johnny Depp's Ebenezer reviews",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dc95c2a7574",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic's Claude and planned IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Books to take the oath on",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b78e8878b312",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Logan Circle shooting suspect's condo dispute",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cdcdc5cc06d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Hegseth impeachment vote",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1cc2c00ae70f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Ayanna Pressley for Speaker",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/80fe27b00494",
@@ -280,10 +280,18 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "There's nothing I don't tell the love of my life!",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54345755",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/409def30-ffb6-4461-a707-7a6005cd3129.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "God damnit",
      "author": "Political Memes",
      "url": "https://lemmy.world/post/54344588",
-     "likes": 109,
+     "likes": 174,
      "image": "https://lemmy.world/pictrs/image/4c56ec51-64d9-4fc3-895a-106c1db1e093.jpeg"
     },
     {
@@ -291,7 +299,7 @@
      "text": "Stabby stabby",
      "author": "Microblog Memes",
      "url": "https://k.fe.derate.me/m/microblogmemes@lemmy.world/t/924628",
-     "likes": 27,
+     "likes": 47,
      "image": "https://lemmy.world/pictrs/image/df7503f4-e540-4641-9fde-282373c93990.png"
     },
     {
@@ -299,57 +307,49 @@
      "text": "New break in the Microsoft outage mystery. CCTV footage from inside outlook datacentre",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54344995",
-     "likes": 35,
+     "likes": 58,
      "image": "https://lemmy.world/pictrs/image/be799094-f2e9-4aa1-af5d-c016364ef15d.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Ukraine says it can\u2019t stop Russian strikes because Starshield is limited again. Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54345062",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/ff7bd6ff-cc57-43b6-9723-0dd09ee6eef4.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T04:12:43.208095+00:00",
+   "fetched_at": "2026-11-13T04:42:47.677858+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
     {
      "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
+     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
      "source": "Dad joke"
     },
     {
-     "text": "An apple a day keeps the bullies away. If you throw it hard enough.",
+     "text": "A Skeleton walked into a bar he said I need a beer and a mop",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a boomerang that won't come back? A stick.",
+     "text": "Why do mathematicians hate the U.S.? Because it's indivisible.",
      "source": "Dad joke"
     }
    ]
