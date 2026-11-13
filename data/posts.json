@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T08:13:24.707306+00:00",
+ "generated_at": "2026-11-13T08:43:31.020156+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-13T08:13:20.611531+00:00",
+   "fetched_at": "2026-11-13T08:43:26.948407+00:00",
    "stale": false,
    "items": [
     {
@@ -44,15 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
-     "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/NGQyZjZnb28wNjFpMTlyQ4U0zO7GXsGeJljKULuKO1opfdFIlvERUwKxRpw5.png?width=320&crop=smart&auto=webp&s=bcef42885488b3597338bb568b5d7c5a6772918d"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Chris Van Hollen Is Challenging Chuck Schumer for Democratic Leader",
      "url": "https://www.reddit.com/r/politics/comments/1xuvirm/chris_van_hollen_is_challenging_chuck_schumer_for/",
      "score": 0,
@@ -62,11 +53,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Everything is going according to plan",
-     "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuxoya/everything_is_going_according_to_plan/",
+     "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
+     "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/9q1jrnu2ya1i1.jpeg?width=640&crop=smart&auto=webp&s=c1206d6ac4d2587048119e73190df936153b12d3"
+     "image": "https://external-preview.redd.it/NGQyZjZnb28wNjFpMTlyQ4U0zO7GXsGeJljKULuKO1opfdFIlvERUwKxRpw5.png?width=320&crop=smart&auto=webp&s=bcef42885488b3597338bb568b5d7c5a6772918d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -80,93 +80,86 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president/",
+     "title": "Jensen Huang Had A Third Affair\u2014With Another Nvidia Employee",
+     "url": "https://www.reddit.com/r/technology/comments/1xunjfl/jensen_huang_had_a_third_affairwith_another/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/-5finBjJ4OQ_lgy3uITJWl56B9qdbiQlWEt38zZW1Uw.jpeg?width=640&crop=smart&auto=webp&s=bfbf75c819833b13182a4d55673409cf8376c260"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-13T08:13:21.237082+00:00",
+   "fetched_at": "2026-11-13T08:43:27.563071+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "thisTimeItsAlpine",
+     "image": "https://i.redd.it/6r51mbqsetzh1.png",
+     "url": "https://redd.it/1xom14p",
+     "ups": 6740,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 19,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itWasJustOneVariable",
+     "image": "https://i.redd.it/1g1ms7yi670i1.png",
+     "url": "https://redd.it/1xq77a7",
+     "ups": 3439,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 595,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "declareVars",
      "image": "https://i.redd.it/qkqspxktezzh1.png",
      "url": "https://redd.it/1xpb0ug",
-     "ups": 2497,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iDontGetHowThisIsDifficult",
-     "image": "https://i.redd.it/ek06257kbzzh1.png",
-     "url": "https://redd.it/1xpapxq",
-     "ups": 402,
+     "ups": 2496,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "chancesAreLowButNeverZero",
      "image": "https://i.redd.it/230tjjlzxm0i1.png",
      "url": "https://redd.it/1xs0jz8",
-     "ups": 2073,
+     "ups": 2082,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "promptEngineeringIsMyArchitecture",
-     "image": "https://i.redd.it/0kl3jadyotzh1.png",
-     "url": "https://redd.it/1xonk0a",
-     "ups": 708,
-     "sub": "r/ProgrammerHumor"
+     "title": "I swear, I was trying to help!",
+     "image": "https://i.redd.it/m1nx1up89b1i1.png",
+     "url": "https://redd.it/1xuyuge",
+     "ups": 43,
+     "sub": "r/memes"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 606,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 23633,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Always hits at the most random moments",
-     "image": "https://i.redd.it/vnf4me0oxa1i1.gif",
-     "url": "https://redd.it/1xuxmri",
+     "title": "They must be fuming",
+     "image": "https://i.redd.it/t0kz2njo0c1i1.gif",
+     "url": "https://redd.it/1xv1iyk",
      "ups": 10,
      "sub": "r/memes"
     },
     {
-     "title": "Just why dude",
-     "image": "https://i.redd.it/mjhaagjcw91i1.png",
-     "url": "https://redd.it/1xutac2",
-     "ups": 14,
+     "title": "Characters whose name everyone gets wrong: Annual meeting",
+     "image": "https://i.redd.it/gsfok1n4c71i1.png",
+     "url": "https://redd.it/1xug1qc",
+     "ups": 1873,
      "sub": "r/memes"
     },
     {
-     "title": "\"diversify your portfolio\" they say...",
-     "image": "https://i.redd.it/3wemmg9rt91i1.png",
-     "url": "https://redd.it/1xusyxf",
-     "ups": 23,
-     "sub": "r/memes"
-    },
-    {
-     "title": "POV: you are jensen after a long day at NVIDIA",
-     "image": "https://i.redd.it/ikleqytrq21i1.png",
-     "url": "https://redd.it/1xty5x7",
-     "ups": 6568,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The Crying Game",
-     "image": "https://i.redd.it/t4arzyhxm91i1.png",
-     "url": "https://redd.it/1xus38q",
-     "ups": 61,
+     "title": "I was fine lol",
+     "image": "https://i.redd.it/l5hxh7uu9b1i1.gif",
+     "url": "https://redd.it/1xuywgv",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
@@ -175,13 +168,28 @@
      "url": "https://redd.it/1xut0xd",
      "ups": 13,
      "sub": "r/memes"
+    },
+    {
+     "title": "It felt surreal talking with him and finding that out.",
+     "image": "https://i.redd.it/re2cy98vq21i1.gif",
+     "url": "https://redd.it/1xty78g",
+     "ups": 1950,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-13T08:13:23.945799+00:00",
+   "fetched_at": "2026-11-13T08:43:29.599008+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Microsoft 365 outage continues",
@@ -192,25 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
+     "text": "Strikes hit Ukrainian and Russian plants",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Kushner meets Zelenskyy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4af0c9494ebc",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "David Walliams faces misconduct allegations",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d0b135ff487f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Quotes that stuck with you",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5618f40f5168",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
@@ -256,84 +232,96 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Building collapse reported in Brooklyn",
+     "text": "Russell Brand sexual assault trial",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries lists Democratic priorities",
+     "text": "Johnny Depp's Ebenezer reviews",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6dc95c2a7574",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senator seeks majority leader post",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner meets Zelenskyy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "its not fair",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.world/post/54349672",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/08ffd3e0-1860-4210-9e3a-9f33a1126dce.jpeg"
+     "text": "An interesting study, perhaps.",
+     "author": "linuxmemes",
+     "url": "https://lemmy.zip/post/74940483",
+     "likes": 35,
+     "image": "https://lemmy.zip/pictrs/image/fa77f732-b089-47ce-bedf-18d634cc21ff.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "\u2018The time is ripe\u2019: ex-helicopter engineer poised to be Germany\u2019s first female president",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54350431",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/b2583d93-e64e-4196-aeb3-08a293512a58.jpeg"
+     "text": "Russell Brand and David Walliams silenced women with legal threats. It\u2019s time these were outlawed",
+     "author": "United Kingdom",
+     "url": "https://leminal.space/post/41918056",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/ae8200f5-d343-4bfe-84cf-0ce7fcc1a32a.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Highly efficient.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/74937469",
-     "likes": 64,
-     "image": "https://lemmy.zip/pictrs/image/d506d38b-1206-49ab-9264-0c0ad2a54e3c.avif"
+     "text": "RIP",
+     "author": "Dogs",
+     "url": "https://lemmy.zip/post/74940854",
+     "likes": 10,
+     "image": "https://lemmy.zip/pictrs/image/c298defb-4298-4eca-8374-aaaf136748fc.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "ich_\ud83d\ude2d_iel",
-     "author": "ich_iel",
-     "url": "https://feddit.org/post/37964262",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/3df20251-d7e9-4ad3-be49-2c46dc7690b6.jpeg"
+     "text": "Inside rule.",
+     "author": "196",
+     "url": "https://lemmy.zip/post/74941023",
+     "likes": 10,
+     "image": "https://lemmy.zip/pictrs/image/5df2cbe8-c1b9-4c37-a662-3c12af02555e.avif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-13T08:13:24.333862+00:00",
+   "fetched_at": "2026-11-13T08:43:30.680732+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Yesterday a clown held a door open for me. I thought it was a nice jester.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What kind of pants do ghosts wear? Boo jeans.",
      "source": "Dad joke"
     },
     {
-     "text": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
+     "text": "Did you hear the one about the giant pickle?  He was kind of a big dill.",
      "source": "Dad joke"
     },
     {
-     "text": "What did Michael Jackson name his denim store?    Billy Jeans!",
+     "text": "I wish I could clean mirrors for a living. It's just something I can see myself doing.",
      "source": "Dad joke"
     }
    ]
