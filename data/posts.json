@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-11-14T20:54:29.241480+00:00",
+ "generated_at": "2026-11-14T21:24:35.946821+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T20:54:23.785433+00:00",
+   "fetched_at": "2026-11-14T21:24:30.825835+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Coffee server refused to accept $21 for a $15.28 order",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xvpxfs/coffee_server_refused_to_accept_21_for_a_1528/",
+     "title": "me_irl",
+     "url": "https://www.reddit.com/r/me_irl/comments/1xwb1gc/me_irl/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/YzBzaTB0emlxbTFpMWC6m9qbwCUw80KCZHfZg4CqQQZ8pNogF90dxWT4ed-M.jpeg?width=640&crop=smart&auto=webp&s=85a753c59e25405dbe39b281bffe575c9f184673"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Why is no one talking about this?",
-     "url": "https://www.reddit.com/r/wowforever/comments/1xvz681/why_is_no_one_talking_about_this/",
+     "title": "Johnson says \u2018we don\u2019t really need any investigation\u2019 on FAA ground stop",
+     "url": "https://www.reddit.com/r/politics/comments/1xwanar/johnson_says_we_dont_really_need_any/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/iauo9qxm1k1i1.jpeg?width=640&crop=smart&auto=webp&s=fcd09e6c717e32b66d941287b135ea55b49e2fcd"
+     "image": "https://external-preview.redd.it/Tj2CPiJvXFMOliY-PRa7herzF6Y8BCpqGT6AmTZ32NU.jpeg?width=640&crop=smart&auto=webp&s=d609ee18e1a4d8772def95809126c80b1c9d034c"
     },
     {
      "source": "Reddit",
@@ -31,6 +31,24 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Incompetent corruption",
+     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xwa5fw/incompetent_corruption/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/p64k6ry3km1i1.jpeg?width=640&crop=smart&auto=webp&s=fe87775a3ba9d4424e43ac9ebefc18cba2ff4362"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why is no one talking about this?",
+     "url": "https://www.reddit.com/r/wowforever/comments/1xvz681/why_is_no_one_talking_about_this/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/iauo9qxm1k1i1.jpeg?width=640&crop=smart&auto=webp&s=fcd09e6c717e32b66d941287b135ea55b49e2fcd"
     },
     {
      "source": "Reddit",
@@ -67,31 +85,41 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Incompetent corruption",
-     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xwa5fw/incompetent_corruption/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/p64k6ry3km1i1.jpeg?width=640&crop=smart&auto=webp&s=fe87775a3ba9d4424e43ac9ebefc18cba2ff4362"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "me_irl",
-     "url": "https://www.reddit.com/r/me_irl/comments/1xwb1gc/me_irl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YzBzaTB0emlxbTFpMWC6m9qbwCUw80KCZHfZg4CqQQZ8pNogF90dxWT4ed-M.jpeg?width=640&crop=smart&auto=webp&s=85a753c59e25405dbe39b281bffe575c9f184673"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T20:54:25.345799+00:00",
+   "fetched_at": "2026-11-14T21:24:32.172144+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 56,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1972,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 1294,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 80,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "chaoticEvil",
      "image": "https://i.redd.it/7rski0ubn61i1.png",
@@ -100,59 +128,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 3673,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 97,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 580,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 811,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thegoat",
-     "image": "https://i.redd.it/e4gbzpzak30i1.png",
-     "url": "https://redd.it/1xpujqh",
-     "ups": 537,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 201,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 198,
+     "title": "Fun fact: baby elephants can't control their trunks yet",
+     "image": "https://i.redd.it/kwt0i3c9fl1i1.gif",
+     "url": "https://redd.it/1xw4jaq",
+     "ups": 2192,
      "sub": "r/memes"
     },
     {
-     "title": "Let's respect his request",
-     "image": "https://i.redd.it/bebibo2yjf1i1.png",
-     "url": "https://redd.it/1xvh0uh",
-     "ups": 118,
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 5118,
      "sub": "r/memes"
     },
     {
-     "title": "\"a unit of cultural information\u2014such as a tune, catchphrase, fashion trend, or style of building\"",
-     "image": "https://i.redd.it/lomsqm0eek1i1.png",
-     "url": "https://redd.it/1xw0cey",
-     "ups": 10,
+     "title": "It's her job and she's doing it well",
+     "image": "https://i.redd.it/kz5kagshrg1i1.png",
+     "url": "https://redd.it/1xvn1ti",
+     "ups": 86,
      "sub": "r/memes"
     },
     {
@@ -163,38 +163,46 @@
      "sub": "r/memes"
     },
     {
-     "title": "The kids online are crying losing their unfunny overused joke.",
-     "image": "https://i.redd.it/xok32bs6bf1i1.png",
-     "url": "https://redd.it/1xvfoy9",
-     "ups": 5523,
+     "title": "Let's respect his request",
+     "image": "https://i.redd.it/bebibo2yjf1i1.png",
+     "url": "https://redd.it/1xvh0uh",
+     "ups": 118,
      "sub": "r/memes"
     },
     {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 15553,
+     "title": "How did bro type a \"q\" in place of a \"b\"",
+     "image": "https://i.redd.it/yyq651hljk1i1.gif",
+     "url": "https://redd.it/1xw0v4y",
+     "ups": 442,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T20:54:27.756734+00:00",
+   "fetched_at": "2026-11-14T21:24:34.634747+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Canada offers help to FAA",
+     "text": "Democratic unity after midterms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
+     "text": "Historical events as streaming series",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a9a958ef75e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "FAA contract and Duffy's son-in-law",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -216,14 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Historical events as streaming series",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a9a958ef75e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
@@ -232,9 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AEW Full Gear pay-per-view",
+     "text": "SpaceX launches Starship Flight 15",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cff67afe40f2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Viral courtside photo at Clippers game",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e99269075fe6",
      "likes": 0,
      "image": ""
     },
@@ -248,72 +256,64 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "OCASK prompt on character speech",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a49b0b13b04",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft resolves global outage",
+     "text": "Close midterm races being counted",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FAA contract and Duffy's son-in-law",
+     "text": "Duffy on Friday afternoon upgrades",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "I think hes having a good time.",
+     "text": "State violence is violence",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54410649",
+     "likes": 52,
+     "image": "https://lemmy.world/pictrs/image/2ac1b5fc-36eb-4fd7-81f2-152333db80c7.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Eric Trump-backed robot soldier startup can\u2019t pay staff after founder borrowed $4.6 million from company to buy home",
+     "author": "News",
+     "url": "https://lemmy.world/post/54410957",
+     "likes": 28,
+     "image": "https://image.cnbcfm.com/api/v1/image/108313716-17800536432026-03-12t071236z_1666355942_rc27fjaubt68_rtrmadp_0_tech-robots-conflict-zones.jpeg?v=1780053657&w=1480&h=833&ffmt=webp&vtcrop=y"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "John Fetterman signals he would consider quitting Democratic Party if they make \u2018troubling\u2019 majority leader pick",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54410712",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/17a0e8ce-09dc-4d92-8db0-caad1673c924.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "hardly workin girls",
      "author": "cats",
-     "url": "https://lemmy.zip/post/75022924",
-     "likes": 46,
-     "image": "https://lemmy.zip/pictrs/image/12ad99fd-ba75-407b-8de0-0d0f3da71b8f.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Zelenskyy accuses SpaceX of lying about Starshield \u2013 and says US floated Donbas-for-NATO deal",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54410109",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/0896a041-7881-4a42-87ed-4000fe150dd8.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Evenings at home: then and now",
-     "author": "Comic Strips",
-     "url": "https://feddit.dk/post/26231434",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/e2f94258-a700-42d9-92cb-986dda71c53b.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "How to say your law was supposed to target only LGBTQ and PoC without saying your law was supposed to target only LGBTQ and PoC",
-     "author": "Leopards Ate My Face",
-     "url": "https://lemmy.ml/post/55313962",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/3d66797a-c906-4bd7-a03c-bde22481bb37.jpeg"
+     "url": "https://lemmy.blahaj.zone/post/50497943",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/429a151c-17b7-4869-b1a2-c23c8bc58a80.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T20:54:28.170845+00:00",
+   "fetched_at": "2026-11-14T21:24:35.213714+00:00",
    "stale": false,
    "items": [
     {
@@ -321,11 +321,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -333,32 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "It doesn't matter how much you push the envelope. It will still be stationary.",
+     "text": "How do you organize a space party? You planet.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are skeletons so calm? Because nothing gets under their skin.",
+     "text": "Can February march? No, but April may.",
      "source": "Dad joke"
     },
     {
-     "text": "Where did Captain Hook get his hook? From a second hand store.",
+     "text": "Can I watch the TV? Dad: Yes, but don\u2019t turn it on.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
