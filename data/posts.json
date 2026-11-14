@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T01:18:53.405031+00:00",
+ "generated_at": "2026-11-14T01:49:00.311217+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T01:18:46.606367+00:00",
+   "fetched_at": "2026-11-14T01:48:54.835178+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "A door I made, that\u2019s meant to look like the sun setting over the ocean.",
-     "url": "https://www.reddit.com/r/woodworking/comments/1xvl6fs/a_door_i_made_thats_meant_to_look_like_the_sun/",
+     "title": "First time owning a cat! Is this normal??",
+     "url": "https://www.reddit.com/r/cats/comments/1xvmmzg/first_time_owning_a_cat_is_this_normal/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/j0gi05p7dg1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=04546d1027dd0fb55c48d27124bcc3eaf2cbcfa5"
+     "image": "https://preview.redd.it/oojojv0aog1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c5f22e7985a199ba881061af58cfc2267bbb7c60"
     },
     {
      "source": "Reddit",
@@ -53,20 +53,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "They disappeared at the end of the 90s. Just like yearly raises",
-     "url": "https://www.reddit.com/r/WeirdCareers/comments/1xv3orh/they_disappeared_at_the_end_of_the_90s_just_like/",
+     "title": "A door I made, that\u2019s meant to look like the sun setting over the ocean.",
+     "url": "https://www.reddit.com/r/woodworking/comments/1xvl6fs/a_door_i_made_thats_meant_to_look_like_the_sun/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/bthyhdr5pc1i1.png?width=640&crop=smart&auto=webp&s=d430cd3933c8f23ec2e8875307027e2b67d1c041"
+     "image": "https://preview.redd.it/j0gi05p7dg1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=04546d1027dd0fb55c48d27124bcc3eaf2cbcfa5"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "First time owning a cat! Is this normal??",
-     "url": "https://www.reddit.com/r/cats/comments/1xvmmzg/first_time_owning_a_cat_is_this_normal/",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xvlc7c/meirl/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/oojojv0aog1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c5f22e7985a199ba881061af58cfc2267bbb7c60"
+     "image": "https://preview.redd.it/319onmhfeg1i1.png?width=640&crop=smart&auto=webp&s=5492c421b8d3a2e7fa7adc696b390cac65716bcb"
     },
     {
      "source": "Reddit",
@@ -80,37 +80,30 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xvlc7c/meirl/",
+     "title": "They disappeared at the end of the 90s. Just like yearly raises",
+     "url": "https://www.reddit.com/r/WeirdCareers/comments/1xv3orh/they_disappeared_at_the_end_of_the_90s_just_like/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/319onmhfeg1i1.png?width=640&crop=smart&auto=webp&s=5492c421b8d3a2e7fa7adc696b390cac65716bcb"
+     "image": "https://preview.redd.it/bthyhdr5pc1i1.png?width=640&crop=smart&auto=webp&s=d430cd3933c8f23ec2e8875307027e2b67d1c041"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T01:18:48.269421+00:00",
+   "fetched_at": "2026-11-14T01:48:56.649894+00:00",
    "stale": false,
    "items": [
     {
-     "title": "compilationError",
-     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
-     "url": "https://redd.it/1xsgyfn",
-     "ups": 400,
+     "title": "declareVars",
+     "image": "https://i.redd.it/qkqspxktezzh1.png",
+     "url": "https://redd.it/1xpb0ug",
+     "ups": 2497,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1143,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 128,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,67 +114,82 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17946,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 6,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11056,
+     "title": "itWasJustOneVariable",
+     "image": "https://i.redd.it/1g1ms7yi670i1.png",
+     "url": "https://redd.it/1xq77a7",
+     "ups": 3457,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Where, Who and What?",
-     "image": "https://i.redd.it/ip6klvet271i1.png",
-     "url": "https://redd.it/1xuep2v",
-     "ups": 2022,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The Great Out(look)age of 2026",
-     "image": "https://i.redd.it/nrbxiudeob1i1.png",
-     "url": "https://redd.it/1xv0e0w",
-     "ups": 160,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Characters whose name everyone gets wrong: Annual meeting",
-     "image": "https://i.redd.it/gsfok1n4c71i1.png",
-     "url": "https://redd.it/1xug1qc",
-     "ups": 2537,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Slanderhog [7]: I'm slandering the Master Emerald from the Sonic games",
-     "image": "https://i.redd.it/mfaap628qg1i1.png",
-     "url": "https://redd.it/1xvmw0a",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 45610,
-     "sub": "r/memes"
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 1885,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "you pay 100$ to throw dog poop at people, while im here doing it for free",
      "image": "https://i.redd.it/uuvq2b0raf1i1.png",
      "url": "https://redd.it/1xvfnk6",
-     "ups": 21,
+     "ups": 25,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Might be true \ud83e\udd27",
+     "image": "https://i.redd.it/midr38zv4d1i1.png",
+     "url": "https://redd.it/1xv55c5",
+     "ups": 294,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Corporate Drama",
+     "image": "https://i.redd.it/lfkgnyn51f1i1.png",
+     "url": "https://redd.it/1xvea24",
+     "ups": 36,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Speaking from experience",
+     "image": "https://i.redd.it/8f7eebouch1i1.png",
+     "url": "https://redd.it/1xvpmvf",
+     "ups": 13,
+     "sub": "r/memes"
+    },
+    {
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 87,
+     "sub": "r/memes"
+    },
+    {
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 269,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T01:18:51.112609+00:00",
+   "fetched_at": "2026-11-14T01:48:58.914821+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "FAA lifts nationwide ground stop",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9b6d155c60ff",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Failed update causes FAA outage",
@@ -192,49 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "College football team flights grounded",
+     "text": "Best US airport to be stranded in",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9b6d155c60ff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2945a08d9654",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang affair reports",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a09490021bc",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Steve Miner to direct new Friday the 13th",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Weird wisdom tooth stories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4ff7d19d90",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +232,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Weird wisdom tooth stories",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4ff7d19d90",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Flavio Bolsonaro stuck at Reagan airport",
+     "text": "Horses ride Detroit city bus",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9a940d6dab61",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senator seeks majority leader post",
+     "text": "Tanker hits cruise ship in New Orleans",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/28d0e0d7553a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Steve Miner to direct new Friday the 13th",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democratic unity after midterms",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump cabinet competence",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25b7d052157b",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Linus chilling",
      "author": "cats",
      "url": "https://infosec.pub/post/54888855",
-     "likes": 141,
+     "likes": 160,
      "image": "https://lemmy.world/pictrs/image/0de527b9-734b-409c-b380-2bfd35fde0a2.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide",
      "author": "Fuck AI",
      "url": "https://piefed.zip/c/fuck_ai@lemmy.world/p/1999652/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide",
-     "likes": 95,
+     "likes": 113,
      "image": "https://lemmy.world/pictrs/image/6ca4eb2c-0950-450a-8daf-1d0bf93b15e6.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "My preferred method is death by Snu Snu",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54377846",
-     "likes": 120,
+     "likes": 143,
      "image": "https://lemmy.world/pictrs/image/f13fd3fd-324c-404a-8952-4756c9d9d4e9.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance",
      "author": "Not The Onion",
      "url": "https://feddit.org/post/37990648",
-     "likes": 165,
+     "likes": 203,
      "image": "https://lemmy.world/pictrs/image/33120d70-a9b8-450a-a433-f1c2c0b9a65d.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T01:18:52.689243+00:00",
+   "fetched_at": "2026-11-14T01:48:59.581225+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
+     "text": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
      "source": "Dad joke"
     },
     {
-     "text": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
+     "text": "Did you hear about the guy whose whole left side was cut off? He's all right now.",
      "source": "Dad joke"
     },
     {
-     "text": "My dentist is the best, he even has a little plaque!",
+     "text": "My New Years resolution is to stop leaving things so late.",
      "source": "Dad joke"
     }
    ]
