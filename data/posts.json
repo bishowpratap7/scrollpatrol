@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T18:53:47.966215+00:00",
+ "generated_at": "2026-11-14T19:23:53.883693+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T18:53:43.652730+00:00",
+   "fetched_at": "2026-11-14T19:23:49.742807+00:00",
    "stale": false,
    "items": [
     {
@@ -26,20 +26,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Coffee server refused to accept $21 for a $15.28 order",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xvpxfs/coffee_server_refused_to_accept_21_for_a_1528/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Delaware voters sue to expand U.S. House, calling 435-seat limit unconstitutional",
      "url": "https://www.reddit.com/r/politics/comments/1xw379c/delaware_voters_sue_to_expand_us_house_calling/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dmMN1p9vxN5Db2KgLyIag2y4S8qjqVcD87dQR6MB-tc.jpeg?width=640&crop=smart&auto=webp&s=a9217e71a6e4bb199cf9971d372f6c9ee03a66ac"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Coffee server refused to accept $21 for a $15.28 order",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xvpxfs/coffee_server_refused_to_accept_21_for_a_1528/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -62,20 +62,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\u200bIn 1445, a cat walked across the wet ink of a scribe's ledger in Dubrovnik, leaving behind 580-year-old paw prints",
-     "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xw0r0n/in_1445_a_cat_walked_across_the_wet_ink_of_a/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/w6dypsumik1i1.jpeg?width=640&crop=smart&auto=webp&s=d19ee9748a16bc0a30b7a538b80bc184348cfa0b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "First time owning a cat! Is this normal??",
      "url": "https://www.reddit.com/r/cats/comments/1xvmmzg/first_time_owning_a_cat_is_this_normal/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/oojojv0aog1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c5f22e7985a199ba881061af58cfc2267bbb7c60"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why is no one talking about this?",
+     "url": "https://www.reddit.com/r/wowforever/comments/1xvz681/why_is_no_one_talking_about_this/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/iauo9qxm1k1i1.jpeg?width=640&crop=smart&auto=webp&s=fcd09e6c717e32b66d941287b135ea55b49e2fcd"
     },
     {
      "source": "Reddit",
@@ -89,56 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T18:53:44.814302+00:00",
+   "fetched_at": "2026-11-14T19:23:51.022817+00:00",
    "stale": false,
    "items": [
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 52,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 13856,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 775,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2802,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1242,
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 581,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 1928,
+     "title": "ripSupportCommunity",
+     "image": "https://i.redd.it/6f9oi74h4k1i1.gif",
+     "url": "https://redd.it/1xvzfeh",
+     "ups": 43,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4328,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 270,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2472,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "How did bro type a \"q\" in place of a \"b\"",
-     "image": "https://i.redd.it/yyq651hljk1i1.gif",
-     "url": "https://redd.it/1xw0v4y",
-     "ups": 307,
+     "title": "How high are you?",
+     "image": "https://i.redd.it/kzgp6zz9dl1i1.png",
+     "url": "https://redd.it/1xw4aa2",
+     "ups": 8,
      "sub": "r/memes"
     },
     {
@@ -149,10 +149,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 15041,
+     "title": "\"a unit of cultural information\u2014such as a tune, catchphrase, fashion trend, or style of building\"",
+     "image": "https://i.redd.it/lomsqm0eek1i1.png",
+     "url": "https://redd.it/1xw0cey",
+     "ups": 10,
      "sub": "r/memes"
     },
     {
@@ -163,102 +163,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 153,
+     "title": "What's next?",
+     "image": "https://i.redd.it/9a0qbxyzng1i1.png",
+     "url": "https://redd.it/1xvmlx5",
+     "ups": 37,
      "sub": "r/memes"
     },
     {
-     "title": "The kids online are crying losing their unfunny overused joke.",
-     "image": "https://i.redd.it/xok32bs6bf1i1.png",
-     "url": "https://redd.it/1xvfoy9",
-     "ups": 5459,
+     "title": "It just feels right",
+     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
+     "url": "https://redd.it/1xvjur1",
+     "ups": 13725,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T18:53:46.757376+00:00",
+   "fetched_at": "2026-11-14T19:23:52.526919+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
+     "text": "FAA contract and Duffy's son-in-law",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Schumer team eyes earlier leader election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Concerts with women lead singers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft resolves global outage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand court case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AEW Full Gear pay-per-view",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cff67afe40f2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -272,6 +200,70 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Concerts with women lead singers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang resigns as Nvidia CEO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AEW Full Gear pay-per-view",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cff67afe40f2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Best US airports to be stuck in",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e29e3e0ffcdc",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tanker hits cruise ship in New Orleans",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Investigation into Brooklyn collapse widens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Canada offers help to FAA",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
@@ -279,86 +271,94 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Trump silent after ground stop",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/526d3bfb22e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Trump urgently told judge DC Arch will 'mitigate' air disasters as FAA crisis raged",
+     "author": "politics ",
+     "url": "https://sh.itjust.works/post/69925780",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/89aa91ad-56e6-4a22-8aed-5dd3ee5fbab9.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The Powerhouse of the City",
+     "author": "Science Memes",
+     "url": "https://quokk.au/c/science_memes/p/1318025/the-powerhouse-of-the-city",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/befee861-cdf6-4e1e-987b-f4d6d0785e56.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "John Fetterman says Chris Van Hollen being named Majority Leader 'would be troubling'",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54407369",
+     "likes": 14,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "Radical",
      "author": "Political Memes",
      "url": "https://reddthat.com/post/76610940",
-     "likes": 84,
+     "likes": 131,
      "image": "https://lemmy.world/pictrs/image/8374c251-6bc4-4d0f-a54b-174ae15c73f8.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Violence Enabled",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54405161",
-     "likes": 67,
-     "image": "https://lemmy.world/pictrs/image/7052d7f0-3416-487c-a298-6515a6f18e78.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "COMAC's electric aircraft completes first piloted test flight",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54406609",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/83416663-7670-4648-8623-21dc277e6797.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Amiya",
-     "author": "StreetMoe",
-     "url": "https://ani.social/post/39459578",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/99b8e459-3b15-46d3-bb90-e18196b88fbe.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T18:53:47.206974+00:00",
+   "fetched_at": "2026-11-14T19:23:53.092694+00:00",
    "stale": false,
    "items": [
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "What happens when you anger a brain surgeon? They will give you a piece of your mind.",
+     "text": "Sore throats are a pain in the neck!",
      "source": "Dad joke"
     },
     {
-     "text": "I was thinking about moving to Moscow but there is no point Russian into things.",
+     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
      "source": "Dad joke"
     },
     {
-     "text": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.",
+     "text": "What's large, grey, and doesn't matter?\r\nAn irrelephant.\r\n",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
