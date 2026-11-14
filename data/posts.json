@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-14T11:21:40.889513+00:00",
+ "generated_at": "2026-11-14T11:51:47.209338+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T11:21:35.971495+00:00",
+   "fetched_at": "2026-11-14T11:51:42.594461+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "She saved her language from going extinct",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvxpxa/she_saved_her_language_from_going_extinct/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/rabhsibykj1i1.jpeg?width=640&crop=smart&auto=webp&s=782ebae8e5bf1c879ad45758dc507526e79737e1"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -17,8 +26,17 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "FAA issues nationwide ground stop",
-     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
+     "title": "\u201cYou will own nothing\u201d",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xvae2z/you_will_own_nothing/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/6botghxrbe1i1.jpeg?width=640&crop=smart&auto=webp&s=8925603cde41c6e3e171fe68fc9a92c86d9e3ea5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+     "url": "https://www.reddit.com/r/news/comments/1xvuixd/democrat_jonathan_kreisstomkins_wins_race_for/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -26,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "\u201cYou will own nothing\u201d",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xvae2z/you_will_own_nothing/",
+     "title": "FAA issues nationwide ground stop",
+     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/6botghxrbe1i1.jpeg?width=640&crop=smart&auto=webp&s=8925603cde41c6e3e171fe68fc9a92c86d9e3ea5"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -53,24 +71,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-     "url": "https://www.reddit.com/r/news/comments/1xvuixd/democrat_jonathan_kreisstomkins_wins_race_for/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "She saved her language from going extinct",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvxpxa/she_saved_her_language_from_going_extinct/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/rabhsibykj1i1.jpeg?width=640&crop=smart&auto=webp&s=782ebae8e5bf1c879ad45758dc507526e79737e1"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Vance considers pulling out of 2028 run for president",
      "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
      "score": 0,
@@ -89,42 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T11:21:37.391010+00:00",
+   "fetched_at": "2026-11-14T11:51:43.961569+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 27,
+     "title": "ripSupportCommunity",
+     "image": "https://i.redd.it/6f9oi74h4k1i1.gif",
+     "url": "https://redd.it/1xvzfeh",
+     "ups": 1,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 100,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 301,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2467,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2105,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 53,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,58 +114,95 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Corporate Drama",
-     "image": "https://i.redd.it/lfkgnyn51f1i1.png",
-     "url": "https://redd.it/1xvea24",
-     "ups": 47,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 758,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1224,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 301,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "The kids online are crying losing their unfunny overused joke.",
+     "image": "https://i.redd.it/xok32bs6bf1i1.png",
+     "url": "https://redd.it/1xvfoy9",
+     "ups": 5050,
      "sub": "r/memes"
     },
     {
      "title": "Outlook 11.12.26",
      "image": "https://i.redd.it/52of20ebmd1i1.png",
      "url": "https://redd.it/1xv70q9",
-     "ups": 151,
+     "ups": 156,
      "sub": "r/memes"
     },
     {
-     "title": "It just feels right",
-     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
-     "url": "https://redd.it/1xvjur1",
-     "ups": 10717,
+     "title": "\"a unit of cultural information\u2014such as a tune, catchphrase, fashion trend, or style of building\"",
+     "image": "https://i.redd.it/lomsqm0eek1i1.png",
+     "url": "https://redd.it/1xw0cey",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 8633,
+     "title": "I swear, I was trying to help!",
+     "image": "https://i.redd.it/m1nx1up89b1i1.png",
+     "url": "https://redd.it/1xuyuge",
+     "ups": 295,
+     "sub": "r/memes"
+    },
+    {
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 2767,
      "sub": "r/memes"
     },
     {
      "title": "15 hours and counting",
      "image": "https://i.redd.it/lxfmvim6yc1i1.png",
      "url": "https://redd.it/1xv4i0w",
-     "ups": 50623,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's her job and she's doing it well",
-     "image": "https://i.redd.it/kz5kagshrg1i1.png",
-     "url": "https://redd.it/1xvn1ti",
-     "ups": 67,
+     "ups": 51020,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T11:21:39.366018+00:00",
+   "fetched_at": "2026-11-14T11:51:45.956006+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Duffy seeks $50B for aviation",
+     "text": "FAA ground stop jokes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ae353b8cee7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Close midterm races being counted",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's Nvidia stock trades",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
      "likes": 0,
      "image": ""
     },
@@ -200,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's Nvidia stock trades",
+     "text": "Russell Brand court case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
@@ -224,30 +240,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FAA ground stop jokes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Horses ride Detroit city bus",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -256,9 +248,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Steve Miner to direct new Friday the 13th",
+     "text": "\"Save the whales\" campaign succeeds",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/aedc1d1adb13",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google cuts search for AI-banning schools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Rubio opposes Hague war crimes charges",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e377593c7b9d",
      "likes": 0,
      "image": ""
     },
@@ -271,53 +279,45 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "David Cameron on blaming Brexit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7aba8a3238fa",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "After 26 years, the US has lost its measles elimination status",
+     "author": "News",
+     "url": "https://lemmy.world/post/54393489",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/80fbdc35-2871-4295-8d7c-bcf562ada731.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Democrat wins Alaska governor race, in setback for GOP scheme to steal Senate seat",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54393253",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/b5748e8e-4563-4c2c-97fa-f6a881a53789.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Norway's Dropbox Rival Jottacloud is making a Linux app",
+     "author": "Linux",
+     "url": "https://lemmy.ml/post/55296949",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/9ecb2f8d-6aa5-42eb-b592-62487f6a7f9a.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "KDE is hiring a developer with a focus for Plasma Mobile!",
      "author": "Linux Phones",
      "url": "https://lemmy.world/post/54392985",
-     "likes": 14,
-     "image": "https://ev.kde.org/thumbnail.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Let the good times roll",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54392637",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/ad9206aa-cffd-41c5-8d51-4b1bf357d0cd.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "habemus ceom",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.blahaj.zone/post/50479252",
-     "likes": 94,
-     "image": "https://lemmy.world/pictrs/image/08030d80-88fb-43ea-adcc-e5db055906c8.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "KDE is hiring a developer with a focus for Plasma Mobile!",
-     "author": "Linux",
-     "url": "https://lemmy.world/post/54392994",
-     "likes": 9,
+     "likes": 25,
      "image": "https://ev.kde.org/thumbnail.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T11:21:40.201031+00:00",
+   "fetched_at": "2026-11-14T11:51:46.593786+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.",
+     "text": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
      "source": "Dad joke"
     },
     {
-     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
+     "text": "What's the worst part about being a cross-eyed teacher?\r\n\r\nThey can't control their pupils.",
      "source": "Dad joke"
     },
     {
-     "text": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.",
+     "text": "It takes guts to be an organ donor.",
      "source": "Dad joke"
     }
    ]
