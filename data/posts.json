@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T02:19:08.193433+00:00",
+ "generated_at": "2026-11-14T02:49:15.746402+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T02:19:01.921364+00:00",
+   "fetched_at": "2026-11-14T02:49:09.812852+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "We Shall See!",
-     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xvlt3q/we_shall_see/",
+     "title": "FAA issues nationwide ground stop",
+     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/t8uthnnwhg1i1.jpeg?width=640&crop=smart&auto=webp&s=2d73d854753a2a0c8afe59d6aa9c735397eecda8"
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Video shows the aftermath of the Atlantic Asphalt tanker crashing into the American Heritage riverboat on the Mississippi River in New Orleans. Everyone on board is accounted for, and no critical injuries have been reported.",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xvn7o3/video_shows_the_aftermath_of_the_atlantic_asphalt/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bnh2cGsza3FzZzFpMeB-pvt1fe0BWAimAUjP-CS7Y-lDXaqjiylcjxNEN8Du.png?width=640&crop=smart&auto=webp&s=b71261d88a38311f1bd8f030e4deb6915bf9a777"
     },
     {
      "source": "Reddit",
@@ -35,29 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "FAA issues nationwide ground stop",
-     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "National ground stop throughout the USA happening?",
      "url": "https://www.reddit.com/r/aviation/comments/1xvj4u8/national_ground_stop_throughout_the_usa_happening/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "A door I made, that\u2019s meant to look like the sun setting over the ocean.",
-     "url": "https://www.reddit.com/r/woodworking/comments/1xvl6fs/a_door_i_made_thats_meant_to_look_like_the_sun/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/j0gi05p7dg1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=04546d1027dd0fb55c48d27124bcc3eaf2cbcfa5"
     },
     {
      "source": "Reddit",
@@ -71,6 +62,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "We Shall See!",
+     "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xvlt3q/we_shall_see/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/t8uthnnwhg1i1.jpeg?width=640&crop=smart&auto=webp&s=2d73d854753a2a0c8afe59d6aa9c735397eecda8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Vance considers pulling out of 2028 run for president",
      "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
      "score": 0,
@@ -80,93 +80,79 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Video shows the aftermath of the Atlantic Asphalt tanker crashing into the American Heritage riverboat on the Mississippi River in New Orleans. Everyone on board is accounted for, and no critical injuries have been reported.",
-     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xvn7o3/video_shows_the_aftermath_of_the_atlantic_asphalt/",
+     "title": "What YouTuber or internet personality had the most tragic downfall?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xv769z/what_youtuber_or_internet_personality_had_the/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/bnh2cGsza3FzZzFpMeB-pvt1fe0BWAimAUjP-CS7Y-lDXaqjiylcjxNEN8Du.png?width=640&crop=smart&auto=webp&s=b71261d88a38311f1bd8f030e4deb6915bf9a777"
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T02:19:03.617346+00:00",
+   "fetched_at": "2026-11-14T02:49:11.477522+00:00",
    "stale": false,
    "items": [
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11056,
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1965,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 13501,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 797,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 47,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17946,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 162,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 574,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 4,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 86,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 22,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Corporate Drama",
-     "image": "https://i.redd.it/lfkgnyn51f1i1.png",
-     "url": "https://redd.it/1xvea24",
-     "ups": 36,
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 87,
      "sub": "r/memes"
     },
     {
-     "title": "What's next?",
-     "image": "https://i.redd.it/9a0qbxyzng1i1.png",
-     "url": "https://redd.it/1xvmlx5",
-     "ups": 24,
+     "title": "The kids online are crying losing their unfunny overused joke.",
+     "image": "https://i.redd.it/xok32bs6bf1i1.png",
+     "url": "https://redd.it/1xvfoy9",
+     "ups": 2717,
      "sub": "r/memes"
     },
     {
-     "title": "I swear, I was trying to help!",
-     "image": "https://i.redd.it/m1nx1up89b1i1.png",
-     "url": "https://redd.it/1xuyuge",
-     "ups": 191,
-     "sub": "r/memes"
-    },
-    {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 47140,
-     "sub": "r/memes"
-    },
-    {
-     "title": "They must be fuming",
-     "image": "https://i.redd.it/t0kz2njo0c1i1.gif",
-     "url": "https://redd.it/1xv1iyk",
-     "ups": 90,
+     "title": "A necessary inconvenience \ud83d\ude15",
+     "image": "https://i.redd.it/fdl760zuf81i1.png",
+     "url": "https://redd.it/1xum2mf",
+     "ups": 3314,
      "sub": "r/memes"
     },
     {
@@ -175,26 +161,32 @@
      "url": "https://redd.it/1xvjur1",
      "ups": 3605,
      "sub": "r/memes"
+    },
+    {
+     "title": "Outlook 11.12.26",
+     "image": "https://i.redd.it/52of20ebmd1i1.png",
+     "url": "https://redd.it/1xv70q9",
+     "ups": 143,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The Great Out(look)age of 2026",
+     "image": "https://i.redd.it/nrbxiudeob1i1.png",
+     "url": "https://redd.it/1xv0e0w",
+     "ups": 161,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T02:19:06.654217+00:00",
+   "fetched_at": "2026-11-14T02:49:14.331848+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Duffy seeks $50 billion for air traffic control",
+     "text": "US loses measles elimination status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/69fbef0b9947",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Transportation Secretary Sean Duffy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft 365 outage",
+     "text": "Canada offers to take US flights",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/69fbef0b9947",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +232,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Weird wisdom tooth stories",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4ff7d19d90",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "SpaceX debris halts Hawaii flights",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ad270089d8e8",
@@ -240,25 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Next James Bond casting speculation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e3e47ff62f60",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Concert history meme",
+     "text": "SpaceX launches Starship Flight 15",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db4b37537fe0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang affair reports",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a09490021bc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump cabinet competence",
+     "text": "Markwayne Mullin's emergency response",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25b7d052157b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b17799c01d30",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Linus chilling",
      "author": "cats",
      "url": "https://infosec.pub/post/54888855",
-     "likes": 182,
+     "likes": 199,
      "image": "https://lemmy.world/pictrs/image/0de527b9-734b-409c-b380-2bfd35fde0a2.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide",
      "author": "Fuck AI",
      "url": "https://piefed.zip/c/fuck_ai@lemmy.world/p/1999652/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide",
-     "likes": 126,
+     "likes": 140,
      "image": "https://lemmy.world/pictrs/image/6ca4eb2c-0950-450a-8daf-1d0bf93b15e6.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "My preferred method is death by Snu Snu",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54377846",
-     "likes": 159,
+     "likes": 179,
      "image": "https://lemmy.world/pictrs/image/f13fd3fd-324c-404a-8952-4756c9d9d4e9.jpeg"
     },
     {
@@ -307,17 +307,21 @@
      "text": "Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance",
      "author": "Not The Onion",
      "url": "https://feddit.org/post/37990648",
-     "likes": 226,
+     "likes": 266,
      "image": "https://lemmy.world/pictrs/image/33120d70-a9b8-450a-a433-f1c2c0b9a65d.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T02:19:07.405784+00:00",
+   "fetched_at": "2026-11-14T02:49:15.016718+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
+     "text": "I used to be a banker, but I lost interest.",
      "source": "Dad joke"
     },
     {
-     "text": "I hate perforated lines, they're tearable.",
+     "text": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
      "source": "Dad joke"
     },
     {
-     "text": "How do robots eat guacamole? With computer chips.",
+     "text": "What is the difference between ignorance and apathy?\r\n\r\nI don't know and I don't care.",
      "source": "Dad joke"
     }
    ]
