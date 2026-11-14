@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T09:51:04.493347+00:00",
+ "generated_at": "2026-11-14T09:51:21.300969+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T09:51:00.524556+00:00",
+   "fetched_at": "2026-11-14T09:51:16.430901+00:00",
    "stale": false,
    "items": [
     {
@@ -89,42 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T09:51:01.614079+00:00",
+   "fetched_at": "2026-11-14T09:51:17.826728+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 76,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2787,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "everythingGoesIntoThePostHole",
      "image": "https://i.redd.it/y0rn3i9koa0i1.png",
      "url": "https://redd.it/1xqmwj4",
      "ups": 4319,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 128,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 792,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 13662,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2097,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,24 +121,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 50623,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 7,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2462,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Let's respect his request",
+     "image": "https://i.redd.it/bebibo2yjf1i1.png",
+     "url": "https://redd.it/1xvh0uh",
+     "ups": 108,
      "sub": "r/memes"
     },
     {
-     "title": "Outlook 11.12.26",
-     "image": "https://i.redd.it/52of20ebmd1i1.png",
-     "url": "https://redd.it/1xv70q9",
-     "ups": 151,
+     "title": "Jenson's motto",
+     "image": "https://i.redd.it/qyhear1i9i1i1.png",
+     "url": "https://redd.it/1xvt5zv",
+     "ups": 10,
      "sub": "r/memes"
     },
     {
-     "title": "I swear, I was trying to help!",
-     "image": "https://i.redd.it/m1nx1up89b1i1.png",
-     "url": "https://redd.it/1xuyuge",
-     "ups": 266,
+     "title": "Corporate Drama",
+     "image": "https://i.redd.it/lfkgnyn51f1i1.png",
+     "url": "https://redd.it/1xvea24",
+     "ups": 47,
      "sub": "r/memes"
     },
     {
@@ -163,41 +163,25 @@
      "sub": "r/memes"
     },
     {
-     "title": "Just why dude",
-     "image": "https://i.redd.it/mjhaagjcw91i1.png",
-     "url": "https://redd.it/1xutac2",
-     "ups": 697,
+     "title": "you pay 100$ to throw dog poop at people, while im here doing it for free",
+     "image": "https://i.redd.it/uuvq2b0raf1i1.png",
+     "url": "https://redd.it/1xvfnk6",
+     "ups": 45,
      "sub": "r/memes"
     },
     {
-     "title": "It's her job and she's doing it well",
-     "image": "https://i.redd.it/kz5kagshrg1i1.png",
-     "url": "https://redd.it/1xvn1ti",
-     "ups": 67,
+     "title": "What's next?",
+     "image": "https://i.redd.it/9a0qbxyzng1i1.png",
+     "url": "https://redd.it/1xvmlx5",
+     "ups": 29,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T09:51:03.467783+00:00",
+   "fetched_at": "2026-11-14T09:51:19.894134+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Duffy seeks $50B for aviation",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ae353b8cee7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft outage blame meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "FAA ground stop jokes",
@@ -216,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Microsoft outage blame meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's Nvidia stock trades",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "SpaceX launches Starship Flight 15",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns from Nvidia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Steve Miner to direct new Friday the 13th",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham seeks \"win-win\" EU deal",
+     "text": "Pope Leo XIV visits Latin America",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c69d0250b5d6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's Nvidia stock trades",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Duffy seeks $50B for aviation",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ae353b8cee7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democratic unity after midterms",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
      "likes": 0,
      "image": ""
     },
@@ -291,7 +291,7 @@
      "text": "Forcing yourself to smile can actually make you miserable",
      "author": "science",
      "url": "https://lemmy.world/post/54391613",
-     "likes": 6,
+     "likes": 7,
      "image": "https://lemmy.world/pictrs/image/3ca4c929-b450-4041-b0d5-31ad1c7569c3.webp"
     },
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T09:51:03.843886+00:00",
+   "fetched_at": "2026-11-14T09:51:20.682097+00:00",
    "stale": false,
    "items": [
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the man put his money in the freezer? He wanted cold hard cash!",
+     "text": "How does a penguin build it\u2019s house? Igloos it together.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a cow with two legs? Lean beef.",
+     "text": "What is this movie about? It is about 2 hours long.",
      "source": "Dad joke"
     },
     {
-     "text": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
+     "text": "Why do choirs keep buckets handy? So they can carry their tune",
      "source": "Dad joke"
     }
    ]
