@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T00:48:45.080923+00:00",
+ "generated_at": "2026-11-14T01:18:53.405031+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T00:48:39.867136+00:00",
+   "fetched_at": "2026-11-14T01:18:46.606367+00:00",
    "stale": false,
    "items": [
     {
@@ -44,15 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Plating a winter bird buffet for the neighborhood regulars",
-     "url": "https://www.reddit.com/r/oddlysatisfying/comments/1xvlxa3/plating_a_winter_bird_buffet_for_the_neighborhood/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/OXlvbm5tcnFpZzFpMbuuvDDu4UqpNgQEcsy5XfgVF7_yH7rdF1vRxZtkskDy.png?width=320&crop=smart&auto=webp&s=ab4811c727abd42057770038c3ac2dd3ce1fc596"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "National ground stop throughout the USA happening?",
      "url": "https://www.reddit.com/r/aviation/comments/1xvj4u8/national_ground_stop_throughout_the_usa_happening/",
      "score": 0,
@@ -71,88 +62,90 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Vance considers pulling out of 2028 run for president",
-     "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aeTYYnGWG8Uw7BAeCfqFVJdSsh_BeiBvfc8ps1YykuY.jpeg?width=640&crop=smart&auto=webp&s=d9c16c6d0af9485bfa6dd058b8c76ad37ad32777"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "First time owning a cat! Is this normal??",
      "url": "https://www.reddit.com/r/cats/comments/1xvmmzg/first_time_owning_a_cat_is_this_normal/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/oojojv0aog1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c5f22e7985a199ba881061af58cfc2267bbb7c60"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Plating a winter bird buffet for the neighborhood regulars",
+     "url": "https://www.reddit.com/r/oddlysatisfying/comments/1xvlxa3/plating_a_winter_bird_buffet_for_the_neighborhood/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/OXlvbm5tcnFpZzFpMbuuvDDu4UqpNgQEcsy5XfgVF7_yH7rdF1vRxZtkskDy.png?width=320&crop=smart&auto=webp&s=ab4811c727abd42057770038c3ac2dd3ce1fc596"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xvlc7c/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/319onmhfeg1i1.png?width=640&crop=smart&auto=webp&s=5492c421b8d3a2e7fa7adc696b390cac65716bcb"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T00:48:41.437197+00:00",
+   "fetched_at": "2026-11-14T01:18:48.269421+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 100,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 400,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 44,
+     "title": "cmonGitHubAgain",
+     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
+     "url": "https://redd.it/1xttllg",
+     "ups": 1143,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 607,
+     "title": "meetPotentialLanguage",
+     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
+     "url": "https://redd.it/1xrwkc1",
+     "ups": 128,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 6,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17946,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWasJustOneVariable",
-     "image": "https://i.redd.it/1g1ms7yi670i1.png",
-     "url": "https://redd.it/1xq77a7",
-     "ups": 3457,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11056,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "It's her job and she's doing it well",
-     "image": "https://i.redd.it/kz5kagshrg1i1.png",
-     "url": "https://redd.it/1xvn1ti",
-     "ups": 8,
+     "title": "Where, Who and What?",
+     "image": "https://i.redd.it/ip6klvet271i1.png",
+     "url": "https://redd.it/1xuep2v",
+     "ups": 2022,
      "sub": "r/memes"
     },
     {
-     "title": "Found the culprit...",
-     "image": "https://i.redd.it/nbiutdm8nd1i1.png",
-     "url": "https://redd.it/1xv752p",
-     "ups": 68,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Outlook 11.12.26",
-     "image": "https://i.redd.it/52of20ebmd1i1.png",
-     "url": "https://redd.it/1xv70q9",
-     "ups": 134,
+     "title": "The Great Out(look)age of 2026",
+     "image": "https://i.redd.it/nrbxiudeob1i1.png",
+     "url": "https://redd.it/1xv0e0w",
+     "ups": 160,
      "sub": "r/memes"
     },
     {
@@ -163,33 +156,32 @@
      "sub": "r/memes"
     },
     {
-     "title": "Where, Who and What?",
-     "image": "https://i.redd.it/ip6klvet271i1.png",
-     "url": "https://redd.it/1xuep2v",
-     "ups": 2022,
+     "title": "Slanderhog [7]: I'm slandering the Master Emerald from the Sonic games",
+     "image": "https://i.redd.it/mfaap628qg1i1.png",
+     "url": "https://redd.it/1xvmw0a",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
-     "title": "Just why dude",
-     "image": "https://i.redd.it/mjhaagjcw91i1.png",
-     "url": "https://redd.it/1xutac2",
-     "ups": 474,
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 45610,
+     "sub": "r/memes"
+    },
+    {
+     "title": "you pay 100$ to throw dog poop at people, while im here doing it for free",
+     "image": "https://i.redd.it/uuvq2b0raf1i1.png",
+     "url": "https://redd.it/1xvfnk6",
+     "ups": 21,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T00:48:43.721728+00:00",
+   "fetched_at": "2026-11-14T01:18:51.112609+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump cabinet competence",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25b7d052157b",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Failed update causes FAA outage",
@@ -200,9 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
+     "text": "College football team flights grounded",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9b6d155c60ff",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang affair reports",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a09490021bc",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "SpaceX launches Starship Flight 15",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tanker hits cruise ship in New Orleans",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +248,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft 365 outage",
+     "text": "SpaceX launches Starship Flight 15",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +264,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jake Bauers signs free agent deal",
+     "text": "Flavio Bolsonaro stuck at Reagan airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9eefb4a61dff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9a940d6dab61",
      "likes": 0,
      "image": ""
     },
@@ -271,19 +279,11 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Sean Duffy promotes Secretaries Cup",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/787df3aa5b55",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "Linus chilling",
      "author": "cats",
      "url": "https://infosec.pub/post/54888855",
-     "likes": 113,
+     "likes": 141,
      "image": "https://lemmy.world/pictrs/image/0de527b9-734b-409c-b380-2bfd35fde0a2.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide",
      "author": "Fuck AI",
      "url": "https://piefed.zip/c/fuck_ai@lemmy.world/p/1999652/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide",
-     "likes": 75,
+     "likes": 95,
      "image": "https://lemmy.world/pictrs/image/6ca4eb2c-0950-450a-8daf-1d0bf93b15e6.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "My preferred method is death by Snu Snu",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54377846",
-     "likes": 98,
+     "likes": 120,
      "image": "https://lemmy.world/pictrs/image/f13fd3fd-324c-404a-8952-4756c9d9d4e9.jpeg"
     },
     {
@@ -307,29 +307,29 @@
      "text": "Palantir CEO, With a Straight Face, Warns That Wealth Tax Will Cause Mass Surveillance",
      "author": "Not The Onion",
      "url": "https://feddit.org/post/37990648",
-     "likes": 142,
+     "likes": 165,
      "image": "https://lemmy.world/pictrs/image/33120d70-a9b8-450a-a433-f1c2c0b9a65d.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T00:48:44.349877+00:00",
+   "fetched_at": "2026-11-14T01:18:52.689243+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"We messed up the keming again guys.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
      "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
@@ -337,28 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The urge to sing the Lion King song is just a whim away.",
+     "text": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
      "source": "Dad joke"
     },
     {
-     "text": "My sea sickness comes in waves.",
+     "text": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
      "source": "Dad joke"
     },
     {
-     "text": "You know that cemetery up the road? People are dying to get in there.",
+     "text": "My dentist is the best, he even has a little plaque!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
