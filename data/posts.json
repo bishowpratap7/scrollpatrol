@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-14T06:20:22.470962+00:00",
+ "generated_at": "2026-11-14T06:50:28.260110+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T06:20:18.349626+00:00",
+   "fetched_at": "2026-11-14T06:50:24.039248+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "After 26 years, the US has lost its measles elimination status",
-     "url": "https://www.reddit.com/r/news/comments/1xvq94p/after_26_years_the_us_has_lost_its_measles/",
+     "title": "Filing the gap",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvrl5f/filing_the_gap/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/0xf6r7fjuh1i1.jpeg?width=640&crop=smart&auto=webp&s=92d6843473905cddcd02210d7533d6452688cb08"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "FAA issues nationwide ground stop",
-     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
+     "title": "After 26 years, the US has lost its measles elimination status",
+     "url": "https://www.reddit.com/r/news/comments/1xvq94p/after_26_years_the_us_has_lost_its_measles/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -35,29 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "National ground stop throughout the USA happening?",
-     "url": "https://www.reddit.com/r/aviation/comments/1xvj4u8/national_ground_stop_throughout_the_usa_happening/",
+     "title": "FAA issues nationwide ground stop",
+     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Filing the gap",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvrl5f/filing_the_gap/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/0xf6r7fjuh1i1.jpeg?width=640&crop=smart&auto=webp&s=92d6843473905cddcd02210d7533d6452688cb08"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "They disappeared at the end of the 90s. Just like yearly raises",
-     "url": "https://www.reddit.com/r/WeirdCareers/comments/1xv3orh/they_disappeared_at_the_end_of_the_90s_just_like/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/bthyhdr5pc1i1.png?width=640&crop=smart&auto=webp&s=d430cd3933c8f23ec2e8875307027e2b67d1c041"
     },
     {
      "source": "Reddit",
@@ -71,11 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding/",
+     "title": "National ground stop throughout the USA happening?",
+     "url": "https://www.reddit.com/r/aviation/comments/1xvj4u8/national_ground_stop_throughout_the_usa_happening/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/C8NSCr8mKLfe9yErn0jkpPniopg7h7fPHwU1LdMiDNg.jpeg?width=640&crop=smart&auto=webp&s=24ee218b33f49897f0449b113a41254c27d170ee"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -85,27 +67,31 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/C8NSCr8mKLfe9yErn0jkpPniopg7h7fPHwU1LdMiDNg.jpeg?width=640&crop=smart&auto=webp&s=24ee218b33f49897f0449b113a41254c27d170ee"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Video shows the aftermath of the Atlantic Asphalt tanker crashing into the American Heritage riverboat on the Mississippi River in New Orleans. Everyone on board is accounted for, and no critical injuries have been reported.",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xvn7o3/video_shows_the_aftermath_of_the_atlantic_asphalt/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bnh2cGsza3FzZzFpMeB-pvt1fe0BWAimAUjP-CS7Y-lDXaqjiylcjxNEN8Du.png?width=640&crop=smart&auto=webp&s=b71261d88a38311f1bd8f030e4deb6915bf9a777"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T06:20:19.365833+00:00",
+   "fetched_at": "2026-11-14T06:50:25.177850+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 800,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "choosingMyFirstProgrammingLanguage",
      "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
@@ -114,45 +100,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11079,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 646,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 606,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 25,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "looksGoodToMeBro",
      "image": "https://i.redd.it/gk3tge2zkd1i1.png",
      "url": "https://redd.it/1xv6wbp",
-     "ups": 94,
+     "ups": 96,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 58,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Corporate Drama",
-     "image": "https://i.redd.it/lfkgnyn51f1i1.png",
-     "url": "https://redd.it/1xvea24",
-     "ups": 43,
+     "title": "The Great Out(look)age of 2026",
+     "image": "https://i.redd.it/nrbxiudeob1i1.png",
+     "url": "https://redd.it/1xv0e0w",
+     "ups": 166,
      "sub": "r/memes"
     },
     {
-     "title": "What's next?",
-     "image": "https://i.redd.it/9a0qbxyzng1i1.png",
-     "url": "https://redd.it/1xvmlx5",
-     "ups": 27,
+     "title": "Found the culprit...",
+     "image": "https://i.redd.it/nbiutdm8nd1i1.png",
+     "url": "https://redd.it/1xv752p",
+     "ups": 74,
      "sub": "r/memes"
     },
     {
-     "title": "It's her job and she's doing it well",
-     "image": "https://i.redd.it/kz5kagshrg1i1.png",
-     "url": "https://redd.it/1xvn1ti",
-     "ups": 47,
+     "title": "A necessary inconvenience \ud83d\ude15",
+     "image": "https://i.redd.it/fdl760zuf81i1.png",
+     "url": "https://redd.it/1xum2mf",
+     "ups": 3344,
+     "sub": "r/memes"
+    },
+    {
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 3161,
      "sub": "r/memes"
     },
     {
@@ -163,23 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Slanderhog [7]: I'm slandering the Master Emerald from the Sonic games",
-     "image": "https://i.redd.it/mfaap628qg1i1.png",
-     "url": "https://redd.it/1xvmw0a",
-     "ups": 8,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A necessary inconvenience \ud83d\ude15",
-     "image": "https://i.redd.it/fdl760zuf81i1.png",
-     "url": "https://redd.it/1xum2mf",
-     "ups": 3344,
+     "title": "Just why dude",
+     "image": "https://i.redd.it/mjhaagjcw91i1.png",
+     "url": "https://redd.it/1xutac2",
+     "ups": 637,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T06:20:21.245078+00:00",
+   "fetched_at": "2026-11-14T06:50:27.104446+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Concerts with women lead singers",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Close midterm races being counted",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
      "likes": 0,
      "image": ""
     },
@@ -208,57 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft outage blame meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "FAA ground stop jokes",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Weird wisdom tooth stories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6f4ff7d19d90",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Best US airport to be stranded in",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2945a08d9654",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Rings of Power season 3",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a1adf1fe9566",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ellipsus launches public profiles",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/de060256cee2",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +216,65 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump cabinet competence",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25b7d052157b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft outage blame meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pochettino to lead Manchester United",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7273607d8cca",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang affair reports",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a09490021bc",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Close midterm races being counted",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports daily Russian losses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "Well they're not wrong",
      "author": "Trippin' Through Time",
      "url": "https://piefed.blahaj.zone/c/trippinthroughtime@lemmy.ca/p/1066672/well-they-re-not-wrong",
-     "likes": 33,
+     "likes": 64,
      "image": "https://lemmy.world/pictrs/image/8f0e7273-9bd0-490d-a8e0-a26c1ae0baf8.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Silver Lining",
-     "author": "memes",
-     "url": "https://piefed.world/c/memes/p/1533419/silver-lining",
-     "likes": 83,
-     "image": "https://lemmy.world/pictrs/image/976f676c-d0e7-43be-9404-13c01f1adc72.jpeg"
+     "text": "After Hungarians voted Viktor Orb\u00e1n out, investigations into corruption under his government have begun",
+     "author": "Politics",
+     "url": "https://piefed.social/c/politics@piefed.social/p/2601606/after-hungarians-voted-viktor-orban-out-investigations-into-corruption-under-his-govern",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/fa5762e8-49ff-4b68-aa59-6c20b7d92584.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence? Top officials are investigating.",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54386494",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/00ee11df-d157-41a9-8861-6ee53b58d6eb.jpeg"
+     "text": "Cabinet of Curiosities by Georg Hinz (1666)",
+     "author": "Traditional Art",
+     "url": "https://lemmy.world/post/54387484",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/21bacab5-d175-4f4d-afa4-515083902421.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The datacenter industry is using propaganda to fight opposition: Big tech has used misdirection, disinformation and jargon to obscure the harm the facilities can cause to communities.",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54386582",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/aaf615d3-6dbd-4cfc-8a7f-fc0c4fedbd91.jpeg"
+     "text": "Edit: Peter Saunders",
+     "author": "Comic Strip Edits ",
+     "url": "https://lemmy.world/post/54387492",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/d8712557-2df8-4588-b0c4-19a384e3e2c4.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T06:20:21.771599+00:00",
+   "fetched_at": "2026-11-14T06:50:27.558137+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
     {
      "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.",
+     "text": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
      "source": "Dad joke"
     },
     {
-     "text": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
+     "text": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was ten scared of seven? Because seven ate nine.",
+     "text": "Why did the cookie cry? It was feeling crumby.",
      "source": "Dad joke"
     }
    ]
