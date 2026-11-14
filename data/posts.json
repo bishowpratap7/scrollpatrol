@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-14T08:50:52.651533+00:00",
+ "generated_at": "2026-11-14T09:20:58.693167+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T08:50:48.532636+00:00",
+   "fetched_at": "2026-11-14T09:20:54.233302+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "FAA issues nationwide ground stop",
-     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
+     "title": "CNN Aviation Analyst Says \u2018It\u2019s Just Too Much of a Coincidence\u2019 FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
+     "url": "https://www.reddit.com/r/technology/comments/1xvudm2/cnn_aviation_analyst_says_its_just_too_much_of_a/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/LffxtteSglVfAQBDkd_vDfjRCQhsOb3N3rHNuRfr8F4.jpeg?width=640&crop=smart&auto=webp&s=5336b1e4742d8bc36407a6ce3e5227c652e0c719"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Coffee server refused to accept $21 for a $15.28 order",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xvpxfs/coffee_server_refused_to_accept_21_for_a_1528/",
+     "title": "FAA issues nationwide ground stop",
+     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -35,11 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "CNN Aviation Analyst Says \u2018It\u2019s Just Too Much of a Coincidence\u2019 FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
-     "url": "https://www.reddit.com/r/technology/comments/1xvudm2/cnn_aviation_analyst_says_its_just_too_much_of_a/",
+     "title": "Coffee server refused to accept $21 for a $15.28 order",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xvpxfs/coffee_server_refused_to_accept_21_for_a_1528/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/LffxtteSglVfAQBDkd_vDfjRCQhsOb3N3rHNuRfr8F4.jpeg?width=640&crop=smart&auto=webp&s=5336b1e4742d8bc36407a6ce3e5227c652e0c719"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -71,32 +71,53 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Every Flight Is Grounded on Day Trump Admin Installed AI Controls",
+     "url": "https://www.reddit.com/r/politics/comments/1xvqjry/every_flight_is_grounded_on_day_trump_admin/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/Mfa7tM2fRdPVpGt4J2AXJcU6eMDiJSYcGlkFn0jj9uY.jpeg?width=640&crop=smart&auto=webp&s=9b20658f5954c60854de21a93ca6ceb7b73cd660"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Vance considers pulling out of 2028 run for president",
      "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/aeTYYnGWG8Uw7BAeCfqFVJdSsh_BeiBvfc8ps1YykuY.jpeg?width=640&crop=smart&auto=webp&s=d9c16c6d0af9485bfa6dd058b8c76ad37ad32777"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Why are all flights in the USA grounded right now? What happened",
-     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1xvk9av/why_are_all_flights_in_the_usa_grounded_right_now/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T08:50:49.658170+00:00",
+   "fetched_at": "2026-11-14T09:20:55.270035+00:00",
    "stale": false,
    "items": [
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 252,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 97,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1228,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23750,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "atleastWeCanTrustGoogle",
+     "image": "https://i.redd.it/325jrw3xsh1i1.png",
+     "url": "https://redd.it/1xvren4",
+     "ups": 6752,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,20 +128,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 1898,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1964,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
      "title": "everythingGoesIntoThePostHole",
      "image": "https://i.redd.it/y0rn3i9koa0i1.png",
      "url": "https://redd.it/1xqmwj4",
@@ -128,24 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2097,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Speaking from experience",
-     "image": "https://i.redd.it/8f7eebouch1i1.png",
-     "url": "https://redd.it/1xvpmvf",
-     "ups": 3143,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Outlook 11.12.26",
-     "image": "https://i.redd.it/52of20ebmd1i1.png",
-     "url": "https://redd.it/1xv70q9",
-     "ups": 154,
+     "title": "The kids online are crying losing their unfunny overused joke.",
+     "image": "https://i.redd.it/xok32bs6bf1i1.png",
+     "url": "https://redd.it/1xvfoy9",
+     "ups": 4218,
      "sub": "r/memes"
     },
     {
@@ -156,45 +149,52 @@
      "sub": "r/memes"
     },
     {
-     "title": "The Great Out(look)age of 2026",
-     "image": "https://i.redd.it/nrbxiudeob1i1.png",
-     "url": "https://redd.it/1xv0e0w",
-     "ups": 165,
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 5707,
      "sub": "r/memes"
     },
     {
-     "title": "And me in the aisle seat too",
-     "image": "https://i.redd.it/r30natv9ug1i1.png",
-     "url": "https://redd.it/1xvndzp",
-     "ups": 1137,
+     "title": "It's her job and she's doing it well",
+     "image": "https://i.redd.it/kz5kagshrg1i1.png",
+     "url": "https://redd.it/1xvn1ti",
+     "ups": 57,
      "sub": "r/memes"
     },
     {
-     "title": "It just feels right",
-     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
-     "url": "https://redd.it/1xvjur1",
-     "ups": 9400,
+     "title": "Jenson's motto",
+     "image": "https://i.redd.it/qyhear1i9i1i1.png",
+     "url": "https://redd.it/1xvt5zv",
+     "ups": 8,
+     "sub": "r/memes"
+    },
+    {
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 49930,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T08:50:51.539484+00:00",
+   "fetched_at": "2026-11-14T09:20:57.167577+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "FAA ground stop jokes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft outage blame meme",
+     "text": "Trump's Nvidia stock trades",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
      "likes": 0,
      "image": ""
     },
@@ -208,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FAA ground stop jokes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Concerts with women lead singers",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
@@ -224,17 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
+     "text": "Microsoft outage blame meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +232,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Wholesale prices hit four-year high",
+     "text": "El Ni\u00f1o brings storms to California",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4d3a3365de2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62469417a673",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Skydance reworks DCU after Gunn exit",
+     "text": "Playing Deadlock",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5408f000f708",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
+     "text": "Tanker hits cruise ship in New Orleans",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Duffy seeks $50B for aviation",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ae353b8cee7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump Jr. defends Russell Brand",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Stop that",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63282215",
-     "likes": 23,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/ae31b019-c1f4-4d87-b617-3fbce3032144.jpeg"
     },
     {
@@ -291,41 +291,37 @@
      "text": "the fascists are running tech",
      "author": "Programmer Humor",
      "url": "https://lemmy.blahaj.zone/post/50476270",
-     "likes": 99,
+     "likes": 135,
      "image": "https://lemmy.world/pictrs/image/30073d69-4e5c-4b8b-8003-888501ebcf1c.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "1.3Gbps",
-     "author": "Memes",
-     "url": "https://lemmy.ml/post/55293329",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/6b4aea29-2540-4407-a0d1-d6435f7f4924.jpeg"
+     "text": "SPD-Parteivorsitz: SPD-Arbeitsgruppen wollen Wiederwahl von Klingbeil offenbar verhindern",
+     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
+     "url": "https://feddit.org/post/38005213",
+     "likes": 10,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Astro Bot becomes the first PS5 exclusive to get an unofficial native PC port, with DLSS pushing it past 120 FPS",
      "author": "PC Gaming",
      "url": "https://lemmy.ca/post/73829883",
-     "likes": 6,
+     "likes": 13,
      "image": "https://lemmy.world/pictrs/image/27341f87-216d-4c17-838f-e11656cd7e87.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T08:50:52.102971+00:00",
+   "fetched_at": "2026-11-14T09:20:58.024302+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -333,32 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do you call a cow with no legs? Ground beef.",
      "source": "Dad joke"
     },
     {
-     "text": "What musical instrument is found in the bathroom? A tuba toothpaste.",
+     "text": "What did the drummer name her twin daughters? Anna One, Anna Two...",
      "source": "Dad joke"
     },
     {
-     "text": "How does a dyslexic poet write? Inverse.",
+     "text": "What's the worst part about being a cross-eyed teacher?\r\n\r\nThey can't control their pupils.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
