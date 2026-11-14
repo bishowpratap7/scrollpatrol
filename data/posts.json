@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T10:51:34.571822+00:00",
+ "generated_at": "2026-11-14T11:21:40.889513+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T10:51:30.134099+00:00",
+   "fetched_at": "2026-11-14T11:21:35.971495+00:00",
    "stale": false,
    "items": [
     {
@@ -44,6 +44,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "National ground stop throughout the USA happening?",
+     "url": "https://www.reddit.com/r/aviation/comments/1xvj4u8/national_ground_stop_throughout_the_usa_happening/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
      "url": "https://www.reddit.com/r/news/comments/1xvuixd/democrat_jonathan_kreisstomkins_wins_race_for/",
      "score": 0,
@@ -53,11 +62,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "National ground stop throughout the USA happening?",
-     "url": "https://www.reddit.com/r/aviation/comments/1xvj4u8/national_ground_stop_throughout_the_usa_happening/",
+     "title": "She saved her language from going extinct",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xvxpxa/she_saved_her_language_from_going_extinct/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/rabhsibykj1i1.jpeg?width=640&crop=smart&auto=webp&s=782ebae8e5bf1c879ad45758dc507526e79737e1"
     },
     {
      "source": "Reddit",
@@ -76,48 +85,39 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "[BOTW] Zelda was dying before BOTW came out according to two former Nintendo employees.",
-     "url": "https://www.reddit.com/r/zelda/comments/1xvb4jx/botw_zelda_was_dying_before_botw_came_out/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/320gegxwge1i1.png?width=640&crop=smart&auto=webp&s=2c8951f5939bd7def5b1166f0db1bb999e031826"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T10:51:31.376937+00:00",
+   "fetched_at": "2026-11-14T11:21:37.391010+00:00",
    "stale": false,
    "items": [
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 603,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 27,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 5,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 100,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "noAgentLeftBehind",
-     "image": "https://i.redd.it/u12ee97oi10i1.png",
-     "url": "https://redd.it/1xpl67i",
-     "ups": 7703,
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 301,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1969,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2467,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,38 +128,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 802,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 13692,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 50623,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Characters whose name everyone gets wrong: Annual meeting",
-     "image": "https://i.redd.it/gsfok1n4c71i1.png",
-     "url": "https://redd.it/1xug1qc",
-     "ups": 2762,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Found the culprit...",
-     "image": "https://i.redd.it/nbiutdm8nd1i1.png",
-     "url": "https://redd.it/1xv752p",
-     "ups": 76,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Speaking from experience",
-     "image": "https://i.redd.it/8f7eebouch1i1.png",
-     "url": "https://redd.it/1xvpmvf",
-     "ups": 4287,
+     "title": "Corporate Drama",
+     "image": "https://i.redd.it/lfkgnyn51f1i1.png",
+     "url": "https://redd.it/1xvea24",
+     "ups": 47,
      "sub": "r/memes"
     },
     {
@@ -170,23 +149,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "The kids online are crying losing their unfunny overused joke.",
-     "image": "https://i.redd.it/xok32bs6bf1i1.png",
-     "url": "https://redd.it/1xvfoy9",
-     "ups": 4707,
+     "title": "It just feels right",
+     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
+     "url": "https://redd.it/1xvjur1",
+     "ups": 10717,
+     "sub": "r/memes"
+    },
+    {
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 8633,
+     "sub": "r/memes"
+    },
+    {
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 50623,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's her job and she's doing it well",
+     "image": "https://i.redd.it/kz5kagshrg1i1.png",
+     "url": "https://redd.it/1xvn1ti",
+     "ups": 67,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T10:51:33.381108+00:00",
+   "fetched_at": "2026-11-14T11:21:39.366018+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Kushner, Witkoff Ukraine peace talks",
+     "text": "Duffy seeks $50B for aviation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ae353b8cee7",
      "likes": 0,
      "image": ""
     },
@@ -200,41 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Trump's Nvidia stock trades",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Microsoft outage blame meme",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "David Cameron on blaming Brexit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7aba8a3238fa",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FAA ground stop jokes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand court case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "\"Save the whales\" campaign succeeds",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/aedc1d1adb13",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +224,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang affair reports",
+     "text": "FAA ground stop jokes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a09490021bc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tanker hits cruise ship in New Orleans",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Horses ride Detroit city bus",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +256,109 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump cabinet competence",
+     "text": "Steve Miner to direct new Friday the 13th",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25b7d052157b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's Nvidia stock trades",
+     "text": "Kushner, Witkoff Ukraine peace talks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "David Cameron on blaming Brexit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7aba8a3238fa",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "habemus ceom",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.blahaj.zone/post/50479252",
-     "likes": 65,
-     "image": "https://lemmy.world/pictrs/image/08030d80-88fb-43ea-adcc-e5db055906c8.webp"
+     "text": "KDE is hiring a developer with a focus for Plasma Mobile!",
+     "author": "Linux Phones",
+     "url": "https://lemmy.world/post/54392985",
+     "likes": 14,
+     "image": "https://ev.kde.org/thumbnail.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Let the good times roll",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://lemmy.world/post/54392637",
-     "likes": 7,
+     "likes": 23,
      "image": "https://lemmy.world/pictrs/image/ad9206aa-cffd-41c5-8d51-4b1bf357d0cd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "glendola",
-     "author": "unix_surrealism",
-     "url": "https://lemmy.sdf.org/post/61856518",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/4c603516-f813-4df5-96c3-e735aab866c1.jpeg"
+     "text": "habemus ceom",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.blahaj.zone/post/50479252",
+     "likes": 94,
+     "image": "https://lemmy.world/pictrs/image/08030d80-88fb-43ea-adcc-e5db055906c8.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
-     "author": "World News",
-     "url": "https://lemmy.sdf.org/post/61856846",
-     "likes": 7,
-     "image": "https://lemmy.world/pictrs/image/06f316d5-2d8a-4f38-bed9-8b2362768a4f.jpeg"
+     "text": "KDE is hiring a developer with a focus for Plasma Mobile!",
+     "author": "Linux",
+     "url": "https://lemmy.world/post/54392994",
+     "likes": 9,
+     "image": "https://ev.kde.org/thumbnail.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T10:51:34.021480+00:00",
+   "fetched_at": "2026-11-14T11:21:40.201031+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Where do owls go to buy their baby clothes? The owlet malls.",
+     "text": "I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
+     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
      "source": "Dad joke"
     },
     {
-     "text": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
+     "text": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
