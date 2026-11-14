@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-14T22:24:49.357730+00:00",
+ "generated_at": "2026-11-14T22:54:56.044323+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T22:24:43.933283+00:00",
+   "fetched_at": "2026-11-14T22:54:51.067009+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "me_irl",
+     "url": "https://www.reddit.com/r/me_irl/comments/1xwb1gc/me_irl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/YzBzaTB0emlxbTFpMWC6m9qbwCUw80KCZHfZg4CqQQZ8pNogF90dxWT4ed-M.jpeg?width=640&crop=smart&auto=webp&s=85a753c59e25405dbe39b281bffe575c9f184673"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -17,20 +26,38 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Fetterman says change in Senate leadership could push him to leave Dem party",
-     "url": "https://www.reddit.com/r/anticapitalism/comments/1xw9gfi/fetterman_says_change_in_senate_leadership_could/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZbfWsDg7D0OU7b_Ljev5kdfMVMOhtbxeEQB7S3GXseY.jpeg?width=640&crop=smart&auto=webp&s=0d11cb155766dd06d1a69edb63c994ceb3509a1c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "DD/MM/YY is best",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Incompetent corruption",
+     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xwa5fw/incompetent_corruption/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/p64k6ry3km1i1.jpeg?width=640&crop=smart&auto=webp&s=fe87775a3ba9d4424e43ac9ebefc18cba2ff4362"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Buster gets busted",
+     "url": "https://www.reddit.com/r/funny/comments/1xwbw3i/buster_gets_busted/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/c2IyY3djNHh3bTFpMXvQQ4MClmJLTEUFiAUmqkMQ-aE1RAU9lu7frE5J9IVo.png?width=320&crop=smart&auto=webp&s=e96464e30a797e38bdd4d5b9abf548c9e8b620a3"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Fetterman says change in Senate leadership could push him to leave Dem party",
+     "url": "https://www.reddit.com/r/anticapitalism/comments/1xw9gfi/fetterman_says_change_in_senate_leadership_could/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZbfWsDg7D0OU7b_Ljev5kdfMVMOhtbxeEQB7S3GXseY.jpeg?width=640&crop=smart&auto=webp&s=0d11cb155766dd06d1a69edb63c994ceb3509a1c"
     },
     {
      "source": "Reddit",
@@ -58,101 +85,60 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/ejFvaXZ6OHJhaTFpMW5-IWjQqGUYWv1V71QwykFE69rep3O_J8S93RF5Mo5F.png?width=640&crop=smart&auto=webp&s=d2e4491969aca1a45c7f26be3d4ac5033325649b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Invited my parents to my house on Sunday. They said \u2018no\u2019.",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xw0cl1/invited_my_parents_to_my_house_on_sunday_they/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "me_irl",
-     "url": "https://www.reddit.com/r/me_irl/comments/1xwb1gc/me_irl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YzBzaTB0emlxbTFpMWC6m9qbwCUw80KCZHfZg4CqQQZ8pNogF90dxWT4ed-M.jpeg?width=640&crop=smart&auto=webp&s=85a753c59e25405dbe39b281bffe575c9f184673"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Incompetent corruption",
-     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xwa5fw/incompetent_corruption/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/p64k6ry3km1i1.jpeg?width=640&crop=smart&auto=webp&s=fe87775a3ba9d4424e43ac9ebefc18cba2ff4362"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T22:24:45.322132+00:00",
+   "fetched_at": "2026-11-14T22:54:52.088994+00:00",
    "stale": false,
    "items": [
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 80,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 57,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 102,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 1771,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "godIHateWhenThisHappens",
      "image": "https://i.redd.it/kkuprpag3n0i1.png",
      "url": "https://redd.it/1xs1fbm",
-     "ups": 610,
+     "ups": 611,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 811,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 300,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 349,
+     "title": "ripSupportCommunity",
+     "image": "https://i.redd.it/6f9oi74h4k1i1.gif",
+     "url": "https://redd.it/1xvzfeh",
+     "ups": 57,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17948,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The kids online are crying losing their unfunny overused joke.",
-     "image": "https://i.redd.it/xok32bs6bf1i1.png",
-     "url": "https://redd.it/1xvfoy9",
-     "ups": 5571,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's her job and she's doing it well",
-     "image": "https://i.redd.it/kz5kagshrg1i1.png",
-     "url": "https://redd.it/1xvn1ti",
-     "ups": 92,
-     "sub": "r/memes"
-    },
-    {
-     "title": "What on earth is happening over there",
-     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
-     "url": "https://redd.it/1xw9i20",
-     "ups": 18,
+     "title": "Majority of us will have more important shit to do",
+     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
+     "url": "https://redd.it/1xwblt2",
+     "ups": 185,
      "sub": "r/memes"
     },
     {
@@ -163,23 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "FAA communications officer",
-     "image": "https://i.redd.it/mhjc1x7edh1i1.gif",
-     "url": "https://redd.it/1xvpoz0",
-     "ups": 112,
+     "title": "How high are you?",
+     "image": "https://i.redd.it/kzgp6zz9dl1i1.png",
+     "url": "https://redd.it/1xw4aa2",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
-     "title": "And me in the aisle seat too",
-     "image": "https://i.redd.it/r30natv9ug1i1.png",
-     "url": "https://redd.it/1xvndzp",
-     "ups": 5356,
+     "title": "Speaking from experience",
+     "image": "https://i.redd.it/8f7eebouch1i1.png",
+     "url": "https://redd.it/1xvpmvf",
+     "ups": 8262,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"a unit of cultural information\u2014such as a tune, catchphrase, fashion trend, or style of building\"",
+     "image": "https://i.redd.it/lomsqm0eek1i1.png",
+     "url": "https://redd.it/1xw0cey",
+     "ups": 13,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
+     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
+     "url": "https://redd.it/1xw28dp",
+     "ups": 55,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T22:24:47.707810+00:00",
+   "fetched_at": "2026-11-14T22:54:54.505520+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand court case",
+     "text": "FAA contract and Duffy's son-in-law",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -203,14 +203,6 @@
      "text": "Democratic unity after midterms",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Shakespeare Institute to leave Stratford",
+     "text": "Concerts with women lead singers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94fedb6be9c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Viral courtside photo at Clippers game",
+     "text": "Best US airports to be stuck in",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e99269075fe6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e29e3e0ffcdc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duffy on Friday afternoon upgrades",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Concerts with women lead singers",
+     "text": "US loses measles elimination status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner, Witkoff Ukraine peace talks",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
      "likes": 0,
      "image": ""
     },
@@ -283,53 +283,57 @@
      "text": "The most important petition in your life",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54412876",
-     "likes": 26,
+     "likes": 109,
      "image": "https://lemmy.world/pictrs/image/7d121739-4def-421b-a85b-df74b2ed02d8.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "People starting to realize owning your media might be good",
-     "author": "Microblog Memes",
-     "url": "https://poptalk.scrubbles.tech/post/5072413",
-     "likes": 63,
-     "image": "https://lemmy.world/pictrs/image/acbfe1ea-3bdc-41e3-8152-ac6a5b67f658.jpeg"
+     "text": "The crusader",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54413205",
+     "likes": 54,
+     "image": "https://lemmy.world/pictrs/image/427c117d-568c-4f32-b121-8a89be0dd07a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Not on the ballot, not a Republican, but took the big L anyway",
+     "text": "It\u2019s the same picture",
      "author": "Political Memes",
-     "url": "https://lemmy.world/post/54412189",
+     "url": "https://lemmy.world/post/54413106",
      "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/937f1506-30b8-4925-8693-ab441aa59e2a.jpeg"
+     "image": "https://lemmy.world/pictrs/image/7bfacf67-9031-46ab-8396-f70eac13afa7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54411806",
-     "likes": 53,
-     "image": "https://lemmy.world/pictrs/image/102f6729-b8a8-4c6b-8822-553e77f01727.jpeg"
+     "text": "He\u2019s doing time",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54412880",
+     "likes": 50,
+     "image": "https://lemmy.world/pictrs/image/9e3d1dc7-7af5-470b-9936-50b2693d929d.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T22:24:48.291137+00:00",
+   "fetched_at": "2026-11-14T22:54:54.949009+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What do you get when you cross a rabbit with a water hose? Hare spray.",
+     "text": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
      "source": "Dad joke"
     },
     {
-     "text": "How does a scientist freshen their breath? With experi-mints!",
+     "text": "I was going to get a brain transplant, but I changed my mind",
      "source": "Dad joke"
     },
     {
-     "text": "Two dyslexics walk into a bra.",
+     "text": "What do you call a fish with no eyes? A fsh.",
      "source": "Dad joke"
     }
    ]
