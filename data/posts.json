@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-14T16:22:58.358606+00:00",
+ "generated_at": "2026-11-14T16:53:23.699618+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T16:22:54.125444+00:00",
+   "fetched_at": "2026-11-14T16:53:00.238156+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The Biden administration created Direct File, a program of free online tax filing that exists in all other advanced economies. In doing so, it overcame a traditional US government reliance on contractors and opposition of the tax preparation industry. Trump and Musk destroyed it upon taking office.",
+     "url": "https://www.reddit.com/r/science/comments/1xw4kor/the_biden_administration_created_direct_file_a/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -26,29 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "The Biden administration created Direct File, a program of free online tax filing that exists in all other advanced economies. In doing so, it overcame a traditional US government reliance on contractors and opposition of the tax preparation industry. Trump and Musk destroyed it upon taking office.",
-     "url": "https://www.reddit.com/r/science/comments/1xw4kor/the_biden_administration_created_direct_file_a/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "\u200bIn 1445, a cat walked across the wet ink of a scribe's ledger in Dubrovnik, leaving behind 580-year-old paw prints",
      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xw0r0n/in_1445_a_cat_walked_across_the_wet_ink_of_a/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/w6dypsumik1i1.jpeg?width=640&crop=smart&auto=webp&s=d19ee9748a16bc0a30b7a538b80bc184348cfa0b"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "DD/MM/YY is best",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
     },
     {
      "source": "Reddit",
@@ -71,11 +62,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xw0udk/meirl/",
+     "title": "(Hated Trope) The tone of the first episode is quite disturbing compared to the other episodes, and many people give up there.",
+     "url": "https://www.reddit.com/r/TopCharacterTropes/comments/1xvqsn9/hated_trope_the_tone_of_the_first_episode_is/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/rhuy1huijk1i1.jpeg?width=640&crop=smart&auto=webp&s=d7819daccbe1ce6df6a0d2451e3e5e5fb17e06ec"
+     "image": "https://preview.redd.it/xnv347r0jh1i1.png?width=140&height=78&auto=webp&s=cb1d7122c79e70e3357ca824e6241b94381a4ec8"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "DD/MM/YY is best",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
     },
     {
      "source": "Reddit",
@@ -89,97 +89,97 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T16:22:55.175784+00:00",
+   "fetched_at": "2026-11-14T16:53:01.326611+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 122,
+     "title": "thisFeelingNeverGoesAway",
+     "image": "https://i.redd.it/nkz0obxfr50i1.png",
+     "url": "https://redd.it/1xq28r6",
+     "ups": 23755,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 3497,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7696,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 263,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11168,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "outlookNotSoGood",
-     "image": "https://i.redd.it/bl3df5io291i1.png",
-     "url": "https://redd.it/1xupe36",
-     "ups": 878,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 655,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 9,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 25,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 327,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 284,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Might be true \ud83e\udd27",
-     "image": "https://i.redd.it/midr38zv4d1i1.png",
-     "url": "https://redd.it/1xv55c5",
-     "ups": 331,
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 4316,
      "sub": "r/memes"
     },
     {
-     "title": "Outlook 11.12.26",
-     "image": "https://i.redd.it/52of20ebmd1i1.png",
-     "url": "https://redd.it/1xv70q9",
-     "ups": 160,
+     "title": "you pay 100$ to throw dog poop at people, while im here doing it for free",
+     "image": "https://i.redd.it/uuvq2b0raf1i1.png",
+     "url": "https://redd.it/1xvfnk6",
+     "ups": 52,
      "sub": "r/memes"
     },
     {
-     "title": "How did bro type a \"q\" in place of a \"b\"",
-     "image": "https://i.redd.it/yyq651hljk1i1.gif",
-     "url": "https://redd.it/1xw0v4y",
-     "ups": 179,
+     "title": "The kids online are crying losing their unfunny overused joke.",
+     "image": "https://i.redd.it/xok32bs6bf1i1.png",
+     "url": "https://redd.it/1xvfoy9",
+     "ups": 5368,
      "sub": "r/memes"
     },
     {
-     "title": "What's next?",
-     "image": "https://i.redd.it/9a0qbxyzng1i1.png",
-     "url": "https://redd.it/1xvmlx5",
-     "ups": 38,
+     "title": "It's her job and she's doing it well",
+     "image": "https://i.redd.it/kz5kagshrg1i1.png",
+     "url": "https://redd.it/1xvn1ti",
+     "ups": 82,
      "sub": "r/memes"
     },
     {
-     "title": "Let's respect his request",
-     "image": "https://i.redd.it/bebibo2yjf1i1.png",
-     "url": "https://redd.it/1xvh0uh",
-     "ups": 119,
+     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
+     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
+     "url": "https://redd.it/1xw28dp",
+     "ups": 31,
      "sub": "r/memes"
     },
     {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 14154,
+     "title": "Fun fact: baby elephants can't control their trunks yet",
+     "image": "https://i.redd.it/kwt0i3c9fl1i1.gif",
+     "url": "https://redd.it/1xw4jaq",
+     "ups": 40,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T16:22:56.637797+00:00",
+   "fetched_at": "2026-11-14T16:53:02.579381+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,14 @@
      "text": "Concerts with women lead singers",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Biden's $25 billion aviation funding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sean Duffy promotes Secretaries Cup",
+     "text": "Microsoft outage blame meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/787df3aa5b55",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -224,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sports betting ads likened to tobacco",
+     "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/69b0be6ebcd7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +256,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "El Ni\u00f1o brings storms to California",
+     "text": "Sports betting ads likened to tobacco",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62469417a673",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/69b0be6ebcd7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SpaceX launches Starship Flight 15",
+     "text": "Sean Duffy promotes Secretaries Cup",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Transportation Secretary Sean Duffy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/787df3aa5b55",
      "likes": 0,
      "image": ""
     },
@@ -277,79 +277,47 @@
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25b7d052157b",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Male vs female dating app experience",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54401858",
-     "likes": 67,
-     "image": "https://lemmy.world/pictrs/image/a9ddb342-979b-4ec3-a472-cf66e2e61627.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Wouldn't want to be rude",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54401863",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/2eeff5ce-daa4-4ab2-858d-b6d534f5675b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Just study, Greg.",
-     "author": "memes",
-     "url": "https://lemmy.world/post/54401861",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/fde03564-2c88-4a0b-ba00-b9bf5a394395.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "yes I do be like that",
-     "author": "Lemmy Shitpost",
-     "url": "https://startrek.website/post/46896112",
-     "likes": 102,
-     "image": "https://lemmy.world/pictrs/image/5b1306ec-1530-4981-9ba6-1c8c50ebbe06.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T16:22:57.331742+00:00",
+   "fetched_at": "2026-11-14T16:53:22.912157+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "what happens when you cross a sheep with a kangaroo ? A woolly jumper!",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Me and my mates are in a band called Duvet. We're a cover band.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are pirates called pirates? Because they arrr!",
+     "text": "What do you call a boy who stopped digging holes? Douglas.",
      "source": "Dad joke"
     },
     {
-     "text": "You can't trust a ladder. It will always let you down",
+     "text": "What\u2019s the advantage of living in Switzerland? Well, the flag is a big plus.",
      "source": "Dad joke"
     }
    ]
