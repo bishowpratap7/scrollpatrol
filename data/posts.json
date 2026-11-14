@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-14T09:20:58.693167+00:00",
+ "generated_at": "2026-11-14T09:51:04.493347+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T09:20:54.233302+00:00",
+   "fetched_at": "2026-11-14T09:51:00.524556+00:00",
    "stale": false,
    "items": [
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "CNN Aviation Analyst Says \u2018It\u2019s Just Too Much of a Coincidence\u2019 FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
-     "url": "https://www.reddit.com/r/technology/comments/1xvudm2/cnn_aviation_analyst_says_its_just_too_much_of_a/",
+     "title": "FAA issues nationwide ground stop",
+     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/LffxtteSglVfAQBDkd_vDfjRCQhsOb3N3rHNuRfr8F4.jpeg?width=640&crop=smart&auto=webp&s=5336b1e4742d8bc36407a6ce3e5227c652e0c719"
+     "image": ""
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "FAA issues nationwide ground stop",
-     "url": "https://www.reddit.com/r/news/comments/1xvjpvs/faa_issues_nationwide_ground_stop/",
+     "title": "Coffee server refused to accept $21 for a $15.28 order",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xvpxfs/coffee_server_refused_to_accept_21_for_a_1528/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -35,11 +35,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Coffee server refused to accept $21 for a $15.28 order",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xvpxfs/coffee_server_refused_to_accept_21_for_a_1528/",
+     "title": "CNN Aviation Analyst Says \u2018It\u2019s Just Too Much of a Coincidence\u2019 FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
+     "url": "https://www.reddit.com/r/technology/comments/1xvudm2/cnn_aviation_analyst_says_its_just_too_much_of_a/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://external-preview.redd.it/LffxtteSglVfAQBDkd_vDfjRCQhsOb3N3rHNuRfr8F4.jpeg?width=640&crop=smart&auto=webp&s=5336b1e4742d8bc36407a6ce3e5227c652e0c719"
     },
     {
      "source": "Reddit",
@@ -71,62 +71,27 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Every Flight Is Grounded on Day Trump Admin Installed AI Controls",
-     "url": "https://www.reddit.com/r/politics/comments/1xvqjry/every_flight_is_grounded_on_day_trump_admin/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/Mfa7tM2fRdPVpGt4J2AXJcU6eMDiJSYcGlkFn0jj9uY.jpeg?width=640&crop=smart&auto=webp&s=9b20658f5954c60854de21a93ca6ceb7b73cd660"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Vance considers pulling out of 2028 run for president",
      "url": "https://www.reddit.com/r/politics/comments/1xv9ua2/vance_considers_pulling_out_of_2028_run_for/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/aeTYYnGWG8Uw7BAeCfqFVJdSsh_BeiBvfc8ps1YykuY.jpeg?width=640&crop=smart&auto=webp&s=d9c16c6d0af9485bfa6dd058b8c76ad37ad32777"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Why are all flights in the USA grounded right now? What happened",
+     "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1xvk9av/why_are_all_flights_in_the_usa_grounded_right_now/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T09:20:55.270035+00:00",
+   "fetched_at": "2026-11-14T09:51:01.614079+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 97,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1228,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 23750,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "atleastWeCanTrustGoogle",
-     "image": "https://i.redd.it/325jrw3xsh1i1.png",
-     "url": "https://redd.it/1xvren4",
-     "ups": 6752,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2462,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "everythingGoesIntoThePostHole",
      "image": "https://i.redd.it/y0rn3i9koa0i1.png",
@@ -135,82 +100,93 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The kids online are crying losing their unfunny overused joke.",
-     "image": "https://i.redd.it/xok32bs6bf1i1.png",
-     "url": "https://redd.it/1xvfoy9",
-     "ups": 4218,
+     "title": "meetPotentialLanguage",
+     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
+     "url": "https://redd.it/1xrwkc1",
+     "ups": 128,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 792,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 13662,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2097,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 286,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 50623,
      "sub": "r/memes"
     },
     {
-     "title": "What's next?",
-     "image": "https://i.redd.it/9a0qbxyzng1i1.png",
-     "url": "https://redd.it/1xvmlx5",
-     "ups": 30,
+     "title": "Outlook 11.12.26",
+     "image": "https://i.redd.it/52of20ebmd1i1.png",
+     "url": "https://redd.it/1xv70q9",
+     "ups": 151,
      "sub": "r/memes"
     },
     {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 5707,
+     "title": "I swear, I was trying to help!",
+     "image": "https://i.redd.it/m1nx1up89b1i1.png",
+     "url": "https://redd.it/1xuyuge",
+     "ups": 266,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Speaking from experience",
+     "image": "https://i.redd.it/8f7eebouch1i1.png",
+     "url": "https://redd.it/1xvpmvf",
+     "ups": 4287,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Just why dude",
+     "image": "https://i.redd.it/mjhaagjcw91i1.png",
+     "url": "https://redd.it/1xutac2",
+     "ups": 697,
      "sub": "r/memes"
     },
     {
      "title": "It's her job and she's doing it well",
      "image": "https://i.redd.it/kz5kagshrg1i1.png",
      "url": "https://redd.it/1xvn1ti",
-     "ups": 57,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jenson's motto",
-     "image": "https://i.redd.it/qyhear1i9i1i1.png",
-     "url": "https://redd.it/1xvt5zv",
-     "ups": 8,
-     "sub": "r/memes"
-    },
-    {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 49930,
+     "ups": 67,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T09:20:57.167577+00:00",
+   "fetched_at": "2026-11-14T09:51:03.467783+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "FAA ground stop jokes",
+     "text": "Duffy seeks $50B for aviation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump's Nvidia stock trades",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Kushner, Witkoff Ukraine peace talks",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Concerts with women lead singers",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ae353b8cee7",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +200,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "FAA ground stop jokes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner, Witkoff Ukraine peace talks",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Concerts with women lead singers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "SpaceX launches Starship Flight 15",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
@@ -232,25 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "El Ni\u00f1o brings storms to California",
+     "text": "Jensen Huang resigns from Nvidia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62469417a673",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377c4261-a859-4060-8faf-bcd446cd69e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -264,18 +264,42 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duffy seeks $50B for aviation",
+     "text": "Burnham seeks \"win-win\" EU deal",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3ae353b8cee7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c69d0250b5d6",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump Jr. defends Russell Brand",
+     "text": "Trump's Nvidia stock trades",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dc0b56627c60",
      "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Om nom",
+     "author": "Photography",
+     "url": "https://lemmy.world/post/54391449",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/c828e6e8-ab79-4c30-b1d5-dd61219a64c9.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Forcing yourself to smile can actually make you miserable",
+     "author": "science",
+     "url": "https://lemmy.world/post/54391613",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/3ca4c929-b450-4041-b0d5-31ad1c7569c3.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Democrat Jonathan Kreiss-Tomkins wins Alaska governor race",
+     "author": "News",
+     "url": "https://piefed.ca/c/news@lemmy.world/p/1071699/democrat-jonathan-kreiss-tomkins-wins-alaska-governor-race",
+     "likes": 16,
      "image": ""
     },
     {
@@ -283,73 +307,49 @@
      "text": "Stop that",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63282215",
-     "likes": 51,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/ae31b019-c1f4-4d87-b617-3fbce3032144.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "the fascists are running tech",
-     "author": "Programmer Humor",
-     "url": "https://lemmy.blahaj.zone/post/50476270",
-     "likes": 135,
-     "image": "https://lemmy.world/pictrs/image/30073d69-4e5c-4b8b-8003-888501ebcf1c.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "SPD-Parteivorsitz: SPD-Arbeitsgruppen wollen Wiederwahl von Klingbeil offenbar verhindern",
-     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
-     "url": "https://feddit.org/post/38005213",
-     "likes": 10,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Astro Bot becomes the first PS5 exclusive to get an unofficial native PC port, with DLSS pushing it past 120 FPS",
-     "author": "PC Gaming",
-     "url": "https://lemmy.ca/post/73829883",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/27341f87-216d-4c17-838f-e11656cd7e87.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T09:20:58.024302+00:00",
+   "fetched_at": "2026-11-14T09:51:03.843886+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a cow with no legs? Ground beef.",
+     "text": "Why did the man put his money in the freezer? He wanted cold hard cash!",
      "source": "Dad joke"
     },
     {
-     "text": "What did the drummer name her twin daughters? Anna One, Anna Two...",
+     "text": "What do you call a cow with two legs? Lean beef.",
      "source": "Dad joke"
     },
     {
-     "text": "What's the worst part about being a cross-eyed teacher?\r\n\r\nThey can't control their pupils.",
+     "text": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
      "source": "Dad joke"
     }
    ]
