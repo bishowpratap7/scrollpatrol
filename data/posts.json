@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-14T21:54:42.275854+00:00",
+ "generated_at": "2026-11-14T22:24:49.357730+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-14T21:54:37.562981+00:00",
+   "fetched_at": "2026-11-14T22:24:43.933283+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "me_irl",
-     "url": "https://www.reddit.com/r/me_irl/comments/1xwb1gc/me_irl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/YzBzaTB0emlxbTFpMWC6m9qbwCUw80KCZHfZg4CqQQZ8pNogF90dxWT4ed-M.jpeg?width=640&crop=smart&auto=webp&s=85a753c59e25405dbe39b281bffe575c9f184673"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,24 +13,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/iauo9qxm1k1i1.jpeg?width=640&crop=smart&auto=webp&s=fcd09e6c717e32b66d941287b135ea55b49e2fcd"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "DD/MM/YY is best",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Incompetent corruption",
-     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xwa5fw/incompetent_corruption/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/p64k6ry3km1i1.jpeg?width=640&crop=smart&auto=webp&s=fe87775a3ba9d4424e43ac9ebefc18cba2ff4362"
     },
     {
      "source": "Reddit",
@@ -53,8 +26,17 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "How qualified is Sean Duffy to run the Department of Transportation?",
-     "url": "https://www.reddit.com/r/askanything/comments/1xw2hta/how_qualified_is_sean_duffy_to_run_the_department/",
+     "title": "DD/MM/YY is best",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What purchase under $350 is semi-life changing?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xw5l3f/what_purchase_under_350_is_semilife_changing/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -62,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Johnson says \u2018we don\u2019t really need any investigation\u2019 on FAA ground stop",
-     "url": "https://www.reddit.com/r/politics/comments/1xwanar/johnson_says_we_dont_really_need_any/",
+     "title": "How qualified is Sean Duffy to run the Department of Transportation?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xw2hta/how_qualified_is_sean_duffy_to_run_the_department/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/Tj2CPiJvXFMOliY-PRa7herzF6Y8BCpqGT6AmTZ32NU.jpeg?width=640&crop=smart&auto=webp&s=d609ee18e1a4d8772def95809126c80b1c9d034c"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -80,18 +62,64 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What purchase under $350 is semi-life changing?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xw5l3f/what_purchase_under_350_is_semilife_changing/",
+     "title": "Invited my parents to my house on Sunday. They said \u2018no\u2019.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xw0cl1/invited_my_parents_to_my_house_on_sunday_they/",
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "me_irl",
+     "url": "https://www.reddit.com/r/me_irl/comments/1xwb1gc/me_irl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/YzBzaTB0emlxbTFpMWC6m9qbwCUw80KCZHfZg4CqQQZ8pNogF90dxWT4ed-M.jpeg?width=640&crop=smart&auto=webp&s=85a753c59e25405dbe39b281bffe575c9f184673"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Incompetent corruption",
+     "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1xwa5fw/incompetent_corruption/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/p64k6ry3km1i1.jpeg?width=640&crop=smart&auto=webp&s=fe87775a3ba9d4424e43ac9ebefc18cba2ff4362"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-14T21:54:38.561237+00:00",
+   "fetched_at": "2026-11-14T22:24:45.322132+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 80,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 57,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 610,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 811,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "thanksClippy",
      "image": "https://i.redd.it/19blhf29de1i1.png",
@@ -100,45 +128,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 1931,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17948,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 8,
-     "sub": "r/ProgrammerHumor"
+     "title": "The kids online are crying losing their unfunny overused joke.",
+     "image": "https://i.redd.it/xok32bs6bf1i1.png",
+     "url": "https://redd.it/1xvfoy9",
+     "ups": 5571,
+     "sub": "r/memes"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1170,
-     "sub": "r/ProgrammerHumor"
+     "title": "It's her job and she's doing it well",
+     "image": "https://i.redd.it/kz5kagshrg1i1.png",
+     "url": "https://redd.it/1xvn1ti",
+     "ups": 92,
+     "sub": "r/memes"
     },
     {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 97,
-     "sub": "r/ProgrammerHumor"
+     "title": "What on earth is happening over there",
+     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
+     "url": "https://redd.it/1xw9i20",
+     "ups": 18,
+     "sub": "r/memes"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11201,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
-     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
-     "url": "https://redd.it/1xw28dp",
-     "ups": 55,
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 53015,
      "sub": "r/memes"
     },
     {
@@ -149,47 +170,18 @@
      "sub": "r/memes"
     },
     {
-     "title": "Speaking from experience",
-     "image": "https://i.redd.it/8f7eebouch1i1.png",
-     "url": "https://redd.it/1xvpmvf",
-     "ups": 8262,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Majority of us will have more important shit to do",
-     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
-     "url": "https://redd.it/1xwblt2",
-     "ups": 185,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It just feels right",
-     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
-     "url": "https://redd.it/1xvjur1",
-     "ups": 14316,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 460,
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 5356,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-14T21:54:41.021843+00:00",
+   "fetched_at": "2026-11-14T22:24:47.707810+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Democratic unity after midterms",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Historical events as streaming series",
@@ -200,25 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duffy on Friday afternoon upgrades",
+     "text": "Russell Brand court case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SpaceX launches Starship Flight 15",
+     "text": "Democratic unity after midterms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Concerts with women lead singers",
+     "text": "Biden's $25 billion aviation funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
      "likes": 0,
      "image": ""
     },
@@ -240,17 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
+     "text": "Starship booster lost, ship caught",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bomb threat reported in Peoria",
+     "text": "Shakespeare Institute to leave Stratford",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cd68b8bbdf8a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94fedb6be9c5",
      "likes": 0,
      "image": ""
     },
@@ -264,68 +256,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kushner, Witkoff Ukraine peace talks",
+     "text": "Viral courtside photo at Clippers game",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e99269075fe6",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Close midterm races being counted",
+     "text": "Duffy on Friday afternoon upgrades",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Concerts with women lead singers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "State violence is violence",
+     "text": "The most important petition in your life",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54412876",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/7d121739-4def-421b-a85b-df74b2ed02d8.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "People starting to realize owning your media might be good",
      "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54410649",
-     "likes": 122,
-     "image": "https://lemmy.world/pictrs/image/2ac1b5fc-36eb-4fd7-81f2-152333db80c7.jpeg"
+     "url": "https://poptalk.scrubbles.tech/post/5072413",
+     "likes": 63,
+     "image": "https://lemmy.world/pictrs/image/acbfe1ea-3bdc-41e3-8152-ac6a5b67f658.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Not on the ballot, not a Republican, but took the big L anyway",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54412189",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/937f1506-30b8-4925-8693-ab441aa59e2a.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
      "author": "politics ",
      "url": "https://lemmy.world/post/54411806",
-     "likes": 26,
+     "likes": 53,
      "image": "https://lemmy.world/pictrs/image/102f6729-b8a8-4c6b-8822-553e77f01727.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Eric Trump-backed robot soldier startup can\u2019t pay staff after founder borrowed $4.6 million from company to buy home",
-     "author": "News",
-     "url": "https://lemmy.world/post/54410957",
-     "likes": 67,
-     "image": "https://image.cnbcfm.com/api/v1/image/108313716-17800536432026-03-12t071236z_1666355942_rc27fjaubt68_rtrmadp_0_tech-robots-conflict-zones.jpeg?v=1780053657&w=1480&h=833&ffmt=webp&vtcrop=y"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "hardly workin girls",
-     "author": "cats",
-     "url": "https://lemmy.blahaj.zone/post/50497943",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/429a151c-17b7-4869-b1a2-c23c8bc58a80.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-14T21:54:41.467034+00:00",
+   "fetched_at": "2026-11-14T22:24:48.291137+00:00",
    "stale": false,
    "items": [
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
@@ -333,32 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I wish I could clean mirrors for a living. It's just something I can see myself doing.",
+     "text": "What do you get when you cross a rabbit with a water hose? Hare spray.",
      "source": "Dad joke"
     },
     {
-     "text": "Some people eat light bulbs. They say it's a nice light snack.",
+     "text": "How does a scientist freshen their breath? With experi-mints!",
      "source": "Dad joke"
     },
     {
-     "text": "What did the 0 say to the 8? Nice belt.",
+     "text": "Two dyslexics walk into a bra.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
