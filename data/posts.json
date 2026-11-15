@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T05:56:40.919330+00:00",
+ "generated_at": "2026-11-15T05:56:54.044002+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T05:56:36.365183+00:00",
+   "fetched_at": "2026-11-15T05:56:50.204205+00:00",
    "stale": false,
    "items": [
     {
@@ -89,14 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T05:56:37.242839+00:00",
+   "fetched_at": "2026-11-15T05:56:51.043232+00:00",
    "stale": false,
    "items": [
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 58,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1981,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 406,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 160,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,59 +128,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 242,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 668,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 614,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 318,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 235,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Speaking from experience",
-     "image": "https://i.redd.it/8f7eebouch1i1.png",
-     "url": "https://redd.it/1xvpmvf",
-     "ups": 8968,
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 54155,
      "sub": "r/memes"
     },
     {
-     "title": "\"a unit of cultural information\u2014such as a tune, catchphrase, fashion trend, or style of building\"",
-     "image": "https://i.redd.it/lomsqm0eek1i1.png",
-     "url": "https://redd.it/1xw0cey",
-     "ups": 12,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Majority of us will have more important shit to do",
-     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
-     "url": "https://redd.it/1xwblt2",
-     "ups": 691,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 664,
+     "title": "why is this so often",
+     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
+     "url": "https://redd.it/1xwk680",
+     "ups": 105,
      "sub": "r/memes"
     },
     {
@@ -170,16 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 16942,
+     "title": "What on earth is happening over there",
+     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
+     "url": "https://redd.it/1xw9i20",
+     "ups": 239,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Run away, and never return",
+     "image": "https://i.redd.it/aidhnj1awn1i1.png",
+     "url": "https://redd.it/1xwgeh8",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Nature is beautiful..",
+     "image": "https://i.redd.it/srkch1qzul1i1.gif",
+     "url": "https://redd.it/1xw6n4w",
+     "ups": 664,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T05:56:39.822101+00:00",
+   "fetched_at": "2026-11-15T05:56:53.006198+00:00",
    "stale": false,
    "items": [
     {
@@ -299,7 +299,7 @@
      "text": "The night bun cometh",
      "author": "Bun Alert System",
      "url": "https://lemmy.world/post/54423652",
-     "likes": 13,
+     "likes": 14,
      "image": "https://lemmy.world/pictrs/image/bd9429c7-5bae-4603-aeb1-a8d4dd2b0370.jpeg"
     },
     {
@@ -313,19 +313,27 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T05:56:40.541939+00:00",
+   "fetched_at": "2026-11-15T05:56:53.616902+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.\r\n\r\n",
+     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
      "source": "Dad joke"
     },
     {
-     "text": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
+     "text": "Chances are if you' ve seen one shopping center, you've seen a mall.",
      "source": "Dad joke"
     },
     {
-     "text": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
+     "text": "I'd like to start a diet, but I've got too much on my plate right now.",
      "source": "Dad joke"
     }
    ]
