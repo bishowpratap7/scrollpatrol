@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T11:58:18.245144+00:00",
+ "generated_at": "2026-11-15T12:28:25.173594+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T11:58:12.846870+00:00",
+   "fetched_at": "2026-11-15T12:28:19.732788+00:00",
    "stale": false,
    "items": [
     {
@@ -17,47 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Belgian Malinois following orders.",
-     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xwng0d/belgian_malinois_following_orders/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/emdzcnJ4N3lwcDFpMZmVu5StgzkcAb2l5AeWE6xzKSimyhQc8SYDUFeQQ0Cm.png?width=320&crop=smart&auto=webp&s=b7dd711c0ba9229f5a9d141808ea46fff5ed6a7a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "DD/MM/YY is best",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I had to recreate this childhood photo when I got to the exact same spot.",
-     "url": "https://www.reddit.com/r/gaming/comments/1xwj9gb/i_had_to_recreate_this_childhood_photo_when_i_got/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jfddtatulo1i1.jpeg?width=640&crop=smart&auto=webp&s=656408777428252f9fcda0b536189f20fa552184"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Fetterman says change in Senate leadership could push him to leave Dem party",
      "url": "https://www.reddit.com/r/anticapitalism/comments/1xw9gfi/fetterman_says_change_in_senate_leadership_could/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/ZbfWsDg7D0OU7b_Ljev5kdfMVMOhtbxeEQB7S3GXseY.jpeg?width=640&crop=smart&auto=webp&s=0d11cb155766dd06d1a69edb63c994ceb3509a1c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My dog gets into this position every single night with the curtain on his head.",
-     "url": "https://www.reddit.com/r/WhatsWrongWithYourDog/comments/1xwj687/my_dog_gets_into_this_position_every_single_night/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jyunhji0lo1i1.jpeg?width=640&crop=smart&auto=webp&s=5f900c0d65bd2d0d6e434d865144e72e43a750b3"
     },
     {
      "source": "Reddit",
@@ -80,6 +44,42 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Lady next to me on a long flight",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xweo4l/lady_next_to_me_on_a_long_flight/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/1mtqe8cqin1i1.jpeg?width=640&crop=smart&auto=webp&s=00dd5e1f2da981163b91056df4497ed6dd0479ac"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Belgian Malinois following orders.",
+     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xwng0d/belgian_malinois_following_orders/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/emdzcnJ4N3lwcDFpMZmVu5StgzkcAb2l5AeWE6xzKSimyhQc8SYDUFeQQ0Cm.png?width=320&crop=smart&auto=webp&s=b7dd711c0ba9229f5a9d141808ea46fff5ed6a7a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What cities are rougher than their reputations suggest?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xwd0ax/what_cities_are_rougher_than_their_reputations/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "UPS cargo plane collides with passenger jet at Miami International Airport",
+     "url": "https://www.reddit.com/r/news/comments/1xwlw3d/ups_cargo_plane_collides_with_passenger_jet_at/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Moving company tried charging for extra boxes, so SIL sued them \"losing\" for the extra boxes",
      "url": "https://www.reddit.com/r/pettyrevenge/comments/1xwqtuh/moving_company_tried_charging_for_extra_boxes_so/",
      "score": 0,
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T11:58:14.321524+00:00",
+   "fetched_at": "2026-11-15T12:28:21.293137+00:00",
    "stale": false,
    "items": [
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 581,
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 93,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 391,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,38 +114,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 24,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 614,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 57,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 247,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1186,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 17,
-     "sub": "r/ProgrammerHumor"
+     "title": "why is this so often",
+     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
+     "url": "https://redd.it/1xwk680",
+     "ups": 329,
+     "sub": "r/memes"
     },
     {
-     "title": "Speaking from experience",
-     "image": "https://i.redd.it/8f7eebouch1i1.png",
-     "url": "https://redd.it/1xvpmvf",
-     "ups": 9327,
+     "title": "It feels good to introspect \ud83d\ude42\u200d\u2195\ufe0f",
+     "image": "https://i.redd.it/6asvze3nxp1i1.png",
+     "url": "https://redd.it/1xwo6c4",
+     "ups": 0,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Would dlc update",
+     "image": "https://i.redd.it/745y7kdz0o1i1.png",
+     "url": "https://redd.it/1xwgxo1",
+     "ups": 9,
      "sub": "r/memes"
     },
     {
@@ -149,20 +163,6 @@
      "sub": "r/memes"
     },
     {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 237,
-     "sub": "r/memes"
-    },
-    {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 17646,
-     "sub": "r/memes"
-    },
-    {
      "title": "How did bro type a \"q\" in place of a \"b\"",
      "image": "https://i.redd.it/yyq651hljk1i1.gif",
      "url": "https://redd.it/1xw0v4y",
@@ -170,18 +170,34 @@
      "sub": "r/memes"
     },
     {
-     "title": "It feels good to introspect \ud83d\ude42\u200d\u2195\ufe0f",
-     "image": "https://i.redd.it/6asvze3nxp1i1.png",
-     "url": "https://redd.it/1xwo6c4",
-     "ups": 0,
+     "title": "The weekly survival circle",
+     "image": "https://i.redd.it/q45d8e6olj1i1.png",
+     "url": "https://redd.it/1xvxsex",
+     "ups": 237,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T11:58:16.794420+00:00",
+   "fetched_at": "2026-11-15T12:28:23.790187+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Biden's $25 billion aviation funding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang resigns as Nvidia CEO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "US floats Donbas-for-NATO swap",
@@ -200,41 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alan Milburn on youth unemployment",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Films watched more than six times",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Starship booster lost, ship caught",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft resolves global outage",
+     "text": "Horses ride Detroit city bus",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pope Leo XIV visits Latin America",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Shakespeare Institute to leave Stratford",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94fedb6be9c5",
      "likes": 0,
      "image": ""
     },
@@ -264,72 +264,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump silent after ground stop",
+     "text": "Alan Milburn on youth unemployment",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to impeach Pete Hegseth",
+     "text": "Midterm election aftermath for democracy",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/573566f53e19",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Lutnick pushed to weaken chip rules that overlap with his family business",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54432037",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/cf44ec96-6907-4445-8ba8-965bf92db4ca.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Italy fines Meta $887m for accessing Android users\u2019 photos and videos",
-     "author": "Technology",
-     "url": "https://programming.dev/post/59431389",
-     "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/879cc6ee-ad3c-4e58-9966-b7223793eabf.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Jew hatred",
-     "author": "Twitter",
-     "url": "https://lemmy.ml/post/55336636",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/8496b054-e53a-4c4e-92ce-a29f5365bcda.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "How to create your roadmap",
      "author": "Programmer Humor",
      "url": "https://programming.dev/post/59432966",
-     "likes": 14,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/480aa3d3-08e0-4ab4-8271-55fee4e04f0f.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Lutnick pushed to weaken chip rules that overlap with his family business",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54432037",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/cf44ec96-6907-4445-8ba8-965bf92db4ca.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Gave her her owm undergarments so she would stop going after mine",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54432326",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/d245b1a3-620a-4ae5-bfdd-85ef4bd8965c.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Italy fines Meta $887m for accessing Android users\u2019 photos and videos",
+     "author": "News",
+     "url": "https://lemmy.world/post/54432317",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/ec2acb46-3792-43ba-9868-19b403340301.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T11:58:17.564513+00:00",
+   "fetched_at": "2026-11-15T12:28:24.451222+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
@@ -337,28 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "There are two types of people in this world, those who can extrapolate from incomplete data...",
+     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
      "source": "Dad joke"
     },
     {
-     "text": "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\"",
+     "text": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
      "source": "Dad joke"
     },
     {
-     "text": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
+     "text": "which flower is most fierce? Dandelion",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
