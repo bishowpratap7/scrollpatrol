@@ -1,55 +1,10 @@
 {
- "generated_at": "2026-11-15T07:27:09.904768+00:00",
+ "generated_at": "2026-11-15T07:57:15.892191+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T07:27:05.661347+00:00",
+   "fetched_at": "2026-11-15T07:57:11.584379+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I had to recreate this childhood photo when I got to the exact same spot.",
-     "url": "https://www.reddit.com/r/gaming/comments/1xwj9gb/i_had_to_recreate_this_childhood_photo_when_i_got/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jfddtatulo1i1.jpeg?width=640&crop=smart&auto=webp&s=656408777428252f9fcda0b536189f20fa552184"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xwhy8u/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jvjxf9zv9o1i1.jpeg?width=640&crop=smart&auto=webp&s=92df852cd2b87c15bf8eef5d3df6c4ad38290d24"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "DD/MM/YY is best",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My dog gets into this position every single night with the curtain on his head.",
-     "url": "https://www.reddit.com/r/WhatsWrongWithYourDog/comments/1xwj687/my_dog_gets_into_this_position_every_single_night/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jyunhji0lo1i1.jpeg?width=640&crop=smart&auto=webp&s=5f900c0d65bd2d0d6e434d865144e72e43a750b3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "'Duffy Lied': Air Traffic Controllers Refute Transportation Secretary's Ground Stop Explanation",
-     "url": "https://www.reddit.com/r/technology/comments/1xwijlj/duffy_lied_air_traffic_controllers_refute/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/fJfgc2wgJWt2s5biVC3OzEOoStU-Cq9NULu6tzKS_Q0.jpeg?width=640&crop=smart&auto=webp&s=41f89c21be70c29b51a8913707649eb129ecb72a"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -71,11 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937.",
-     "url": "https://www.reddit.com/r/todayilearned/comments/1xwl3v2/til_the_united_states_tomb_of_the_unknown_soldier/",
+     "title": "DD/MM/YY is best",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xw223q/ddmmyy_is_best/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/VXUWb2ECpMS180U4zCtMBPhQRpjeRqVOfU_a0-AFndc.jpeg?width=640&crop=smart&auto=webp&s=f7c0b49d548ad605b7ca9b185eb1e0b3fe5fbdc1"
+     "image": "https://preview.redd.it/9z6s1zpfuk1i1.png?width=320&crop=smart&auto=webp&s=47432f359aa15878766dd996e8b164e0101f8282"
     },
     {
      "source": "Reddit",
@@ -85,27 +40,58 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "I had to recreate this childhood photo when I got to the exact same spot.",
+     "url": "https://www.reddit.com/r/gaming/comments/1xwj9gb/i_had_to_recreate_this_childhood_photo_when_i_got/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jfddtatulo1i1.jpeg?width=640&crop=smart&auto=webp&s=656408777428252f9fcda0b536189f20fa552184"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "My dog gets into this position every single night with the curtain on his head.",
+     "url": "https://www.reddit.com/r/WhatsWrongWithYourDog/comments/1xwj687/my_dog_gets_into_this_position_every_single_night/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jyunhji0lo1i1.jpeg?width=640&crop=smart&auto=webp&s=5f900c0d65bd2d0d6e434d865144e72e43a750b3"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Found under 16 year old son's bed.",
+     "url": "https://www.reddit.com/r/whatisit/comments/1xwfepu/found_under_16_year_old_sons_bed/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/cTF6enVwZ3FvbjFpMXkbYXaJsvX1Qj7dUyqh0dhwA_KjsIz3i8OHRqPBB5_l.png?width=320&crop=smart&auto=webp&s=ead1d493dc5f6e0f2523d939dcb6a34a72c7675c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xwhy8u/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jvjxf9zv9o1i1.jpeg?width=640&crop=smart&auto=webp&s=92df852cd2b87c15bf8eef5d3df6c4ad38290d24"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "'Duffy Lied': Air Traffic Controllers Refute Transportation Secretary's Ground Stop Explanation",
+     "url": "https://www.reddit.com/r/technology/comments/1xwijlj/duffy_lied_air_traffic_controllers_refute/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/fJfgc2wgJWt2s5biVC3OzEOoStU-Cq9NULu6tzKS_Q0.jpeg?width=640&crop=smart&auto=webp&s=41f89c21be70c29b51a8913707649eb129ecb72a"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T07:27:06.389076+00:00",
+   "fetched_at": "2026-11-15T07:57:12.375220+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2823,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 80,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "iFixedThePreviousPostBasedOnBestComments",
      "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
@@ -114,90 +100,88 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 829,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 240,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 382,
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4337,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 230,
-     "sub": "r/memes"
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 10,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "FAA communications officer",
-     "image": "https://i.redd.it/mhjc1x7edh1i1.gif",
-     "url": "https://redd.it/1xvpoz0",
-     "ups": 115,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 291,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "It just feels right",
+     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
+     "url": "https://redd.it/1xvjur1",
+     "ups": 15269,
      "sub": "r/memes"
     },
     {
      "title": "How did bro type a \"q\" in place of a \"b\"",
      "image": "https://i.redd.it/yyq651hljk1i1.gif",
      "url": "https://redd.it/1xw0v4y",
-     "ups": 927,
+     "ups": 997,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Run away, and never return",
+     "image": "https://i.redd.it/aidhnj1awn1i1.png",
+     "url": "https://redd.it/1xwgeh8",
+     "ups": 20,
+     "sub": "r/memes"
+    },
+    {
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 54264,
      "sub": "r/memes"
     },
     {
      "title": "Would dlc update",
      "image": "https://i.redd.it/745y7kdz0o1i1.png",
      "url": "https://redd.it/1xwgxo1",
-     "ups": 13,
+     "ups": 10,
      "sub": "r/memes"
     },
     {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 664,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It just feels right",
-     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
-     "url": "https://redd.it/1xvjur1",
-     "ups": 15112,
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 17151,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T07:27:08.807170+00:00",
+   "fetched_at": "2026-11-15T07:57:14.812531+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "All-time favorite movie scenes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "US floats Donbas-for-NATO swap",
@@ -216,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Push to impeach Pete Hegseth",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/573566f53e19",
      "likes": 0,
      "image": ""
     },
@@ -232,49 +224,57 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Huge waves hit California coast",
+     "text": "Sonic 2006 turns 20",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f909bf605f83",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5b96488bf90",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "OCASK prompt on character speech",
+     "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a49b0b13b04",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Concerts with women lead singers",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
+     "text": "Ellipsus launches public profiles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/de060256cee2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FAA contract and Duffy's son-in-law",
+     "text": "Starship booster lost, ship caught",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israel's war in Gaza",
+     "text": "Biden's $25 billion aviation funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/984ce7da8d5f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Van Hollen runs for Senate leader",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
@@ -283,37 +283,37 @@
      "text": "Reminder",
      "author": "Political Memes",
      "url": "https://lemmy.dbzer0.com/post/78466240",
-     "likes": 28,
+     "likes": 66,
      "image": "https://lemmy.world/pictrs/image/d002ba28-aeba-4d35-85f2-bdd5248ae5a7.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "I'm Batman!",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75045886",
-     "likes": 47,
-     "image": "https://lemmy.zip/pictrs/image/e03efd43-fc08-4b50-b7c4-bdd07f0bd315.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mamdani Overhauls N.Y.P.D. Unit Criticized for Its Handling of Protests | NYT",
+     "text": "Trump\u2019s War on Iran is Pushing the Global South Toward Chinese Solar Panels in Record Numbers: \"Even tomato sellers have put signs up saying they collect solar batteries and all kinds of solar waste.\"",
      "author": "politics ",
-     "url": "https://lazysoci.al/post/56654294",
-     "likes": 13,
-     "image": ""
+     "url": "https://lemmy.world/post/54426838",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/2805a6c2-37f6-439b-8943-5daf244913c9.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Fucking fursuits, how do they work?",
-     "author": "Whatever",
-     "url": "https://quokk.au/c/whatever/p/1320270/fucking-fursuits-how-do-they-work",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/27701f48-900f-4f1c-a7ff-c9ea9eac158e.webp"
+     "text": "Wegen der Microsoft-St\u00f6rung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 G\u00e4ste wurden verletzt.",
+     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
+     "url": "https://feddit.org/post/38042443",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/68e1e6dc-d26d-4a0c-93b5-b06c308b6352.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The South Ledges, Appledore by Childe Hassam (1913)",
+     "author": "Traditional Art",
+     "url": "https://lemmy.world/post/54426111",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/f46ac2d2-aa07-4d5c-9804-146b87005ab5.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T07:27:09.506279+00:00",
+   "fetched_at": "2026-11-15T07:57:15.405661+00:00",
    "stale": false,
    "items": [
     {
@@ -321,15 +321,11 @@
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "When will the little snake arrive? I don't know but he won't be long...",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
      "source": "Dad joke"
     },
     {
-     "text": "Why don\u2019t seagulls fly over the bay? Because then they\u2019d be bay-gulls!",
+     "text": "Milk is also the fastest liquid on earth \u2013 its pasteurized before you even see it",
      "source": "Dad joke"
     },
     {
-     "text": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
+     "text": "No matter how kind you are, German children are kinder.",
      "source": "Dad joke"
     }
    ]
