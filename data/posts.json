@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T05:26:34.828698+00:00",
+ "generated_at": "2026-11-15T05:56:40.919330+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T05:26:30.147723+00:00",
+   "fetched_at": "2026-11-15T05:56:36.365183+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xwhy8u/meirl/",
+     "title": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
+     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xwh6et/geng_vs_bilibili_gaming_world_championship_2026/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/jvjxf9zv9o1i1.jpeg?width=640&crop=smart&auto=webp&s=92df852cd2b87c15bf8eef5d3df6c4ad38290d24"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -35,20 +35,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
-     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xwh6et/geng_vs_bilibili_gaming_world_championship_2026/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Fetterman says change in Senate leadership could push him to leave Dem party",
      "url": "https://www.reddit.com/r/anticapitalism/comments/1xw9gfi/fetterman_says_change_in_senate_leadership_could/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/ZbfWsDg7D0OU7b_Ljev5kdfMVMOhtbxeEQB7S3GXseY.jpeg?width=640&crop=smart&auto=webp&s=0d11cb155766dd06d1a69edb63c994ceb3509a1c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xwhy8u/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jvjxf9zv9o1i1.jpeg?width=640&crop=smart&auto=webp&s=92df852cd2b87c15bf8eef5d3df6c4ad38290d24"
     },
     {
      "source": "Reddit",
@@ -80,30 +80,51 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "My dog gets into this position every single night with the curtain on his head.",
-     "url": "https://www.reddit.com/r/WhatsWrongWithYourDog/comments/1xwj687/my_dog_gets_into_this_position_every_single_night/",
+     "title": "How qualified is Sean Duffy to run the Department of Transportation?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xw2hta/how_qualified_is_sean_duffy_to_run_the_department/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/jyunhji0lo1i1.jpeg?width=640&crop=smart&auto=webp&s=5f900c0d65bd2d0d6e434d865144e72e43a750b3"
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T05:26:30.968663+00:00",
+   "fetched_at": "2026-11-15T05:56:37.242839+00:00",
    "stale": false,
    "items": [
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 127,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 58,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17956,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 242,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 614,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 318,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,87 +135,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 58,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2825,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 829,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "why is this so often",
-     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
-     "url": "https://redd.it/1xwk680",
-     "ups": 43,
+     "title": "Speaking from experience",
+     "image": "https://i.redd.it/8f7eebouch1i1.png",
+     "url": "https://redd.it/1xvpmvf",
+     "ups": 8968,
      "sub": "r/memes"
     },
     {
-     "title": "Would dlc update",
-     "image": "https://i.redd.it/745y7kdz0o1i1.png",
-     "url": "https://redd.it/1xwgxo1",
-     "ups": 13,
+     "title": "\"a unit of cultural information\u2014such as a tune, catchphrase, fashion trend, or style of building\"",
+     "image": "https://i.redd.it/lomsqm0eek1i1.png",
+     "url": "https://redd.it/1xw0cey",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "And me in the aisle seat too",
-     "image": "https://i.redd.it/r30natv9ug1i1.png",
-     "url": "https://redd.it/1xvndzp",
-     "ups": 5717,
+     "title": "Majority of us will have more important shit to do",
+     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
+     "url": "https://redd.it/1xwblt2",
+     "ups": 691,
      "sub": "r/memes"
     },
     {
      "title": "Nature is beautiful..",
      "image": "https://i.redd.it/srkch1qzul1i1.gif",
      "url": "https://redd.it/1xw6n4w",
-     "ups": 615,
+     "ups": 664,
      "sub": "r/memes"
     },
     {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 226,
+     "title": "How did bro type a \"q\" in place of a \"b\"",
+     "image": "https://i.redd.it/yyq651hljk1i1.gif",
+     "url": "https://redd.it/1xw0v4y",
+     "ups": 927,
      "sub": "r/memes"
     },
     {
      "title": "artificial incompetence",
      "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
      "url": "https://redd.it/1xvo45l",
-     "ups": 16705,
+     "ups": 16942,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T05:26:33.647041+00:00",
+   "fetched_at": "2026-11-15T05:56:39.822101+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Push to impeach Pete Hegseth",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/573566f53e19",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "All-time favorite movie scenes",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Push to impeach Pete Hegseth",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/573566f53e19",
      "likes": 0,
      "image": ""
     },
@@ -224,14 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Microsoft resolves global outage",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
@@ -240,25 +232,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kasper Brothers debut at AEW Full Gear",
+     "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7352359ddf51",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Starship booster lost, ship caught",
+     "text": "Investigation into Brooklyn collapse widens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Huge waves hit California coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f909bf605f83",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Shakespeare Institute to leave Stratford",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94fedb6be9c5",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Congress debates ICE overhaul",
+     "text": "Trump names Stephen Miller chief of staff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27b93d15db5c",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "Me_irl",
      "author": "me_irl",
      "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1066699/me-irl",
-     "likes": 28,
+     "likes": 46,
      "image": "https://lemmy.world/pictrs/image/4eb0fb9a-8844-4fad-98d4-8d8a46f2f6e0.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Come as you are, USS Nirvana",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://discuss.online/post/48485767",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/40bb9799-161c-4d97-97eb-648dd5c85ef2.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Judge halts Trump plan to redevelop Washington, DC, golf course | CNN Politics",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54422344",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/57def0fc-31ed-462f-827e-bbd0f05b7f96.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Top Aide for a Senator Pushing a Permitting Bill Was Also on Staff at a Pipeline Company",
      "author": "politics ",
      "url": "https://lemmy.world/post/54423427",
-     "likes": 9,
+     "likes": 26,
      "image": "https://lemmy.world/pictrs/image/9d49a5a9-356e-454c-9260-d5ad55a78f8e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The night bun cometh",
+     "author": "Bun Alert System",
+     "url": "https://lemmy.world/post/54423652",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/bd9429c7-5bae-4603-aeb1-a8d4dd2b0370.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Weekend cuddles",
+     "author": "Wholesome",
+     "url": "https://piefed.blahaj.zone/c/wholesome@reddthat.com/p/1066641/weekend-cuddles",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/d6f193eb-ee12-485f-a301-0a6af3443788.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T05:26:34.390884+00:00",
+   "fetched_at": "2026-11-15T05:56:40.541939+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
     {
      "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
+     "text": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.\r\n\r\n",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of pants do ghosts wear? Boo jeans.",
+     "text": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
      "source": "Dad joke"
     },
     {
-     "text": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.",
+     "text": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
      "source": "Dad joke"
     }
    ]
