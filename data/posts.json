@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T07:57:15.892191+00:00",
+ "generated_at": "2026-11-15T08:27:21.628149+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T07:57:11.584379+00:00",
+   "fetched_at": "2026-11-15T08:27:17.366991+00:00",
    "stale": false,
    "items": [
     {
@@ -44,24 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "I had to recreate this childhood photo when I got to the exact same spot.",
-     "url": "https://www.reddit.com/r/gaming/comments/1xwj9gb/i_had_to_recreate_this_childhood_photo_when_i_got/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jfddtatulo1i1.jpeg?width=640&crop=smart&auto=webp&s=656408777428252f9fcda0b536189f20fa552184"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "My dog gets into this position every single night with the curtain on his head.",
-     "url": "https://www.reddit.com/r/WhatsWrongWithYourDog/comments/1xwj687/my_dog_gets_into_this_position_every_single_night/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jyunhji0lo1i1.jpeg?width=640&crop=smart&auto=webp&s=5f900c0d65bd2d0d6e434d865144e72e43a750b3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Found under 16 year old son's bed.",
      "url": "https://www.reddit.com/r/whatisit/comments/1xwfepu/found_under_16_year_old_sons_bed/",
      "score": 0,
@@ -71,32 +53,78 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xwhy8u/meirl/",
+     "title": "How qualified is Sean Duffy to run the Department of Transportation?",
+     "url": "https://www.reddit.com/r/askanything/comments/1xw2hta/how_qualified_is_sean_duffy_to_run_the_department/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/jvjxf9zv9o1i1.jpeg?width=640&crop=smart&auto=webp&s=92df852cd2b87c15bf8eef5d3df6c4ad38290d24"
+     "image": ""
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "'Duffy Lied': Air Traffic Controllers Refute Transportation Secretary's Ground Stop Explanation",
-     "url": "https://www.reddit.com/r/technology/comments/1xwijlj/duffy_lied_air_traffic_controllers_refute/",
+     "title": "Her grandparents told her to come downstairs for a moment... and waiting for her downstairs was her first car",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xwfoaj/her_grandparents_told_her_to_come_downstairs_for/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/fJfgc2wgJWt2s5biVC3OzEOoStU-Cq9NULu6tzKS_Q0.jpeg?width=640&crop=smart&auto=webp&s=41f89c21be70c29b51a8913707649eb129ecb72a"
+     "image": "https://external-preview.redd.it/NHIzbW9wOHhxbjFpMST9a4w-3gNx-LPhKq7zLw0bN-8UKYJw4NAeKZeTrwOS.jpeg?width=320&crop=smart&auto=webp&s=cf2b40b25b0ac919b778f5bc6ed0f7b40391a6a2"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Lady next to me on a long flight",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xweo4l/lady_next_to_me_on_a_long_flight/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/1mtqe8cqin1i1.jpeg?width=640&crop=smart&auto=webp&s=00dd5e1f2da981163b91056df4497ed6dd0479ac"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "[Postgame Thread] Texas Defeats LSU 22-21",
+     "url": "https://www.reddit.com/r/CFB/comments/1xwm8wu/postgame_thread_texas_defeats_lsu_2221/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T07:57:12.375220+00:00",
+   "fetched_at": "2026-11-15T08:27:18.169318+00:00",
    "stale": false,
    "items": [
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 665,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11273,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 2942,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 829,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 325,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 59,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,38 +135,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4337,
-     "sub": "r/ProgrammerHumor"
+     "title": "Speaking from experience",
+     "image": "https://i.redd.it/8f7eebouch1i1.png",
+     "url": "https://redd.it/1xvpmvf",
+     "ups": 9122,
+     "sub": "r/memes"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 10,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 291,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "It just feels right",
-     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
-     "url": "https://redd.it/1xvjur1",
-     "ups": 15269,
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 5859,
      "sub": "r/memes"
     },
     {
@@ -149,39 +156,40 @@
      "sub": "r/memes"
     },
     {
+     "title": "FAA communications officer",
+     "image": "https://i.redd.it/mhjc1x7edh1i1.gif",
+     "url": "https://redd.it/1xvpoz0",
+     "ups": 113,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What on earth is happening over there",
+     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
+     "url": "https://redd.it/1xw9i20",
+     "ups": 292,
+     "sub": "r/memes"
+    },
+    {
      "title": "Run away, and never return",
      "image": "https://i.redd.it/aidhnj1awn1i1.png",
      "url": "https://redd.it/1xwgeh8",
      "ups": 20,
      "sub": "r/memes"
-    },
-    {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 54264,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Would dlc update",
-     "image": "https://i.redd.it/745y7kdz0o1i1.png",
-     "url": "https://redd.it/1xwgxo1",
-     "ups": 10,
-     "sub": "r/memes"
-    },
-    {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 17151,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T07:57:14.812531+00:00",
+   "fetched_at": "2026-11-15T08:27:20.647178+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "All-time favorite movie scenes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "US floats Donbas-for-NATO swap",
@@ -192,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Historical events as streaming series",
+     "text": "Trump silent after ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a9a958ef75e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
      "likes": 0,
      "image": ""
     },
@@ -208,14 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to impeach Pete Hegseth",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/573566f53e19",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -224,9 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sonic 2006 turns 20",
+     "text": "Russell Brand court case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5b96488bf90",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
@@ -240,17 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Best US airports to be stuck in",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ellipsus launches public profiles",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/de060256cee2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e29e3e0ffcdc",
      "likes": 0,
      "image": ""
     },
@@ -264,17 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
+     "text": "Friday the 13th arrives",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/609d4f81f8da",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen runs for Senate leader",
+     "text": "Ukraine reports daily Russian losses",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -283,82 +283,82 @@
      "text": "Reminder",
      "author": "Political Memes",
      "url": "https://lemmy.dbzer0.com/post/78466240",
-     "likes": 66,
+     "likes": 103,
      "image": "https://lemmy.world/pictrs/image/d002ba28-aeba-4d35-85f2-bdd5248ae5a7.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trump\u2019s War on Iran is Pushing the Global South Toward Chinese Solar Panels in Record Numbers: \"Even tomato sellers have put signs up saying they collect solar batteries and all kinds of solar waste.\"",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54426838",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/2805a6c2-37f6-439b-8943-5daf244913c9.jpeg"
+     "text": "AI Chatbots Won\u2019t Stop Recommending Scam Websites to People Trying to Shop: Think twice before you shop somewhere that ChatGPT recommended.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54427371",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/029359ac-4168-4c0f-9f6f-d630a70d3a3c.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Wegen der Microsoft-St\u00f6rung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 G\u00e4ste wurden verletzt.",
      "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
      "url": "https://feddit.org/post/38042443",
-     "likes": 11,
+     "likes": 26,
      "image": "https://lemmy.world/pictrs/image/68e1e6dc-d26d-4a0c-93b5-b06c308b6352.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The South Ledges, Appledore by Childe Hassam (1913)",
-     "author": "Traditional Art",
-     "url": "https://lemmy.world/post/54426111",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/f46ac2d2-aa07-4d5c-9804-146b87005ab5.jpeg"
+     "text": "Trump\u2019s War on Iran is Pushing the Global South Toward Chinese Solar Panels in Record Numbers: \"Even tomato sellers have put signs up saying they collect solar batteries and all kinds of solar waste.\"",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54426838",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/2805a6c2-37f6-439b-8943-5daf244913c9.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T07:57:15.405661+00:00",
+   "fetched_at": "2026-11-15T08:27:21.146432+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
+     "text": "What\u2019s the difference between an African elephant and an Indian elephant? About 5000 miles.",
      "source": "Dad joke"
     },
     {
-     "text": "Milk is also the fastest liquid on earth \u2013 its pasteurized before you even see it",
+     "text": "Why is the new Kindle screen textured to look like paper? So you feel write at home.",
      "source": "Dad joke"
     },
     {
-     "text": "No matter how kind you are, German children are kinder.",
+     "text": "I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
