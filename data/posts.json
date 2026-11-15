@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-15T00:25:17.095608+00:00",
+ "generated_at": "2026-11-15T00:55:23.695456+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T00:25:11.782791+00:00",
+   "fetched_at": "2026-11-15T00:55:18.724866+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
+     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xwh6et/geng_vs_bilibili_gaming_world_championship_2026/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/ZbfWsDg7D0OU7b_Ljev5kdfMVMOhtbxeEQB7S3GXseY.jpeg?width=640&crop=smart&auto=webp&s=0d11cb155766dd06d1a69edb63c994ceb3509a1c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Why is no one talking about this?",
-     "url": "https://www.reddit.com/r/wowforever/comments/1xvz681/why_is_no_one_talking_about_this/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/iauo9qxm1k1i1.jpeg?width=640&crop=smart&auto=webp&s=fcd09e6c717e32b66d941287b135ea55b49e2fcd"
     },
     {
      "source": "Reddit",
@@ -44,15 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What purchase under $350 is semi-life changing?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xw5l3f/what_purchase_under_350_is_semilife_changing/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "amazon drone delivery",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xwe7bk/amazon_drone_delivery/",
      "score": 0,
@@ -62,17 +53,17 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "me_irl",
-     "url": "https://www.reddit.com/r/me_irl/comments/1xwb1gc/me_irl/",
+     "title": "Why is no one talking about this?",
+     "url": "https://www.reddit.com/r/wowforever/comments/1xvz681/why_is_no_one_talking_about_this/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/YzBzaTB0emlxbTFpMWC6m9qbwCUw80KCZHfZg4CqQQZ8pNogF90dxWT4ed-M.jpeg?width=640&crop=smart&auto=webp&s=85a753c59e25405dbe39b281bffe575c9f184673"
+     "image": "https://preview.redd.it/iauo9qxm1k1i1.jpeg?width=640&crop=smart&auto=webp&s=fcd09e6c717e32b66d941287b135ea55b49e2fcd"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
-     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xwh6et/geng_vs_bilibili_gaming_world_championship_2026/",
+     "title": "What purchase under $350 is semi-life changing?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xw5l3f/what_purchase_under_350_is_semilife_changing/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -85,61 +76,63 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Invited my parents to my house on Sunday. They said \u2018no\u2019.",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xw0cl1/invited_my_parents_to_my_house_on_sunday_they/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T00:25:13.233982+00:00",
+   "fetched_at": "2026-11-15T00:55:19.725856+00:00",
    "stale": false,
    "items": [
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 124,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1249,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 672,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 72,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2114,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ripSupportCommunity",
-     "image": "https://i.redd.it/6f9oi74h4k1i1.gif",
-     "url": "https://redd.it/1xvzfeh",
-     "ups": 57,
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 374,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2812,
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4336,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 1771,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 3730,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 213,
-     "sub": "r/memes"
     },
     {
      "title": "Majority of us will have more important shit to do",
@@ -149,10 +142,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 525,
+     "title": "It just feels right",
+     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
+     "url": "https://redd.it/1xvjur1",
+     "ups": 14513,
      "sub": "r/memes"
     },
     {
@@ -163,10 +156,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 53463,
+     "title": "What on earth is happening over there",
+     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
+     "url": "https://redd.it/1xw9i20",
+     "ups": 38,
      "sub": "r/memes"
     },
     {
@@ -175,18 +168,25 @@
      "url": "https://redd.it/1xvndzp",
      "ups": 5538,
      "sub": "r/memes"
+    },
+    {
+     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
+     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
+     "url": "https://redd.it/1xw28dp",
+     "ups": 56,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T00:25:15.737515+00:00",
+   "fetched_at": "2026-11-15T00:55:22.184798+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "AEW Full Gear pay-per-view",
+     "text": "All-time favorite movie scenes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cff67afe40f2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
      "likes": 0,
      "image": ""
     },
@@ -200,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Biden's $25 billion aviation funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen runs for Senate leader",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Concerts with women lead singers",
+     "text": "Ellipsus launches public profiles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ef4e99875091",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Starship booster lost, ship caught",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/de060256cee2",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Sports betting ads likened to tobacco",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/69b0be6ebcd7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
+     "text": "Investigation into Brooklyn collapse widens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FAA contract and Duffy's son-in-law",
+     "text": "Van Hollen runs for Senate leader",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Calls to replace Schumer and Jeffries",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Burrrrrnnnn",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63314730",
-     "likes": 47,
+     "likes": 68,
      "image": "https://lemmy.world/pictrs/image/0df2f4ce-a847-4893-919d-fa564edb4c0e.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "She old",
      "author": "Political Memes",
      "url": "https://lemmy.world/post/54415486",
-     "likes": 41,
+     "likes": 72,
      "image": "https://lemmy.world/pictrs/image/b5a83039-17f3-4df7-a4aa-82cdc6d64622.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "\u2018Duffy lied\u2019: Air traffic controllers refute Trump Transportation Secretary\u2019s ground stop explanation",
      "author": "politics ",
      "url": "https://lemmy.world/post/54413737",
-     "likes": 115,
+     "likes": 147,
      "image": "https://lemmy.world/pictrs/image/58f7c93f-41ce-4e7b-9736-7bd9463430d8.jpeg"
     },
     {
@@ -307,21 +307,33 @@
      "text": "the ocean? fish live there! blub blub blub",
      "author": "196",
      "url": "https://sh.itjust.works/post/69936999",
-     "likes": 27,
+     "likes": 43,
      "image": "https://lemmy.world/pictrs/image/399cb490-a99d-4dd1-8f88-efb6f807e820.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T00:25:16.319739+00:00",
+   "fetched_at": "2026-11-15T00:55:22.975403+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
+     "text": "Why was the broom late for the meeting? He overswept.",
      "source": "Dad joke"
     },
     {
-     "text": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
+     "text": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
      "source": "Dad joke"
     },
     {
-     "text": "What did the drummer name her twin daughters? Anna One, Anna Two...",
+     "text": "Why are graveyards so noisy? Because of all the coffin.",
      "source": "Dad joke"
     }
    ]
