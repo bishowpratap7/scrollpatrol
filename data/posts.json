@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T21:00:54.386433+00:00",
+ "generated_at": "2026-11-15T21:31:00.125360+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T21:00:48.676928+00:00",
+   "fetched_at": "2026-11-15T21:30:56.069893+00:00",
    "stale": false,
    "items": [
     {
@@ -44,29 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "These numbers just show someone who is spending beyond their means. Why would you have 11,000 in car payments? That means you cannot afford those cars.",
-     "url": "https://www.reddit.com/r/WeirdCareers/comments/1xwrszn/these_numbers_just_show_someone_who_is_spending/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/277r48kz1r1i1.png?width=640&crop=smart&auto=webp&s=88de51c637be05fea54870be790bb4d28f56e77c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Lula said Brazil \u201clearned an extraordinary lesson\u201d after U.S. President Donald Trump imposed massive tariffs: \u201cInstead of crying or begging the American government to have pity on Brazil, we decided to look for other partners to sell to and buy from\"",
      "url": "https://www.reddit.com/r/worldnews/comments/1xx1yye/lula_said_brazil_learned_an_extraordinary_lesson/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/Rfr8c5KeFlBu6cvvvkOPPA9uEd6lr8lgi1i9w_M6QkU.jpeg?width=640&crop=smart&auto=webp&s=dded1c3571d92c4bc5619efcc35357a418a6aba5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "[OC] Dog drawing by me",
-     "url": "https://www.reddit.com/r/pics/comments/1xwxo1e/oc_dog_drawing_by_me/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/z5vaj1j1ks1i1.jpeg?width=640&crop=smart&auto=webp&s=3bda909bd0a92a92c3c1bffadf3dcf6c004d5a5f"
     },
     {
      "source": "Reddit",
@@ -80,93 +62,83 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "These numbers just show someone who is spending beyond their means. Why would you have 11,000 in car payments? That means you cannot afford those cars.",
+     "url": "https://www.reddit.com/r/WeirdCareers/comments/1xwrszn/these_numbers_just_show_someone_who_is_spending/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/277r48kz1r1i1.png?width=640&crop=smart&auto=webp&s=88de51c637be05fea54870be790bb4d28f56e77c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Lady was feeding her dog at the table of the hotel. Said it was a service dog. Sure it was.",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xww7dq/lady_was_feeding_her_dog_at_the_table_of_the/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/wevx9owq8s1i1.jpeg?width=640&crop=smart&auto=webp&s=6a0acb4ffb8416b693b3f9c7890ad0190b45d9fc"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Yet you can be in the Epstein files and your name stays protected.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xwte8w/yet_you_can_be_in_the_epstein_files_and_your_name/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/t7468utkjr1i1.jpeg?width=640&crop=smart&auto=webp&s=958d8353c07dcd15b6cb459bc2bfe5d942b3d4bc"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T21:00:50.388092+00:00",
+   "fetched_at": "2026-11-15T21:30:57.505743+00:00",
    "stale": false,
    "items": [
     {
-     "title": "justPickAuto",
-     "image": "https://i.redd.it/rps0tz177q1i1.png",
-     "url": "https://redd.it/1xwp2m2",
-     "ups": 1453,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 845,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 834,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 308,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 12,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 21,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2505,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2046,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 19,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 385,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 108,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Speaking from experience",
-     "image": "https://i.redd.it/8f7eebouch1i1.png",
-     "url": "https://redd.it/1xvpmvf",
-     "ups": 9635,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Run away, and never return",
-     "image": "https://i.redd.it/aidhnj1awn1i1.png",
-     "url": "https://redd.it/1xwgeh8",
-     "ups": 25,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 823,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Where the Buildings at?",
-     "image": "https://i.redd.it/go6rilozls1i1.png",
-     "url": "https://redd.it/1xwxxoe",
-     "ups": 23,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 250,
+     "title": "How did bro type a \"q\" in place of a \"b\"",
+     "image": "https://i.redd.it/yyq651hljk1i1.gif",
+     "url": "https://redd.it/1xw0v4y",
+     "ups": 1171,
      "sub": "r/memes"
     },
     {
@@ -175,11 +147,39 @@
      "url": "https://redd.it/1xwtxmc",
      "ups": 4005,
      "sub": "r/memes"
+    },
+    {
+     "title": "why is this so often",
+     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
+     "url": "https://redd.it/1xwk680",
+     "ups": 493,
+     "sub": "r/memes"
+    },
+    {
+     "title": "People used to fear those guys",
+     "image": "https://i.redd.it/cy227zs5tr1i1.png",
+     "url": "https://redd.it/1xwuecx",
+     "ups": 70,
+     "sub": "r/memes"
+    },
+    {
+     "title": "actors actor acting actors",
+     "image": "https://i.redd.it/mq5d6xl2fs1i1.png",
+     "url": "https://redd.it/1xwx0ju",
+     "ups": 0,
+     "sub": "r/memes"
+    },
+    {
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 18563,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T21:00:52.690928+00:00",
+   "fetched_at": "2026-11-15T21:30:58.857503+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Four female artists music taste",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Iran drones target Bahrain base",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
      "likes": 0,
      "image": ""
     },
@@ -224,46 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "All-time favorite moments in music",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40d0eb27c835",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pope Leo rides Peruvian helicopter",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Petition opposes Shakespeare Institute move",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94fedb6be9c5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Horses ride Detroit city bus",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Van Hollen runs for Senate leader",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
@@ -279,11 +231,67 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Pope Leo rides Peruvian helicopter",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Investigation into Brooklyn collapse widens",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Petition opposes Shakespeare Institute move",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94fedb6be9c5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aidan Hutchinson possibly hurt celebrating sack",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b7d9e5f11fc",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "FAA contract and Duffy's son-in-law",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Iran drones target Bahrain base",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Can confirm, this would work on me",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54449652",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/b6e028fe-e19a-4f7b-ad72-e363fb7795e1.jpeg"
+    },
+    {
      "kind": "Lemmy post",
      "text": "Real love",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54448712",
-     "likes": 27,
+     "likes": 54,
      "image": "https://lemmy.world/pictrs/image/e4927bc7-2be0-4a24-bdc3-d8949c61d384.jpeg"
     },
     {
@@ -291,65 +299,57 @@
      "text": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
      "author": "Technology",
      "url": "https://feddit.online/c/technology@lemmy.world/p/2115832/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests",
-     "likes": 29,
+     "likes": 62,
      "image": "https://lemmy.world/pictrs/image/fd1a35b2-dbb7-4503-984a-09717b730cb0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Fine! I'll make pizza at home!",
-     "author": "Cooking ",
-     "url": "https://piefed.social/c/cooking@lemmy.world/p/2606295/fine-i-ll-make-pizza-at-home",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/50436b7d-7734-4df5-abd0-bcb8d5a00dd0.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Act Now Rule",
+     "text": "In reference to the recent DRAM class action lawsuit decision",
      "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50536053",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/922091bb-8249-4f47-8939-31ced19cf67e.webp"
+     "url": "https://feddit.online/c/196@lemmy.world/p/2115875/in-reference-to-the-recent-dram-class-action-lawsuit-decision",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/2d501318-f0a3-47a6-ba29-7115aa151b53.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T21:00:53.607652+00:00",
+   "fetched_at": "2026-11-15T21:30:59.333803+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
     {
      "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
+     "text": "What do you call a pig that knows karate? A pork chop!",
      "source": "Dad joke"
     },
     {
-     "text": "If at first you don't succeed, sky diving is not for you!",
+     "text": "Milk is also the fastest liquid on earth \u2013 its pasteurized before you even see it",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a magician who has lost their magic? Ian.",
+     "text": "Why did the miner get fired from his job? He took it for granite...",
      "source": "Dad joke"
     }
    ]
