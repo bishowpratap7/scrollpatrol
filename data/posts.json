@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T09:57:38.346426+00:00",
+ "generated_at": "2026-11-15T10:27:43.433071+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T09:57:34.132714+00:00",
+   "fetched_at": "2026-11-15T10:27:39.771285+00:00",
    "stale": false,
    "items": [
     {
@@ -35,11 +35,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Belgian Malinois following orders.",
+     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xwng0d/belgian_malinois_following_orders/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/emdzcnJ4N3lwcDFpMZmVu5StgzkcAb2l5AeWE6xzKSimyhQc8SYDUFeQQ0Cm.png?width=320&crop=smart&auto=webp&s=b7dd711c0ba9229f5a9d141808ea46fff5ed6a7a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "What purchase under $350 is semi-life changing?",
      "url": "https://www.reddit.com/r/AskReddit/comments/1xw5l3f/what_purchase_under_350_is_semilife_changing/",
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "I had to recreate this childhood photo when I got to the exact same spot.",
+     "url": "https://www.reddit.com/r/gaming/comments/1xwj9gb/i_had_to_recreate_this_childhood_photo_when_i_got/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jfddtatulo1i1.jpeg?width=640&crop=smart&auto=webp&s=656408777428252f9fcda0b536189f20fa552184"
     },
     {
      "source": "Reddit",
@@ -67,57 +85,32 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Belgian Malinois following orders.",
-     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xwng0d/belgian_malinois_following_orders/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/emdzcnJ4N3lwcDFpMZmVu5StgzkcAb2l5AeWE6xzKSimyhQc8SYDUFeQQ0Cm.png?width=320&crop=smart&auto=webp&s=b7dd711c0ba9229f5a9d141808ea46fff5ed6a7a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Lady next to me on a long flight",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xweo4l/lady_next_to_me_on_a_long_flight/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/1mtqe8cqin1i1.jpeg?width=640&crop=smart&auto=webp&s=00dd5e1f2da981163b91056df4497ed6dd0479ac"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T09:57:34.901394+00:00",
+   "fetched_at": "2026-11-15T10:27:40.464660+00:00",
    "stale": false,
    "items": [
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 20,
+     "title": "thegoat",
+     "image": "https://i.redd.it/e4gbzpzak30i1.png",
+     "url": "https://redd.it/1xpujqh",
+     "ups": 534,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 618,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2828,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisFeelingNeverGoesAway",
-     "image": "https://i.redd.it/nkz0obxfr50i1.png",
-     "url": "https://redd.it/1xq28r6",
-     "ups": 23762,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1972,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 1978,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +121,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 3105,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 3825,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
-     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
-     "url": "https://redd.it/1xw28dp",
-     "ups": 85,
-     "sub": "r/memes"
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 832,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Majority of us will have more important shit to do",
-     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
-     "url": "https://redd.it/1xwblt2",
-     "ups": 909,
-     "sub": "r/memes"
-    },
-    {
-     "title": "And me in the aisle seat too",
-     "image": "https://i.redd.it/r30natv9ug1i1.png",
-     "url": "https://redd.it/1xvndzp",
-     "ups": 5913,
+     "title": "Would dlc update",
+     "image": "https://i.redd.it/745y7kdz0o1i1.png",
+     "url": "https://redd.it/1xwgxo1",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
@@ -163,25 +149,55 @@
      "sub": "r/memes"
     },
     {
-     "title": "Would dlc update",
-     "image": "https://i.redd.it/745y7kdz0o1i1.png",
-     "url": "https://redd.it/1xwgxo1",
-     "ups": 12,
+     "title": "Majority of us will have more important shit to do",
+     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
+     "url": "https://redd.it/1xwblt2",
+     "ups": 909,
      "sub": "r/memes"
     },
     {
-     "title": "The kids online are crying losing their unfunny overused joke.",
-     "image": "https://i.redd.it/xok32bs6bf1i1.png",
-     "url": "https://redd.it/1xvfoy9",
-     "ups": 5753,
+     "title": "Run away, and never return",
+     "image": "https://i.redd.it/aidhnj1awn1i1.png",
+     "url": "https://redd.it/1xwgeh8",
+     "ups": 23,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Nature is beautiful..",
+     "image": "https://i.redd.it/srkch1qzul1i1.gif",
+     "url": "https://redd.it/1xw6n4w",
+     "ups": 757,
+     "sub": "r/memes"
+    },
+    {
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 5913,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T09:57:37.356542+00:00",
+   "fetched_at": "2026-11-15T10:27:42.318965+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang resigns as Nvidia CEO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports daily Russian losses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "All-time favorite movie scenes",
@@ -192,25 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Historical events as streaming series",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a9a958ef75e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump silent after ground stop",
+     "text": "Midterm election aftermath for democracy",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Starship booster lost, ship caught",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft resolves global outage",
+     "text": "Italy Meta photo access case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c706ebeb4c5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Trump silent after ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand court case",
+     "text": "COP31 climate summit in Antalya",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US floats Donbas-for-NATO swap",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -283,82 +283,82 @@
      "text": "happy sunday",
      "author": "Programmer Humor",
      "url": "https://lemmy.ml/post/55333862",
-     "likes": 16,
+     "likes": 41,
      "image": "https://lemmy.world/pictrs/image/13b3f7f8-dca8-4eb9-90f6-003be9be1b83.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Portland, OR.",
-     "author": "Photography",
-     "url": "https://lemmy.world/post/54429425",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/649f29a9-7828-4b13-ac6e-80283e0312e9.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Day 850 of posting a Daily Screenshot from the games I've been playing",
-     "author": "Games",
-     "url": "https://lemmy.world/post/54429066",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/2f3159a1-47e9-42f4-abfb-474be955e29b.png"
+     "text": "Surely all other religions are completely wholesome",
+     "author": "tumblr",
+     "url": "https://piefed.zip/c/tumblr@lemmy.world/p/2002984/surely-all-other-religions-are-completely-wholesome",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/17c2ba39-24c0-45b3-8a67-a95ec8ac7b5f.png"
     },
     {
      "kind": "Lemmy post",
      "text": "NetBSD may have found a new role: The AI-free FOSS OS",
      "author": "Technology",
      "url": "https://feddit.org/post/38044748",
-     "likes": 15,
+     "likes": 31,
      "image": "https://lemmy.world/pictrs/image/2e104ced-4626-4256-b5ba-c757408d4daf.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "ich\ud83d\udc15\ud83d\udc29\ud83e\uddaeiel",
+     "author": "ich_iel",
+     "url": "https://feddit.org/post/38045966",
+     "likes": 7,
+     "image": "https://lemmy.world/pictrs/image/a37a6f04-2529-46e7-810a-74ae61cc9acb.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T09:57:37.922308+00:00",
+   "fetched_at": "2026-11-15T10:27:43.049484+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
     {
      "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What do you call a snake who builds houses? A boa constructor!",
+     "text": "What does an angry pepper do? It gets jalape\u00f1o face.",
      "source": "Dad joke"
     },
     {
-     "text": "I considered building the patio by myself. But I didn't have the stones.",
+     "text": "I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.",
      "source": "Dad joke"
     },
     {
-     "text": "What is this movie about? It is about 2 hours long.",
+     "text": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
