@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-15T15:59:13.666440+00:00",
+ "generated_at": "2026-11-15T15:59:28.391056+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T15:59:08.049742+00:00",
+   "fetched_at": "2026-11-15T15:59:23.952024+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "A masterclass in how to respond when people are clapping during your Birthday",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xwvsls/a_masterclass_in_how_to_respond_when_people_are/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/OHB3Zm9iMjY1czFpMUzQMjbn47nQ9quV2g-BPJnY9Kmu7YnQlp7uCCBDKZ_5.png?width=320&crop=smart&auto=webp&s=b8b7cb4ed6cd891ea183bcbe205c36e1781b4e9e"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -53,15 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Yet you can be in the Epstein files and your name stays protected.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xwte8w/yet_you_can_be_in_the_epstein_files_and_your_name/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/t7468utkjr1i1.jpeg?width=640&crop=smart&auto=webp&s=958d8353c07dcd15b6cb459bc2bfe5d942b3d4bc"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Lady next to me on a long flight",
      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xweo4l/lady_next_to_me_on_a_long_flight/",
      "score": 0,
@@ -71,41 +53,45 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "[OC] Dog drawing by me",
-     "url": "https://www.reddit.com/r/pics/comments/1xwxo1e/oc_dog_drawing_by_me/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/z5vaj1j1ks1i1.jpeg?width=640&crop=smart&auto=webp&s=3bda909bd0a92a92c3c1bffadf3dcf6c004d5a5f"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Found under 16 year old son's bed.",
      "url": "https://www.reddit.com/r/whatisit/comments/1xwfepu/found_under_16_year_old_sons_bed/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/cTF6enVwZ3FvbjFpMXkbYXaJsvX1Qj7dUyqh0dhwA_KjsIz3i8OHRqPBB5_l.png?width=320&crop=smart&auto=webp&s=ead1d493dc5f6e0f2523d939dcb6a34a72c7675c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "A masterclass in how to respond when people are clapping during your Birthday",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xwvsls/a_masterclass_in_how_to_respond_when_people_are/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/OHB3Zm9iMjY1czFpMUzQMjbn47nQ9quV2g-BPJnY9Kmu7YnQlp7uCCBDKZ_5.png?width=320&crop=smart&auto=webp&s=b8b7cb4ed6cd891ea183bcbe205c36e1781b4e9e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "History Made with First Starship Tower Catch!",
+     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xwkaiu/history_made_with_first_starship_tower_catch/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/NnBtZGNkZ2d2bzFpMUk_diQeqDK8Kp2spuZn0B8WUn92HeVI7OvuKCERw0Ei.jpeg?width=640&crop=smart&auto=webp&s=bd5614426dd7f59465e82dc3729916b6276f99f1"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "[Postgame Thread] Texas Defeats LSU 22-21",
+     "url": "https://www.reddit.com/r/CFB/comments/1xwm8wu/postgame_thread_texas_defeats_lsu_2221/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T15:59:09.706143+00:00",
+   "fetched_at": "2026-11-15T15:59:25.091974+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 132,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "spanishProgrammingLanguage",
-     "image": "https://i.redd.it/loj08qfkxyzh1.png",
-     "url": "https://redd.it/1xp9fts",
-     "ups": 17960,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "whatSortingAlgorithmIsThis",
      "image": "https://i.redd.it/iz274dmbkr0i1.gif",
@@ -114,17 +100,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 92,
+     "title": "cmonGitHubAgain",
+     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
+     "url": "https://redd.it/1xttllg",
+     "ups": 1194,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,11 +114,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 54647,
-     "sub": "r/memes"
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 59,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 59,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7700,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "The kids online are crying losing their unfunny overused joke.",
@@ -149,37 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "People used to fear those guys",
-     "image": "https://i.redd.it/cy227zs5tr1i1.png",
-     "url": "https://redd.it/1xwuecx",
-     "ups": 10,
+     "title": "actors actor acting actors",
+     "image": "https://i.redd.it/mq5d6xl2fs1i1.png",
+     "url": "https://redd.it/1xwx0ju",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
-     "title": "How did bro type a \"q\" in place of a \"b\"",
-     "image": "https://i.redd.it/yyq651hljk1i1.gif",
-     "url": "https://redd.it/1xw0v4y",
-     "ups": 1132,
+     "title": "The weekly survival circle",
+     "image": "https://i.redd.it/q45d8e6olj1i1.png",
+     "url": "https://redd.it/1xvxsex",
+     "ups": 244,
      "sub": "r/memes"
     },
     {
-     "title": "we all mature I guess...",
-     "image": "https://i.redd.it/i98obcvyor1i1.png",
-     "url": "https://redd.it/1xwtxmc",
-     "ups": 950,
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 18132,
      "sub": "r/memes"
     },
     {
-     "title": "CNC be like",
-     "image": "https://i.redd.it/6jy37nbois1i1.png",
-     "url": "https://redd.it/1xwxh8m",
-     "ups": 1,
+     "title": "Majority of us will have more important shit to do",
+     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
+     "url": "https://redd.it/1xwblt2",
+     "ups": 1077,
+     "sub": "r/memes"
+    },
+    {
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 6051,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T15:59:12.218573+00:00",
+   "fetched_at": "2026-11-15T15:59:27.045814+00:00",
    "stale": false,
    "items": [
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T15:59:12.913647+00:00",
+   "fetched_at": "2026-11-15T15:59:27.611096+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "I started a new business making yachts in my attic this year...the sails are going through the roof",
+     "text": "Why did the house go to the doctor? It was having window panes.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the Red light say to the Green light? Don't look at me I'm changing!",
+     "text": "Did you hear the news? FedEx and UPS are merging. They\u2019re going to go by the name Fed-Up from now on.",
      "source": "Dad joke"
     },
     {
-     "text": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
+     "text": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
      "source": "Dad joke"
     }
    ]
