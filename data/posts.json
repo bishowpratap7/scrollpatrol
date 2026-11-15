@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T17:59:57.383367+00:00",
+ "generated_at": "2026-11-15T18:30:04.785182+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T17:59:51.645425+00:00",
+   "fetched_at": "2026-11-15T18:29:59.038870+00:00",
    "stale": false,
    "items": [
     {
@@ -26,33 +26,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "[OC] Dog drawing by me",
-     "url": "https://www.reddit.com/r/pics/comments/1xwxo1e/oc_dog_drawing_by_me/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/z5vaj1j1ks1i1.jpeg?width=640&crop=smart&auto=webp&s=3bda909bd0a92a92c3c1bffadf3dcf6c004d5a5f"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "A masterclass in how to respond when people are clapping during your Birthday",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xwvsls/a_masterclass_in_how_to_respond_when_people_are/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/OHB3Zm9iMjY1czFpMUzQMjbn47nQ9quV2g-BPJnY9Kmu7YnQlp7uCCBDKZ_5.png?width=320&crop=smart&auto=webp&s=b8b7cb4ed6cd891ea183bcbe205c36e1781b4e9e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Trump blames Biden for nationwide grounding of flights, in first address since crisis",
-     "url": "https://www.reddit.com/r/politics/comments/1xwwtc6/trump_blames_biden_for_nationwide_grounding_of/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/j8_npxMMFlQNhbUGHi61KfB8Hl4ydMLaO9njQKipvvA.jpeg?width=640&crop=smart&auto=webp&s=979f409546bf8d7738a7faeb75c61f21225255a3"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Her grandparents told her to come downstairs for a moment... and waiting for her downstairs was her first car",
      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xwfoaj/her_grandparents_told_her_to_come_downstairs_for/",
      "score": 0,
@@ -71,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "History Made with First Starship Tower Catch!",
-     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xwkaiu/history_made_with_first_starship_tower_catch/",
+     "title": "[OC] Dog drawing by me",
+     "url": "https://www.reddit.com/r/pics/comments/1xwxo1e/oc_dog_drawing_by_me/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/NnBtZGNkZ2d2bzFpMUk_diQeqDK8Kp2spuZn0B8WUn92HeVI7OvuKCERw0Ei.jpeg?width=640&crop=smart&auto=webp&s=bd5614426dd7f59465e82dc3729916b6276f99f1"
+     "image": "https://preview.redd.it/z5vaj1j1ks1i1.jpeg?width=640&crop=smart&auto=webp&s=3bda909bd0a92a92c3c1bffadf3dcf6c004d5a5f"
     },
     {
      "source": "Reddit",
@@ -85,39 +58,79 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/YmtieDlmOHdlcjFpMSU71ucosXczOv3BMHpHGxV9zLBiNuo7kem0hqv-FRU6.png?width=640&crop=smart&auto=webp&s=9d97e4a1c245a033e7ec08f93cf21ef8a35c00bf"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "History Made with First Starship Tower Catch!",
+     "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xwkaiu/history_made_with_first_starship_tower_catch/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/NnBtZGNkZ2d2bzFpMUk_diQeqDK8Kp2spuZn0B8WUn92HeVI7OvuKCERw0Ei.jpeg?width=640&crop=smart&auto=webp&s=bd5614426dd7f59465e82dc3729916b6276f99f1"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "[Postgame Thread] Texas Defeats LSU 22-21",
+     "url": "https://www.reddit.com/r/CFB/comments/1xwm8wu/postgame_thread_texas_defeats_lsu_2221/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "A masterclass in how to respond when people are clapping during your Birthday",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xwvsls/a_masterclass_in_how_to_respond_when_people_are/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/OHB3Zm9iMjY1czFpMUzQMjbn47nQ9quV2g-BPJnY9Kmu7YnQlp7uCCBDKZ_5.png?width=320&crop=smart&auto=webp&s=b8b7cb4ed6cd891ea183bcbe205c36e1781b4e9e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/ProgrammerHumor",
+     "title": "bugsExclusivelyOnSunday",
+     "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1xx0mw3/bugsexclusivelyonsunday/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/kxuy14hd5t1i1.jpeg?width=640&crop=smart&auto=webp&s=266914145e6a98386698246268330281087706cc"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/ProgrammerHumor",
+     "title": "aiProofCredentialStorage",
+     "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1xwn2xh/aiproofcredentialstorage/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/uiv23vuamp1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=4fb4813ef42ef116c9415874b61162bbc7ea9a0b"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/ProgrammerHumor",
+     "title": "justPickAuto",
+     "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1xwp2m2/justpickauto/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/rps0tz177q1i1.png?width=640&crop=smart&auto=webp&s=49214dfaee0bf2797c28a99424a28426685be31d"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T17:59:53.198574+00:00",
+   "fetched_at": "2026-11-15T18:30:00.708813+00:00",
    "stale": false,
    "items": [
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 56,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2851,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 413,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 10,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2504,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +141,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 53,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 373,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Edenburg \ud83c\udf54",
-     "image": "https://i.redd.it/j3vnfty1rs1i1.gif",
-     "url": "https://redd.it/1xwylvp",
-     "ups": 2,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 621,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Majority of us will have more important shit to do",
+     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
+     "url": "https://redd.it/1xwblt2",
+     "ups": 1110,
      "sub": "r/memes"
     },
     {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 54737,
+     "title": "Nature is beautiful..",
+     "image": "https://i.redd.it/srkch1qzul1i1.gif",
+     "url": "https://redd.it/1xw6n4w",
+     "ups": 817,
      "sub": "r/memes"
     },
     {
-     "title": "Where the Buildings at?",
-     "image": "https://i.redd.it/go6rilozls1i1.png",
-     "url": "https://redd.it/1xwxxoe",
-     "ups": 16,
+     "title": "Would dlc update",
+     "image": "https://i.redd.it/745y7kdz0o1i1.png",
+     "url": "https://redd.it/1xwgxo1",
+     "ups": 14,
      "sub": "r/memes"
     },
     {
@@ -163,33 +190,25 @@
      "sub": "r/memes"
     },
     {
-     "title": "No more drama?",
-     "image": "https://i.redd.it/uj7e9q32ys1i1.png",
-     "url": "https://redd.it/1xwzl5m",
-     "ups": 3,
+     "title": "why is this so often",
+     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
+     "url": "https://redd.it/1xwk680",
+     "ups": 449,
      "sub": "r/memes"
     },
     {
-     "title": "Happy days ahead..",
-     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
-     "url": "https://redd.it/1xwzbp0",
-     "ups": 756,
+     "title": "He lowered the record by 23 seconds!!!",
+     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
+     "url": "https://redd.it/1xx0296",
+     "ups": 1,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T17:59:55.620269+00:00",
+   "fetched_at": "2026-11-15T18:30:03.272491+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump blames Biden for FAA ground stop",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1c86cba44c86",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Four female artists music taste",
@@ -200,25 +219,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "White House prepares to fight oversight",
+     "text": "Van Hollen runs for Senate leader",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/acabcba5bdfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "All-time favorite movie scenes",
+     "text": "All-time favorite moments in music",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40d0eb27c835",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Trump blames Biden for FAA ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1c86cba44c86",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +251,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Films watched more than six times",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -240,33 +267,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo XIV visits Latin America",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Italy Meta photo access case",
+     "text": "Two planes collide at Miami airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c706ebeb4c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b432c0c76805",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Investigation into Brooklyn collapse widens",
+     "text": "SpaceX catches Starship upper stage",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Lutnick chip export controls scandal",
+     "text": "White House prepares to fight oversight",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3688097a173f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/acabcba5bdfe",
      "likes": 0,
      "image": ""
     },
@@ -280,42 +307,46 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "All AI-generated code should be Open Source",
-     "author": "Technology",
-     "url": "https://feddit.online/c/technology@lemmy.world/p/2115486/all-ai-generated-code-should-be-open-source",
-     "likes": 65,
-     "image": "https://lemmy.world/pictrs/image/38ad190b-48d6-47f3-b1fd-cc6849e087bf.png"
+     "text": "rule",
+     "author": "196",
+     "url": "https://sh.itjust.works/post/69972898",
+     "likes": 76,
+     "image": "https://lemmy.world/pictrs/image/d451a8c7-4b5e-4399-a0a3-c8b4b90f89c1.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "That time of year...",
      "author": "AMUSING, INTERESTING, OUTRAGEOUS, or PROFOUND",
      "url": "https://lemmy.world/post/54442773",
-     "likes": 28,
+     "likes": 70,
      "image": "https://lemmy.world/pictrs/image/992b5c81-d3c6-45f7-951b-eb3159b1af58.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "rule",
-     "author": "196",
-     "url": "https://sh.itjust.works/post/69972898",
+     "text": "Too delicate",
+     "author": "History Memes",
+     "url": "https://reddthat.com/post/76666302",
      "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/d451a8c7-4b5e-4399-a0a3-c8b4b90f89c1.jpeg"
+     "image": "https://lemmy.world/pictrs/image/4b1ed2a6-8753-4270-88c7-bc7eb041dc65.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "high speed rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50531007",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/a456091d-b9f9-4134-8357-8bde60e2aeb2.webp"
+     "text": "Van Hollen says Fetterman \u2018maybe looking for exit ramp\u2019 after criticism",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54442660",
+     "likes": 54,
+     "image": "https://lemmy.world/pictrs/image/0ad7d4c3-ca0b-4a20-ae1a-98bb971b0115.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T17:59:56.251447+00:00",
+   "fetched_at": "2026-11-15T18:30:03.897028+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
     {
      "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
@@ -325,40 +356,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
      "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Why don't skeletons ride roller coasters? They don't have the stomach for it.",
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you get a baby alien to sleep?  You rocket.",
+     "text": "A steak pun is a rare medium well done.",
      "source": "Dad joke"
     },
     {
-     "text": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
+     "text": "Why was Pavlov's beard so soft?  Because he conditioned it.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
