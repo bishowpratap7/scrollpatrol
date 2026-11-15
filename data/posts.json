@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T04:26:22.803741+00:00",
+ "generated_at": "2026-11-15T04:56:28.616890+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T04:26:17.992984+00:00",
+   "fetched_at": "2026-11-15T04:56:24.342643+00:00",
    "stale": false,
    "items": [
     {
@@ -44,15 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "'Duffy Lied': Air Traffic Controllers Refute Transportation Secretary's Ground Stop Explanation",
-     "url": "https://www.reddit.com/r/technology/comments/1xwijlj/duffy_lied_air_traffic_controllers_refute/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/fJfgc2wgJWt2s5biVC3OzEOoStU-Cq9NULu6tzKS_Q0.jpeg?width=640&crop=smart&auto=webp&s=41f89c21be70c29b51a8913707649eb129ecb72a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Fetterman says change in Senate leadership could push him to leave Dem party",
      "url": "https://www.reddit.com/r/anticapitalism/comments/1xw9gfi/fetterman_says_change_in_senate_leadership_could/",
      "score": 0,
@@ -85,67 +76,69 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Her grandparents told her to come downstairs for a moment... and waiting for her downstairs was her first car",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xwfoaj/her_grandparents_told_her_to_come_downstairs_for/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/NHIzbW9wOHhxbjFpMST9a4w-3gNx-LPhKq7zLw0bN-8UKYJw4NAeKZeTrwOS.jpeg?width=320&crop=smart&auto=webp&s=cf2b40b25b0ac919b778f5bc6ed0f7b40391a6a2"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T04:26:18.852712+00:00",
+   "fetched_at": "2026-11-15T04:56:25.263274+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1170,
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4341,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "whatSortingAlgorithmIsThis",
      "image": "https://i.redd.it/iz274dmbkr0i1.gif",
      "url": "https://redd.it/1xsjpbi",
-     "ups": 823,
+     "ups": 829,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 3752,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 2762,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "useTheCorrectTermPeople",
-     "image": "https://i.redd.it/lijzzbq48e0i1.png",
-     "url": "https://redd.it/1xqyte9",
-     "ups": 2483,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 56,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
-     "ups": 0,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 26,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1255,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 668,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I know I'm a little late but \ud83e\udd2d",
-     "image": "https://i.redd.it/nh0btqjv5p1i1.png",
-     "url": "https://redd.it/1xwlex2",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "artificial incompetence",
-     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
-     "url": "https://redd.it/1xvo45l",
-     "ups": 16705,
+     "title": "Nothing Happens as Expected.",
+     "image": "https://i.redd.it/01m1zivyto1i1.gif",
+     "url": "https://redd.it/1xwk5e7",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
@@ -156,17 +149,24 @@
      "sub": "r/memes"
     },
     {
-     "title": "15 hours and counting",
-     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
-     "url": "https://redd.it/1xv4i0w",
-     "ups": 54050,
+     "title": "I know I'm a little late but \ud83e\udd2d",
+     "image": "https://i.redd.it/nh0btqjv5p1i1.png",
+     "url": "https://redd.it/1xwlex2",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
-     "title": "Would dlc update",
-     "image": "https://i.redd.it/745y7kdz0o1i1.png",
-     "url": "https://redd.it/1xwgxo1",
-     "ups": 13,
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 5717,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The weekly survival circle",
+     "image": "https://i.redd.it/q45d8e6olj1i1.png",
+     "url": "https://redd.it/1xvxsex",
+     "ups": 226,
      "sub": "r/memes"
     },
     {
@@ -179,7 +179,7 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T04:26:21.535543+00:00",
+   "fetched_at": "2026-11-15T04:56:27.380534+00:00",
    "stale": false,
    "items": [
     {
@@ -187,22 +187,6 @@
      "text": "All-time favorite movie scenes",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump silent after ground stop",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to impeach Pete Hegseth",
+     "text": "Marina Shafir vs. Mercedes Mon\u00e9",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/573566f53e19",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c81229343431",
      "likes": 0,
      "image": ""
     },
@@ -232,49 +216,65 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Biden's $25 billion aviation funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft resolves global outage",
+     "text": "Films watched more than six times",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Calls to replace Schumer and Jeffries",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
+     "text": "Huge waves hit California coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f909bf605f83",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's \"Trash Island\" golf post",
+     "text": "Kasper Brothers debut at AEW Full Gear",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98a5c84b1c1a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7352359ddf51",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US floats Donbas-for-NATO swap",
+     "text": "Investigation into Brooklyn collapse widens",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/78cebb1593f3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US military conflict with Iran",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports daily Russian losses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "Rule is new and exciting",
      "author": "196",
      "url": "https://quokk.au/c/onehundredninetysix/p/1319088/rule-is-new-and-exciting",
-     "likes": 33,
+     "likes": 55,
      "image": "https://lemmy.world/pictrs/image/6ca4fd02-0175-4169-b1c4-ff23a11b3be6.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "John Fetterman Signals Breaking Point With Democrats Over Van Hollen",
-     "author": "News",
-     "url": "https://lemmy.world/post/54421583",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/08324ed6-d232-4af7-8ea3-e27f96d47cb0.jpeg"
+     "text": "Come as you are, USS Nirvana",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://discuss.online/post/48485767",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/40bb9799-161c-4d97-97eb-648dd5c85ef2.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Finally did it rule :3",
-     "author": "196",
-     "url": "https://piefed.zip/c/onehundredninetysix@lemmy.blahaj.zone/p/2002489/finally-did-it-rule-3",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/f2dd93ec-2c15-4fa7-bae7-60def815a6b4.jpeg"
+     "text": "Judge halts Trump plan to redevelop Washington, DC, golf course | CNN Politics",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54422344",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/57def0fc-31ed-462f-827e-bbd0f05b7f96.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Former Pentagon official calls Hegseth '100% a war criminal'",
-     "author": "Zionist Violence Monitor",
-     "url": "https://sh.itjust.works/post/69945734",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/d87946d0-0820-49a4-8803-5876075138bf.jpeg"
+     "text": "Anon watches the little mermaid",
+     "author": "Greentext",
+     "url": "https://sh.itjust.works/post/69946475",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/246d4a00-99c7-4995-aa83-f8442b5d5647.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T04:26:22.325140+00:00",
+   "fetched_at": "2026-11-15T04:56:28.138432+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
     {
      "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "What creature is smarter than a talking parrot? A spelling bee.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Archaeology really is a career in ruins.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was Santa's little helper feeling depressed? Because he has low elf esteem.\n",
+     "text": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear that David lost his ID in prague? Now we just have to call him Dav.",
+     "text": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
      "source": "Dad joke"
     }
    ]
