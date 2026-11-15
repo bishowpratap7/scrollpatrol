@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-15T03:26:09.950952+00:00",
+ "generated_at": "2026-11-15T03:56:16.334429+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T03:26:05.164421+00:00",
+   "fetched_at": "2026-11-15T03:56:11.657608+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
-     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xwh6et/geng_vs_bilibili_gaming_world_championship_2026/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/jfddtatulo1i1.jpeg?width=640&crop=smart&auto=webp&s=656408777428252f9fcda0b536189f20fa552184"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
+     "url": "https://www.reddit.com/r/leagueoflegends/comments/1xwh6et/geng_vs_bilibili_gaming_world_championship_2026/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -40,6 +40,24 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/ZbfWsDg7D0OU7b_Ljev5kdfMVMOhtbxeEQB7S3GXseY.jpeg?width=640&crop=smart&auto=webp&s=0d11cb155766dd06d1a69edb63c994ceb3509a1c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xwhy8u/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jvjxf9zv9o1i1.jpeg?width=640&crop=smart&auto=webp&s=92df852cd2b87c15bf8eef5d3df6c4ad38290d24"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "'Duffy Lied': Air Traffic Controllers Refute Transportation Secretary's Ground Stop Explanation",
+     "url": "https://www.reddit.com/r/technology/comments/1xwijlj/duffy_lied_air_traffic_controllers_refute/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/fJfgc2wgJWt2s5biVC3OzEOoStU-Cq9NULu6tzKS_Q0.jpeg?width=640&crop=smart&auto=webp&s=41f89c21be70c29b51a8913707649eb129ecb72a"
     },
     {
      "source": "Reddit",
@@ -67,50 +85,32 @@
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xwhy8u/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jvjxf9zv9o1i1.jpeg?width=640&crop=smart&auto=webp&s=92df852cd2b87c15bf8eef5d3df6c4ad38290d24"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I\u2019m no hunter but I know when your faithful companion brings you a trophy leaf, you get a picture with it",
-     "url": "https://www.reddit.com/r/dogpictures/comments/1xwes78/im_no_hunter_but_i_know_when_your_faithful/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/9ztbe9zmjn1i1.jpeg?width=640&crop=smart&auto=webp&s=6024a76813ba6b4890864476244a3c528542aa58"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T03:26:06.061304+00:00",
+   "fetched_at": "2026-11-15T03:56:12.542553+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 230,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 227,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11243,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 1961,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 54,
+     "title": "noAgentLeftBehind",
+     "image": "https://i.redd.it/u12ee97oi10i1.png",
+     "url": "https://redd.it/1xpl67i",
+     "ups": 7693,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,13 +121,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "reversingPiInPython",
-     "image": "https://i.redd.it/8or59ob24d0i1.png",
-     "url": "https://redd.it/1xqv0nj",
-     "ups": 13999,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
      "title": "leadArtificialIntelligence",
      "image": "https://i.redd.it/6xunxdq39h1i1.png",
      "url": "https://redd.it/1xvp93r",
@@ -135,51 +128,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "everythingGoesIntoThePostHole",
+     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
+     "url": "https://redd.it/1xqmwj4",
+     "ups": 4345,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Would dlc update",
+     "image": "https://i.redd.it/745y7kdz0o1i1.png",
+     "url": "https://redd.it/1xwgxo1",
+     "ups": 13,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Majority of us will have more important shit to do",
+     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
+     "url": "https://redd.it/1xwblt2",
+     "ups": 587,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Nothing Happens as Expected.",
+     "image": "https://i.redd.it/01m1zivyto1i1.gif",
+     "url": "https://redd.it/1xwk5e7",
+     "ups": 3,
+     "sub": "r/memes"
+    },
+    {
+     "title": "FAA communications officer",
+     "image": "https://i.redd.it/mhjc1x7edh1i1.gif",
+     "url": "https://redd.it/1xvpoz0",
+     "ups": 111,
+     "sub": "r/memes"
+    },
+    {
      "title": "artificial incompetence",
      "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
      "url": "https://redd.it/1xvo45l",
-     "ups": 16460,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 213,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
-     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
-     "url": "https://redd.it/1xw28dp",
-     "ups": 60,
+     "ups": 16705,
      "sub": "r/memes"
     },
     {
      "title": "Nature is beautiful..",
      "image": "https://i.redd.it/srkch1qzul1i1.gif",
      "url": "https://redd.it/1xw6n4w",
-     "ups": 569,
-     "sub": "r/memes"
-    },
-    {
-     "title": "How did bro type a \"q\" in place of a \"b\"",
-     "image": "https://i.redd.it/yyq651hljk1i1.gif",
-     "url": "https://redd.it/1xw0v4y",
-     "ups": 760,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Would dlc update",
-     "image": "https://i.redd.it/745y7kdz0o1i1.png",
-     "url": "https://redd.it/1xwgxo1",
-     "ups": 5,
+     "ups": 615,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T03:26:08.732838+00:00",
+   "fetched_at": "2026-11-15T03:56:15.200912+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "All-time favorite movie scenes",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Historical events as streaming series",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a9a958ef75e",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +208,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alaska Senate race vote count",
+     "text": "Trump silent after ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Huge waves hit California coast",
+     "text": "Historical events as streaming series",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f909bf605f83",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a9a958ef75e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kasper Brothers debut at AEW Full Gear",
+     "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7352359ddf51",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "El Ni\u00f1o brings storms to California",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62469417a673",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Leather jackets in tech",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Huge waves hit California coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Veterans Day tributes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f909bf605f83",
      "likes": 0,
      "image": ""
     },
@@ -272,48 +272,48 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen runs for Senate leader",
+     "text": "Trump's \"Trash Island\" golf post",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/98a5c84b1c1a",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Finally did it rule :3",
+     "author": "196",
+     "url": "https://piefed.zip/c/onehundredninetysix@lemmy.blahaj.zone/p/2002489/finally-did-it-rule-3",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/f2dd93ec-2c15-4fa7-bae7-60def815a6b4.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "I'm watching this because today is...",
      "author": "movies",
      "url": "https://feddit.online/c/movies@piefed.social/p/2114309/i-m-watching-this-because-today-is",
-     "likes": 17,
+     "likes": 39,
      "image": "https://lemmy.world/pictrs/image/b896b89f-4172-434f-a78d-cbfb47e7195e.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Every time you blink, Linus gets closer\u2026",
-     "author": "Foxes",
-     "url": "https://lemmy.world/post/54419791",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/9bae750d-2d4b-4092-91b8-b1035ce0d36a.jpeg"
+     "text": "Leo and Spakle",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54421157",
+     "likes": 11,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Judge halts Trump plan to redevelop Washington, DC, golf course",
-     "author": "News",
-     "url": "https://lemmy.world/post/54420125",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/b18f6acb-3a41-46a3-b53e-f92959ab0e73.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
-     "author": "Spaceflight",
-     "url": "https://sopuli.xyz/post/54612877",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/a208f6f7-2ec0-429a-857b-28f400bdd860.jpeg"
+     "text": "Anatomy is weird",
+     "author": "Dank Memes",
+     "url": "https://lemmy.world/post/54421498",
+     "likes": 4,
+     "image": "https://lemmy.world/pictrs/image/74cdc498-8c7b-40d4-9f4a-fd8c5195c95a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T03:26:09.428075+00:00",
+   "fetched_at": "2026-11-15T03:56:15.963709+00:00",
    "stale": false,
    "items": [
     {
@@ -321,7 +321,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
+     "text": "Whats a penguins favorite relative? Aunt Arctica.",
      "source": "Dad joke"
     },
     {
-     "text": "When will the little snake arrive? I don't know but he won't be long...",
+     "text": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
      "source": "Dad joke"
     },
     {
-     "text": "What do you do when you see a space man?\r\nPark your car, man.",
+     "text": "How do robots eat guacamole? With computer chips.",
      "source": "Dad joke"
     }
    ]
