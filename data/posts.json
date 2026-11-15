@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T12:28:25.173594+00:00",
+ "generated_at": "2026-11-15T12:58:32.022449+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T12:28:19.732788+00:00",
+   "fetched_at": "2026-11-15T12:58:26.587827+00:00",
    "stale": false,
    "items": [
     {
@@ -22,6 +22,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/ZbfWsDg7D0OU7b_Ljev5kdfMVMOhtbxeEQB7S3GXseY.jpeg?width=640&crop=smart&auto=webp&s=0d11cb155766dd06d1a69edb63c994ceb3509a1c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Yet you can be in the Epstein files and your name stays protected.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xwte8w/yet_you_can_be_in_the_epstein_files_and_your_name/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/t7468utkjr1i1.jpeg?width=640&crop=smart&auto=webp&s=958d8353c07dcd15b6cb459bc2bfe5d942b3d4bc"
     },
     {
      "source": "Reddit",
@@ -62,26 +71,17 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What cities are rougher than their reputations suggest?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xwd0ax/what_cities_are_rougher_than_their_reputations/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "UPS cargo plane collides with passenger jet at Miami International Airport",
-     "url": "https://www.reddit.com/r/news/comments/1xwlw3d/ups_cargo_plane_collides_with_passenger_jet_at/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Moving company tried charging for extra boxes, so SIL sued them \"losing\" for the extra boxes",
      "url": "https://www.reddit.com/r/pettyrevenge/comments/1xwqtuh/moving_company_tried_charging_for_extra_boxes_so/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What cities are rougher than their reputations suggest?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xwd0ax/what_cities_are_rougher_than_their_reputations/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -89,70 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T12:28:21.293137+00:00",
+   "fetched_at": "2026-11-15T12:58:28.257747+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 93,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 391,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4339,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "godIHateWhenThisHappens",
      "image": "https://i.redd.it/kkuprpag3n0i1.png",
      "url": "https://redd.it/1xs1fbm",
-     "ups": 614,
+     "ups": 619,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 247,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "why is this so often",
-     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
-     "url": "https://redd.it/1xwk680",
-     "ups": 329,
-     "sub": "r/memes"
+     "title": "meetPotentialLanguage",
+     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
+     "url": "https://redd.it/1xrwkc1",
+     "ups": 134,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "It feels good to introspect \ud83d\ude42\u200d\u2195\ufe0f",
-     "image": "https://i.redd.it/6asvze3nxp1i1.png",
-     "url": "https://redd.it/1xwo6c4",
-     "ups": 0,
-     "sub": "r/memes"
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 836,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Would dlc update",
-     "image": "https://i.redd.it/745y7kdz0o1i1.png",
-     "url": "https://redd.it/1xwgxo1",
-     "ups": 9,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2134,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2835,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 54461,
      "sub": "r/memes"
     },
     {
@@ -163,46 +149,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "How did bro type a \"q\" in place of a \"b\"",
-     "image": "https://i.redd.it/yyq651hljk1i1.gif",
-     "url": "https://redd.it/1xw0v4y",
-     "ups": 1096,
+     "title": "Run away, and never return",
+     "image": "https://i.redd.it/aidhnj1awn1i1.png",
+     "url": "https://redd.it/1xwgeh8",
+     "ups": 24,
      "sub": "r/memes"
     },
     {
-     "title": "The weekly survival circle",
-     "image": "https://i.redd.it/q45d8e6olj1i1.png",
-     "url": "https://redd.it/1xvxsex",
-     "ups": 237,
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 5971,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Speaking from experience",
+     "image": "https://i.redd.it/8f7eebouch1i1.png",
+     "url": "https://redd.it/1xvpmvf",
+     "ups": 9327,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It just feels right",
+     "image": "https://i.redd.it/1bllf7mp3g1i1.gif",
+     "url": "https://redd.it/1xvjur1",
+     "ups": 15566,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T12:28:23.790187+00:00",
+   "fetched_at": "2026-11-15T12:58:30.736630+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Biden's $25 billion aviation funding",
+     "text": "Trump silent after ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ef3d2e6d517",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US floats Donbas-for-NATO swap",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c95a26319c65",
      "likes": 0,
      "image": ""
     },
@@ -216,49 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Films watched more than six times",
+     "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand trial",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Horses ride Detroit city bus",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pope Leo XIV visits Latin America",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Shakespeare Institute to leave Stratford",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94fedb6be9c5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
      "likes": 0,
      "image": ""
     },
@@ -272,52 +216,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election aftermath for democracy",
+     "text": "Two planes collide at Miami airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b432c0c76805",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Historical events as streaming series",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1a9a958ef75e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Sonic 2006 turns 20",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5b96488bf90",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pope Leo XIV visits Latin America",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Calls to replace Schumer and Jeffries",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US military conflict with Iran",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The good ole days",
+     "author": "memes",
+     "url": "https://lemmy.ca/post/73880841",
+     "likes": 45,
+     "image": "https://lemmy.world/pictrs/image/1d3aea90-da9e-49d9-a1c7-a72d4d8c645a.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "It is currently November. Is there any snow where you live?",
+     "author": "Ask Lemmy",
+     "url": "https://lemmy.dbzer0.com/post/78473238",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/ccc60814-e043-4027-8be5-cbd5d410a0b3.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Payback",
+     "author": "Comic Strips",
+     "url": "https://lemmy.ca/post/73880786",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/cc5a93b9-561d-47b3-b073-6b1f5cd4931d.png"
     },
     {
      "kind": "Lemmy post",
      "text": "How to create your roadmap",
      "author": "Programmer Humor",
      "url": "https://programming.dev/post/59432966",
-     "likes": 51,
+     "likes": 100,
      "image": "https://lemmy.world/pictrs/image/480aa3d3-08e0-4ab4-8271-55fee4e04f0f.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Lutnick pushed to weaken chip rules that overlap with his family business",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54432037",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/cf44ec96-6907-4445-8ba8-965bf92db4ca.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Gave her her owm undergarments so she would stop going after mine",
-     "author": "cats",
-     "url": "https://lemmy.world/post/54432326",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/d245b1a3-620a-4ae5-bfdd-85ef4bd8965c.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Italy fines Meta $887m for accessing Android users\u2019 photos and videos",
-     "author": "News",
-     "url": "https://lemmy.world/post/54432317",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/ec2acb46-3792-43ba-9868-19b403340301.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T12:28:24.451222+00:00",
+   "fetched_at": "2026-11-15T12:58:31.333713+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
+     "text": "What is the difference between ignorance and apathy?\r\n\r\nI don't know and I don't care.",
      "source": "Dad joke"
     },
     {
-     "text": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
+     "text": "How do you steal a coat? You jacket.",
      "source": "Dad joke"
     },
     {
-     "text": "which flower is most fierce? Dandelion",
+     "text": "Why do scuba divers fall backwards into the water? Because if they fell forwards they\u2019d still be in the boat.",
      "source": "Dad joke"
     }
    ]
