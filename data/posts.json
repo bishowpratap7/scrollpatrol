@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T00:55:23.695456+00:00",
+ "generated_at": "2026-11-15T00:55:38.424810+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T00:55:18.724866+00:00",
+   "fetched_at": "2026-11-15T00:55:33.856363+00:00",
    "stale": false,
    "items": [
     {
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T00:55:19.725856+00:00",
+   "fetched_at": "2026-11-15T00:55:34.846344+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "iFixedThePreviousPostBasedOnBestComments",
      "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
@@ -107,32 +100,46 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2114,
+     "title": "friedThatBum",
+     "image": "https://i.redd.it/t54hs6rk550i1.png",
+     "url": "https://redd.it/1xq0d1a",
+     "ups": 159,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 374,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 307,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4336,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 792,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 3730,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 13962,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2822,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
+     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
+     "url": "https://redd.it/1xw28dp",
+     "ups": 56,
+     "sub": "r/memes"
     },
     {
      "title": "Majority of us will have more important shit to do",
@@ -149,10 +156,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "FAA communications officer",
-     "image": "https://i.redd.it/mhjc1x7edh1i1.gif",
-     "url": "https://redd.it/1xvpoz0",
-     "ups": 115,
+     "title": "Run away, and never return",
+     "image": "https://i.redd.it/aidhnj1awn1i1.png",
+     "url": "https://redd.it/1xwgeh8",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
@@ -163,23 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "And me in the aisle seat too",
-     "image": "https://i.redd.it/r30natv9ug1i1.png",
-     "url": "https://redd.it/1xvndzp",
-     "ups": 5538,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The sheer idea made me so enthusiastic...\ud83d\ude0c",
-     "image": "https://i.redd.it/8pzlu3vlwk1i1.png",
-     "url": "https://redd.it/1xw28dp",
-     "ups": 56,
+     "title": "Nature is beautiful..",
+     "image": "https://i.redd.it/srkch1qzul1i1.gif",
+     "url": "https://redd.it/1xw6n4w",
+     "ups": 525,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T00:55:22.184798+00:00",
+   "fetched_at": "2026-11-15T00:55:36.971702+00:00",
    "stale": false,
    "items": [
     {
@@ -307,49 +307,49 @@
      "text": "the ocean? fish live there! blub blub blub",
      "author": "196",
      "url": "https://sh.itjust.works/post/69936999",
-     "likes": 43,
+     "likes": 44,
      "image": "https://lemmy.world/pictrs/image/399cb490-a99d-4dd1-8f88-efb6f807e820.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T00:55:22.975403+00:00",
+   "fetched_at": "2026-11-15T00:55:37.933215+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Why was the broom late for the meeting? He overswept.",
+     "text": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.",
      "source": "Dad joke"
     },
     {
-     "text": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
+     "text": "What did the calculator say to the student? You can count on me.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are graveyards so noisy? Because of all the coffin.",
+     "text": "I\u2019ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it\u2019s Hans free.",
      "source": "Dad joke"
     }
    ]
