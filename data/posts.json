@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T10:57:49.103399+00:00",
+ "generated_at": "2026-11-15T10:58:04.938898+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-15T10:57:45.002228+00:00",
+   "fetched_at": "2026-11-15T10:57:58.925124+00:00",
    "stale": false,
    "items": [
     {
@@ -85,39 +85,73 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/1mtqe8cqin1i1.jpeg?width=640&crop=smart&auto=webp&s=00dd5e1f2da981163b91056df4497ed6dd0479ac"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "] REMINDER] ANY political content will earn an immediate 30-day ban\"",
+     "url": "https://www.reddit.com/r/funny/comments/160kuuf/reminder_any_political_content_will_earn_an/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "Imagine trying to finish your spaghetti while being terrified \ud83d\ude02",
+     "url": "https://www.reddit.com/r/funny/comments/1xwoo08/imagine_trying_to_finish_your_spaghetti_while/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aXdqejJnanUycTFpMdRNUPBqqFyDgqTlYiVW_Xvi46yUeGflgF8aVh-Xmaio.png?width=640&crop=smart&auto=webp&s=3ce1c0a84337be755b1e2d99198f320a9c190284"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/funny",
+     "title": "Buster gets busted",
+     "url": "https://www.reddit.com/r/funny/comments/1xwbw3i/buster_gets_busted/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/c2IyY3djNHh3bTFpMXvQQ4MClmJLTEUFiAUmqkMQ-aE1RAU9lu7frE5J9IVo.png?width=320&crop=smart&auto=webp&s=e96464e30a797e38bdd4d5b9abf548c9e8b620a3"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-15T10:57:46.050505+00:00",
+   "fetched_at": "2026-11-15T10:58:00.817683+00:00",
    "stale": false,
    "items": [
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 1992,
+     "title": "spanishProgrammingLanguage",
+     "image": "https://i.redd.it/loj08qfkxyzh1.png",
+     "url": "https://redd.it/1xp9fts",
+     "ups": 17955,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 813,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1262,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 86,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 614,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2498,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 3249,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,17 +162,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 3844,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "why is this so often",
-     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
-     "url": "https://redd.it/1xwk680",
-     "ups": 246,
+     "title": "Speaking from experience",
+     "image": "https://i.redd.it/8f7eebouch1i1.png",
+     "url": "https://redd.it/1xvpmvf",
+     "ups": 9225,
      "sub": "r/memes"
     },
     {
@@ -156,30 +183,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "What on earth is happening over there",
-     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
-     "url": "https://redd.it/1xw9i20",
-     "ups": 378,
+     "title": "15 hours and counting",
+     "image": "https://i.redd.it/lxfmvim6yc1i1.png",
+     "url": "https://redd.it/1xv4i0w",
+     "ups": 54367,
      "sub": "r/memes"
     },
     {
-     "title": "Run away, and never return",
-     "image": "https://i.redd.it/aidhnj1awn1i1.png",
-     "url": "https://redd.it/1xwgeh8",
-     "ups": 23,
+     "title": "why is this so often",
+     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
+     "url": "https://redd.it/1xwk680",
+     "ups": 246,
      "sub": "r/memes"
     },
     {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 757,
+     "title": "Majority of us will have more important shit to do",
+     "image": "https://i.redd.it/2x3atzmrum1i1.gif",
+     "url": "https://redd.it/1xwblt2",
+     "ups": 909,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-15T10:57:47.967007+00:00",
+   "fetched_at": "2026-11-15T10:58:03.309007+00:00",
    "stale": false,
    "items": [
     {
@@ -313,23 +340,23 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-15T10:57:48.675975+00:00",
+   "fetched_at": "2026-11-15T10:58:04.227580+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +364,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "How many South Americans does it take to change a lightbulb? A Brazilian",
+     "text": "Why are ghosts bad liars? Because you can see right through them!",
      "source": "Dad joke"
     },
     {
-     "text": "When will the little snake arrive? I don't know but he won't be long...",
+     "text": "Did you hear about the bread factory burning down? They say the business is toast.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a girl between two posts? Annette.",
+     "text": "Sore throats are a pain in the neck!",
      "source": "Dad joke"
     }
    ]
