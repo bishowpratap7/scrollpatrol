@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T12:04:44.668652+00:00",
+ "generated_at": "2026-11-16T12:05:01.807974+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T12:04:40.286674+00:00",
+   "fetched_at": "2026-11-16T12:04:56.578969+00:00",
    "stale": false,
    "items": [
     {
@@ -89,50 +89,64 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T12:04:41.461338+00:00",
+   "fetched_at": "2026-11-16T12:04:57.782545+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 64,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 57,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 137,
+     "title": "theEngineeringTeamAreCurrentlyFixingTheBackendBugs",
+     "image": "https://i.redd.it/ped59wl8lu1i1.png",
+     "url": "https://redd.it/1xx7vu2",
+     "ups": 690,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2082,
+     "title": "useTheCorrectTermPeople",
+     "image": "https://i.redd.it/lijzzbq48e0i1.png",
+     "url": "https://redd.it/1xqyte9",
+     "ups": 2506,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 436,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 846,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11402,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 630,
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 14083,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 25,
+     "sub": "r/memes"
+    },
+    {
+     "title": "People used to fear those guys",
+     "image": "https://i.redd.it/cy227zs5tr1i1.png",
+     "url": "https://redd.it/1xwuecx",
+     "ups": 205,
+     "sub": "r/memes"
     },
     {
      "title": "why is this so often",
@@ -142,44 +156,30 @@
      "sub": "r/memes"
     },
     {
+     "title": "Friendly Spy, Friendly AI...",
+     "image": "https://i.redd.it/65oulzca5y1i1.png",
+     "url": "https://redd.it/1xxlgal",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I'm tired boss",
+     "image": "https://i.redd.it/p64wvgx3tr1i1.png",
+     "url": "https://redd.it/1xwudiv",
+     "ups": 47,
+     "sub": "r/memes"
+    },
+    {
      "title": "No more drama?",
      "image": "https://i.redd.it/uj7e9q32ys1i1.png",
      "url": "https://redd.it/1xwzl5m",
      "ups": 24,
      "sub": "r/memes"
-    },
-    {
-     "title": "\"Pim, can I talk to you for a sec?\"",
-     "image": "https://i.redd.it/oqj7cenarw1i1.png",
-     "url": "https://redd.it/1xxgx0d",
-     "ups": 0,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\"Silicon Valley allies pressured NVIDIA to reinstate Jensen Huang\"",
-     "image": "https://i.redd.it/ff2575r85u1i1.png",
-     "url": "https://redd.it/1xx5rny",
-     "ups": 1169,
-     "sub": "r/memes"
-    },
-    {
-     "title": "What on earth is happening over there",
-     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
-     "url": "https://redd.it/1xw9i20",
-     "ups": 852,
-     "sub": "r/memes"
-    },
-    {
-     "title": "SOUNDS FUN!",
-     "image": "https://i.redd.it/tv3rwo9o4w1i1.gif",
-     "url": "https://redd.it/1xxejlw",
-     "ups": 43,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T12:04:43.280970+00:00",
+   "fetched_at": "2026-11-16T12:05:00.286325+00:00",
    "stale": false,
    "items": [
     {
@@ -307,49 +307,49 @@
      "text": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
      "author": "World News",
      "url": "https://lemmy.nz/post/43904059",
-     "likes": 9,
+     "likes": 10,
      "image": "https://lemmy.world/pictrs/image/efe6003b-f189-4002-8be5-5d7f654a60c0.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T12:04:43.911260+00:00",
+   "fetched_at": "2026-11-16T12:05:00.983020+00:00",
    "stale": false,
    "items": [
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Why are ghosts bad liars? Because you can see right through them!",
+     "text": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
      "source": "Dad joke"
     },
     {
-     "text": "Why can't eggs have love? They will break up too soon.",
+     "text": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
      "source": "Dad joke"
     },
     {
-     "text": "There's not really any training for garbagemen. They just pick things up as they go.",
+     "text": "I don\u2019t play soccer because I enjoy the sport. I\u2019m just doing it for kicks.",
      "source": "Dad joke"
     }
    ]
