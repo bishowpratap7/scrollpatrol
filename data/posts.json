@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T09:34:13.184645+00:00",
+ "generated_at": "2026-11-16T10:04:19.796696+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T09:34:08.588368+00:00",
+   "fetched_at": "2026-11-16T10:04:14.990868+00:00",
    "stale": false,
    "items": [
     {
@@ -35,15 +35,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "I have a dental malformation, and that is what my smile looks like",
-     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xxfbmw/i_have_a_dental_malformation_and_that_is_what_my/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/u4qcmivxbw1i1.jpeg?width=640&crop=smart&auto=webp&s=408868e6782250d5d6bb61cd89e109575e396acd"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Battery change? That will be $1500 please.",
      "url": "https://www.reddit.com/r/CrappyDesign/comments/1xx87vr/battery_change_that_will_be_1500_please/",
      "score": 0,
@@ -53,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xxe4t1/meirl/",
+     "title": "I have a dental malformation, and that is what my smile looks like",
+     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xxfbmw/i_have_a_dental_malformation_and_that_is_what_my/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/k0mc40511w1i1.jpeg?width=320&crop=smart&auto=webp&s=5dc1185949cebbb2a10d5164bac497d73019f55f"
+     "image": "https://preview.redd.it/u4qcmivxbw1i1.jpeg?width=640&crop=smart&auto=webp&s=408868e6782250d5d6bb61cd89e109575e396acd"
     },
     {
      "source": "Reddit",
@@ -80,37 +71,39 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "no kisses unless it's from mommy",
-     "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xxbyvg/no_kisses_unless_its_from_mommy/",
+     "title": "What chain restaurant do you think will go out of business in the next 10 years?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xxdxl6/what_chain_restaurant_do_you_think_will_go_out_of/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/aDRwdHVleTBpdjFpMU7cJFFOrOfOUu0RBIRai-nB0yxUGs0OfrV5esEmzkWY.jpeg?width=640&crop=smart&auto=webp&s=78c8eafc5d85c7a1be1a1177ca78612953cd1649"
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xxe4t1/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/k0mc40511w1i1.jpeg?width=320&crop=smart&auto=webp&s=5dc1185949cebbb2a10d5164bac497d73019f55f"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T09:34:09.736523+00:00",
+   "fetched_at": "2026-11-16T10:04:16.166305+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 274,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 417,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 704,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11400,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 21,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,75 +114,74 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
+     "title": "iFixedThePreviousPostBasedOnBestComments",
+     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
+     "url": "https://redd.it/1xruwh1",
+     "ups": 704,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 438,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 104,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "WDYM we dont have an arch?",
-     "image": "https://i.redd.it/7zg0iapqrw1i1.png",
-     "url": "https://redd.it/1xxgypr",
-     "ups": 301,
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 59,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "What on earth is happening over there",
+     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
+     "url": "https://redd.it/1xw9i20",
+     "ups": 831,
+     "sub": "r/memes"
+    },
+    {
+     "title": "No more drama?",
+     "image": "https://i.redd.it/uj7e9q32ys1i1.png",
+     "url": "https://redd.it/1xwzl5m",
+     "ups": 21,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Happy days ahead..",
+     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
+     "url": "https://redd.it/1xwzbp0",
+     "ups": 7444,
      "sub": "r/memes"
     },
     {
      "title": "Majority of us will have more important shit to do",
      "image": "https://i.redd.it/2x3atzmrum1i1.gif",
      "url": "https://redd.it/1xwblt2",
-     "ups": 1268,
+     "ups": 1270,
      "sub": "r/memes"
     },
     {
-     "title": "People used to fear those guys",
-     "image": "https://i.redd.it/cy227zs5tr1i1.png",
-     "url": "https://redd.it/1xwuecx",
-     "ups": 170,
+     "title": "we all mature I guess...",
+     "image": "https://i.redd.it/i98obcvyor1i1.png",
+     "url": "https://redd.it/1xwtxmc",
+     "ups": 8675,
      "sub": "r/memes"
     },
     {
-     "title": "How did bro type a \"q\" in place of a \"b\"",
-     "image": "https://i.redd.it/yyq651hljk1i1.gif",
-     "url": "https://redd.it/1xw0v4y",
-     "ups": 1235,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'm tired boss",
-     "image": "https://i.redd.it/p64wvgx3tr1i1.png",
-     "url": "https://redd.it/1xwudiv",
-     "ups": 46,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 851,
+     "title": "\"Pim, can I talk to you for a sec?\"",
+     "image": "https://i.redd.it/oqj7cenarw1i1.png",
+     "url": "https://redd.it/1xxgx0d",
+     "ups": 0,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T09:34:11.958075+00:00",
+   "fetched_at": "2026-11-16T10:04:18.391935+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Alan Milburn on youth unemployment",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Four female artists music taste",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Biden for FAA ground stop",
+     "text": "COP31 climate summit in Antalya",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -216,41 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo rides Peruvian helicopter",
+     "text": "Burnham says Brexit hasn't worked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft resolves global outage",
+     "text": "All-time favorite movie scenes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vulcan rocket returns to flight",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a48de380484f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Rings of Power season 3",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a1adf1fe9566",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +232,133 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham says Brexit hasn't worked",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
+     "text": "Tanker hits cruise ship in New Orleans",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Aunt rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50553952",
-     "likes": 46,
-     "image": "https://lemmy.world/pictrs/image/455fe094-624b-4e21-bf9f-d6b4b2ef80d5.webp"
+     "kind": "Bluesky trend",
+     "text": "Anthropic's Claude and planned IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Qwen announces Qwen4 smaller models (again, \"soon\") & benchmarks for Qwen4 Max",
-     "author": "LocalLLaMA",
-     "url": "https://discuss.tchncs.de/post/70960806",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/04ab1cf0-cbe0-433a-8f58-9963b7c99495.png"
+     "kind": "Bluesky trend",
+     "text": "Microsoft resolves global outage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Alan Milburn on youth unemployment",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames Biden for FAA ground stop",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "minecraft charcoal",
      "author": "Memes",
      "url": "https://lemmy.ml/post/55369307",
-     "likes": 6,
+     "likes": 19,
      "image": "https://lemmy.world/pictrs/image/fa189ba9-ae68-4068-a4c8-b5fb7921fa45.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Hey yall.  Please delete this if needed (I know this is the worst title ever)",
-     "author": "Showerthoughts",
-     "url": "https://lemmy.zip/post/75104051",
-     "likes": 27,
-     "image": ""
+     "text": "do you believe?",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55369180",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/ead1673d-f0ce-4ca5-9a87-1cf45a78b08e.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Almost 1 in 4 Americans believe misinformation about cause of autism",
+     "author": "Autism",
+     "url": "https://fedia.io/m/autism@lemmy.world/t/4568230",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/dfbe6653-01d7-4d9c-a83f-ae8f5e3e8fb7.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+     "author": "World News",
+     "url": "https://lemy.lol/post/74282453",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/e3348b43-af6f-4cee-aae0-96c552bba4fe.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T09:34:12.470304+00:00",
+   "fetched_at": "2026-11-16T10:04:19.040906+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
+     "text": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
      "source": "Dad joke"
     },
     {
-     "text": "Geology rocks, but Geography is where it's at!",
+     "text": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
      "source": "Dad joke"
     },
     {
-     "text": "Geology rocks, but Geography is where it's at!",
+     "text": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
