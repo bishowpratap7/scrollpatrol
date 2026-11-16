@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T14:35:38.911504+00:00",
+ "generated_at": "2026-11-16T15:05:45.726698+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T14:35:33.165765+00:00",
+   "fetched_at": "2026-11-16T15:05:40.528535+00:00",
    "stale": false,
    "items": [
     {
@@ -26,6 +26,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Impeccable logic.",
+     "url": "https://www.reddit.com/r/Snorkblot/comments/1xxoxhl/impeccable_logic/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/0927ou1t3z1i1.png?width=640&crop=smart&auto=webp&s=278e081d0afd74115e9bec11ba50d3a3416b5184"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Mamdani disbands controversial NYPD Strategic Response Group unit",
      "url": "https://www.reddit.com/r/news/comments/1xxopun/mamdani_disbands_controversial_nypd_strategic/",
      "score": 0,
@@ -44,6 +53,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "What chain restaurant do you think will go out of business in the next 10 years?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xxdxl6/what_chain_restaurant_do_you_think_will_go_out_of/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "of a tonsil stone\u2026",
+     "url": "https://www.reddit.com/r/AbsoluteUnits/comments/1xx5mr5/of_a_tonsil_stone/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/Mm5wYng5emY0dTFpMRtEr4Q71AIs5nyvOYFHsH-Q0k2Idh4ib89XVSE-Gqkz.jpeg?width=640&crop=smart&auto=webp&s=ead373e8916963f8ce5a0a935443a7d303e9d126"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
      "url": "https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/",
      "score": 0,
@@ -58,135 +85,116 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/70rdb2ecvlUjJVY3LFa_rO2PKC5Z1T95lnaLO0ze7wU.jpeg?width=640&crop=smart&auto=webp&s=b2790064d44ab7a5090d847d9809df2f8d91fb0c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "What chain restaurant do you think will go out of business in the next 10 years?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xxdxl6/what_chain_restaurant_do_you_think_will_go_out_of/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Nvidia ordered to explain $12bn supply of AI chips to China.",
-     "url": "https://www.reddit.com/r/pcmasterrace/comments/1xxmdos/nvidia_ordered_to_explain_12bn_supply_of_ai_chips/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "of a tonsil stone\u2026",
-     "url": "https://www.reddit.com/r/AbsoluteUnits/comments/1xx5mr5/of_a_tonsil_stone/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/Mm5wYng5emY0dTFpMRtEr4Q71AIs5nyvOYFHsH-Q0k2Idh4ib89XVSE-Gqkz.jpeg?width=640&crop=smart&auto=webp&s=ead373e8916963f8ce5a0a935443a7d303e9d126"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T14:35:34.400853+00:00",
+   "fetched_at": "2026-11-16T15:05:41.743390+00:00",
    "stale": false,
    "items": [
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 415,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 3897,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1300,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 597,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 109,
+     "title": "cmonGitHubAgain",
+     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
+     "url": "https://redd.it/1xttllg",
+     "ups": 1211,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "anyone noticed this?",
-     "image": "https://i.redd.it/he3g9jgakx1i1.png",
-     "url": "https://redd.it/1xxjmfj",
-     "ups": 43,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11414,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2149,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "wetWet",
+     "image": "https://i.redd.it/vr7qh0uqhx1i1.png",
+     "url": "https://redd.it/1xxjevv",
+     "ups": 167,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 349,
      "sub": "r/memes"
     },
     {
-     "title": "What on earth is happening over there",
-     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
-     "url": "https://redd.it/1xw9i20",
-     "ups": 879,
+     "title": "What is wrong with you?",
+     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
+     "url": "https://redd.it/1xxnl61",
+     "ups": 1203,
      "sub": "r/memes"
     },
     {
-     "title": "we all mature I guess...",
-     "image": "https://i.redd.it/i98obcvyor1i1.png",
-     "url": "https://redd.it/1xwtxmc",
-     "ups": 9231,
+     "title": "The ultimate clickbait",
+     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
+     "url": "https://redd.it/1xxhnuj",
+     "ups": 3933,
      "sub": "r/memes"
     },
     {
-     "title": "You won't feel it coming",
-     "image": "https://i.redd.it/bqyrekkyry1i1.png",
-     "url": "https://redd.it/1xxnjib",
-     "ups": 12,
+     "title": "I may have forgotten something\u2026",
+     "image": "https://i.redd.it/lwno0mczev1i1.png",
+     "url": "https://redd.it/1xxbmkw",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
-     "title": "those meddling shareholders",
-     "image": "https://i.redd.it/b92449hksu1i1.png",
-     "url": "https://redd.it/1xx8x7d",
-     "ups": 143,
+     "title": "He lowered the record by 23 seconds!!!",
+     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
+     "url": "https://redd.it/1xx0296",
+     "ups": 1459,
      "sub": "r/memes"
     },
     {
-     "title": "It's a bold business strategy",
-     "image": "https://i.redd.it/oae6mkznhx1i1.png",
-     "url": "https://redd.it/1xxjfj1",
-     "ups": 254,
+     "title": "Happy days ahead..",
+     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
+     "url": "https://redd.it/1xwzbp0",
+     "ups": 8321,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T14:35:36.949130+00:00",
+   "fetched_at": "2026-11-16T15:05:44.363578+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Grammy nominations announced",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a3c37a829fe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Wolqotd Lodestone outfit prompt",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/614d4afcbac5",
      "likes": 0,
      "image": ""
     },
@@ -200,6 +208,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Mamdani disbands NYPD protest unit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Companies use tariff refunds for bonuses",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
@@ -208,17 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Iran drones target Bahrain base",
+     "text": "Grammy nominations announced",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a3c37a829fe",
      "likes": 0,
      "image": ""
     },
@@ -232,108 +240,96 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Four female artists music taste",
+     "text": "Pope Leo rides Peruvian helicopter",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Microsoft resolves global outage",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers on Sunday Night Football",
+     "text": "Anthropic's Claude and planned IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1130e8a9eb1e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Super El Ni\u00f1o hits California coast",
+     "text": "Iran drones target Bahrain base",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mamdani disbands NYPD protest unit",
+     "text": "Trump's absence from public view",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b879fd975cfb",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Trump blames Biden for FAA ground stop",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Nice camouflage, dork",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54476902",
+     "likes": 44,
+     "image": "https://lemmy.world/pictrs/image/d9cd37d7-1ca3-412c-8527-e8eebdbc9d71.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The culprit",
+     "author": "Funny: Home of the Haha",
+     "url": "https://lemmy.world/post/54476907",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/9e765088-68bd-484a-998f-924a1a24244e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "'Good Riddance': John Fetterman\u2019s Threat To Quit Dems Falls Flat On Social Media",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54476667",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/119961f0-9662-4e7f-9ab2-74b9bcaec83a.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Corporations are using Trump\u2019s tariff refunds on bonuses rather than reimbursing consumers",
      "author": "News",
      "url": "https://lemmy.world/post/54475517",
-     "likes": 81,
+     "likes": 138,
      "image": "https://lemmy.world/pictrs/image/20a74e10-651e-446c-bd34-cfc423c0df40.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Amazon\u2019s Decoy Deals: Investigation Reveals Nearly 1 in 3 Black Friday and Cyber Monday \u201cDeals\u201d Advertised by Amazon Offered No Savings to Shoppers, Nearly 1 in 10 Were Actually More Expensive",
-     "author": "Technology",
-     "url": "https://feddit.online/c/technology@lemmy.world/p/2117179/amazons-decoy-deals-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-d",
-     "likes": 108,
-     "image": "https://lemmy.world/pictrs/image/0af5a363-99cd-4944-82ac-eeb214f5dbb3.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "friendly advice :)",
-     "author": "Trans Memes",
-     "url": "https://lemmy.blahaj.zone/post/50562021",
-     "likes": 51,
-     "image": "https://lemmy.world/pictrs/image/ab11c936-fa98-44bc-8357-ef63d682e165.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mamdani disbands controversial NYPD Strategic Response Group unit",
-     "author": "News",
-     "url": "https://piefed.ca/c/news@lemmy.world/p/1074986/mamdani-disbands-controversial-nypd-strategic-response-group-unit",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/a7d293aa-f03e-414f-aa01-014d183e3fda.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T14:35:37.780458+00:00",
+   "fetched_at": "2026-11-16T15:05:44.883811+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a snake who builds houses? A boa constructor!",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Where do you learn to make banana splits? At sundae school.",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of magic do cows believe in? MOODOO.",
+     "text": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
      "source": "Dad joke"
     },
     {
-     "text": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+     "text": "Why did the knife dress up in a suit? Because it wanted to look sharp",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
