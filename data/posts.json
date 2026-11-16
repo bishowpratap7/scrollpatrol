@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-16T07:03:40.830592+00:00",
+ "generated_at": "2026-11-16T07:33:47.779075+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T07:03:35.850045+00:00",
+   "fetched_at": "2026-11-16T07:33:43.144777+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "That's genuinely wild",
+     "url": "https://www.reddit.com/r/interesting/comments/1xxholb/thats_genuinely_wild/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/xx7gj7f3zw1i1.png?width=320&crop=smart&auto=webp&s=172acc4ce311d2eeee8f9c462c3140ce3c062336"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -13,15 +22,6 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/i0wm62d07s1i1.jpeg?width=640&crop=smart&auto=webp&s=afdba6098e2e0876a03203771a99af75d65cf93e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Battery change? That will be $1500 please.",
-     "url": "https://www.reddit.com/r/CrappyDesign/comments/1xx87vr/battery_change_that_will_be_1500_please/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aHB0ajJubW1udTFpMXDDZDwykdpqflmS51q1ovA8qIue8XA99OaPZuaIopsV.png?width=640&crop=smart&auto=webp&s=8b8dd26999faf70691720fc79ebd72e43ef93793"
     },
     {
      "source": "Reddit",
@@ -35,15 +35,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "of a tonsil stone\u2026",
-     "url": "https://www.reddit.com/r/AbsoluteUnits/comments/1xx5mr5/of_a_tonsil_stone/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/Mm5wYng5emY0dTFpMRtEr4Q71AIs5nyvOYFHsH-Q0k2Idh4ib89XVSE-Gqkz.jpeg?width=640&crop=smart&auto=webp&s=ead373e8916963f8ce5a0a935443a7d303e9d126"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "I have a dental malformation, and that is what my smile looks like",
      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xxfbmw/i_have_a_dental_malformation_and_that_is_what_my/",
      "score": 0,
@@ -53,20 +44,29 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
-     "url": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/",
+     "title": "Battery change? That will be $1500 please.",
+     "url": "https://www.reddit.com/r/CrappyDesign/comments/1xx87vr/battery_change_that_will_be_1500_please/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/iSXucelVQvxZ0ji2wP6839OGWpvW4horYXq2lbY1KxE.jpeg?width=640&crop=smart&auto=webp&s=dab94e6cd441915ab823411eb0ffb40e53624b14"
+     "image": "https://external-preview.redd.it/aHB0ajJubW1udTFpMXDDZDwykdpqflmS51q1ovA8qIue8XA99OaPZuaIopsV.png?width=640&crop=smart&auto=webp&s=8b8dd26999faf70691720fc79ebd72e43ef93793"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "What chain restaurant do you think will go out of business in the next 10 years?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xxdxl6/what_chain_restaurant_do_you_think_will_go_out_of/",
+     "title": "Meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xxe4t1/meirl/",
      "score": 0,
      "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/k0mc40511w1i1.jpeg?width=320&crop=smart&auto=webp&s=5dc1185949cebbb2a10d5164bac497d73019f55f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "TIL before the invention of anesthesia, hospitals put operating rooms in towers so other patients wouldn\u2019t hear screaming & try to flee.",
+     "url": "https://www.reddit.com/r/todayilearned/comments/1xxglmk/til_before_the_invention_of_anesthesia_hospitals/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/0A8PhOnJwhgn0STYY7oRdFRF5CAxz55XjOwVRXgePkw.jpeg?width=640&crop=smart&auto=webp&s=c89ac34905623d93f0df2430b185ce0a663ee8ea"
     },
     {
      "source": "Reddit",
@@ -80,23 +80,30 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xxe4t1/meirl/",
+     "title": "of a tonsil stone\u2026",
+     "url": "https://www.reddit.com/r/AbsoluteUnits/comments/1xx5mr5/of_a_tonsil_stone/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/k0mc40511w1i1.jpeg?width=320&crop=smart&auto=webp&s=5dc1185949cebbb2a10d5164bac497d73019f55f"
+     "image": "https://external-preview.redd.it/Mm5wYng5emY0dTFpMRtEr4Q71AIs5nyvOYFHsH-Q0k2Idh4ib89XVSE-Gqkz.jpeg?width=640&crop=smart&auto=webp&s=ead373e8916963f8ce5a0a935443a7d303e9d126"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T07:03:37.045348+00:00",
+   "fetched_at": "2026-11-16T07:33:44.334063+00:00",
    "stale": false,
    "items": [
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 408,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 852,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "productionGradeFirmware",
+     "image": "https://i.redd.it/23qg78crai0i1.png",
+     "url": "https://redd.it/1xrh8bs",
+     "ups": 61,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,24 +114,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 3794,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 59,
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 105,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,10 +128,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 1,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 434,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Different Reality",
+     "image": "https://i.redd.it/0v8qv8ljyt1i1.png",
+     "url": "https://redd.it/1xx4sr5",
+     "ups": 28,
      "sub": "r/memes"
     },
     {
@@ -149,24 +149,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "What on earth is happening over there",
-     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
-     "url": "https://redd.it/1xw9i20",
-     "ups": 795,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Where the Buildings at?",
-     "image": "https://i.redd.it/go6rilozls1i1.png",
-     "url": "https://redd.it/1xwxxoe",
-     "ups": 34,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I may have forgotten something\u2026",
-     "image": "https://i.redd.it/lwno0mczev1i1.png",
-     "url": "https://redd.it/1xxbmkw",
-     "ups": 3,
+     "title": "My thirteen year old self was devastated when he finally realized it",
+     "image": "https://i.redd.it/tqrjmu8yyv1i1.png",
+     "url": "https://redd.it/1xxdwr2",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
@@ -175,13 +161,35 @@
      "url": "https://redd.it/1xwuecx",
      "ups": 151,
      "sub": "r/memes"
+    },
+    {
+     "title": "artificial incompetence",
+     "image": "https://i.redd.it/iflw4ryrzg1i1.gif",
+     "url": "https://redd.it/1xvo45l",
+     "ups": 19226,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What on earth is happening over there",
+     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
+     "url": "https://redd.it/1xw9i20",
+     "ups": 795,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T07:03:39.322419+00:00",
+   "fetched_at": "2026-11-16T07:33:46.580410+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames Biden for FAA ground stop",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Four female artists music taste",
@@ -200,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Biden for FAA ground stop",
+     "text": "Israel's war in Gaza",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/984ce7da8d5f",
      "likes": 0,
      "image": ""
     },
@@ -216,6 +224,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft resolves global outage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -224,132 +248,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand trial",
+     "text": "Vulcan rocket returns to flight",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a48de380484f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US floats Donbas-for-NATO swap",
+     "text": "Tanker hits cruise ship in New Orleans",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b029f075f9a0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo rides Peruvian helicopter",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google cuts search for AI-banning schools",
+     "text": "COP31 climate summit in Antalya",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/94d007ef30dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Playing Deadlock",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Saving one musician from early death",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a1ace139fc5d",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Surviving is fun",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54465016",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/6ceb8d9c-758f-4efa-8bdd-5529beb88b8c.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "There\u2019s a reason Papa Louie has so many restaurants",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.today/post/63377514",
-     "likes": 35,
+     "likes": 65,
      "image": "https://lemmy.today/pictrs/image/8a60a0c5-092e-4488-9300-ea89312710fc.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Un*rule*ful",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50551716",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/79665426-c337-4e23-8fb7-cbf4bb5d8bd5.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50551816",
-     "likes": 25,
+     "likes": 50,
      "image": "https://lemmy.world/pictrs/image/69286a87-9b03-4bfa-89a5-6c7d54598da1.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
-     "author": "Fuck AI",
-     "url": "https://sh.itjust.works/post/69997991",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/e0cf27a8-d7ed-426b-8d81-b3cca60487d8.jpeg"
+     "text": "Un*rule*ful",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50551716",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/79665426-c337-4e23-8fb7-cbf4bb5d8bd5.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T07:03:39.778416+00:00",
+   "fetched_at": "2026-11-16T07:33:47.030614+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
     {
      "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
+     "text": "Why are fish easy to weigh? Because they have their own scales.",
      "source": "Dad joke"
     },
     {
-     "text": "Why didn\u2019t the skeleton cross the road? Because he had no guts.",
+     "text": "How do you make a hankie dance? Put a little boogie in it.",
      "source": "Dad joke"
     },
     {
-     "text": "There are two types of people in this world, those who can extrapolate from incomplete data...",
+     "text": "What do you call a cow with two legs? Lean beef.",
      "source": "Dad joke"
     }
    ]
