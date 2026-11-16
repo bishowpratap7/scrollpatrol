@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-16T22:48:09.080425+00:00",
+ "generated_at": "2026-11-16T23:18:16.634452+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T22:48:03.396786+00:00",
+   "fetched_at": "2026-11-16T23:18:10.953829+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "[OoT] I had to recreate this childhood photo when I got to the exact same spot.",
-     "url": "https://www.reddit.com/r/zelda/comments/1xxzriv/oot_i_had_to_recreate_this_childhood_photo_when_i/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/kr51em5k712i1.jpeg?width=640&crop=smart&auto=webp&s=5a2581c05f1da384d4064cd6c7ba7958adccb91e"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -31,6 +22,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "[OoT] I had to recreate this childhood photo when I got to the exact same spot.",
+     "url": "https://www.reddit.com/r/zelda/comments/1xxzriv/oot_i_had_to_recreate_this_childhood_photo_when_i/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/kr51em5k712i1.jpeg?width=640&crop=smart&auto=webp&s=5a2581c05f1da384d4064cd6c7ba7958adccb91e"
     },
     {
      "source": "Reddit",
@@ -62,15 +62,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "TIL that Shark Tank contestants were once required to give the show\u2019s production company either 5% equity or 2% of their business\u2019 profits for as long as it existed, even if no Shark invested. Mark Cuban threatened to quit over the clause, which was abolished retroactively in 2013",
-     "url": "https://www.reddit.com/r/todayilearned/comments/1xxwmuv/til_that_shark_tank_contestants_were_once/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/IRfLGwsHo8GoYJKvlvrnleyk8ey9Sl7jooRPIsjV5uo.jpeg?width=640&crop=smart&auto=webp&s=cb3a41739f1e724a5582896d8dceb69c353853fa"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "What is the flat thing and why is it there?",
      "url": "https://www.reddit.com/r/whatisit/comments/1xxs5tv/what_is_the_flat_thing_and_why_is_it_there/",
      "score": 0,
@@ -80,65 +71,81 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Uno reverse",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xxwkne/uno_reverse/",
+     "title": "TIL that Shark Tank contestants were once required to give the show\u2019s production company either 5% equity or 2% of their business\u2019 profits for as long as it existed, even if no Shark invested. Mark Cuban threatened to quit over the clause, which was abolished retroactively in 2013",
+     "url": "https://www.reddit.com/r/todayilearned/comments/1xxwmuv/til_that_shark_tank_contestants_were_once/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/809qrfyem02i1.jpeg?width=640&crop=smart&auto=webp&s=b6eeae72e496d78bf4d9bfba6c9bcb3a976cb79f"
+     "image": "https://external-preview.redd.it/IRfLGwsHo8GoYJKvlvrnleyk8ey9Sl7jooRPIsjV5uo.jpeg?width=640&crop=smart&auto=webp&s=cb3a41739f1e724a5582896d8dceb69c353853fa"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Robert Pattinson has been cast as the next James Bond.",
+     "url": "https://www.reddit.com/r/JamesBond/comments/1xxrjtb/robert_pattinson_has_been_cast_as_the_next_james/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/telfz6rkoz1i1.jpeg?width=640&crop=smart&auto=webp&s=f4e440401a4a2384b83433e951f05b9c5eca210e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T22:48:04.903429+00:00",
+   "fetched_at": "2026-11-16T23:18:12.070796+00:00",
    "stale": false,
    "items": [
     {
-     "title": "modernCppVsOldCpp",
-     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
-     "url": "https://redd.it/1xr2jyh",
-     "ups": 1985,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 861,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 455,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 11,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 14089,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 1,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "itCouldAlwaysBeWorse",
      "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
      "url": "https://redd.it/1xuykvl",
-     "ups": 64,
+     "ups": 62,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 109,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 288,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2155,
-     "sub": "r/ProgrammerHumor"
+     "title": "Maybe hell be the first Bond to like his martinis stirred...not shaken.",
+     "image": "https://i.redd.it/qf46iuipg12i1.png",
+     "url": "https://redd.it/1xy142x",
+     "ups": 0,
+     "sub": "r/memes"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 116,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 6218,
+     "title": "A childhood shocker.",
+     "image": "https://i.redd.it/mtjusmmsk02i1.png",
+     "url": "https://redd.it/1xxwc1b",
+     "ups": 69,
      "sub": "r/memes"
     },
     {
@@ -149,84 +156,61 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's a bold business strategy",
-     "image": "https://i.redd.it/oae6mkznhx1i1.png",
-     "url": "https://redd.it/1xxjfj1",
-     "ups": 441,
+     "title": "The moon exists during the day",
+     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
+     "url": "https://redd.it/1xxw4vm",
+     "ups": 211,
      "sub": "r/memes"
     },
     {
-     "title": "Don't look at this, look at that",
-     "image": "https://i.redd.it/orqpx4tuk12i1.png",
-     "url": "https://redd.it/1xy1q4t",
-     "ups": 10,
+     "title": "\"Silicon Valley allies pressured NVIDIA to reinstate Jensen Huang\"",
+     "image": "https://i.redd.it/ff2575r85u1i1.png",
+     "url": "https://redd.it/1xx5rny",
+     "ups": 1470,
      "sub": "r/memes"
     },
     {
-     "title": "I'd do anything for my family. Except look for a job.",
-     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
-     "url": "https://redd.it/1xxe6dj",
-     "ups": 2241,
-     "sub": "r/memes"
-    },
-    {
-     "title": "People used to fear those guys",
-     "image": "https://i.redd.it/cy227zs5tr1i1.png",
-     "url": "https://redd.it/1xwuecx",
-     "ups": 261,
+     "title": "\"It's like I was made for this\" -Blofeld",
+     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
+     "url": "https://redd.it/1xxuwdt",
+     "ups": 33,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T22:48:07.136802+00:00",
+   "fetched_at": "2026-11-16T23:18:14.918592+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukrainian drones hit Crimean Bridge",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tariff refunds fund executive bonuses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Forensic expert doubts Epstein suicide ruling",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/36be0b9cd6ab",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "United Airlines reports system outage",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d9c9a9fa40b4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump's Nvidia stock stake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Data center emissions rival Denmark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vance responds to FAA ground stop",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b61e8802913e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Outages reported at US banks",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eb9dc4216ccc",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft blames outage on bug",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Microsoft blames outage on bug",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Pick a new Bond from phone photos",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
@@ -248,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Dere type personality test results",
+     "text": "FBI seizes router behind ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b61e8802913e",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +256,109 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen runs for Senate leader",
+     "text": "Data center emissions rival Denmark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham says Brexit hasn't worked",
+     "text": "Duffy seeks air traffic control funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Democrats push to investigate Trump",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bd3fd354aca",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "xkcd #3325: Light-Day",
+     "author": "xkcd",
+     "url": "https://lemmy.world/post/54493076",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/361a772e-7bdf-4560-acc7-7f1974826439.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "United Airlines says it has a widespread system outage just days after nationwide ground stop",
+     "author": "News",
+     "url": "https://lemmy.world/post/54492928",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/617dd4a7-7bb1-4d3f-a5e9-eac782bd57fd.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Jeffrey Epstein's death may not have been suicide, new analysis by leading forensics expert suggests",
      "author": "News",
      "url": "https://lemmy.world/post/54491397",
-     "likes": 90,
+     "likes": 148,
      "image": "https://lemmy.world/pictrs/image/c4fa5b3b-a4a0-483f-98b2-2519175fdda0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "have a good rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50577739",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/02cb5f90-5873-49a2-a718-7e43211b023b.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-     "author": "Ukraine",
-     "url": "https://programming.dev/post/59496724",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/c6be524a-5517-492d-b4ad-1dd66489facd.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Doctors are raising concerns about US babies born with measles",
-     "author": "News",
-     "url": "https://lemmy.world/post/54491391",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/8b2267b3-d6ff-4c63-88f9-d91025e41a65.jpeg"
+     "text": "Are we finally ready to reopen all the Nut Houses",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54492578",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/831d3c72-e345-4b23-b4b2-67f785ff751d.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T22:48:08.214254+00:00",
+   "fetched_at": "2026-11-16T23:18:15.819053+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
     {
      "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Just read a few facts about frogs. They were ribbiting.",
+     "text": "What do computers and air conditioners have in common? They both become useless when you open windows.",
      "source": "Dad joke"
     },
     {
-     "text": "Q: What did the spaghetti say to the other spaghetti?\r\nA: Pasta la vista, baby!",
+     "text": "Two peanuts were walking down the street. One was a salted",
      "source": "Dad joke"
     },
     {
-     "text": "How do you make a hankie dance? Put a little boogie in it.",
+     "text": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
