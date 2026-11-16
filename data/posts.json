@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T04:02:44.671009+00:00",
+ "generated_at": "2026-11-16T04:32:51.013139+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T04:02:38.682525+00:00",
+   "fetched_at": "2026-11-16T04:32:46.215250+00:00",
    "stale": false,
    "items": [
     {
@@ -22,6 +22,24 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/aHB0ajJubW1udTFpMXDDZDwykdpqflmS51q1ovA8qIue8XA99OaPZuaIopsV.png?width=640&crop=smart&auto=webp&s=8b8dd26999faf70691720fc79ebd72e43ef93793"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "no kisses unless it's from mommy",
+     "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xxbyvg/no_kisses_unless_its_from_mommy/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aDRwdHVleTBpdjFpMU7cJFFOrOfOUu0RBIRai-nB0yxUGs0OfrV5esEmzkWY.jpeg?width=640&crop=smart&auto=webp&s=78c8eafc5d85c7a1be1a1177ca78612953cd1649"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Figured out where the weird noise in wife\u2019s car was coming from",
+     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xx9y8u/figured_out_where_the_weird_noise_in_wifes_car/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/emp021gg1v1i1.jpeg?width=640&crop=smart&auto=webp&s=a994c18253cce220ce5eb8f154a837dd9d8dd049"
     },
     {
      "source": "Reddit",
@@ -62,24 +80,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Figured out where the weird noise in wife\u2019s car was coming from",
-     "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xx9y8u/figured_out_where_the_weird_noise_in_wifes_car/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/emp021gg1v1i1.jpeg?width=640&crop=smart&auto=webp&s=a994c18253cce220ce5eb8f154a837dd9d8dd049"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "no kisses unless it's from mommy",
-     "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1xxbyvg/no_kisses_unless_its_from_mommy/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/aDRwdHVleTBpdjFpMU7cJFFOrOfOUu0RBIRai-nB0yxUGs0OfrV5esEmzkWY.jpeg?width=640&crop=smart&auto=webp&s=78c8eafc5d85c7a1be1a1177ca78612953cd1649"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "The absolute audacity to look away from a cobra mid-fight",
      "url": "https://www.reddit.com/r/interestingasfuck/comments/1xwwwv6/the_absolute_audacity_to_look_away_from_a_cobra/",
      "score": 0,
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T04:02:39.950094+00:00",
+   "fetched_at": "2026-11-16T04:32:47.440422+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 18,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "nowWeGotGtaSixForPlaystationFour",
      "image": "https://i.redd.it/xrt67cpkpa1i1.png",
@@ -107,38 +100,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 698,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 313,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 842,
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 584,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 106,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 58,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 133,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 136,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Happy days ahead..",
-     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
-     "url": "https://redd.it/1xwzbp0",
-     "ups": 5829,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 59,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I'd do anything for my family. Except look for a job.",
+     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
+     "url": "https://redd.it/1xxe6dj",
+     "ups": 73,
      "sub": "r/memes"
     },
     {
@@ -149,6 +149,13 @@
      "sub": "r/memes"
     },
     {
+     "title": "Nature is beautiful..",
+     "image": "https://i.redd.it/srkch1qzul1i1.gif",
+     "url": "https://redd.it/1xw6n4w",
+     "ups": 845,
+     "sub": "r/memes"
+    },
+    {
      "title": "Majority of us will have more important shit to do",
      "image": "https://i.redd.it/2x3atzmrum1i1.gif",
      "url": "https://redd.it/1xwblt2",
@@ -156,53 +163,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "I think they updated the game mechanics of life again",
-     "image": "https://i.redd.it/612ryrxwfu1i1.png",
-     "url": "https://redd.it/1xx76ea",
-     "ups": 12,
+     "title": "Happy days ahead..",
+     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
+     "url": "https://redd.it/1xwzbp0",
+     "ups": 5829,
      "sub": "r/memes"
     },
     {
-     "title": "we all mature I guess...",
-     "image": "https://i.redd.it/i98obcvyor1i1.png",
-     "url": "https://redd.it/1xwtxmc",
-     "ups": 7286,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He lowered the record by 23 seconds!!!",
-     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
-     "url": "https://redd.it/1xx0296",
-     "ups": 500,
+     "title": "My thirteen year old self was devastated when he finally realized it",
+     "image": "https://i.redd.it/tqrjmu8yyv1i1.png",
+     "url": "https://redd.it/1xxdwr2",
+     "ups": 2,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T04:02:42.967941+00:00",
+   "fetched_at": "2026-11-16T04:32:49.771922+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Saving one musician from early death",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a1ace139fc5d",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Old TV shows to reboot",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5fe78d9d185",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Four female artists music taste",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers on Sunday Night Football",
+     "text": "Saving one musician from early death",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1130e8a9eb1e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a1ace139fc5d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Four female artists music taste",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Calls to replace Schumer and Jeffries",
+     "text": "Van Hollen runs for Senate leader",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669eb443521a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft resolves global outage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic's Claude and planned IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -248,80 +256,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Aaron Rodgers on Sunday Night Football",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1130e8a9eb1e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo rides Peruvian helicopter",
+     "text": "Playing Deadlock",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1091498fba96",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
+     "text": "Iran drones target Bahrain base",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Mamdani's heat complaint video",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9f58179b8127",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Bro... \ud83e\udd79",
+     "author": "Lord of the memes",
+     "url": "https://sopuli.xyz/post/54655616",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/22860bef-fa4e-43e3-af5d-e3d06bdd4d46.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54460789",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/2b61ed57-1fa1-4dc4-b038-af75af66c1ce.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "No Spots, only happy little accidents",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://discuss.online/post/48525988",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/8ecf83e6-0e14-48a2-aae2-dfb20824d71d.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "That time of year...",
      "author": "Political Memes",
      "url": "https://sh.itjust.works/post/69992794",
-     "likes": 58,
+     "likes": 84,
      "image": "https://lemmy.world/pictrs/image/fad11399-6846-45d3-a4c3-998c23623603.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Slept like a baked potato.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75094543",
-     "likes": 36,
-     "image": "https://lemmy.zip/pictrs/image/17d82942-dec3-4d24-8645-be2ac9f4292a.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Would you love my skin?",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75094346",
-     "likes": 32,
-     "image": "https://lemmy.zip/pictrs/image/8bbe4e7d-e44e-401a-a723-e43351644b31.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Why do people keep dumping buckets of fish into Montana\u2019s lakes? Guerilla ecology is incredibly easy. It also has disastrous consequences.",
-     "author": "News",
-     "url": "https://lemmy.world/post/54459515",
-     "likes": 24,
-     "image": "https://lemmy.world/pictrs/image/1541ea46-f0ca-4ec5-9408-c38f323cd6fb.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T04:02:43.859555+00:00",
+   "fetched_at": "2026-11-16T04:32:50.471474+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the sentence fail the driving test? It never came to a full stop.",
+     "text": "Whoever invented the knock-knock joke should get a no bell prize.",
      "source": "Dad joke"
     },
     {
-     "text": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
+     "text": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
      "source": "Dad joke"
     },
     {
-     "text": "What's large, grey, and doesn't matter?\r\nAn irrelephant.\r\n",
+     "text": "How does a penguin build it\u2019s house? Igloos it together.",
      "source": "Dad joke"
     }
    ]
