@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T14:05:31.468657+00:00",
+ "generated_at": "2026-11-16T14:35:38.911504+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T14:05:26.022929+00:00",
+   "fetched_at": "2026-11-16T14:35:33.165765+00:00",
    "stale": false,
    "items": [
     {
@@ -17,6 +17,24 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Battery change? That will be $1500 please.",
+     "url": "https://www.reddit.com/r/CrappyDesign/comments/1xx87vr/battery_change_that_will_be_1500_please/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/aHB0ajJubW1udTFpMXDDZDwykdpqflmS51q1ovA8qIue8XA99OaPZuaIopsV.png?width=640&crop=smart&auto=webp&s=8b8dd26999faf70691720fc79ebd72e43ef93793"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Mamdani disbands controversial NYPD Strategic Response Group unit",
+     "url": "https://www.reddit.com/r/news/comments/1xxopun/mamdani_disbands_controversial_nypd_strategic/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "me_irl",
      "url": "https://www.reddit.com/r/me_irl/comments/1xxm8um/me_irl/",
      "score": 0,
@@ -26,11 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Battery change? That will be $1500 please.",
-     "url": "https://www.reddit.com/r/CrappyDesign/comments/1xx87vr/battery_change_that_will_be_1500_please/",
+     "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
+     "url": "https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/aHB0ajJubW1udTFpMXDDZDwykdpqflmS51q1ovA8qIue8XA99OaPZuaIopsV.png?width=640&crop=smart&auto=webp&s=8b8dd26999faf70691720fc79ebd72e43ef93793"
+     "image": "https://external-preview.redd.it/65z-MxO0EKYHMoyzmkkb3CqCG73inkLcF1A8_7SZeuI.jpeg?width=640&crop=smart&auto=webp&s=2d793f68518e9b798de240804f0394a7138260fa"
     },
     {
      "source": "Reddit",
@@ -67,29 +85,11 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/Mm5wYng5emY0dTFpMRtEr4Q71AIs5nyvOYFHsH-Q0k2Idh4ib89XVSE-Gqkz.jpeg?width=640&crop=smart&auto=webp&s=ead373e8916963f8ce5a0a935443a7d303e9d126"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
-     "url": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/iSXucelVQvxZ0ji2wP6839OGWpvW4horYXq2lbY1KxE.jpeg?width=640&crop=smart&auto=webp&s=dab94e6cd441915ab823411eb0ffb40e53624b14"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Realistic 1 bedroom apartment in New York City.",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xxc8zp/realistic_1_bedroom_apartment_in_new_york_city/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/NGUwNXUyY2hrdjFpMetsUsh1BqfiEYFIe81Es0-EaQICo06NKPLLXThQI3rk.png?width=320&crop=smart&auto=webp&s=96595b18f64a3251a865a90f3914509c153e951d"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T14:05:27.237921+00:00",
+   "fetched_at": "2026-11-16T14:35:34.400853+00:00",
    "stale": false,
    "items": [
     {
@@ -100,17 +100,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "productionGradeFirmware",
-     "image": "https://i.redd.it/23qg78crai0i1.png",
-     "url": "https://redd.it/1xrh8bs",
-     "ups": 56,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 3897,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 633,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1300,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 597,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,65 +128,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 3897,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 109,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 853,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I may have forgotten something\u2026",
-     "image": "https://i.redd.it/lwno0mczev1i1.png",
-     "url": "https://redd.it/1xxbmkw",
-     "ups": 11,
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 43,
      "sub": "r/memes"
     },
     {
-     "title": "Where the Buildings at?",
-     "image": "https://i.redd.it/go6rilozls1i1.png",
-     "url": "https://redd.it/1xwxxoe",
-     "ups": 38,
+     "title": "What on earth is happening over there",
+     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
+     "url": "https://redd.it/1xw9i20",
+     "ups": 879,
      "sub": "r/memes"
     },
     {
-     "title": "Edenburg \ud83c\udf54",
-     "image": "https://i.redd.it/j3vnfty1rs1i1.gif",
-     "url": "https://redd.it/1xwylvp",
-     "ups": 9,
+     "title": "we all mature I guess...",
+     "image": "https://i.redd.it/i98obcvyor1i1.png",
+     "url": "https://redd.it/1xwtxmc",
+     "ups": 9231,
      "sub": "r/memes"
     },
     {
-     "title": "My thirteen year old self was devastated when he finally realized it",
-     "image": "https://i.redd.it/tqrjmu8yyv1i1.png",
-     "url": "https://redd.it/1xxdwr2",
-     "ups": 4,
+     "title": "You won't feel it coming",
+     "image": "https://i.redd.it/bqyrekkyry1i1.png",
+     "url": "https://redd.it/1xxnjib",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "\"Silicon Valley allies pressured NVIDIA to reinstate Jensen Huang\"",
-     "image": "https://i.redd.it/ff2575r85u1i1.png",
-     "url": "https://redd.it/1xx5rny",
-     "ups": 1281,
+     "title": "those meddling shareholders",
+     "image": "https://i.redd.it/b92449hksu1i1.png",
+     "url": "https://redd.it/1xx8x7d",
+     "ups": 143,
      "sub": "r/memes"
     },
     {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 349,
+     "title": "It's a bold business strategy",
+     "image": "https://i.redd.it/oae6mkznhx1i1.png",
+     "url": "https://redd.it/1xxjfj1",
+     "ups": 254,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T14:05:29.777027+00:00",
+   "fetched_at": "2026-11-16T14:35:36.949130+00:00",
    "stale": false,
    "items": [
     {
@@ -192,33 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
+     "text": "Christmas Carol film's box office claim",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Mamdani disbands NYPD protest unit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand issues statement",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/06b7e29004bb",
      "likes": 0,
      "image": ""
     },
@@ -227,6 +203,22 @@
      "text": "Companies use tariff refunds for bonuses",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Iran drones target Bahrain base",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate weighs BAAJA permitting bill",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Horses ride Detroit city bus",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Met Office issues snow warning",
+     "text": "Aaron Rodgers on Sunday Night Football",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a41f0c92ecd1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1130e8a9eb1e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Super El Ni\u00f1o hits California coast",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mamdani disbands NYPD protest unit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
      "likes": 0,
      "image": ""
     },
@@ -271,19 +279,19 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Old TV shows to reboot",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5fe78d9d185",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Corporations are using Trump\u2019s tariff refunds on bonuses rather than reimbursing consumers",
+     "author": "News",
+     "url": "https://lemmy.world/post/54475517",
+     "likes": 81,
+     "image": "https://lemmy.world/pictrs/image/20a74e10-651e-446c-bd34-cfc423c0df40.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Amazon\u2019s Decoy Deals: Investigation Reveals Nearly 1 in 3 Black Friday and Cyber Monday \u201cDeals\u201d Advertised by Amazon Offered No Savings to Shoppers, Nearly 1 in 10 Were Actually More Expensive",
      "author": "Technology",
      "url": "https://feddit.online/c/technology@lemmy.world/p/2117179/amazons-decoy-deals-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-d",
-     "likes": 58,
+     "likes": 108,
      "image": "https://lemmy.world/pictrs/image/0af5a363-99cd-4944-82ac-eeb214f5dbb3.png"
     },
     {
@@ -291,65 +299,57 @@
      "text": "friendly advice :)",
      "author": "Trans Memes",
      "url": "https://lemmy.blahaj.zone/post/50562021",
-     "likes": 23,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/ab11c936-fa98-44bc-8357-ef63d682e165.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Don\u2019t worry, it\u2019s almost over",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54474637",
-     "likes": 50,
-     "image": "https://lemmy.world/pictrs/image/7481e4f1-7a24-4afa-89ba-24862dd630cc.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Overlooking Smuggler's Notch",
-     "author": "Photography",
-     "url": "https://pixelfed.social/p/tcgoetz/1027933568081264686",
-     "likes": 24,
-     "image": "https://lemmy.world/pictrs/image/fe155d60-e686-438f-aed2-aa2c7e42c19d.jpeg"
+     "text": "Mamdani disbands controversial NYPD Strategic Response Group unit",
+     "author": "News",
+     "url": "https://piefed.ca/c/news@lemmy.world/p/1074986/mamdani-disbands-controversial-nypd-strategic-response-group-unit",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/a7d293aa-f03e-414f-aa01-014d183e3fda.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T14:05:30.269974+00:00",
+   "fetched_at": "2026-11-16T14:35:37.780458+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\u201cDoctor, I\u2019ve broken my arm in several places\u201d Doctor \u201cWell don\u2019t go to those places.\u201d",
+     "text": "What do you call a snake who builds houses? A boa constructor!",
      "source": "Dad joke"
     },
     {
-     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
+     "text": "What kind of magic do cows believe in? MOODOO.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you do on a remote island? Try and find the TV island it belongs to.",
+     "text": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
      "source": "Dad joke"
     }
    ]
