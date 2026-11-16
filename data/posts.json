@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T10:04:19.796696+00:00",
+ "generated_at": "2026-11-16T10:34:25.577814+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T10:04:14.990868+00:00",
+   "fetched_at": "2026-11-16T10:34:21.475665+00:00",
    "stale": false,
    "items": [
     {
@@ -26,29 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Bro's time management needs to be studied",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xxfapy/bros_time_management_needs_to_be_studied/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/al6dj1robw1i1.jpeg?width=640&crop=smart&auto=webp&s=9e882e7a420dfb6504104984b2f069bd3624ae0c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Battery change? That will be $1500 please.",
      "url": "https://www.reddit.com/r/CrappyDesign/comments/1xx87vr/battery_change_that_will_be_1500_please/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/aHB0ajJubW1udTFpMXDDZDwykdpqflmS51q1ovA8qIue8XA99OaPZuaIopsV.png?width=640&crop=smart&auto=webp&s=8b8dd26999faf70691720fc79ebd72e43ef93793"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I have a dental malformation, and that is what my smile looks like",
-     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xxfbmw/i_have_a_dental_malformation_and_that_is_what_my/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/u4qcmivxbw1i1.jpeg?width=640&crop=smart&auto=webp&s=408868e6782250d5d6bb61cd89e109575e396acd"
     },
     {
      "source": "Reddit",
@@ -71,6 +53,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Bro's time management needs to be studied",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xxfapy/bros_time_management_needs_to_be_studied/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/al6dj1robw1i1.jpeg?width=640&crop=smart&auto=webp&s=9e882e7a420dfb6504104984b2f069bd3624ae0c"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "What chain restaurant do you think will go out of business in the next 10 years?",
      "url": "https://www.reddit.com/r/AskReddit/comments/1xxdxl6/what_chain_restaurant_do_you_think_will_go_out_of/",
      "score": 0,
@@ -80,51 +71,32 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xxe4t1/meirl/",
+     "title": "Realistic 1 bedroom apartment in New York City.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xxc8zp/realistic_1_bedroom_apartment_in_new_york_city/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/k0mc40511w1i1.jpeg?width=320&crop=smart&auto=webp&s=5dc1185949cebbb2a10d5164bac497d73019f55f"
+     "image": "https://external-preview.redd.it/NGUwNXUyY2hrdjFpMetsUsh1BqfiEYFIe81Es0-EaQICo06NKPLLXThQI3rk.png?width=320&crop=smart&auto=webp&s=96595b18f64a3251a865a90f3914509c153e951d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "The absolute audacity to look away from a cobra mid-fight",
+     "url": "https://www.reddit.com/r/interestingasfuck/comments/1xwwwv6/the_absolute_audacity_to_look_away_from_a_cobra/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/bDdtZHF0aThlczFpMSL23t5ANoLKRmu2aVRImDiSIklHeHYpIu5vwMh0MzNQ.png?width=320&crop=smart&auto=webp&s=89bc84a4814b467ddbdc3687a93afb012f102d74"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T10:04:16.166305+00:00",
+   "fetched_at": "2026-11-16T10:34:22.584887+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "compilationError",
-     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
-     "url": "https://redd.it/1xsgyfn",
-     "ups": 417,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 21,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
      "image": "https://i.redd.it/sqilz99j2i1i1.png",
      "url": "https://redd.it/1xvsh3j",
      "ups": 105,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 704,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 104,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,24 +107,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "What on earth is happening over there",
-     "image": "https://i.redd.it/bcdt71i8em1i1.gif",
-     "url": "https://redd.it/1xw9i20",
-     "ups": 831,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2146,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 762,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2078,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 322,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 14,
      "sub": "r/memes"
     },
     {
-     "title": "No more drama?",
-     "image": "https://i.redd.it/uj7e9q32ys1i1.png",
-     "url": "https://redd.it/1xwzl5m",
-     "ups": 21,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Happy days ahead..",
-     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
-     "url": "https://redd.it/1xwzbp0",
-     "ups": 7444,
+     "title": "I'd do anything for my family. Except look for a job.",
+     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
+     "url": "https://redd.it/1xxe6dj",
+     "ups": 621,
      "sub": "r/memes"
     },
     {
@@ -163,23 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "we all mature I guess...",
-     "image": "https://i.redd.it/i98obcvyor1i1.png",
-     "url": "https://redd.it/1xwtxmc",
-     "ups": 8675,
+     "title": "different ways of displaying snes games",
+     "image": "https://i.redd.it/7j95k501zx1i1.png",
+     "url": "https://redd.it/1xxkwm8",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
-     "title": "\"Pim, can I talk to you for a sec?\"",
-     "image": "https://i.redd.it/oqj7cenarw1i1.png",
-     "url": "https://redd.it/1xxgx0d",
-     "ups": 0,
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 32,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Happy days ahead..",
+     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
+     "url": "https://redd.it/1xwzbp0",
+     "ups": 7444,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T10:04:18.391935+00:00",
+   "fetched_at": "2026-11-16T10:34:24.370735+00:00",
    "stale": false,
    "items": [
     {
@@ -187,22 +187,6 @@
      "text": "Four female artists music taste",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "COP31 climate summit in Antalya",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "All-time favorite movie scenes",
+     "text": "Old TV shows to reboot",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4911f55b101",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b5fe78d9d185",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Godzilla Minus Zero opens",
+     "text": "Trump blames Biden for FAA ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9cc9ec092974",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russell Brand trial",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
@@ -240,22 +232,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tanker hits cruise ship in New Orleans",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cf364e4154f7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Microsoft resolves global outage",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
@@ -264,68 +240,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alan Milburn on youth unemployment",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Biden for FAA ground stop",
+     "text": "Vulcan rocket returns to flight",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a48de380484f",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "minecraft charcoal",
-     "author": "Memes",
-     "url": "https://lemmy.ml/post/55369307",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/fa189ba9-ae68-4068-a4c8-b5fb7921fa45.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Italy Meta photo access case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c706ebeb4c5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports daily Russian losses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "do you believe?",
      "author": "Memes",
      "url": "https://lemmy.ml/post/55369180",
-     "likes": 21,
+     "likes": 46,
      "image": "https://lemmy.world/pictrs/image/ead1673d-f0ce-4ca5-9a87-1cf45a78b08e.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Hypnosis",
+     "author": "memes",
+     "url": "https://lemmy.today/post/63383377",
+     "likes": 7,
+     "image": "https://lemmy.world/pictrs/image/509467c4-600b-49d0-9612-c6bea3d81da8.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Winter glove for use with smartphone",
+     "author": "Crochet",
+     "url": "https://discuss.tchncs.de/post/70963050",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/882c0d0a-c54f-4784-845a-d8ec1de511c8.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Almost 1 in 4 Americans believe misinformation about cause of autism",
      "author": "Autism",
      "url": "https://fedia.io/m/autism@lemmy.world/t/4568230",
-     "likes": 15,
+     "likes": 28,
      "image": "https://lemmy.world/pictrs/image/dfbe6653-01d7-4d9c-a83f-ae8f5e3e8fb7.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-     "author": "World News",
-     "url": "https://lemy.lol/post/74282453",
-     "likes": 6,
-     "image": "https://lemmy.world/pictrs/image/e3348b43-af6f-4cee-aae0-96c552bba4fe.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T10:04:19.040906+00:00",
+   "fetched_at": "2026-11-16T10:34:24.798529+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
@@ -333,7 +333,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
+     "text": "Recent survey revealed 6 out of 7 dwarf's aren't happy.",
      "source": "Dad joke"
     },
     {
-     "text": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
+     "text": "Breaking news! Energizer Bunny arrested \u2013 charged with battery.",
      "source": "Dad joke"
     },
     {
-     "text": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
+     "text": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
      "source": "Dad joke"
     }
    ]
