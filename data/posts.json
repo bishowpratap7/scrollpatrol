@@ -1,10 +1,28 @@
 {
- "generated_at": "2026-11-16T15:05:45.726698+00:00",
+ "generated_at": "2026-11-16T15:35:53.151484+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T15:05:40.528535+00:00",
+   "fetched_at": "2026-11-16T15:35:47.713258+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Impeccable logic.",
+     "url": "https://www.reddit.com/r/Snorkblot/comments/1xxoxhl/impeccable_logic/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/0927ou1t3z1i1.png?width=640&crop=smart&auto=webp&s=278e081d0afd74115e9bec11ba50d3a3416b5184"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
+     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -26,29 +44,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Impeccable logic.",
-     "url": "https://www.reddit.com/r/Snorkblot/comments/1xxoxhl/impeccable_logic/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/0927ou1t3z1i1.png?width=640&crop=smart&auto=webp&s=278e081d0afd74115e9bec11ba50d3a3416b5184"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Mamdani disbands controversial NYPD Strategic Response Group unit",
      "url": "https://www.reddit.com/r/news/comments/1xxopun/mamdani_disbands_controversial_nypd_strategic/",
      "score": 0,
      "comments": 0,
      "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "me_irl",
-     "url": "https://www.reddit.com/r/me_irl/comments/1xxm8um/me_irl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/n87fcy97ey1i1.png?width=640&crop=smart&auto=webp&s=0753c47ddf87cafd0207cb8cb9f2ee59ccf8a86c"
     },
     {
      "source": "Reddit",
@@ -71,39 +71,60 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
-     "url": "https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/",
+     "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+     "url": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/65z-MxO0EKYHMoyzmkkb3CqCG73inkLcF1A8_7SZeuI.jpeg?width=640&crop=smart&auto=webp&s=2d793f68518e9b798de240804f0394a7138260fa"
+     "image": "https://external-preview.redd.it/iSXucelVQvxZ0ji2wP6839OGWpvW4horYXq2lbY1KxE.jpeg?width=640&crop=smart&auto=webp&s=dab94e6cd441915ab823411eb0ffb40e53624b14"
     },
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "'Just F**king Leave': Critics Trash John Fetterman After He Threatens To Quit Dems",
-     "url": "https://www.reddit.com/r/politics/comments/1xxls35/just_fking_leave_critics_trash_john_fetterman/",
+     "title": "Realistic 1 bedroom apartment in New York City.",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xxc8zp/realistic_1_bedroom_apartment_in_new_york_city/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/70rdb2ecvlUjJVY3LFa_rO2PKC5Z1T95lnaLO0ze7wU.jpeg?width=640&crop=smart&auto=webp&s=b2790064d44ab7a5090d847d9809df2f8d91fb0c"
+     "image": "https://external-preview.redd.it/NGUwNXUyY2hrdjFpMetsUsh1BqfiEYFIe81Es0-EaQICo06NKPLLXThQI3rk.png?width=320&crop=smart&auto=webp&s=96595b18f64a3251a865a90f3914509c153e951d"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T15:05:41.743390+00:00",
+   "fetched_at": "2026-11-16T15:35:48.937383+00:00",
    "stale": false,
    "items": [
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2888,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1211,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2100,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "reversingPiInPython",
+     "image": "https://i.redd.it/8or59ob24d0i1.png",
+     "url": "https://redd.it/1xqv0nj",
+     "ups": 14088,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 22,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 282,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,52 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2149,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "wetWet",
-     "image": "https://i.redd.it/vr7qh0uqhx1i1.png",
-     "url": "https://redd.it/1xxjevv",
-     "ups": 167,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 349,
-     "sub": "r/memes"
-    },
-    {
-     "title": "What is wrong with you?",
-     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
-     "url": "https://redd.it/1xxnl61",
-     "ups": 1203,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 3933,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I may have forgotten something\u2026",
-     "image": "https://i.redd.it/lwno0mczev1i1.png",
-     "url": "https://redd.it/1xxbmkw",
-     "ups": 11,
+     "title": "No more drama?",
+     "image": "https://i.redd.it/uj7e9q32ys1i1.png",
+     "url": "https://redd.it/1xwzl5m",
+     "ups": 27,
      "sub": "r/memes"
     },
     {
@@ -167,6 +146,27 @@
      "image": "https://i.redd.it/d948zu5e1t1i1.gif",
      "url": "https://redd.it/1xx0296",
      "ups": 1459,
+     "sub": "r/memes"
+    },
+    {
+     "title": "why is this so often",
+     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
+     "url": "https://redd.it/1xwk680",
+     "ups": 605,
+     "sub": "r/memes"
+    },
+    {
+     "title": "those meddling shareholders",
+     "image": "https://i.redd.it/b92449hksu1i1.png",
+     "url": "https://redd.it/1xx8x7d",
+     "ups": 143,
+     "sub": "r/memes"
+    },
+    {
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 349,
      "sub": "r/memes"
     },
     {
@@ -179,14 +179,14 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T15:05:44.363578+00:00",
+   "fetched_at": "2026-11-16T15:35:50.946889+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Future of James Bond franchise",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Christmas Carol film's box office claim",
+     "text": "Buttigieg's student debt comments",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/06b7e29004bb",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Mamdani disbands NYPD protest unit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27a5c5251e31",
      "likes": 0,
      "image": ""
     },
@@ -219,6 +211,14 @@
      "text": "Companies use tariff refunds for bonuses",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump defends White House projects",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2a20eaf5402b",
      "likes": 0,
      "image": ""
     },
@@ -240,17 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo rides Peruvian helicopter",
+     "text": "Super El Ni\u00f1o hits California coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft resolves global outage",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -264,17 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Iran drones target Bahrain base",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's absence from public view",
+     "text": "Four female artists music taste",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b879fd975cfb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Nice camouflage, dork",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/54476902",
-     "likes": 44,
+     "likes": 102,
      "image": "https://lemmy.world/pictrs/image/d9cd37d7-1ca3-412c-8527-e8eebdbc9d71.jpeg"
     },
     {
@@ -291,65 +291,65 @@
      "text": "The culprit",
      "author": "Funny: Home of the Haha",
      "url": "https://lemmy.world/post/54476907",
-     "likes": 31,
+     "likes": 77,
      "image": "https://lemmy.world/pictrs/image/9e765088-68bd-484a-998f-924a1a24244e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Mamdani disbands controversial NYPD unit",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54478040",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/892a52cd-ba12-461e-9288-f4203549b947.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "'Good Riddance': John Fetterman\u2019s Threat To Quit Dems Falls Flat On Social Media",
      "author": "politics ",
      "url": "https://lemmy.world/post/54476667",
-     "likes": 37,
+     "likes": 84,
      "image": "https://lemmy.world/pictrs/image/119961f0-9662-4e7f-9ab2-74b9bcaec83a.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Corporations are using Trump\u2019s tariff refunds on bonuses rather than reimbursing consumers",
-     "author": "News",
-     "url": "https://lemmy.world/post/54475517",
-     "likes": 138,
-     "image": "https://lemmy.world/pictrs/image/20a74e10-651e-446c-bd34-cfc423c0df40.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T15:05:44.883811+00:00",
+   "fetched_at": "2026-11-16T15:35:51.874531+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Where do you learn to make banana splits? At sundae school.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What is this movie about? It is about 2 hours long.",
      "source": "Dad joke"
     },
     {
-     "text": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+     "text": "What do prisoners use to call each other? Cell phones.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the knife dress up in a suit? Because it wanted to look sharp",
+     "text": "How do you get a baby alien to sleep?  You rocket.",
      "source": "Dad joke"
     }
    ]
