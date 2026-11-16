@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T02:01:57.780429+00:00",
+ "generated_at": "2026-11-16T02:02:15.107167+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T02:01:52.307100+00:00",
+   "fetched_at": "2026-11-16T02:02:09.449533+00:00",
    "stale": false,
    "items": [
     {
@@ -89,35 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T02:01:53.983252+00:00",
+   "fetched_at": "2026-11-16T02:02:11.048269+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2056,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "theEngineeringTeamAreCurrentlyFixingTheBackendBugs",
      "image": "https://i.redd.it/ped59wl8lu1i1.png",
      "url": "https://redd.it/1xx7vu2",
      "ups": 239,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1292,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 269,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "everythingGoesIntoThePostHole",
-     "image": "https://i.redd.it/y0rn3i9koa0i1.png",
-     "url": "https://redd.it/1xqmwj4",
-     "ups": 4347,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +114,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2139,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 353,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Nature is beautiful..",
-     "image": "https://i.redd.it/srkch1qzul1i1.gif",
-     "url": "https://redd.it/1xw6n4w",
-     "ups": 846,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 3946,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 12,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "And me in the aisle seat too",
+     "image": "https://i.redd.it/r30natv9ug1i1.png",
+     "url": "https://redd.it/1xvndzp",
+     "ups": 6290,
      "sub": "r/memes"
     },
     {
-     "title": "I think they updated the game mechanics of life again",
-     "image": "https://i.redd.it/612ryrxwfu1i1.png",
-     "url": "https://redd.it/1xx76ea",
-     "ups": 10,
+     "title": "we all mature I guess...",
+     "image": "https://i.redd.it/i98obcvyor1i1.png",
+     "url": "https://redd.it/1xwtxmc",
+     "ups": 6670,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Edenburg \ud83c\udf54",
+     "image": "https://i.redd.it/j3vnfty1rs1i1.gif",
+     "url": "https://redd.it/1xwylvp",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
@@ -163,23 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "He lowered the record by 23 seconds!!!",
-     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
-     "url": "https://redd.it/1xx0296",
-     "ups": 269,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Happy days ahead..",
-     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
-     "url": "https://redd.it/1xwzbp0",
-     "ups": 5231,
+     "title": "No more drama?",
+     "image": "https://i.redd.it/uj7e9q32ys1i1.png",
+     "url": "https://redd.it/1xwzl5m",
+     "ups": 20,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T02:01:56.272976+00:00",
+   "fetched_at": "2026-11-16T02:02:13.465251+00:00",
    "stale": false,
    "items": [
     {
@@ -313,19 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T02:01:56.946913+00:00",
+   "fetched_at": "2026-11-16T02:02:14.432109+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "Why do pirates not know the alphabet? They always get stuck at \"C\".",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Milk is also the fastest liquid on earth \u2013 its pasteurized before you even see it",
      "source": "Dad joke"
     },
     {
-     "text": "Breaking news! Energizer Bunny arrested \u2013 charged with battery.",
+     "text": "Sometimes I tuck my knees into my chest and lean forward.  That\u2019s just how I roll.",
      "source": "Dad joke"
     },
     {
-     "text": "I boiled a funny bone last night and had a laughing stock",
+     "text": "An apple a day keeps the bullies away. If you throw it hard enough.",
      "source": "Dad joke"
     }
    ]
