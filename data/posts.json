@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-16T18:47:09.634402+00:00",
+ "generated_at": "2026-11-16T19:17:16.408933+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-16T18:47:03.482403+00:00",
+   "fetched_at": "2026-11-16T19:17:11.439206+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "That's genuinely wild",
-     "url": "https://www.reddit.com/r/interesting/comments/1xxholb/thats_genuinely_wild/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/xx7gj7f3zw1i1.png?width=320&crop=smart&auto=webp&s=172acc4ce311d2eeee8f9c462c3140ce3c062336"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -31,6 +22,33 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/telfz6rkoz1i1.jpeg?width=640&crop=smart&auto=webp&s=f4e440401a4a2384b83433e951f05b9c5eca210e"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Mushka, my rescued cat from Ukraine.",
+     "url": "https://www.reddit.com/r/aww/comments/1xxu40y/mushka_my_rescued_cat_from_ukraine/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/o05lfr75602i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=2597b4260d6f87b048732190e3a6e0b2f361b544"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "That's genuinely wild",
+     "url": "https://www.reddit.com/r/interesting/comments/1xxholb/thats_genuinely_wild/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/xx7gj7f3zw1i1.png?width=320&crop=smart&auto=webp&s=172acc4ce311d2eeee8f9c462c3140ce3c062336"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Robert Pattinson Is The New James Bond",
+     "url": "https://www.reddit.com/r/popculturechat/comments/1xxrmg0/robert_pattinson_is_the_new_james_bond/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/Q1Pa5EM8Rg2UOhrHqR-MLZgHD9e9b-6-TxnXQQNMjHs.jpeg?width=320&crop=smart&auto=webp&s=4e64f7a4aa3afd3e4710135bfe090571fc9af48e"
     },
     {
      "source": "Reddit",
@@ -62,77 +80,66 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Robert Pattinson Is The New James Bond",
-     "url": "https://www.reddit.com/r/popculturechat/comments/1xxrmg0/robert_pattinson_is_the_new_james_bond/",
+     "title": "Uno reverse",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xxwkne/uno_reverse/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/Q1Pa5EM8Rg2UOhrHqR-MLZgHD9e9b-6-TxnXQQNMjHs.jpeg?width=320&crop=smart&auto=webp&s=4e64f7a4aa3afd3e4710135bfe090571fc9af48e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Nice. He stood taller after that. \ud83d\udc96",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xxrqpz/nice_he_stood_taller_after_that/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZWN0d3o1ZXVwejFpMVOJBxuGBdTufyO7vV8ujzVDCaixXoGpB9VgD2LnG_ia.png?width=320&crop=smart&auto=webp&s=c4c1183ac03e3cb567597416994243cc35e68464"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "I have a dental malformation, and that is what my smile looks like",
-     "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xxfbmw/i_have_a_dental_malformation_and_that_is_what_my/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/u4qcmivxbw1i1.jpeg?width=640&crop=smart&auto=webp&s=408868e6782250d5d6bb61cd89e109575e396acd"
+     "image": "https://preview.redd.it/809qrfyem02i1.jpeg?width=640&crop=smart&auto=webp&s=b6eeae72e496d78bf4d9bfba6c9bcb3a976cb79f"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-16T18:47:04.818302+00:00",
+   "fetched_at": "2026-11-16T19:17:12.676558+00:00",
    "stale": false,
    "items": [
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 406,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2097,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 858,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "cmonGitHubAgain",
      "image": "https://i.redd.it/jnx3yr1ms11i1.png",
      "url": "https://redd.it/1xttllg",
-     "ups": 1211,
+     "ups": 1210,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 112,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 21,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2154,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 343,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilationError",
-     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
-     "url": "https://redd.it/1xsgyfn",
-     "ups": 421,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 419,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "AO3's return",
+     "image": "https://i.redd.it/vvx3dydq002i1.png",
+     "url": "https://redd.it/1xxtbn7",
+     "ups": 7,
+     "sub": "r/memes"
     },
     {
      "title": "this is why I put all my pants in Dex",
@@ -142,10 +149,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "Happy days ahead..",
-     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
-     "url": "https://redd.it/1xwzbp0",
-     "ups": 8794,
+     "title": "\"It's like I was made for this\" -Blofeld",
+     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
+     "url": "https://redd.it/1xxuwdt",
+     "ups": 4,
+     "sub": "r/memes"
+    },
+    {
+     "title": "My thirteen year old self was devastated when he finally realized it",
+     "image": "https://i.redd.it/tqrjmu8yyv1i1.png",
+     "url": "https://redd.it/1xxdwr2",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
@@ -156,45 +170,63 @@
      "sub": "r/memes"
     },
     {
-     "title": "AO3's return",
-     "image": "https://i.redd.it/vvx3dydq002i1.png",
-     "url": "https://redd.it/1xxtbn7",
-     "ups": 7,
-     "sub": "r/memes"
-    },
-    {
-     "title": "You won't feel it coming",
-     "image": "https://i.redd.it/bqyrekkyry1i1.png",
-     "url": "https://redd.it/1xxnjib",
-     "ups": 42,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's a bold business strategy",
-     "image": "https://i.redd.it/oae6mkznhx1i1.png",
-     "url": "https://redd.it/1xxjfj1",
-     "ups": 379,
+     "title": "why is this so often",
+     "image": "https://i.redd.it/fmrno9k3uo1i1.png",
+     "url": "https://redd.it/1xwk680",
+     "ups": 608,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-16T18:47:07.556135+00:00",
+   "fetched_at": "2026-11-16T19:17:14.797222+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump's remark to Black reporter",
+     "text": "Major US banks report outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/67de3713791c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eb9dc4216ccc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duffy seeks air traffic control funding",
+     "text": "Vance responds to FAA ground stop",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b61e8802913e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Buttigieg's student debt comments",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27a5c5251e31",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pick a new Bond meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Robert Pattinson named new James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft blames outage on bug",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Next James Bond film's setting",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
      "likes": 0,
      "image": ""
     },
@@ -224,14 +256,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Four female artists music taste",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Tariff refunds fund executive bonuses",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
@@ -240,41 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo rides Peruvian helicopter",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "2027 Baseball Hall of Fame ballot released",
+     "text": "Trump's remark to Black reporter",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/49a2d5444caf",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Democrats push to investigate Trump",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bd3fd354aca",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Michigan relatives college funding quote",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c005ba804282",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/67de3713791c",
      "likes": 0,
      "image": ""
     },
@@ -283,53 +283,41 @@
      "text": "Tree TERF rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50571934",
-     "likes": 34,
+     "likes": 79,
      "image": "https://lemmy.world/pictrs/image/fd4fd91e-24aa-4549-9974-b064e5cee365.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "democracy rule",
+     "text": "Feminism rule",
      "author": "196",
-     "url": "https://sh.itjust.works/post/70022938",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/4a0f1292-bf99-4020-9eea-9a38eb49654a.jpeg"
+     "url": "https://lemmy.blahaj.zone/post/50572406",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/46cc6559-d806-4af6-a210-b611f3955e79.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "shes so pitiful",
-     "author": "cats",
-     "url": "https://lemmy.ca/post/73938215",
-     "likes": 60,
-     "image": "https://lemmy.world/pictrs/image/cabe637c-14a1-4f3d-b7fd-fc43d710478c.webp"
+     "text": "Crime scene",
+     "author": "Dad Jokes",
+     "url": "https://cozyver.se/c/dadjokes/p/72591/crime-scene",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/e048eb2c-0f66-4318-b362-9a6f6f13e6b0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Attention Seekers",
-     "author": "Fuck Cars",
-     "url": "https://lemmy.world/post/54484602",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/9556d28a-3ef0-46cc-8b91-4838caf5a1ff.webp"
+     "text": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
+     "author": "Technology",
+     "url": "https://lemmy.ml/post/55386397",
+     "likes": 47,
+     "image": "https://lemmy.world/pictrs/image/0cac3bbd-9f38-4e3a-8210-eb9890aa81e1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-16T18:47:08.014971+00:00",
+   "fetched_at": "2026-11-16T19:17:15.559993+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why are graveyards so noisy? Because of all the coffin.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you organize a space party? You planet.",
+     "text": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear the one about the giant pickle?  He was kind of a big dill.",
+     "text": "I\u2019ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it\u2019s Hans free.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
