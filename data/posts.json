@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-17T01:18:55.282386+00:00",
+ "generated_at": "2026-11-17T01:48:59.988693+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T01:18:51.724165+00:00",
+   "fetched_at": "2026-11-17T01:48:56.536237+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Someone crocheted a giant red cardigan and put it on the statue of Fred Rogers in Pittsburgh",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xy5g3x/someone_crocheted_a_giant_red_cardigan_and_put_it/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/8ubg1iokc22i1.jpeg?width=320&crop=smart&auto=webp&s=7e3d40666898f39aab7cb9de8e506a232ca8ad3a"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -62,6 +53,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Someone crocheted a giant red cardigan and put it on the statue of Fred Rogers in Pittsburgh",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xy5g3x/someone_crocheted_a_giant_red_cardigan_and_put_it/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/8ubg1iokc22i1.jpeg?width=320&crop=smart&auto=webp&s=7e3d40666898f39aab7cb9de8e506a232ca8ad3a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "meirl",
      "url": "https://www.reddit.com/r/meirl/comments/1xy4qoz/meirl/",
      "score": 0,
@@ -71,39 +71,39 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Robert Pattinson has been cast as the next James Bond.",
-     "url": "https://www.reddit.com/r/JamesBond/comments/1xxrjtb/robert_pattinson_has_been_cast_as_the_next_james/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/telfz6rkoz1i1.jpeg?width=640&crop=smart&auto=webp&s=f4e440401a4a2384b83433e951f05b9c5eca210e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "I Have Holt Oram Syndrome. Have Four Fingers on Right Hand and Five on Left But I Have No Thumbs. My Left \"Thumb\" is a Second Pinky and my Right \"Thumb\" is a Pointer Finger.",
      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xy3ayr/i_have_holt_oram_syndrome_have_four_fingers_on/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/hiqy9bq5w12i1.jpeg?width=640&crop=smart&auto=webp&s=2571ccdc8055c2e63bd14b6ea0eaf3d50f5d1a3f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "United Airlines says it has a widespread system outage just days after nationwide ground stop",
+     "url": "https://www.reddit.com/r/news/comments/1xy3659/united_airlines_says_it_has_a_widespread_system/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T01:18:52.515845+00:00",
+   "fetched_at": "2026-11-17T01:48:57.445353+00:00",
    "stale": false,
    "items": [
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 13,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 65,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 154,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 868,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,25 +114,53 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 65,
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 604,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 861,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 641,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 433,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 289,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "The moon exists during the day",
+     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
+     "url": "https://redd.it/1xxw4vm",
+     "ups": 405,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I'd do anything for my family. Except look for a job.",
+     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
+     "url": "https://redd.it/1xxe6dj",
+     "ups": 2360,
+     "sub": "r/memes"
+    },
+    {
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 1417,
+     "sub": "r/memes"
+    },
+    {
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 87,
+     "sub": "r/memes"
     },
     {
      "title": "if they are invisible why can they be defeated?",
@@ -142,54 +170,18 @@
      "sub": "r/memes"
     },
     {
-     "title": "\"Silicon Valley allies pressured NVIDIA to reinstate Jensen Huang\"",
-     "image": "https://i.redd.it/ff2575r85u1i1.png",
-     "url": "https://redd.it/1xx5rny",
-     "ups": 1483,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'm sure I'm not the only one who thought of it but I had to do it anyway.",
-     "image": "https://i.redd.it/2kkpm2z1n02i1.png",
-     "url": "https://redd.it/1xxwo3n",
-     "ups": 33,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Falling for someone",
-     "image": "https://i.redd.it/fz7caqj9702i1.png",
-     "url": "https://redd.it/1xxua7f",
-     "ups": 30,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A childhood shocker.",
-     "image": "https://i.redd.it/mtjusmmsk02i1.png",
-     "url": "https://redd.it/1xxwc1b",
-     "ups": 77,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I'd do anything for my family. Except look for a job.",
-     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
-     "url": "https://redd.it/1xxe6dj",
-     "ups": 2360,
+     "title": "we all mature I guess...",
+     "image": "https://i.redd.it/i98obcvyor1i1.png",
+     "url": "https://redd.it/1xwtxmc",
+     "ups": 10099,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T01:18:53.569821+00:00",
+   "fetched_at": "2026-11-17T01:48:58.917819+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Washington dirty bomb threat intelligence",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/76f01bab9df0",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Your 80s action movie role",
@@ -200,33 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Protesters confront Bovino at Rutgers",
+     "text": "Washington dirty bomb threat intelligence",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f93fe85dab34",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/76f01bab9df0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Robert Pattinson named new James Bond",
+     "text": "Duffy seeks air traffic control funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft blames outage on bug",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "GTA 6 birdwatching and weather details",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/727c5b03d811",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -240,14 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "United Airlines reports system outage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d9c9a9fa40b4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Outages reported at US banks",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eb9dc4216ccc",
@@ -256,25 +224,57 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Data center emissions rival Denmark",
+     "text": "Pick a new Bond from phone photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duffy seeks air traffic control funding",
+     "text": "GTA 6 birdwatching and weather details",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/727c5b03d811",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Least useful talents",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5097a07928f9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft blames outage on bug",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukrainian drones hit Crimean Bridge",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's remark to Black reporter",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/67de3713791c",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "New memes comm?",
      "author": "science memes \ud83e\uddec",
      "url": "https://lemmy.dbzer0.com/post/78540769",
-     "likes": 76,
+     "likes": 91,
      "image": "https://lemmy.world/pictrs/image/4a93378a-416a-4b42-86ca-9deb4a70b248.webp"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Outrage as Trump Moves to Rip Away Pay Raises From Head Start Teachers | Common Dreams",
      "author": "politics ",
      "url": "https://lemmy.zip/post/75145818",
-     "likes": 58,
+     "likes": 79,
      "image": "https://lemmy.world/pictrs/image/82d21b9f-aaa8-4f1f-a858-c78afcdc8af2.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "xkcd #3325: Light-Day",
      "author": "xkcd",
      "url": "https://lemmy.world/post/54493076",
-     "likes": 193,
+     "likes": 218,
      "image": "https://lemmy.world/pictrs/image/361a772e-7bdf-4560-acc7-7f1974826439.png"
     },
     {
@@ -307,25 +307,25 @@
      "text": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
      "author": "The Trump-Epstein Files\u2122",
      "url": "https://lemmy.world/post/54493787",
-     "likes": 57,
+     "likes": 72,
      "image": "https://lemmy.world/pictrs/image/6ed8996b-a397-4fa3-92d8-08cdbfc971ab.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T01:18:54.664807+00:00",
+   "fetched_at": "2026-11-17T01:48:59.514380+00:00",
    "stale": false,
    "items": [
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
+     "text": "I\u2019ve got this disease where I can\u2019t stop making airport puns. The doctor says it terminal.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a cow with no legs? Ground beef.",
+     "text": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you\u2019re pretty repulsive yourself.",
      "source": "Dad joke"
     },
     {
-     "text": "What did Yoda say when he saw himself in 4K? \"HDMI\"",
+     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
      "source": "Dad joke"
     }
    ]
