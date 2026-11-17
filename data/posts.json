@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:54:17.674926+00:00",
+ "generated_at": "2026-11-17T22:24:24.474048+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T21:54:13.237034+00:00",
+   "fetched_at": "2026-11-17T22:24:20.495380+00:00",
    "stale": false,
    "items": [
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 16,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 10,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 298,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 2376,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2919,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +107,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 29,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 67,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 65,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Definitely me",
-     "image": "https://i.redd.it/3oto1uzrp32i1.png",
-     "url": "https://redd.it/1xyb77e",
-     "ups": 148,
+     "title": "What is wrong with you?",
+     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
+     "url": "https://redd.it/1xxnl61",
+     "ups": 4556,
      "sub": "r/memes"
     },
     {
-     "title": "Nokia is building StarLink alternative",
-     "image": "https://i.redd.it/wy6zfp29162i1.png",
-     "url": "https://redd.it/1xyj3pt",
-     "ups": 80,
+     "title": "The moon exists during the day",
+     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
+     "url": "https://redd.it/1xxw4vm",
+     "ups": 1259,
      "sub": "r/memes"
     },
     {
-     "title": "AI was not used in the making of VoldeRob",
-     "image": "https://i.redd.it/ln2duycnl72i1.png",
-     "url": "https://redd.it/1xyqugv",
-     "ups": 94,
+     "title": "if they are invisible why can they be defeated?",
+     "image": "https://i.redd.it/xt2unq59r02i1.png",
+     "url": "https://redd.it/1xxxcto",
+     "ups": 217,
      "sub": "r/memes"
     },
     {
@@ -163,38 +163,38 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's a me, James Bond!",
-     "image": "https://i.redd.it/w7getakmd62i1.png",
-     "url": "https://redd.it/1xykj2i",
-     "ups": 219,
+     "title": "AI was not used in the making of VoldeRob",
+     "image": "https://i.redd.it/ln2duycnl72i1.png",
+     "url": "https://redd.it/1xyqugv",
+     "ups": 94,
      "sub": "r/memes"
     },
     {
-     "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
-     "image": "https://i.redd.it/88dcewf6x62i1.png",
-     "url": "https://redd.it/1xyn68i",
-     "ups": 37,
+     "title": "Nokia is building StarLink alternative",
+     "image": "https://i.redd.it/wy6zfp29162i1.png",
+     "url": "https://redd.it/1xyj3pt",
+     "ups": 80,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T21:54:16.024568+00:00",
+   "fetched_at": "2026-11-17T22:24:23.199897+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Global stocks slide before Nvidia earnings",
+     "text": "Make a band name bigger",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c97b59dd35f9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
+     "text": "Global stocks slide before Nvidia earnings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c97b59dd35f9",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Microsoft, FAA, Zelle outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trash geyser prompts LA health order",
+     "text": "Ukrainian strike collapses Crimean Bridge",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
+     "text": "US loses measles elimination status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Optimizely hack hits major websites",
+     "text": "Trash geyser prompts LA health order",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbffe525a19d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
      "likes": 0,
      "image": ""
     },
@@ -256,76 +256,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
+     "text": "Voyager 1 nears one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Congress asks where FAA money went",
+     "text": "Sean Duffy addresses possible outage hack",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8baaecf59e81",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Washington dirty bomb threat intelligence",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/76f01bab9df0",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Etsy No More",
+     "author": "Fuck AI",
+     "url": "https://lemmy.world/post/54533125",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/c61c0951-02f3-499d-900e-f4330f4e4b32.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "More or Less, Yeah",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54533184",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/9f48af5f-28ad-49f9-a427-691bb71045b1.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Crystal Clear",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54533004",
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/eebd4bbe-2b7a-4be2-902a-b596b604be67.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Get a load of this meme\ud83d\ude2d\ud83d\ude4f",
      "author": "Dad Jokes",
      "url": "https://lemmy.today/post/63460789",
-     "likes": 37,
+     "likes": 80,
      "image": "https://lemmy.world/pictrs/image/68a506ea-9704-4622-912c-45c855c855bc.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-     "author": "Fuck AI",
-     "url": "https://piefed.social/c/fuck_ai@lemmy.world/p/2613698/young-people-hate-ai-ceos-so-passionately-that-it-s-almost-hard-to-believe",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/e878c041-17fe-46e4-980d-a367b7252a49.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I'm 23 and this has still never happened",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.world/post/54532358",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/76d729cd-d019-4ca6-9fd9-372695833376.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Leaker reveals how Trump 'deliberately' gutted essential US cyber defenses",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54530575",
-     "likes": 155,
-     "image": "https://lemmy.world/pictrs/image/428d2eae-b2e8-451a-9628-cc8d710e10fb.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T21:54:16.903106+00:00",
+   "fetched_at": "2026-11-17T22:24:23.618344+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
@@ -333,32 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Where do sheep go to get their hair cut? The baa-baa shop.",
      "source": "Dad joke"
     },
     {
-     "text": "Me and my mates are in a band called Duvet. We're a cover band.",
+     "text": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
      "source": "Dad joke"
     },
     {
-     "text": "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\"",
+     "text": "How do you make a water bed more bouncy. You use Spring Water",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
