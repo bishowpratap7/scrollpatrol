@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:23:44.036510+00:00",
+ "generated_at": "2026-11-17T19:53:50.362490+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T19:23:40.081941+00:00",
+   "fetched_at": "2026-11-17T19:53:46.838499+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 2353,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 482,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
      "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 66,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 358,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,74 +107,86 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 1781,
-     "sub": "r/memes"
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 26,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11456,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1326,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 482,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "The ultimate clickbait",
      "image": "https://i.redd.it/v26cf44xyw1i1.gif",
      "url": "https://redd.it/1xxhnuj",
-     "ups": 6961,
+     "ups": 6984,
      "sub": "r/memes"
     },
     {
-     "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
-     "image": "https://i.redd.it/88dcewf6x62i1.png",
-     "url": "https://redd.it/1xyn68i",
-     "ups": 22,
+     "title": "Nobody watched \"Day of the Chabunga\" yet, but we have a feeling it already deserves the award",
+     "image": "https://i.redd.it/1xq6cp8kq72i1.png",
+     "url": "https://redd.it/1xyrl7b",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
-     "title": "extra, if there's fruit",
-     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
-     "url": "https://redd.it/1xypdsl",
-     "ups": 40,
+     "title": "What is wrong with you?",
+     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
+     "url": "https://redd.it/1xxnl61",
+     "ups": 4540,
      "sub": "r/memes"
     },
     {
-     "title": "Best way to die",
-     "image": "https://i.redd.it/nsbub8mnn42i1.png",
-     "url": "https://redd.it/1xyegpf",
-     "ups": 1215,
+     "title": "Don't look at this, look at that",
+     "image": "https://i.redd.it/orqpx4tuk12i1.png",
+     "url": "https://redd.it/1xy1q4t",
+     "ups": 64,
      "sub": "r/memes"
     },
     {
-     "title": "Happy days ahead..",
-     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
-     "url": "https://redd.it/1xwzbp0",
-     "ups": 9400,
+     "title": "The moon exists during the day",
+     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
+     "url": "https://redd.it/1xxw4vm",
+     "ups": 1231,
+     "sub": "r/memes"
+    },
+    {
+     "title": "that one guy",
+     "image": "https://i.redd.it/n8djw7pc572i1.gif",
+     "url": "https://redd.it/1xyoe2c",
+     "ups": 116,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T19:23:42.031066+00:00",
+   "fetched_at": "2026-11-17T19:53:48.867426+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Apple services hit by outage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c182645b18b7",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Trash geyser prompts LA health order",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Apple services hit by outage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c182645b18b7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Nationwide emergency alert test",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FAA pauses router installations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b61e8802913e",
      "likes": 0,
      "image": ""
     },
@@ -248,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "US loses measles elimination status",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Pattinson will be next James Bond",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
@@ -256,25 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
+     "text": "FAA pauses router installations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b61e8802913e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Congress asks where FAA money went",
+     "text": "Optimizely hack hits major websites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbffe525a19d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mullin flies government jet to LSU game",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/edf03a98c7f7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate weighs BAAJA permitting bill",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
      "likes": 0,
      "image": ""
     },
@@ -283,57 +283,45 @@
      "text": "The Quiet Game",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70075305",
-     "likes": 27,
+     "likes": 71,
      "image": "https://lemmy.world/pictrs/image/f34b4b77-bc4c-4d4f-ae40-4b3f3c3de3e6.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Global Warming",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70076149",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/0216cdcc-7086-4d64-9b6e-f082d224046b.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "[Sekiro] Perry the Platypus",
+     "author": "Dad Jokes",
+     "url": "https://cozyver.se/c/dadjokes/p/77190/sekiro-parry-the-platypus",
+     "likes": 34,
+     "image": "https://lemmy.zip/pictrs/image/b44d36b1-6fb0-40c3-a460-445deeba2e4b.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "Punk/Noise rule",
      "author": "196",
      "url": "https://lemmy.zip/post/75193212",
-     "likes": 44,
+     "likes": 76,
      "image": "https://lemmy.zip/pictrs/image/22261ace-e398-4a0d-8203-4463a7f8864e.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Why it's National Security Agency outage day sir.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54527068",
-     "likes": 60,
-     "image": "https://lemmy.world/pictrs/image/fffeb38f-f901-420d-96be-4451f3bd2b53.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Are you?",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54526240",
-     "likes": 82,
-     "image": "https://lemmy.world/pictrs/image/c9627fc4-1a7d-4c73-9a9d-323563c46b5d.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T19:23:42.740422+00:00",
+   "fetched_at": "2026-11-17T19:53:49.443286+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "I was in an 80's band called the prevention. We were better than the cure.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I used to be addicted to the hokey pokey, but I turned myself around.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a droid that takes the long way around? R2 detour.",
+     "text": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
      "source": "Dad joke"
     },
     {
-     "text": "My boss told me to have a good day... so I went home.",
+     "text": "What do you get if you cross a turkey with a ghost? A poultry-geist!",
      "source": "Dad joke"
     }
    ]
