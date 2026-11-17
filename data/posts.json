@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:24:10.601941+00:00",
+ "generated_at": "2026-11-17T21:54:17.674926+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T21:24:06.659672+00:00",
+   "fetched_at": "2026-11-17T21:54:13.237034+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 16,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 10,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 298,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "cppAndItsVectorBooleans",
      "image": "https://i.redd.it/yhsn3dobhw1i1.png",
@@ -100,86 +121,65 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1537,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 416,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 699,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11463,
-     "sub": "r/ProgrammerHumor"
+     "title": "Definitely me",
+     "image": "https://i.redd.it/3oto1uzrp32i1.png",
+     "url": "https://redd.it/1xyb77e",
+     "ups": 148,
+     "sub": "r/memes"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 888,
-     "sub": "r/ProgrammerHumor"
+     "title": "Nokia is building StarLink alternative",
+     "image": "https://i.redd.it/wy6zfp29162i1.png",
+     "url": "https://redd.it/1xyj3pt",
+     "ups": 80,
+     "sub": "r/memes"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 119,
-     "sub": "r/ProgrammerHumor"
+     "title": "AI was not used in the making of VoldeRob",
+     "image": "https://i.redd.it/ln2duycnl72i1.png",
+     "url": "https://redd.it/1xyqugv",
+     "ups": 94,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The ultimate clickbait",
+     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
+     "url": "https://redd.it/1xxhnuj",
+     "ups": 7005,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's a me, James Bond!",
+     "image": "https://i.redd.it/w7getakmd62i1.png",
+     "url": "https://redd.it/1xykj2i",
+     "ups": 219,
+     "sub": "r/memes"
     },
     {
      "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
      "image": "https://i.redd.it/88dcewf6x62i1.png",
      "url": "https://redd.it/1xyn68i",
-     "ups": 29,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Don't look at this, look at that",
-     "image": "https://i.redd.it/orqpx4tuk12i1.png",
-     "url": "https://redd.it/1xy1q4t",
-     "ups": 64,
-     "sub": "r/memes"
-    },
-    {
-     "title": "What is wrong with you?",
-     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
-     "url": "https://redd.it/1xxnl61",
-     "ups": 4540,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Sexiest Bond girl ever",
-     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
-     "url": "https://redd.it/1xxx7kx",
-     "ups": 3376,
-     "sub": "r/memes"
-    },
-    {
-     "title": "that one guy",
-     "image": "https://i.redd.it/n8djw7pc572i1.gif",
-     "url": "https://redd.it/1xyoe2c",
-     "ups": 116,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's a bold business strategy",
-     "image": "https://i.redd.it/oae6mkznhx1i1.png",
-     "url": "https://redd.it/1xxjfj1",
-     "ups": 566,
+     "ups": 37,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T21:24:09.132229+00:00",
+   "fetched_at": "2026-11-17T21:54:16.024568+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Global stocks slide before Nvidia earnings",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c97b59dd35f9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "The Game Awards nominations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sean Duffy addresses possible outage hack",
+     "text": "The Game Awards nominations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8baaecf59e81",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump, Xi and Putin to meet",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Senate weighs BAAJA permitting bill",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Pattinson will be next James Bond",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
@@ -232,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukrainian strike collapses Crimean Bridge",
+     "text": "Optimizely hack hits major websites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbffe525a19d",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +264,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Congress asks where FAA money went",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -271,57 +279,53 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Congress asks where FAA money went",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Get a load of this meme\ud83d\ude2d\ud83d\ude4f",
+     "author": "Dad Jokes",
+     "url": "https://lemmy.today/post/63460789",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/68a506ea-9704-4622-912c-45c855c855bc.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+     "author": "Fuck AI",
+     "url": "https://piefed.social/c/fuck_ai@lemmy.world/p/2613698/young-people-hate-ai-ceos-so-passionately-that-it-s-almost-hard-to-believe",
+     "likes": 57,
+     "image": "https://lemmy.world/pictrs/image/e878c041-17fe-46e4-980d-a367b7252a49.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I'm 23 and this has still never happened",
+     "author": "Femcel Memes",
+     "url": "https://lemmy.world/post/54532358",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/76d729cd-d019-4ca6-9fd9-372695833376.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Leaker reveals how Trump 'deliberately' gutted essential US cyber defenses",
      "author": "politics ",
      "url": "https://lemmy.world/post/54530575",
-     "likes": 97,
+     "likes": 155,
      "image": "https://lemmy.world/pictrs/image/428d2eae-b2e8-451a-9628-cc8d710e10fb.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "French city of Lyon ditching Microsoft for FOSS",
-     "author": "Buy European",
-     "url": "https://cozyver.se/c/buyeuropean/p/77546/french-city-of-lyon-ditching-microsoft-for-foss",
-     "likes": 60,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "If it is a cyber attack this would be GREAT",
-     "author": "Political Memes",
-     "url": "https://reddthat.com/post/76781564",
-     "likes": 135,
-     "image": "https://lemmy.world/pictrs/image/8c34036c-fb8d-415b-9592-a5cefc8c23f2.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "As requested",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.dbzer0.com/post/78581731",
-     "likes": 55,
-     "image": "https://lemmy.world/pictrs/image/2039cf3b-3a0e-446f-a933-a924b26aba71.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T21:24:09.841789+00:00",
+   "fetched_at": "2026-11-17T21:54:16.903106+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Someone asked me to name two structures that hold water. I said \"Well dam\"",
+     "text": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
      "source": "Dad joke"
     },
     {
-     "text": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
+     "text": "Me and my mates are in a band called Duvet. We're a cover band.",
      "source": "Dad joke"
     },
     {
-     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
+     "text": "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\"",
      "source": "Dad joke"
     }
    ]
