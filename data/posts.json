@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T14:22:05.921733+00:00",
+ "generated_at": "2026-11-17T14:22:20.736974+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T14:22:00.687941+00:00",
+   "fetched_at": "2026-11-17T14:22:16.514407+00:00",
    "stale": false,
    "items": [
     {
@@ -89,56 +89,70 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T14:22:02.144793+00:00",
+   "fetched_at": "2026-11-17T14:22:17.768956+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 61,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 645,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 156,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11444,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 472,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 416,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 115,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 873,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1326,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 473,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 289,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "$1,000 camera roll, \u00a30 worth of photography",
-     "image": "https://i.redd.it/kb2ugperm32i1.png",
-     "url": "https://redd.it/1xyavtf",
-     "ups": 9701,
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 1721,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"It's like I was made for this\" -Blofeld",
+     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
+     "url": "https://redd.it/1xxuwdt",
+     "ups": 64,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The ultimate clickbait",
+     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
+     "url": "https://redd.it/1xxhnuj",
+     "ups": 6888,
      "sub": "r/memes"
     },
     {
@@ -149,37 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Best way to die",
-     "image": "https://i.redd.it/nsbub8mnn42i1.png",
-     "url": "https://redd.it/1xyegpf",
-     "ups": 747,
+     "title": "Falling for someone",
+     "image": "https://i.redd.it/fz7caqj9702i1.png",
+     "url": "https://redd.it/1xxua7f",
+     "ups": 37,
      "sub": "r/memes"
     },
     {
-     "title": "A childhood shocker.",
-     "image": "https://i.redd.it/mtjusmmsk02i1.png",
-     "url": "https://redd.it/1xxwc1b",
-     "ups": 109,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Sexiest Bond girl ever",
-     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
-     "url": "https://redd.it/1xxx7kx",
-     "ups": 3153,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The moon exists during the day",
-     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
-     "url": "https://redd.it/1xxw4vm",
-     "ups": 1141,
+     "title": "Teenager self would not believe this",
+     "image": "https://i.redd.it/qoakd84ch42i1.png",
+     "url": "https://redd.it/1xydwzd",
+     "ups": 79,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T14:22:04.020859+00:00",
+   "fetched_at": "2026-11-17T14:22:19.494434+00:00",
    "stale": false,
    "items": [
     {
@@ -291,7 +291,7 @@
      "text": "Doot",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://piefed.world/c/tenforward/p/1539578/doot",
-     "likes": 50,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/9593fe4f-455a-4a62-bca9-87bc1a28467c.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Texas lawmakers push to more than double $7.25 minimum wage",
      "author": "politics ",
      "url": "https://lemmy.world/post/54514596",
-     "likes": 74,
+     "likes": 75,
      "image": "https://lemmy.world/pictrs/image/00481e67-fb3b-4847-82a1-f3dfd2366cbf.jpeg"
     },
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T14:22:05.030179+00:00",
+   "fetched_at": "2026-11-17T14:22:20.008828+00:00",
    "stale": false,
    "items": [
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "What is a tornado's favorite game to play? Twister!",
+     "text": "How do robots eat guacamole? With computer chips.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear about the new restaurant on the moon? The food is great, but there\u2019s just no atmosphere.",
+     "text": "What's orange and sounds like a parrot? A Carrot.",
      "source": "Dad joke"
     },
     {
-     "text": "I knew i shouldn\u2019t have ate that seafood. Because now i\u2019m feeling a little\u2026 Eel",
+     "text": "I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.",
      "source": "Dad joke"
     }
    ]
