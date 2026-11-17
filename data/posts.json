@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T02:49:11.312614+00:00",
+ "generated_at": "2026-11-17T03:19:16.624606+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T02:49:07.108677+00:00",
+   "fetched_at": "2026-11-17T03:19:12.975031+00:00",
    "stale": false,
    "items": [
     {
@@ -26,15 +26,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xy4qoz/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jxa2diuz622i1.png?width=320&crop=smart&auto=webp&s=e7415956598b217ca9de0113b91dac03552275d7"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Every time she said \u201cmy car broke down\u201d my brain glitched",
      "url": "https://www.reddit.com/r/SipsTea/comments/1xxrujo/every_time_she_said_my_car_broke_down_my_brain/",
      "score": 0,
@@ -49,6 +40,15 @@
      "score": 0,
      "comments": 0,
      "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "meirl",
+     "url": "https://www.reddit.com/r/meirl/comments/1xy4qoz/meirl/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/jxa2diuz622i1.png?width=320&crop=smart&auto=webp&s=e7415956598b217ca9de0113b91dac03552275d7"
     },
     {
      "source": "Reddit",
@@ -80,8 +80,8 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "United Airlines says it has a widespread system outage just days after nationwide ground stop",
-     "url": "https://www.reddit.com/r/news/comments/1xy3659/united_airlines_says_it_has_a_widespread_system/",
+     "title": "Customers at some of the nation\u2019s largest banks are reporting difficulty accessing accounts online",
+     "url": "https://www.reddit.com/r/news/comments/1xxxpjn/customers_at_some_of_the_nations_largest_banks/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -89,112 +89,112 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T02:49:08.031364+00:00",
+   "fetched_at": "2026-11-17T03:19:13.868032+00:00",
    "stale": false,
    "items": [
     {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
-     "ups": 0,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 154,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 30,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 22,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 641,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 441,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 3993,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 118,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 437,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 65,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 1954,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 6491,
+     "title": "\"It's like I was made for this\" -Blofeld",
+     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
+     "url": "https://redd.it/1xxuwdt",
+     "ups": 43,
      "sub": "r/memes"
     },
     {
-     "title": "People used to fear those guys",
-     "image": "https://i.redd.it/cy227zs5tr1i1.png",
-     "url": "https://redd.it/1xwuecx",
-     "ups": 270,
+     "title": "You won't feel it coming",
+     "image": "https://i.redd.it/bqyrekkyry1i1.png",
+     "url": "https://redd.it/1xxnjib",
+     "ups": 44,
      "sub": "r/memes"
     },
     {
-     "title": "Don't look at this, look at that",
-     "image": "https://i.redd.it/orqpx4tuk12i1.png",
-     "url": "https://redd.it/1xy1q4t",
-     "ups": 31,
+     "title": "I'd do anything for my family. Except look for a job.",
+     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
+     "url": "https://redd.it/1xxe6dj",
+     "ups": 2451,
      "sub": "r/memes"
     },
     {
-     "title": "AO3's return",
-     "image": "https://i.redd.it/vvx3dydq002i1.png",
-     "url": "https://redd.it/1xxtbn7",
-     "ups": 8,
+     "title": "He lowered the record by 23 seconds!!!",
+     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
+     "url": "https://redd.it/1xx0296",
+     "ups": 1903,
      "sub": "r/memes"
     },
     {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 1502,
+     "title": "Sexiest Bond girl ever",
+     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
+     "url": "https://redd.it/1xxx7kx",
+     "ups": 2248,
      "sub": "r/memes"
     },
     {
-     "title": "I'm sure I'm not the only one who thought of it but I had to do it anyway.",
-     "image": "https://i.redd.it/2kkpm2z1n02i1.png",
-     "url": "https://redd.it/1xxwo3n",
-     "ups": 34,
+     "title": "\"Silicon Valley allies pressured NVIDIA to reinstate Jensen Huang\"",
+     "image": "https://i.redd.it/ff2575r85u1i1.png",
+     "url": "https://redd.it/1xx5rny",
+     "ups": 1499,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T02:49:09.796506+00:00",
+   "fetched_at": "2026-11-17T03:19:15.456041+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Your 80s action movie role",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Least useful talents",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5097a07928f9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Sullivan vs. Peltola Senate race",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Michigan relatives college funding quote",
+     "text": "Pick a new Bond from phone photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c005ba804282",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tariff refunds fund executive bonuses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Dere type personality test results",
+     "text": "Your 80s action movie role",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pick a new Bond from phone photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +256,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "SpaceX catches Starship upper stage",
+     "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c541771d2b50",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Duffy seeks air traffic control funding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -271,69 +279,49 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Democrats push to investigate Trump",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bd3fd354aca",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Generational Run",
+     "author": "memes",
+     "url": "https://piefed.world/c/memes/p/1538712/generational-run",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/7028e7ee-596f-4d6a-b0aa-852b87130764.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "New memes comm?",
-     "author": "science memes \ud83e\uddec",
-     "url": "https://lemmy.dbzer0.com/post/78540769",
-     "likes": 125,
-     "image": "https://lemmy.world/pictrs/image/4a93378a-416a-4b42-86ca-9deb4a70b248.webp"
+     "text": "I'm on Lemmy to commiepost and chew bubblegum. And I'm all out of gum.",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54499140",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/3aa6c3c0-5b9d-4042-b423-9d2c96ee7a4d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Outrage as Trump Moves to Rip Away Pay Raises From Head Start Teachers | Common Dreams",
-     "author": "politics ",
-     "url": "https://lemmy.zip/post/75145818",
-     "likes": 137,
-     "image": "https://lemmy.world/pictrs/image/82d21b9f-aaa8-4f1f-a858-c78afcdc8af2.jpeg"
+     "text": "I didnt know Kojima was a historian!",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50586723",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/d9c6503d-8fde-40c0-a1c7-6121f22efce9.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "xkcd #3325: Light-Day",
-     "author": "xkcd",
-     "url": "https://lemmy.world/post/54493076",
-     "likes": 283,
-     "image": "https://lemmy.world/pictrs/image/361a772e-7bdf-4560-acc7-7f1974826439.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-     "author": "The Trump-Epstein Files\u2122",
-     "url": "https://lemmy.world/post/54493787",
-     "likes": 105,
-     "image": "https://lemmy.world/pictrs/image/6ed8996b-a397-4fa3-92d8-08cdbfc971ab.jpeg"
+     "text": "Resist, or don\u2019t. I don\u2019t really care.",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.world/post/54498150",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/92386916-f0d2-491f-b883-7540fe2d3f96.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T02:49:10.704887+00:00",
+   "fetched_at": "2026-11-17T03:19:16.176643+00:00",
    "stale": false,
    "items": [
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why are pirates called pirates? Because they arrr!",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
      "source": "Dad joke"
     },
     {
-     "text": "What is a vampire's favorite fruit? A blood orange.",
+     "text": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
      "source": "Dad joke"
     },
     {
-     "text": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
+     "text": "When is a door not a door? When it's ajar.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
