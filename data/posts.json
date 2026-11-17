@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-17T08:20:31.153272+00:00",
+ "generated_at": "2026-11-17T08:50:37.987314+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T08:20:26.333927+00:00",
+   "fetched_at": "2026-11-17T08:50:32.912724+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
-     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/49xv3jnoz32i1.png?width=320&crop=smart&auto=webp&s=89c7737569965e1c489df5d8c6162a4cb7e2f961"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
+     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
     },
     {
      "source": "Reddit",
@@ -53,15 +53,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Pentagon fails ninth straight audit",
-     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Please judge me F 28. Guys don't approach me. I need to know where I'm at from 0-10",
      "url": "https://www.reddit.com/r/amiuglytruth/comments/1xy5yyy/please_judge_me_f_28_guys_dont_approach_me_i_need/",
      "score": 0,
@@ -80,6 +71,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Pentagon fails ninth straight audit",
+     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Norilsk, Russia - the most depressing place on earth",
      "url": "https://www.reddit.com/r/interesting/comments/1xxxl0t/norilsk_russia_the_most_depressing_place_on_earth/",
      "score": 0,
@@ -89,35 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T08:20:27.412456+00:00",
+   "fetched_at": "2026-11-17T08:50:33.942849+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 25,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2151,
+     "title": "meetPotentialLanguage",
+     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
+     "url": "https://redd.it/1xrwkc1",
+     "ups": 134,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,58 +107,79 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
-     "image": "https://i.redd.it/6ka7phzv701i1.gif",
-     "url": "https://redd.it/1xtl32x",
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 647,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2127,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Best way to die",
-     "image": "https://i.redd.it/nsbub8mnn42i1.png",
-     "url": "https://redd.it/1xyegpf",
-     "ups": 7,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 21,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "AO3's return",
+     "image": "https://i.redd.it/vvx3dydq002i1.png",
+     "url": "https://redd.it/1xxtbn7",
+     "ups": 8,
      "sub": "r/memes"
     },
     {
-     "title": "Florida be like",
-     "image": "https://i.redd.it/f0w0ugjhq22i1.png",
-     "url": "https://redd.it/1xy76n3",
-     "ups": 16,
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 1597,
      "sub": "r/memes"
     },
     {
-     "title": "Don't look at this, look at that",
-     "image": "https://i.redd.it/orqpx4tuk12i1.png",
-     "url": "https://redd.it/1xy1q4t",
-     "ups": 53,
+     "title": "The ultimate clickbait",
+     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
+     "url": "https://redd.it/1xxhnuj",
+     "ups": 6685,
      "sub": "r/memes"
     },
     {
-     "title": "$1,000 camera roll, \u00a30 worth of photography",
-     "image": "https://i.redd.it/kb2ugperm32i1.png",
-     "url": "https://redd.it/1xyavtf",
-     "ups": 3162,
+     "title": "I'm sure I'm not the only one who thought of it but I had to do it anyway.",
+     "image": "https://i.redd.it/2kkpm2z1n02i1.png",
+     "url": "https://redd.it/1xxwo3n",
+     "ups": 43,
      "sub": "r/memes"
     },
     {
-     "title": "Friendly Spy, Friendly AI...",
-     "image": "https://i.redd.it/65oulzca5y1i1.png",
-     "url": "https://redd.it/1xxlgal",
-     "ups": 77,
+     "title": "He lowered the record by 23 seconds!!!",
+     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
+     "url": "https://redd.it/1xx0296",
+     "ups": 1958,
      "sub": "r/memes"
     },
     {
-     "title": "just felt like this needs to be said",
-     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
-     "url": "https://redd.it/1xye9en",
-     "ups": 14,
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 92,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T08:20:29.835481+00:00",
+   "fetched_at": "2026-11-17T08:50:36.774998+00:00",
    "stale": false,
    "items": [
     {
@@ -200,17 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Your 80s action movie role",
+     "text": "Robert Pattinson named new James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Robert Pattinson named new James Bond",
+     "text": "Your 80s action movie role",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
      "likes": 0,
      "image": ""
     },
@@ -224,33 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Microsoft blames outage on bug",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Outages reported at US banks",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eb9dc4216ccc",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "What feels illegal but isn't",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e2e8676dfffd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tariff refunds fund executive bonuses",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +240,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "AO3 outage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Voyager 1 nears one light-day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Burnham says Brexit hasn't worked",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
@@ -272,68 +272,56 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Five EU states plan Rwanda migrant hub",
+     "text": "Russell Brand issues statement",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7f6ee3476f79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Friends :)",
-     "author": "science memes \ud83e\uddec",
-     "url": "https://r1b.it/post/154623",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/07c74cef-ac89-4a99-9a7b-7c9b80cf942b.webp"
+     "text": "I just get a monthly allowance from my husband",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.today/post/63431790",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/72717373-3025-47cb-9072-6299905ca805.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Quote of the day by computer scientist Judea Pearl: 'Deep learning has instead given us machines with truly impressive abilities but no intelligence' \u2014 capturing the central fault line in modern AI.",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54504620",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/113d7562-8362-43e4-8c20-896e52e95a4b.jpeg"
+     "text": "Is she standing? Is she sitting? Is she lying down? Yes",
+     "author": "cats",
+     "url": "https://lemmy.dbzer0.com/post/78557956",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/79a6b556-5665-4fbf-9794-410c9e156b3c.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
-     "author": "News",
-     "url": "https://lemmy.world/post/54505358",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/59e1f373-a5e7-46e1-ada5-a609146947fa.jpeg"
+     "text": "xkcd #3325",
+     "author": "Comic Strips",
+     "url": "https://lemmy.blahaj.zone/post/50593899",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/e997291c-4ab7-4f1b-aab5-fae9b11c747f.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Me too",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/76752547",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/f7b24ac8-adc9-4329-8b74-a2d3c4ec4b54.jpeg"
+     "text": "enjoying her new couch",
+     "author": "cats",
+     "url": "https://lemmy.blahaj.zone/post/50594019",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/493118e0-ca17-41e3-a90e-b9a59ec43d84.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T08:20:30.491424+00:00",
+   "fetched_at": "2026-11-17T08:50:37.373727+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "People are shocked to discover I have a police record but I love their greatest hits!",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What\u2019s Forest Gump\u2019s Facebook password? 1forest1",
      "source": "Dad joke"
     },
     {
-     "text": "\u201cHold on, I have something in my shoe\u201d  \u201cI\u2019m pretty sure it\u2019s a foot\u201d",
+     "text": "Why are fish so smart? Because they live in schools!",
      "source": "Dad joke"
     },
     {
-     "text": "Do I enjoy making courthouse puns? Guilty",
+     "text": "What animal is always at a game of cricket? A bat.",
      "source": "Dad joke"
     }
    ]
