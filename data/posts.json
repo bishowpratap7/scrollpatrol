@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T05:19:54.289837+00:00",
+ "generated_at": "2026-11-17T05:49:59.439531+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T05:19:50.183669+00:00",
+   "fetched_at": "2026-11-17T05:49:55.925466+00:00",
    "stale": false,
    "items": [
     {
@@ -44,6 +44,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Pentagon fails ninth straight audit",
+     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Robert Pattinson has been cast as the next James Bond.",
      "url": "https://www.reddit.com/r/JamesBond/comments/1xxrjtb/robert_pattinson_has_been_cast_as_the_next_james/",
      "score": 0,
@@ -76,55 +85,39 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/tfj4ftagg22i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=b461b01768a5a792326b6633fa2923a57ba15d32"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Pentagon fails ninth straight audit",
-     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T05:19:51.234648+00:00",
+   "fetched_at": "2026-11-17T05:49:56.965505+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 453,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11437,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 61,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2902,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 443,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 22,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4009,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 16,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,31 +128,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Falling for someone",
-     "image": "https://i.redd.it/fz7caqj9702i1.png",
-     "url": "https://redd.it/1xxua7f",
-     "ups": 30,
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 453,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Friendly Spy, Friendly AI...",
+     "image": "https://i.redd.it/65oulzca5y1i1.png",
+     "url": "https://redd.it/1xxlgal",
+     "ups": 77,
      "sub": "r/memes"
     },
     {
-     "title": "It's a bold business strategy",
-     "image": "https://i.redd.it/oae6mkznhx1i1.png",
-     "url": "https://redd.it/1xxjfj1",
-     "ups": 488,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The moon exists during the day",
-     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
-     "url": "https://redd.it/1xxw4vm",
-     "ups": 797,
-     "sub": "r/memes"
-    },
-    {
-     "title": "we all mature I guess...",
-     "image": "https://i.redd.it/i98obcvyor1i1.png",
-     "url": "https://redd.it/1xwtxmc",
-     "ups": 10210,
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 1564,
      "sub": "r/memes"
     },
     {
@@ -170,26 +156,32 @@
      "sub": "r/memes"
     },
     {
-     "title": "those meddling shareholders",
-     "image": "https://i.redd.it/b92449hksu1i1.png",
-     "url": "https://redd.it/1xx8x7d",
-     "ups": 180,
+     "title": "if they are invisible why can they be defeated?",
+     "image": "https://i.redd.it/xt2unq59r02i1.png",
+     "url": "https://redd.it/1xxxcto",
+     "ups": 181,
+     "sub": "r/memes"
+    },
+    {
+     "title": "we all mature I guess...",
+     "image": "https://i.redd.it/i98obcvyor1i1.png",
+     "url": "https://redd.it/1xwtxmc",
+     "ups": 10210,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Falling for someone",
+     "image": "https://i.redd.it/fz7caqj9702i1.png",
+     "url": "https://redd.it/1xxua7f",
+     "ups": 30,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T05:19:53.146677+00:00",
+   "fetched_at": "2026-11-17T05:49:58.376684+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Your 80s action movie role",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Ukrainian drones hit Crimean Bridge",
@@ -200,17 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "GTA 6 birdwatching and weather details",
+     "text": "Pick a new Bond from phone photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/727c5b03d811",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Duffy seeks air traffic control funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tariff refunds fund executive bonuses",
+     "text": "Your 80s action movie role",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
      "likes": 0,
      "image": ""
     },
@@ -248,88 +240,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Leo rides Peruvian helicopter",
+     "text": "Outages reported at US banks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eb9dc4216ccc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AO3 outage",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington dirty bomb threat intelligence",
+     "text": "What feels illegal but isn't",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/76f01bab9df0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e2e8676dfffd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duffy seeks air traffic control funding",
+     "text": "Democrats push to investigate Trump",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bd3fd354aca",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Protesters confront Bovino at Rutgers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f93fe85dab34",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "DOJ Warns Democratic Senator of \u2018Legal Consequences\u2019 Over Trump Investigations\u2014What Can It Actually Do?",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54501406",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/03089b05-8504-467d-8378-99055f20490a.jpeg"
+     "text": "Always Works",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54502166",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/bfcc8ff4-43c7-4d89-865a-dc4f543ca4ee.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+     "author": "News",
+     "url": "https://lemmy.world/post/54502017",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/8bd7a958-21fd-4ab9-9c2a-099aca74438b.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+     "author": "PC Gaming",
+     "url": "https://piefed.world/c/pcgaming/p/1538853/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-conne",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/d589aae5-874c-4fa3-beb9-224d5d1f9741.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Me_irl",
      "author": "me_irl",
      "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1078323/me-irl",
-     "likes": 8,
+     "likes": 22,
      "image": "https://lemmy.world/pictrs/image/e3406868-341b-4a1e-af93-4cf76c090c65.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Anon doesn't like his time wasted",
-     "author": "Greentext",
-     "url": "https://sh.itjust.works/post/70045531",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/4e215280-aad5-496d-8ff9-dcfcdbfff681.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The piece of shit tweets from a phone he apparently has, in jail.",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54499969",
-     "likes": 137,
-     "image": "https://lemmy.world/pictrs/image/d33a9a23-795f-4e4e-9b95-c431641075b8.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T05:19:53.658152+00:00",
+   "fetched_at": "2026-11-17T05:49:58.754759+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "R.I.P. boiled water. You will be mist.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why did the m&m go to school? Because it wanted to be a Smartie!",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a boomerang that won't come back? A stick.",
+     "text": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"\r\n\"Pop,\" goes the weasel.",
      "source": "Dad joke"
     },
     {
-     "text": "What don't watermelons get married? Because they cantaloupe.",
+     "text": "Where do you take someone who\u2019s been injured in a peek-a-boo accident? To the I.C.U.",
      "source": "Dad joke"
     }
    ]
