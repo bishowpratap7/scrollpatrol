@@ -1,10 +1,19 @@
 {
- "generated_at": "2026-11-17T14:22:20.736974+00:00",
+ "generated_at": "2026-11-17T14:52:27.056816+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T14:22:16.514407+00:00",
+   "fetched_at": "2026-11-17T14:52:22.564499+00:00",
    "stale": false,
    "items": [
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "If one had to go",
+     "url": "https://www.reddit.com/r/trolleyproblemgame/comments/1xyfuec/if_one_had_to_go/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -17,47 +26,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
-     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Every time she said \u201cmy car broke down\u201d my brain glitched",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xxrujo/every_time_she_said_my_car_broke_down_my_brain/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/djhuZ29mbG1xejFpMV9yE_XO6a32iy6JOEfBmIOU7ANwWzxy3ZTXiMtioTuT.png?width=320&crop=smart&auto=webp&s=a870149392b0c89a94a939788c36975f79507dc5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Timelapse showing how many students stop to pet their school\u2019s therapy dog over 30 minutes (sped up)",
      "url": "https://www.reddit.com/r/interestingasfuck/comments/1xyj9j6/timelapse_showing_how_many_students_stop_to_pet/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/dG0zbXFsM3gyNjJpMScnrKunrA8bqZ_fWqMxvAAOG71z4BmwnV-FwW6tqlbt.jpeg?width=640&crop=smart&auto=webp&s=d20ff190be81982a3f28bf52328ed5aa4defdd5c"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Robert Pattinson has been cast as the next James Bond.",
-     "url": "https://www.reddit.com/r/JamesBond/comments/1xxrjtb/robert_pattinson_has_been_cast_as_the_next_james/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/telfz6rkoz1i1.jpeg?width=640&crop=smart&auto=webp&s=f4e440401a4a2384b83433e951f05b9c5eca210e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "When grandma is a retired occupational therapist",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xyetul/when_grandma_is_a_retired_occupational_therapist/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZTVjM3VucmtyNDJpMRZEf8MwJweTkRLg5CWIMjaG9wqTHNBmoIJNUtz5VvaG.png?width=640&crop=smart&auto=webp&s=b96a3fd7f8061288dd9bb35d667a7215efec7864"
     },
     {
      "source": "Reddit",
@@ -80,80 +53,86 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "When grandma is a retired occupational therapist",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xyetul/when_grandma_is_a_retired_occupational_therapist/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/ZTVjM3VucmtyNDJpMRZEf8MwJweTkRLg5CWIMjaG9wqTHNBmoIJNUtz5VvaG.png?width=640&crop=smart&auto=webp&s=b96a3fd7f8061288dd9bb35d667a7215efec7864"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Which bird is that and what is he doing?",
      "url": "https://www.reddit.com/r/interestingasfuck/comments/1xygzrr/which_bird_is_that_and_what_is_he_doing/",
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/NXFkc2hrajZnNTJpMU8pWCN3T4bWfC8u1q3bGvDhU48XEvwNDzTOPEjHNEVp.png?width=320&crop=smart&auto=webp&s=cdc9b82f084bf6523c4604798d574a08de28336d"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Uno reverse",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xxwkne/uno_reverse/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/809qrfyem02i1.jpeg?width=640&crop=smart&auto=webp&s=b6eeae72e496d78bf4d9bfba6c9bcb3a976cb79f"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "United Airlines just reported ANOTHER systemwide outage. First NVIDIA, then Microsoft, then the FAA ground stop, then banking apps and now United. What's your leading theory on all of this?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xy3x8s/united_airlines_just_reported_another_systemwide/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T14:22:17.768956+00:00",
+   "fetched_at": "2026-11-17T14:52:24.010810+00:00",
    "stale": false,
    "items": [
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 645,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 358,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11444,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 66,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilationError",
-     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
-     "url": "https://redd.it/1xsgyfn",
-     "ups": 416,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 118,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whatSortingAlgorithmIsThis",
-     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
-     "url": "https://redd.it/1xsjpbi",
-     "ups": 873,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 37,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1326,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 155,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 289,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2152,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 1721,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\"It's like I was made for this\" -Blofeld",
-     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
-     "url": "https://redd.it/1xxuwdt",
-     "ups": 64,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 6888,
-     "sub": "r/memes"
     },
     {
      "title": "The last big event before GTA 6",
@@ -163,10 +142,31 @@
      "sub": "r/memes"
     },
     {
-     "title": "Falling for someone",
-     "image": "https://i.redd.it/fz7caqj9702i1.png",
-     "url": "https://redd.it/1xxua7f",
-     "ups": 37,
+     "title": "Happy days ahead..",
+     "image": "https://i.redd.it/urjn54d9ws1i1.gif",
+     "url": "https://redd.it/1xwzbp0",
+     "ups": 9355,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What is wrong with you?",
+     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
+     "url": "https://redd.it/1xxnl61",
+     "ups": 4318,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I'm sure I'm not the only one who thought of it but I had to do it anyway.",
+     "image": "https://i.redd.it/2kkpm2z1n02i1.png",
+     "url": "https://redd.it/1xxwo3n",
+     "ups": 48,
+     "sub": "r/memes"
+    },
+    {
+     "title": "this is why I put all my pants in Dex",
+     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
+     "url": "https://redd.it/1xxh0q8",
+     "ups": 1721,
      "sub": "r/memes"
     },
     {
@@ -179,86 +179,14 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T14:22:19.494434+00:00",
+   "fetched_at": "2026-11-17T14:52:25.589438+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukrainian strike collapses Crimean Bridge",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Optimizely hack hits major websites",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbffe525a19d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nationwide emergency alert test",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Your 80s action movie role",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pick a new Bond from phone photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Data center emissions rival Denmark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft blames outage on bug",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "\"Get to know your moots\" questionnaire",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
      "likes": 0,
      "image": ""
     },
@@ -272,60 +200,136 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington dirty bomb threat intelligence",
+     "text": "Retailers pull AI toy cat",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/76f01bab9df0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1139bba9e541",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Deutsche Bank document leak",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Duffy seeks air traffic control funding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "GTA 6 birdwatching and weather details",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/727c5b03d811",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nationwide emergency alert test",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "\"Get to know your moots\" questionnaire",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Your 80s action movie role",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft blames outage on bug",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukrainian strike collapses Crimean Bridge",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Alan Milburn's youth unemployment review",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "2026-11-16",
-     "author": "Cyanide & Happiness",
-     "url": "https://discuss.online/post/48589432",
-     "likes": 84,
-     "image": "https://lemmy.world/pictrs/image/aada92f8-1a8b-424f-a859-e17482c2fac6.png"
+     "text": "\u201cThey Never Even Unpacked the Racks\u201d: Police Raid on Nvidia Partner Megaspeed Finds Empty Server Frames and Missing GPUs Amid Allegations Chips Were Flown to China During Retail Shortages",
+     "author": "Technology",
+     "url": "https://feddit.org/post/38130201",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/9c885a06-d535-41ba-9ade-c44644f27416.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Doot",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://piefed.world/c/tenforward/p/1539578/doot",
-     "likes": 51,
-     "image": "https://lemmy.world/pictrs/image/9593fe4f-455a-4a62-bca9-87bc1a28467c.jpeg"
+     "text": "Depression episodes of funny bands just hit like a goddamn freight train",
+     "author": "Lemmy Shitpost",
+     "url": "https://piefed.social/c/lemmyshitpost@lemmy.world/p/2612313/depression-episodes-of-funny-bands-just-hit-like-a-goddamn-freight-train",
+     "likes": 20,
+     "image": "https://media.piefed.social/posts/m4/AJ/m4AJuk5NPAz2QfV.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Texas lawmakers push to more than double $7.25 minimum wage",
+     "text": "John Fetterman would be welcomed \"with open arms\" to Republican Party: Ted Cruz",
      "author": "politics ",
-     "url": "https://lemmy.world/post/54514596",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/00481e67-fb3b-4847-82a1-f3dfd2366cbf.jpeg"
+     "url": "https://lemmy.world/post/54515843",
+     "likes": 47,
+     "image": "https://lemmy.world/pictrs/image/30186c28-6bd4-43bb-a7fe-44120cf1e5ee.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "High hopes",
-     "author": "memes",
-     "url": "https://lemmy.ca/post/73973703",
-     "likes": 186,
-     "image": "https://lemmy.world/pictrs/image/378a0bee-0685-4bea-b715-8f9ecae36bc3.png"
+     "text": "Mmmm, avocado",
+     "author": "Squirrels",
+     "url": "https://lemmy.world/post/54516253",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/e6c5d33d-e96d-461d-8efb-902f094b05fa.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T14:22:20.008828+00:00",
+   "fetched_at": "2026-11-17T14:52:26.373246+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
     {
      "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do robots eat guacamole? With computer chips.",
+     "text": "Where\u2019s the bin? Dad: I haven\u2019t been anywhere!",
      "source": "Dad joke"
     },
     {
-     "text": "What's orange and sounds like a parrot? A Carrot.",
+     "text": "Writing with a broken pencil is pointless.",
      "source": "Dad joke"
     },
     {
-     "text": "I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.",
+     "text": "How do you make a water bed more bouncy. You use Spring Water",
      "source": "Dad joke"
     }
    ]
