@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T07:20:18.522534+00:00",
+ "generated_at": "2026-11-17T07:50:24.753679+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T07:20:14.044185+00:00",
+   "fetched_at": "2026-11-17T07:50:20.183696+00:00",
    "stale": false,
    "items": [
     {
@@ -26,6 +26,15 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Kitten i rescued is now obsessed with me",
+     "url": "https://www.reddit.com/r/cats/comments/1xyaaxv/kitten_i_rescued_is_now_obsessed_with_me/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/hr5nc30hh32i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7eb77a4be3f21cf68684e6f5929e63374db8c2fc"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "Someone crocheted a giant red cardigan and put it on the statue of Fred Rogers in Pittsburgh",
      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xy5g3x/someone_crocheted_a_giant_red_cardigan_and_put_it/",
      "score": 0,
@@ -35,11 +44,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Kitten i rescued is now obsessed with me",
-     "url": "https://www.reddit.com/r/cats/comments/1xyaaxv/kitten_i_rescued_is_now_obsessed_with_me/",
+     "title": "U.S. proposes blocking employers from sponsoring foreign workers for the same or similar jobs within 2 years of laying off American workers.",
+     "url": "https://www.reddit.com/r/technology/comments/1xy9znd/us_proposes_blocking_employers_from_sponsoring/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/hr5nc30hh32i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7eb77a4be3f21cf68684e6f5929e63374db8c2fc"
+     "image": "https://external-preview.redd.it/RQdEukfWFfmTl9AgtIEHkS5cJpsPEEkwCtST9G9sxXU.jpeg?width=640&crop=smart&auto=webp&s=6cedf5edda554d5f884a548b6a66c59cc2c6c646"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Yeah a little too late",
+     "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1xya15q/yeah_a_little_too_late/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/x50a4jaze32i1.jpeg?width=640&crop=smart&auto=webp&s=22df5ad7d84f94836e70b9287a2f92f099695c7a"
     },
     {
      "source": "Reddit",
@@ -62,55 +80,51 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "U.S. proposes blocking employers from sponsoring foreign workers for the same or similar jobs within 2 years of laying off American workers.",
-     "url": "https://www.reddit.com/r/technology/comments/1xy9znd/us_proposes_blocking_employers_from_sponsoring/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/RQdEukfWFfmTl9AgtIEHkS5cJpsPEEkwCtST9G9sxXU.jpeg?width=640&crop=smart&auto=webp&s=6cedf5edda554d5f884a548b6a66c59cc2c6c646"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "What is the flat thing and why is it there?",
      "url": "https://www.reddit.com/r/whatisit/comments/1xxs5tv/what_is_the_flat_thing_and_why_is_it_there/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/dfbsz6rtsz1i1.jpeg?width=640&crop=smart&auto=webp&s=ead2292ee936b2d788aa0a61f729f2b30d88b33e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Robert Pattinson has been cast as the next James Bond.",
-     "url": "https://www.reddit.com/r/JamesBond/comments/1xxrjtb/robert_pattinson_has_been_cast_as_the_next_james/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/telfz6rkoz1i1.jpeg?width=640&crop=smart&auto=webp&s=f4e440401a4a2384b83433e951f05b9c5eca210e"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T07:20:15.124503+00:00",
+   "fetched_at": "2026-11-17T07:50:21.251518+00:00",
    "stale": false,
    "items": [
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11442,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 292,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 866,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1318,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 107,
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 609,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 61,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,65 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 460,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 120,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "You won't feel it coming",
-     "image": "https://i.redd.it/bqyrekkyry1i1.png",
-     "url": "https://redd.it/1xxnjib",
-     "ups": 48,
-     "sub": "r/memes"
-    },
-    {
      "title": "we all mature I guess...",
      "image": "https://i.redd.it/i98obcvyor1i1.png",
      "url": "https://redd.it/1xwtxmc",
-     "ups": 10245,
+     "ups": 10314,
      "sub": "r/memes"
     },
     {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 1584,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Don't look at this, look at that",
-     "image": "https://i.redd.it/orqpx4tuk12i1.png",
-     "url": "https://redd.it/1xy1q4t",
-     "ups": 45,
+     "title": "if they are invisible why can they be defeated?",
+     "image": "https://i.redd.it/xt2unq59r02i1.png",
+     "url": "https://redd.it/1xxxcto",
+     "ups": 187,
      "sub": "r/memes"
     },
     {
      "title": "Sexiest Bond girl ever",
      "image": "https://i.redd.it/8rbpxq8iq02i1.png",
      "url": "https://redd.it/1xxx7kx",
-     "ups": 2654,
+     "ups": 2812,
      "sub": "r/memes"
     },
     {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 6629,
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 92,
+     "sub": "r/memes"
+    },
+    {
+     "title": "You won't feel it coming",
+     "image": "https://i.redd.it/bqyrekkyry1i1.png",
+     "url": "https://redd.it/1xxnjib",
+     "ups": 51,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I'm sure I'm not the only one who thought of it but I had to do it anyway.",
+     "image": "https://i.redd.it/2kkpm2z1n02i1.png",
+     "url": "https://redd.it/1xxwo3n",
+     "ups": 43,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T07:20:17.462694+00:00",
+   "fetched_at": "2026-11-17T07:50:23.622027+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Ukrainian drones hit Crimean Bridge",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Your 80s action movie role",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Data center emissions rival Denmark",
+     "text": "Robert Pattinson named new James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Your 80s action movie role",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -232,25 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Met Office issues snow warning",
+     "text": "Nationwide emergency alert test",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a41f0c92ecd1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "What feels illegal but isn't",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e2e8676dfffd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
      "likes": 0,
      "image": ""
     },
@@ -264,92 +256,100 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
+     "text": "Met Office issues snow warning",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a41f0c92ecd1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Four female artists music taste",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54504147",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/2b8858fb-e53a-46cc-b13b-a36cdddf77cb.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "More peer pressure to encourage more lemmings to post here-",
+     "text": "Friends :)",
      "author": "science memes \ud83e\uddec",
-     "url": "https://lemmy.dbzer0.com/post/78555506",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/33313c3d-7a6e-4d63-87b3-6e95f98db0ed.webp"
+     "url": "https://r1b.it/post/154623",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/07c74cef-ac89-4a99-9a7b-7c9b80cf942b.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "Quote of the day by computer scientist Judea Pearl: 'Deep learning has instead given us machines with truly impressive abilities but no intelligence' \u2014 capturing the central fault line in modern AI.",
      "author": "Technology",
      "url": "https://lemmy.world/post/54504620",
-     "likes": 10,
+     "likes": 26,
      "image": "https://lemmy.world/pictrs/image/113d7562-8362-43e4-8c20-896e52e95a4b.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54504147",
+     "likes": 48,
+     "image": "https://lemmy.world/pictrs/image/2b8858fb-e53a-46cc-b13b-a36cdddf77cb.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
      "author": "News",
-     "url": "https://lemmy.world/post/54504154",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/6654ad99-59a9-4972-a992-01363f89b4cd.jpeg"
+     "url": "https://lemmy.world/post/54505358",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/59e1f373-a5e7-46e1-ada5-a609146947fa.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T07:20:17.902921+00:00",
+   "fetched_at": "2026-11-17T07:50:23.996351+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Why didn\u2019t the skeleton cross the road? Because he had no guts.",
+     "text": "What do you get when you cross a pig and a pineapple? A porky pine",
      "source": "Dad joke"
     },
     {
-     "text": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
+     "text": "To the guy who invented zero... thanks for nothing.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do cows wear bells? Because their horns don't work.",
+     "text": "What happens when you anger a brain surgeon? They will give you a piece of your mind.",
      "source": "Dad joke"
     }
    ]
