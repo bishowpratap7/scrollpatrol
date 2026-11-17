@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T08:50:37.987314+00:00",
+ "generated_at": "2026-11-17T09:20:44.440191+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T08:50:32.912724+00:00",
+   "fetched_at": "2026-11-17T09:20:39.747830+00:00",
    "stale": false,
    "items": [
     {
@@ -17,11 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
-     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
+     "title": "Pentagon fails ninth straight audit",
+     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
+     "image": ""
     },
     {
      "source": "Reddit",
@@ -31,6 +31,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/djhuZ29mbG1xejFpMV9yE_XO6a32iy6JOEfBmIOU7ANwWzxy3ZTXiMtioTuT.png?width=320&crop=smart&auto=webp&s=a870149392b0c89a94a939788c36975f79507dc5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
+     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
     },
     {
      "source": "Reddit",
@@ -71,32 +80,37 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Pentagon fails ninth straight audit",
-     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
+     "title": "Kitten i rescued is now obsessed with me",
+     "url": "https://www.reddit.com/r/cats/comments/1xyaaxv/kitten_i_rescued_is_now_obsessed_with_me/",
      "score": 0,
      "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Norilsk, Russia - the most depressing place on earth",
-     "url": "https://www.reddit.com/r/interesting/comments/1xxxl0t/norilsk_russia_the_most_depressing_place_on_earth/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/xup9yhm0t02i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a69eb2dbcd9938a264435c93433f24ace1131456"
+     "image": "https://preview.redd.it/hr5nc30hh32i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7eb77a4be3f21cf68684e6f5929e63374db8c2fc"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T08:50:33.942849+00:00",
+   "fetched_at": "2026-11-17T09:20:40.808239+00:00",
    "stale": false,
    "items": [
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 134,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 63,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "encapsulationByIntimidation",
+     "image": "https://i.redd.it/26i94vgrzo0i1.png",
+     "url": "https://redd.it/1xsao1b",
+     "ups": 604,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1317,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,59 +121,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 354,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
      "title": "godIHateWhenThisHappens",
      "image": "https://i.redd.it/kkuprpag3n0i1.png",
      "url": "https://redd.it/1xs1fbm",
-     "ups": 647,
+     "ups": 650,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2127,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 21,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "AO3's return",
-     "image": "https://i.redd.it/vvx3dydq002i1.png",
-     "url": "https://redd.it/1xxtbn7",
-     "ups": 8,
+     "title": "Florida be like",
+     "image": "https://i.redd.it/f0w0ugjhq22i1.png",
+     "url": "https://redd.it/1xy76n3",
+     "ups": 16,
      "sub": "r/memes"
     },
     {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 1597,
+     "title": "Teenager self would not believe this",
+     "image": "https://i.redd.it/qoakd84ch42i1.png",
+     "url": "https://redd.it/1xydwzd",
+     "ups": 16,
      "sub": "r/memes"
     },
     {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 6685,
+     "title": "A childhood shocker.",
+     "image": "https://i.redd.it/mtjusmmsk02i1.png",
+     "url": "https://redd.it/1xxwc1b",
+     "ups": 96,
      "sub": "r/memes"
     },
     {
-     "title": "I'm sure I'm not the only one who thought of it but I had to do it anyway.",
-     "image": "https://i.redd.it/2kkpm2z1n02i1.png",
-     "url": "https://redd.it/1xxwo3n",
-     "ups": 43,
+     "title": "The moon exists during the day",
+     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
+     "url": "https://redd.it/1xxw4vm",
+     "ups": 970,
      "sub": "r/memes"
     },
     {
@@ -170,16 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "anyone noticed this?",
-     "image": "https://i.redd.it/he3g9jgakx1i1.png",
-     "url": "https://redd.it/1xxjmfj",
-     "ups": 92,
+     "title": "The ultimate clickbait",
+     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
+     "url": "https://redd.it/1xxhnuj",
+     "ups": 6685,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T08:50:36.774998+00:00",
+   "fetched_at": "2026-11-17T09:20:43.205759+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alan Milburn's youth unemployment review",
+     "text": "COP31 climate summit in Antalya",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Robert Pattinson named new James Bond",
+     "text": "Pick a new Bond from phone photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pick a new Bond from phone photos",
+     "text": "Robert Pattinson named new James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AO3 outage",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "What feels illegal but isn't",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e2e8676dfffd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Voyager 1 nears one light-day",
+     "text": "Nationwide emergency alert test",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russell Brand issues statement",
+     "text": "Alan Milburn's youth unemployment review",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
      "likes": 0,
      "image": ""
     },
@@ -283,82 +283,82 @@
      "text": "I just get a monthly allowance from my husband",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.today/post/63431790",
-     "likes": 15,
+     "likes": 34,
      "image": "https://lemmy.world/pictrs/image/72717373-3025-47cb-9072-6299905ca805.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Is she standing? Is she sitting? Is she lying down? Yes",
+     "text": "Is she standing? Is she sitting? Is she lying down? Yes.",
      "author": "cats",
      "url": "https://lemmy.dbzer0.com/post/78557956",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/79a6b556-5665-4fbf-9794-410c9e156b3c.webp"
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/f6a4d57b-eb5e-496b-be1d-9ba4ad8eabe3.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "baby trebuchet*",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55408926",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/e3b43dbf-173f-4948-9151-13049a899f41.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "xkcd #3325",
      "author": "Comic Strips",
      "url": "https://lemmy.blahaj.zone/post/50593899",
-     "likes": 31,
+     "likes": 58,
      "image": "https://lemmy.world/pictrs/image/e997291c-4ab7-4f1b-aab5-fae9b11c747f.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "enjoying her new couch",
-     "author": "cats",
-     "url": "https://lemmy.blahaj.zone/post/50594019",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/493118e0-ca17-41e3-a90e-b9a59ec43d84.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T08:50:37.373727+00:00",
+   "fetched_at": "2026-11-17T09:20:43.772324+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "What\u2019s Forest Gump\u2019s Facebook password? 1forest1",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do I look like? A JOKE MACHINE!?",
      "source": "Dad joke"
     },
     {
-     "text": "Why are fish so smart? Because they live in schools!",
+     "text": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.",
      "source": "Dad joke"
     },
     {
-     "text": "What animal is always at a game of cricket? A bat.",
+     "text": "Whats a penguins favorite relative? Aunt Arctica.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
