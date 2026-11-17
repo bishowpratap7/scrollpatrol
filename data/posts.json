@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-17T03:19:16.624606+00:00",
+ "generated_at": "2026-11-17T03:49:21.975850+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T03:19:12.975031+00:00",
+   "fetched_at": "2026-11-17T03:49:18.116168+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Someone crocheted a giant red cardigan and put it on the statue of Fred Rogers in Pittsburgh",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xy5g3x/someone_crocheted_a_giant_red_cardigan_and_put_it/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/8ubg1iokc22i1.jpeg?width=320&crop=smart&auto=webp&s=7e3d40666898f39aab7cb9de8e506a232ca8ad3a"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -26,20 +17,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Every time she said \u201cmy car broke down\u201d my brain glitched",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xxrujo/every_time_she_said_my_car_broke_down_my_brain/",
+     "title": "Someone crocheted a giant red cardigan and put it on the statue of Fred Rogers in Pittsburgh",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xy5g3x/someone_crocheted_a_giant_red_cardigan_and_put_it/",
      "score": 0,
      "comments": 0,
-     "image": "https://external-preview.redd.it/djhuZ29mbG1xejFpMV9yE_XO6a32iy6JOEfBmIOU7ANwWzxy3ZTXiMtioTuT.png?width=320&crop=smart&auto=webp&s=a870149392b0c89a94a939788c36975f79507dc5"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "What's Going To Disappear With All The Baby Boomers?",
-     "url": "https://www.reddit.com/r/AskReddit/comments/1xxpn6z/whats_going_to_disappear_with_all_the_baby_boomers/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
+     "image": "https://preview.redd.it/8ubg1iokc22i1.jpeg?width=320&crop=smart&auto=webp&s=7e3d40666898f39aab7cb9de8e506a232ca8ad3a"
     },
     {
      "source": "Reddit",
@@ -62,6 +44,33 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
+     "title": "Every time she said \u201cmy car broke down\u201d my brain glitched",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xxrujo/every_time_she_said_my_car_broke_down_my_brain/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/djhuZ29mbG1xejFpMV9yE_XO6a32iy6JOEfBmIOU7ANwWzxy3ZTXiMtioTuT.png?width=320&crop=smart&auto=webp&s=a870149392b0c89a94a939788c36975f79507dc5"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Cream filled pastry, Osaka, Japan.",
+     "url": "https://www.reddit.com/r/oddlysatisfying/comments/1xy6bab/cream_filled_pastry_osaka_japan/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/NXh5eTdmbnBnMjJpMY2qIyCIFcKiCLDuc_VqiAPVyrQKk67Pp2kNm1YUzXO7.png?width=640&crop=smart&auto=webp&s=1a9fb3573aa66698f39ddf868f5ab497bd279b47"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "What's Going To Disappear With All The Baby Boomers?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xxpn6z/whats_going_to_disappear_with_all_the_baby_boomers/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
      "title": "What is the flat thing and why is it there?",
      "url": "https://www.reddit.com/r/whatisit/comments/1xxs5tv/what_is_the_flat_thing_and_why_is_it_there/",
      "score": 0,
@@ -71,17 +80,8 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Robert Pattinson has been cast as the next James Bond.",
-     "url": "https://www.reddit.com/r/JamesBond/comments/1xxrjtb/robert_pattinson_has_been_cast_as_the_next_james/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/telfz6rkoz1i1.jpeg?width=640&crop=smart&auto=webp&s=f4e440401a4a2384b83433e951f05b9c5eca210e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Customers at some of the nation\u2019s largest banks are reporting difficulty accessing accounts online",
-     "url": "https://www.reddit.com/r/news/comments/1xxxpjn/customers_at_some_of_the_nations_largest_banks/",
+     "title": "United Airlines just reported ANOTHER systemwide outage. First NVIDIA, then Microsoft, then the FAA ground stop, then banking apps and now United. What's your leading theory on all of this?",
+     "url": "https://www.reddit.com/r/AskReddit/comments/1xy3x8s/united_airlines_just_reported_another_systemwide/",
      "score": 0,
      "comments": 0,
      "image": ""
@@ -89,9 +89,37 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T03:19:13.868032+00:00",
+   "fetched_at": "2026-11-17T03:49:19.055620+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 24,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4006,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2130,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2150,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "looksGoodToMeBro",
      "image": "https://i.redd.it/gk3tge2zkd1i1.png",
@@ -100,45 +128,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 22,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 441,
-     "sub": "r/ProgrammerHumor"
+     "title": "those meddling shareholders",
+     "image": "https://i.redd.it/b92449hksu1i1.png",
+     "url": "https://redd.it/1xx8x7d",
+     "ups": 179,
+     "sub": "r/memes"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 118,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 437,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 1954,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "\"It's like I was made for this\" -Blofeld",
-     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
-     "url": "https://redd.it/1xxuwdt",
-     "ups": 43,
+     "title": "People used to fear those guys",
+     "image": "https://i.redd.it/cy227zs5tr1i1.png",
+     "url": "https://redd.it/1xwuecx",
+     "ups": 270,
      "sub": "r/memes"
     },
     {
@@ -149,37 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "I'd do anything for my family. Except look for a job.",
-     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
-     "url": "https://redd.it/1xxe6dj",
-     "ups": 2451,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He lowered the record by 23 seconds!!!",
-     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
-     "url": "https://redd.it/1xx0296",
-     "ups": 1903,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Sexiest Bond girl ever",
-     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
-     "url": "https://redd.it/1xxx7kx",
-     "ups": 2248,
-     "sub": "r/memes"
-    },
-    {
      "title": "\"Silicon Valley allies pressured NVIDIA to reinstate Jensen Huang\"",
      "image": "https://i.redd.it/ff2575r85u1i1.png",
      "url": "https://redd.it/1xx5rny",
      "ups": 1499,
      "sub": "r/memes"
+    },
+    {
+     "title": "Florida be like",
+     "image": "https://i.redd.it/f0w0ugjhq22i1.png",
+     "url": "https://redd.it/1xy76n3",
+     "ups": 7,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Falling for someone",
+     "image": "https://i.redd.it/fz7caqj9702i1.png",
+     "url": "https://redd.it/1xxua7f",
+     "ups": 32,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T03:19:15.456041+00:00",
+   "fetched_at": "2026-11-17T03:49:21.013467+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sullivan vs. Peltola Senate race",
+     "text": "Forensic expert doubts Epstein suicide ruling",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/36be0b9cd6ab",
      "likes": 0,
      "image": ""
     },
@@ -208,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Robert Pattinson named new James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Pick a new Bond from phone photos",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
@@ -224,9 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tariff refunds fund executive bonuses",
+     "text": "Robert Pattinson named new James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft blames outage on bug",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -248,80 +248,88 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft blames outage on bug",
+     "text": "Data center emissions rival Denmark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang resigns as Nvidia CEO",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duffy seeks air traffic control funding",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Senate weighs BAAJA permitting bill",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Wing Wednesdays",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63421829",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/d7265c7f-3f24-426d-870e-b499f9fefd1c.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Generational Run",
      "author": "memes",
      "url": "https://piefed.world/c/memes/p/1538712/generational-run",
-     "likes": 15,
+     "likes": 47,
      "image": "https://lemmy.world/pictrs/image/7028e7ee-596f-4d6a-b0aa-852b87130764.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The piece of shit tweets from a phone he apparently has, in jail.",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54499969",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/d33a9a23-795f-4e4e-9b95-c431641075b8.png"
     },
     {
      "kind": "Lemmy post",
      "text": "I'm on Lemmy to commiepost and chew bubblegum. And I'm all out of gum.",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54499140",
-     "likes": 24,
+     "likes": 60,
      "image": "https://lemmy.world/pictrs/image/3aa6c3c0-5b9d-4042-b423-9d2c96ee7a4d.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I didnt know Kojima was a historian!",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50586723",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/d9c6503d-8fde-40c0-a1c7-6121f22efce9.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Resist, or don\u2019t. I don\u2019t really care.",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54498150",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/92386916-f0d2-491f-b883-7540fe2d3f96.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T03:19:16.176643+00:00",
+   "fetched_at": "2026-11-17T03:49:21.532949+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+     "text": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\".",
      "source": "Dad joke"
     },
     {
-     "text": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
+     "text": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\".",
      "source": "Dad joke"
     },
     {
-     "text": "When is a door not a door? When it's ajar.",
+     "text": "What's red and bad for your teeth? A Brick.",
      "source": "Dad joke"
     }
    ]
