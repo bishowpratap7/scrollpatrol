@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T04:19:28.510251+00:00",
+ "generated_at": "2026-11-17T04:19:42.628893+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T04:19:25.090608+00:00",
+   "fetched_at": "2026-11-17T04:19:38.847713+00:00",
    "stale": false,
    "items": [
     {
@@ -89,21 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T04:19:26.032583+00:00",
+   "fetched_at": "2026-11-17T04:19:40.011852+00:00",
    "stale": false,
    "items": [
     {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2150,
+     "title": "iWishThisWereStaged",
+     "image": "https://i.redd.it/75brfykaun0i1.png",
+     "url": "https://redd.it/1xs5c2a",
+     "ups": 62,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 107,
+     "title": "cmonGitHubAgain",
+     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
+     "url": "https://redd.it/1xttllg",
+     "ups": 1222,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,10 +114,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meetPotentialLanguage",
-     "image": "https://i.redd.it/6o5ak71z7m0i1.png",
-     "url": "https://redd.it/1xrwkc1",
-     "ups": 136,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 24,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,17 +135,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1309,
-     "sub": "r/ProgrammerHumor"
+     "title": "Falling for someone",
+     "image": "https://i.redd.it/fz7caqj9702i1.png",
+     "url": "https://redd.it/1xxua7f",
+     "ups": 30,
+     "sub": "r/memes"
     },
     {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 6556,
+     "title": "\"It's like I was made for this\" -Blofeld",
+     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
+     "url": "https://redd.it/1xxuwdt",
+     "ups": 46,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Friendly Spy, Friendly AI...",
+     "image": "https://i.redd.it/65oulzca5y1i1.png",
+     "url": "https://redd.it/1xxlgal",
+     "ups": 77,
      "sub": "r/memes"
     },
     {
@@ -149,37 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "AO3's return",
-     "image": "https://i.redd.it/vvx3dydq002i1.png",
-     "url": "https://redd.it/1xxtbn7",
-     "ups": 9,
+     "title": "The ultimate clickbait",
+     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
+     "url": "https://redd.it/1xxhnuj",
+     "ups": 6556,
      "sub": "r/memes"
     },
     {
-     "title": "He lowered the record by 23 seconds!!!",
-     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
-     "url": "https://redd.it/1xx0296",
-     "ups": 1924,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Falling for someone",
-     "image": "https://i.redd.it/fz7caqj9702i1.png",
-     "url": "https://redd.it/1xxua7f",
-     "ups": 30,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's a bold business strategy",
-     "image": "https://i.redd.it/oae6mkznhx1i1.png",
-     "url": "https://redd.it/1xxjfj1",
-     "ups": 488,
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 95,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T04:19:27.450057+00:00",
+   "fetched_at": "2026-11-17T04:19:41.533949+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "The piece of shit tweets from a phone he apparently has, in jail.",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/54499969",
-     "likes": 62,
+     "likes": 64,
      "image": "https://lemmy.world/pictrs/image/d33a9a23-795f-4e4e-9b95-c431641075b8.png"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Wing Wednesdays",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63421829",
-     "likes": 59,
+     "likes": 60,
      "image": "https://lemmy.world/pictrs/image/d7265c7f-3f24-426d-870e-b499f9fefd1c.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Cat Details: Very Low",
      "author": "4chan",
      "url": "https://lemmy.world/post/54500076",
-     "likes": 29,
+     "likes": 30,
      "image": "https://lemmy.world/pictrs/image/7dd1c155-371d-4011-9e8d-43bba1e335d2.jpeg"
     },
     {
@@ -313,11 +313,23 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T04:19:28.079921+00:00",
+   "fetched_at": "2026-11-17T04:19:41.916608+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why did the Clydesdale give the pony a glass of water? \u2028Because he was a little horse!",
+     "text": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+     "text": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a bee and a sheep? A bah-humbug.\r\n",
+     "text": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
      "source": "Dad joke"
     }
    ]
