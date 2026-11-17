@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-17T11:51:33.228770+00:00",
+ "generated_at": "2026-11-17T12:21:39.461863+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T11:51:26.975418+00:00",
+   "fetched_at": "2026-11-17T12:21:34.572819+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Ultimate UNO reverse card",
-     "url": "https://www.reddit.com/r/interesting/comments/1xyc9uq/ultimate_uno_reverse_card/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/49xv3jnoz32i1.png?width=320&crop=smart&auto=webp&s=89c7737569965e1c489df5d8c6162a4cb7e2f961"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,15 @@
      "score": 0,
      "comments": 0,
      "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Candid family photo from a wedding I shot on 35mm film.",
+     "url": "https://www.reddit.com/r/AccidentalRenaissance/comments/1xyh2y3/candid_family_photo_from_a_wedding_i_shot_on_35mm/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/8tqxqm4xg52i1.jpeg?width=640&crop=smart&auto=webp&s=cba463ff9f5cbd3d44ae78146f74ca1d8b430c2a"
     },
     {
      "source": "Reddit",
@@ -44,15 +44,6 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "When grandma is a retired occupational therapist",
-     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xyetul/when_grandma_is_a_retired_occupational_therapist/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/ZTVjM3VucmtyNDJpMRZEf8MwJweTkRLg5CWIMjaG9wqTHNBmoIJNUtz5VvaG.png?width=640&crop=smart&auto=webp&s=b96a3fd7f8061288dd9bb35d667a7215efec7864"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Please judge me F 28. Guys don't approach me. I need to know where I'm at from 0-10",
      "url": "https://www.reddit.com/r/amiuglytruth/comments/1xy5yyy/please_judge_me_f_28_guys_dont_approach_me_i_need/",
      "score": 0,
@@ -62,11 +53,20 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Bro working day and night to make people forget he was in Twilight",
-     "url": "https://www.reddit.com/r/SipsTea/comments/1xyejts/bro_working_day_and_night_to_make_people_forget/",
+     "title": "When grandma is a retired occupational therapist",
+     "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xyetul/when_grandma_is_a_retired_occupational_therapist/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/h7mdl9yoo42i1.jpeg?width=640&crop=smart&auto=webp&s=6744887b13b39e6f1be5880fef99e3763184ae79"
+     "image": "https://external-preview.redd.it/ZTVjM3VucmtyNDJpMRZEf8MwJweTkRLg5CWIMjaG9wqTHNBmoIJNUtz5VvaG.png?width=640&crop=smart&auto=webp&s=b96a3fd7f8061288dd9bb35d667a7215efec7864"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Ultimate UNO reverse card",
+     "url": "https://www.reddit.com/r/interesting/comments/1xyc9uq/ultimate_uno_reverse_card/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/49xv3jnoz32i1.png?width=320&crop=smart&auto=webp&s=89c7737569965e1c489df5d8c6162a4cb7e2f961"
     },
     {
      "source": "Reddit",
@@ -80,86 +80,72 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Candid family photo from a wedding I shot on 35mm film.",
-     "url": "https://www.reddit.com/r/AccidentalRenaissance/comments/1xyh2y3/candid_family_photo_from_a_wedding_i_shot_on_35mm/",
+     "title": "Bro working day and night to make people forget he was in Twilight",
+     "url": "https://www.reddit.com/r/SipsTea/comments/1xyejts/bro_working_day_and_night_to_make_people_forget/",
      "score": 0,
      "comments": 0,
-     "image": "https://preview.redd.it/8tqxqm4xg52i1.jpeg?width=640&crop=smart&auto=webp&s=cba463ff9f5cbd3d44ae78146f74ca1d8b430c2a"
+     "image": "https://preview.redd.it/h7mdl9yoo42i1.jpeg?width=640&crop=smart&auto=webp&s=6744887b13b39e6f1be5880fef99e3763184ae79"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T11:51:28.148921+00:00",
+   "fetched_at": "2026-11-17T12:21:36.116720+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 61,
+     "title": "godIHateWhenThisHappens",
+     "image": "https://i.redd.it/kkuprpag3n0i1.png",
+     "url": "https://redd.it/1xs1fbm",
+     "ups": 649,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11444,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 21,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4038,
+     "title": "thanksClippy",
+     "image": "https://i.redd.it/19blhf29de1i1.png",
+     "url": "https://redd.it/1xvalet",
+     "ups": 458,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 293,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 414,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2131,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 604,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 121,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "we all mature I guess...",
-     "image": "https://i.redd.it/i98obcvyor1i1.png",
-     "url": "https://redd.it/1xwtxmc",
-     "ups": 10488,
+     "title": "\"It's like I was made for this\" -Blofeld",
+     "image": "https://i.redd.it/kgkmgrw7b02i1.png",
+     "url": "https://redd.it/1xxuwdt",
+     "ups": 65,
      "sub": "r/memes"
     },
     {
-     "title": "$1,000 camera roll, \u00a30 worth of photography",
-     "image": "https://i.redd.it/kb2ugperm32i1.png",
-     "url": "https://redd.it/1xyavtf",
-     "ups": 7529,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He lowered the record by 23 seconds!!!",
-     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
-     "url": "https://redd.it/1xx0296",
-     "ups": 1969,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Falling for someone",
-     "image": "https://i.redd.it/fz7caqj9702i1.png",
-     "url": "https://redd.it/1xxua7f",
-     "ups": 35,
+     "title": "Sexiest Bond girl ever",
+     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
+     "url": "https://redd.it/1xxx7kx",
+     "ups": 3049,
      "sub": "r/memes"
     },
     {
@@ -170,16 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's a bold business strategy",
-     "image": "https://i.redd.it/oae6mkznhx1i1.png",
-     "url": "https://redd.it/1xxjfj1",
-     "ups": 541,
+     "title": "Definitely me",
+     "image": "https://i.redd.it/3oto1uzrp32i1.png",
+     "url": "https://redd.it/1xyb77e",
+     "ups": 102,
+     "sub": "r/memes"
+    },
+    {
+     "title": "we all mature I guess...",
+     "image": "https://i.redd.it/i98obcvyor1i1.png",
+     "url": "https://redd.it/1xwtxmc",
+     "ups": 10488,
+     "sub": "r/memes"
+    },
+    {
+     "title": "just felt like this needs to be said",
+     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
+     "url": "https://redd.it/1xye9en",
+     "ups": 524,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T11:51:32.117822+00:00",
+   "fetched_at": "2026-11-17T12:21:38.191138+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,22 @@
      "text": "Alan Milburn's youth unemployment review",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f89cc146b4ff",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Optimizely hack hits major websites",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbffe525a19d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Deutsche Bank document leak",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
      "likes": 0,
      "image": ""
     },
@@ -208,30 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft blames outage on bug",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Your 80s action movie role",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8373df27c1ee",
@@ -248,17 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Least useful talents",
+     "text": "Pick a new Bond from phone photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5097a07928f9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Tariff refunds fund executive bonuses",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e069258b2d64",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic's Claude and planned IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -272,93 +272,93 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington dirty bomb threat intelligence",
+     "text": "Duffy seeks air traffic control funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/76f01bab9df0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54511260",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/bc3f49d5-3439-4190-b005-7a3f52630048.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Japan sends up jets after alleged Russian incursion of its airspace",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54511317",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/a69ec02e-7c9f-4bc9-8b1f-0f0ce10603c2.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Indian woman gang-raped while pregnant 'heartbroken' after two perpetrators bailed",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54511313",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/c1b7e32a-b201-49a5-8d95-22cd3a43f562.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Serbia\u2019s Student List candidates sworn in as MPs after election triumph",
      "author": "World News",
      "url": "https://lemmy.world/post/54510678",
-     "likes": 12,
+     "likes": 27,
      "image": "https://lemmy.world/pictrs/image/986e2c47-4e57-446c-88eb-0a53e62d111f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Ich\ud83c\udf09iel",
-     "author": "ich_iel",
-     "url": "https://sopuli.xyz/post/54709897",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/79a0d6b9-0594-4fe9-b485-4e827069cb57.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "YYEEEEWWWWW",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54509197",
-     "likes": 72,
-     "image": "https://lemmy.world/pictrs/image/63d3b85c-aec6-422f-bb22-2265fe70f8dd.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54510677",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/8a2b2627-895a-4bb3-81ab-26907b208d3e.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T11:51:32.638914+00:00",
+   "fetched_at": "2026-11-17T12:21:38.875226+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
     {
      "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What do you call a dad that has fallen through the ice? A Popsicle.",
+     "text": "Why do ducks make great detectives? They always quack the case.",
      "source": "Dad joke"
     },
     {
-     "text": "How was the snow globe feeling after the storm? A little shaken.",
+     "text": "How do robots eat guacamole? With computer chips.",
      "source": "Dad joke"
     },
     {
-     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
+     "text": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
