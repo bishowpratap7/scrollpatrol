@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-11-17T05:49:59.439531+00:00",
+ "generated_at": "2026-11-17T06:20:06.256534+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T05:49:55.925466+00:00",
+   "fetched_at": "2026-11-17T06:20:01.411713+00:00",
    "stale": false,
    "items": [
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
-     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
-    },
     {
      "source": "Reddit",
      "sub": "r/popular",
@@ -22,6 +13,24 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/8ubg1iokc22i1.jpeg?width=320&crop=smart&auto=webp&s=7e3d40666898f39aab7cb9de8e506a232ca8ad3a"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Pentagon fails ninth straight audit",
+     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
+     "score": 0,
+     "comments": 0,
+     "image": ""
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
+     "url": "https://www.reddit.com/r/movies/comments/1xxrjzr/robert_pattinson_to_play_james_bond_in_denis/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://external-preview.redd.it/XBukdAbt4BkLrwV0Q4w5BCcaH2pxLFP_w7WHCfoSAIE.png?width=640&crop=smart&auto=webp&s=e61a436c269a7cc2b6cc547807c839a696dca88a"
     },
     {
      "source": "Reddit",
@@ -44,29 +53,11 @@
     {
      "source": "Reddit",
      "sub": "r/popular",
-     "title": "Pentagon fails ninth straight audit",
-     "url": "https://www.reddit.com/r/news/comments/1xy9enm/pentagon_fails_ninth_straight_audit/",
-     "score": 0,
-     "comments": 0,
-     "image": ""
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
      "title": "Robert Pattinson has been cast as the next James Bond.",
      "url": "https://www.reddit.com/r/JamesBond/comments/1xxrjtb/robert_pattinson_has_been_cast_as_the_next_james/",
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/telfz6rkoz1i1.jpeg?width=640&crop=smart&auto=webp&s=f4e440401a4a2384b83433e951f05b9c5eca210e"
-    },
-    {
-     "source": "Reddit",
-     "sub": "r/popular",
-     "title": "meirl",
-     "url": "https://www.reddit.com/r/meirl/comments/1xy4qoz/meirl/",
-     "score": 0,
-     "comments": 0,
-     "image": "https://preview.redd.it/jxa2diuz622i1.png?width=320&crop=smart&auto=webp&s=e7415956598b217ca9de0113b91dac03552275d7"
     },
     {
      "source": "Reddit",
@@ -85,54 +76,91 @@
      "score": 0,
      "comments": 0,
      "image": "https://preview.redd.it/tfj4ftagg22i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=b461b01768a5a792326b6633fa2923a57ba15d32"
+    },
+    {
+     "source": "Reddit",
+     "sub": "r/popular",
+     "title": "Norilsk, Russia - the most depressing place on earth",
+     "url": "https://www.reddit.com/r/interesting/comments/1xxxl0t/norilsk_russia_the_most_depressing_place_on_earth/",
+     "score": 0,
+     "comments": 0,
+     "image": "https://preview.redd.it/xup9yhm0t02i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=a69eb2dbcd9938a264435c93433f24ace1131456"
     }
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T05:49:56.965505+00:00",
+   "fetched_at": "2026-11-17T06:20:02.453900+00:00",
    "stale": false,
    "items": [
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11437,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 443,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2902,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 28,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 22,
+     "title": "modernCppVsOldCpp",
+     "image": "https://i.redd.it/kxn5xjs22f0i1.png",
+     "url": "https://redd.it/1xr2jyh",
+     "ups": 1986,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 16,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 65,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 152,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksClippy",
-     "image": "https://i.redd.it/19blhf29de1i1.png",
-     "url": "https://redd.it/1xvalet",
-     "ups": 453,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 860,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I'd do anything for my family. Except look for a job.",
+     "image": "https://i.redd.it/2og3xiuc1w1i1.png",
+     "url": "https://redd.it/1xxe6dj",
+     "ups": 2664,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Don't look at this, look at that",
+     "image": "https://i.redd.it/orqpx4tuk12i1.png",
+     "url": "https://redd.it/1xy1q4t",
+     "ups": 45,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Sexiest Bond girl ever",
+     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
+     "url": "https://redd.it/1xxx7kx",
+     "ups": 2654,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What is wrong with you?",
+     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
+     "url": "https://redd.it/1xxnl61",
+     "ups": 4058,
+     "sub": "r/memes"
     },
     {
      "title": "Friendly Spy, Friendly AI...",
@@ -142,44 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "this is why I put all my pants in Dex",
-     "image": "https://i.redd.it/ggys3ycbsw1i1.gif",
-     "url": "https://redd.it/1xxh0q8",
-     "ups": 1564,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 6556,
-     "sub": "r/memes"
-    },
-    {
-     "title": "if they are invisible why can they be defeated?",
-     "image": "https://i.redd.it/xt2unq59r02i1.png",
-     "url": "https://redd.it/1xxxcto",
-     "ups": 181,
-     "sub": "r/memes"
-    },
-    {
-     "title": "we all mature I guess...",
-     "image": "https://i.redd.it/i98obcvyor1i1.png",
-     "url": "https://redd.it/1xwtxmc",
-     "ups": 10210,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Falling for someone",
-     "image": "https://i.redd.it/fz7caqj9702i1.png",
-     "url": "https://redd.it/1xxua7f",
-     "ups": 30,
+     "title": "The moon exists during the day",
+     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
+     "url": "https://redd.it/1xxw4vm",
+     "ups": 899,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T05:49:58.376684+00:00",
+   "fetched_at": "2026-11-17T06:20:04.862964+00:00",
    "stale": false,
    "items": [
     {
@@ -187,38 +187,6 @@
      "text": "Ukrainian drones hit Crimean Bridge",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pick a new Bond from phone photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74ccafc6a815",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Duffy seeks air traffic control funding",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Robert Pattinson named new James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Least useful talents",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5097a07928f9",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +200,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft blames outage on bug",
+     "text": "Washington dirty bomb threat intelligence",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/76f01bab9df0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Least useful talents",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5097a07928f9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Robert Pattinson named new James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Wolqotd Lodestone outfit prompt",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/614d4afcbac5",
      "likes": 0,
      "image": ""
     },
@@ -248,117 +240,93 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Dere type personality test results",
+     "text": "Jensen Huang resigns as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ff6a7c6-439a-4326-8620-d36fd83ae986",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "What feels illegal but isn't",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e2e8676dfffd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Democrats push to investigate Trump",
+     "text": "Met Office issues snow warning",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bd3fd354aca",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a41f0c92ecd1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Protesters confront Bovino at Rutgers",
+     "text": "Duffy seeks air traffic control funding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f93fe85dab34",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Always Works",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54502166",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/bfcc8ff4-43c7-4d89-865a-dc4f543ca4ee.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
-     "author": "News",
-     "url": "https://lemmy.world/post/54502017",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/8bd7a958-21fd-4ab9-9c2a-099aca74438b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
-     "author": "PC Gaming",
-     "url": "https://piefed.world/c/pcgaming/p/1538853/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-conne",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/d589aae5-874c-4fa3-beb9-224d5d1f9741.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Me_irl",
-     "author": "me_irl",
-     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1078323/me-irl",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/e3406868-341b-4a1e-af93-4cf76c090c65.jpeg"
+     "kind": "Bluesky trend",
+     "text": "COP31 climate summit in Antalya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T05:49:58.754759+00:00",
+   "fetched_at": "2026-11-17T06:20:05.576166+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the m&m go to school? Because it wanted to be a Smartie!",
+     "text": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
      "source": "Dad joke"
     },
     {
-     "text": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"\r\n\"Pop,\" goes the weasel.",
+     "text": "Where do bees go to the bathroom?  The BP station.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do you take someone who\u2019s been injured in a peek-a-boo accident? To the I.C.U.",
+     "text": "My son is studying to be a surgeon, I just hope he makes the cut.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
