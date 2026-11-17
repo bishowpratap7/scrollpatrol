@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T09:20:44.440191+00:00",
+ "generated_at": "2026-11-17T09:21:00.640996+00:00",
  "sections": {
   "most_wanted": {
-   "fetched_at": "2026-11-17T09:20:39.747830+00:00",
+   "fetched_at": "2026-11-17T09:20:56.203739+00:00",
    "stale": false,
    "items": [
     {
@@ -89,63 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-17T09:20:40.808239+00:00",
+   "fetched_at": "2026-11-17T09:20:57.449014+00:00",
    "stale": false,
    "items": [
     {
-     "title": "iWishThisWereStaged",
-     "image": "https://i.redd.it/75brfykaun0i1.png",
-     "url": "https://redd.it/1xs5c2a",
-     "ups": 63,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 291,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 604,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 869,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1317,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2906,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 14,
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 868,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 354,
+     "title": "compilationError",
+     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
+     "url": "https://redd.it/1xsgyfn",
+     "ups": 416,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 650,
+     "title": "iBuiltANativeCppDslForCodeToVideoThatUses70PercentFewerAiTokensThanRemotion",
+     "image": "https://i.redd.it/6ka7phzv701i1.gif",
+     "url": "https://redd.it/1xtl32x",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Florida be like",
-     "image": "https://i.redd.it/f0w0ugjhq22i1.png",
-     "url": "https://redd.it/1xy76n3",
-     "ups": 16,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Teenager self would not believe this",
-     "image": "https://i.redd.it/qoakd84ch42i1.png",
-     "url": "https://redd.it/1xydwzd",
-     "ups": 16,
+     "title": "if they are invisible why can they be defeated?",
+     "image": "https://i.redd.it/xt2unq59r02i1.png",
+     "url": "https://redd.it/1xxxcto",
+     "ups": 187,
      "sub": "r/memes"
     },
     {
@@ -156,30 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "The moon exists during the day",
-     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
-     "url": "https://redd.it/1xxw4vm",
-     "ups": 970,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He lowered the record by 23 seconds!!!",
-     "image": "https://i.redd.it/d948zu5e1t1i1.gif",
-     "url": "https://redd.it/1xx0296",
-     "ups": 1958,
-     "sub": "r/memes"
-    },
-    {
      "title": "The ultimate clickbait",
      "image": "https://i.redd.it/v26cf44xyw1i1.gif",
      "url": "https://redd.it/1xxhnuj",
      "ups": 6685,
      "sub": "r/memes"
+    },
+    {
+     "title": "Friendly Spy, Friendly AI...",
+     "image": "https://i.redd.it/65oulzca5y1i1.png",
+     "url": "https://redd.it/1xxlgal",
+     "ups": 77,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The best is yet to come",
+     "image": "https://i.redd.it/juyvh7m9042i1.png",
+     "url": "https://redd.it/1xyca9z",
+     "ups": 5,
+     "sub": "r/memes"
+    },
+    {
+     "title": "anyone noticed this?",
+     "image": "https://i.redd.it/he3g9jgakx1i1.png",
+     "url": "https://redd.it/1xxjmfj",
+     "ups": 92,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-17T09:20:43.205759+00:00",
+   "fetched_at": "2026-11-17T09:20:59.551797+00:00",
    "stale": false,
    "items": [
     {
@@ -313,19 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-17T09:20:43.772324+00:00",
+   "fetched_at": "2026-11-17T09:21:00.041091+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "What do I look like? A JOKE MACHINE!?",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How does the moon cut his hair? Eclipse it.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.",
+     "text": "What did the 0 say to the 8? Nice belt.",
      "source": "Dad joke"
     },
     {
-     "text": "Whats a penguins favorite relative? Aunt Arctica.",
+     "text": "What do you get when you cross a pig and a pineapple? A porky pine",
      "source": "Dad joke"
     }
    ]
