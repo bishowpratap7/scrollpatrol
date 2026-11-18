@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:01:17.760596+00:00",
+ "generated_at": "2026-11-18T20:31:24.185240+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,56 +89,70 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T20:01:13.221049+00:00",
+   "fetched_at": "2026-11-18T20:31:20.552066+00:00",
    "stale": false,
    "items": [
     {
-     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
-     "image": "https://i.redd.it/byoe4xung82i1.png",
-     "url": "https://redd.it/1xyvexl",
-     "ups": 13,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1597,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2933,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 921,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
      "ups": 27,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 380,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4113,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1344,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 5,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Finnally, end of an era of this Meme.",
-     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
-     "url": "https://redd.it/1xzdtiu",
-     "ups": 203,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2696,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 17,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "just felt like this needs to be said",
+     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
+     "url": "https://redd.it/1xye9en",
+     "ups": 1851,
+     "sub": "r/memes"
+    },
+    {
+     "title": "that one guy",
+     "image": "https://i.redd.it/n8djw7pc572i1.gif",
+     "url": "https://redd.it/1xyoe2c",
+     "ups": 496,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Never a happy medium.",
+     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
+     "url": "https://redd.it/1xz4t0r",
+     "ups": 110,
      "sub": "r/memes"
     },
     {
@@ -149,24 +163,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "When will we get the \u201cNew Game+\u201d life update?",
-     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
-     "url": "https://redd.it/1xzdbvx",
-     "ups": 634,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's huge! Get ready for the wave of GTA6 memes and content",
-     "image": "https://i.redd.it/g0fg6qvc5b2i1.png",
-     "url": "https://redd.it/1xz79lw",
-     "ups": 339,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
-     "image": "https://i.redd.it/nkhrh4yzy72i1.png",
-     "url": "https://redd.it/1xysthe",
-     "ups": 146,
+     "title": "Sad to see, sad to see",
+     "image": "https://i.redd.it/uwl33y1nra2i1.png",
+     "url": "https://redd.it/1xz5to3",
+     "ups": 393,
      "sub": "r/memes"
     },
     {
@@ -179,9 +179,17 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T20:01:15.660654+00:00",
+   "fetched_at": "2026-11-18T20:31:22.394692+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Army to detonate lead explosives in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Atmospheric river hits California",
@@ -192,25 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pete Hegseth controversies",
+     "text": "Avengers: Doomsday set photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9c11ff87e33e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3f15ebccc28",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Republican plan for Social Security",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f66ac940ba1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "GTA 6 flower-buying mission",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9c5c21f39e8e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "GTA 6 flower-buying mission",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9c5c21f39e8e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
+     "text": "Second-to-last text caption meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Horror Writers Chat character introductions",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/372d876643df",
      "likes": 0,
      "image": ""
     },
@@ -256,76 +264,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK energy bills forecast to rise",
+     "text": "Republican plan for Social Security",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/368443fe6d31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f66ac940ba1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "House Democrats put Trump family on notice",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nominee questioned on 22nd Amendment",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0e3b9aafefe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3fd6dc40d609",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "naptime fans malding",
-     "author": "science memes \ud83e\uddec",
-     "url": "https://r1b.it/post/168094",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/e8d11e81-6709-45f7-8121-b6d46dfacc80.webp"
+     "text": "They may not have a written deed but dogs know how to acquire territory",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54568135",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/e0edabf1-a42b-470e-a294-26408af66621.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "PHP: Upcoming Critical PHP Security Release",
-     "author": "Selfhosted",
-     "url": "https://lemmy.horwood.cloud/post/1474331",
+     "text": "Jeffries, Who\u2019s Pledged to End Trump\u2019s War on Iran, Says \u201cNo\u201d on Defunding It",
+     "author": "Pravda News!",
+     "url": "https://news.abolish.capital/post/93877",
      "likes": 24,
-     "image": "https://lemmy.world/pictrs/image/20e51282-08fb-420a-b981-b8703a16ee03.png"
+     "image": "https://lemmy.world/pictrs/image/11405795-971a-4168-9be4-278d73515a1d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "At least seven progressives voted against Hakeem Jeffries for speaker",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54565710",
-     "likes": 49,
-     "image": ""
+     "text": "Exciting times ahead",
+     "author": "Grimdank",
+     "url": "https://piefed.social/c/grimdank@piefed.social/p/2617203/exciting-times-ahead",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/ac02ac43-328a-49ea-ab6b-2704290f4929.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Who needs backing when you can just use 1/4\u201d toggle bolts?",
-     "author": "Funny",
-     "url": "https://lemmy.world/post/54565349",
-     "likes": 78,
-     "image": "https://lemmy.world/pictrs/image/e96e1529-5f09-487b-9639-aac4dcdfb25e.png"
+     "text": "Me_IRL",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54568794",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/49f29381-cebb-4804-872a-26eb774f403d.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T20:01:16.629987+00:00",
+   "fetched_at": "2026-11-18T20:31:23.047952+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why did the m&m go to school? Because it wanted to be a Smartie!",
+     "text": "A dad washes his car with his son. But after a while, the son says, \"why can't you just use a sponge?\"",
      "source": "Dad joke"
     },
     {
-     "text": "Never take advice from electrons. They are always negative.",
+     "text": "Why was Pavlov's beard so soft?  Because he conditioned it.",
      "source": "Dad joke"
     },
     {
-     "text": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
+     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
      "source": "Dad joke"
     }
    ]
