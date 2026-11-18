@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:55:56.556588+00:00",
+ "generated_at": "2026-11-18T04:26:02.437255+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T03:55:53.706888+00:00",
+   "fetched_at": "2026-11-18T04:25:59.454444+00:00",
    "stale": false,
    "items": [
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 498,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 13,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 487,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,25 +107,60 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iFixedThePreviousPostBasedOnBestComments",
-     "image": "https://i.redd.it/3c0fpmqrwl0i1.png",
-     "url": "https://redd.it/1xruwh1",
-     "ups": 707,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 498,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4085,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 297,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 895,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1333,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
+     "image": "https://i.redd.it/88dcewf6x62i1.png",
+     "url": "https://redd.it/1xyn68i",
+     "ups": 50,
+     "sub": "r/memes"
+    },
+    {
+     "title": "extra, if there's fruit",
+     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
+     "url": "https://redd.it/1xypdsl",
+     "ups": 332,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What is wrong with you?",
+     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
+     "url": "https://redd.it/1xxnl61",
+     "ups": 4580,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Definitely me",
+     "image": "https://i.redd.it/3oto1uzrp32i1.png",
+     "url": "https://redd.it/1xyb77e",
+     "ups": 156,
+     "sub": "r/memes"
     },
     {
      "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
@@ -142,44 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Robert Pattinson to star as Jensen",
-     "image": "https://i.redd.it/djso4gqp492i1.png",
-     "url": "https://redd.it/1xyyrgs",
-     "ups": 7,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Nokia is building StarLink alternative",
-     "image": "https://i.redd.it/wy6zfp29162i1.png",
-     "url": "https://redd.it/1xyj3pt",
-     "ups": 95,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Best way to die",
-     "image": "https://i.redd.it/nsbub8mnn42i1.png",
-     "url": "https://redd.it/1xyegpf",
-     "ups": 1820,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The moon exists during the day",
-     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
-     "url": "https://redd.it/1xxw4vm",
-     "ups": 1309,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Definitely me",
-     "image": "https://i.redd.it/3oto1uzrp32i1.png",
-     "url": "https://redd.it/1xyb77e",
-     "ups": 156,
+     "title": "13 years. Countless \u201cBefore GTA 6\u201d memes. One final send-off. \ud83e\udee1\ud83e\udea6\ud83e\udd40",
+     "image": "https://i.redd.it/zxzplrkuha2i1.png",
+     "url": "https://redd.it/1xz4s0h",
+     "ups": 15,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T03:55:55.401072+00:00",
+   "fetched_at": "2026-11-18T04:26:01.038494+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Iran drones target Bahrain base",
+     "text": "US loses measles elimination status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
      "likes": 0,
      "image": ""
     },
@@ -208,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "The Game Awards nominations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Microsoft, FAA, Zelle outages",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
@@ -224,25 +216,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "College Football Playoff rankings released",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27b25a41bd7a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Second-to-last text caption meme",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The Game Awards nominations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +256,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Trash geyser prompts LA health order",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
@@ -272,34 +272,26 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia China chip controversy",
+     "text": "Iran drones target Bahrain base",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill",
-     "author": "News",
-     "url": "https://lemmy.world/post/54542019",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/fc0f694e-3743-45ce-86b7-bae281b02aec.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I'm A Poosay \ud83d\ude13",
+     "text": "Love it or Leave it",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54542017",
-     "likes": 43,
-     "image": "https://lemmy.world/pictrs/image/e4be2829-ffc4-4ad9-b9e5-a37a6c3f82ab.jpeg"
+     "url": "https://sh.itjust.works/post/70094432",
+     "likes": 44,
+     "image": "https://lemmy.world/pictrs/image/1782aaac-d592-4249-9dd3-e2a0bf251e46.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
      "author": "News",
      "url": "https://lemmy.today/post/63474207",
-     "likes": 13,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/23c76a55-70f5-4507-be68-a6c2d3ff07c7.jpeg"
     },
     {
@@ -307,58 +299,66 @@
      "text": "Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects | CNN Politics",
      "author": "News",
      "url": "https://lemmy.world/post/54542406",
-     "likes": 13,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/06003cb4-ebfc-4822-85ac-82c46fea047d.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I'm A Poosay \ud83d\ude13",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54542017",
+     "likes": 77,
+     "image": "https://lemmy.world/pictrs/image/e4be2829-ffc4-4ad9-b9e5-a37a6c3f82ab.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T03:55:55.960213+00:00",
+   "fetched_at": "2026-11-18T04:26:01.578586+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I used to work in a shoe recycling shop. It was sole destroying.",
+     "text": "Guy told me today he did not know what cloning is. I told him, \"that makes 2 of us.\"",
      "source": "Dad joke"
     },
     {
-     "text": "What cheese can never be yours? Nacho cheese.",
+     "text": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "When you have a bladder infection, urine trouble.",
+     "text": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
