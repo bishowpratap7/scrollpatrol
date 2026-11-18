@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:25:39.210892+00:00",
+ "generated_at": "2026-11-18T02:55:45.520355+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,78 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T02:25:36.092854+00:00",
+   "fetched_at": "2026-11-18T02:55:42.938065+00:00",
    "stale": false,
    "items": [
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
+     "image": "https://i.redd.it/byoe4xung82i1.png",
+     "url": "https://redd.it/1xyvexl",
+     "ups": 3,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 864,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "chancesAreLowButNeverZero",
      "image": "https://i.redd.it/230tjjlzxm0i1.png",
      "url": "https://redd.it/1xs0jz8",
-     "ups": 2154,
+     "ups": 2152,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1328,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4085,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 42,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 84,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1557,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 366,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "just felt like this needs to be said",
-     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
-     "url": "https://redd.it/1xye9en",
-     "ups": 1630,
-     "sub": "r/memes"
-    },
-    {
-     "title": "What is wrong with you?",
-     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
-     "url": "https://redd.it/1xxnl61",
-     "ups": 4571,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Can\u2019t wait for a promotion",
-     "image": "https://i.redd.it/0l2mesucj92i1.gif",
-     "url": "https://redd.it/1xz0nzv",
-     "ups": 52,
-     "sub": "r/memes"
-    },
-    {
-     "title": "that one guy",
-     "image": "https://i.redd.it/n8djw7pc572i1.gif",
-     "url": "https://redd.it/1xyoe2c",
-     "ups": 266,
-     "sub": "r/memes"
     },
     {
      "title": "Teenager self would not believe this",
@@ -170,23 +142,51 @@
      "sub": "r/memes"
     },
     {
+     "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
+     "image": "https://i.redd.it/nkhrh4yzy72i1.png",
+     "url": "https://redd.it/1xysthe",
+     "ups": 102,
+     "sub": "r/memes"
+    },
+    {
      "title": "The ultimate clickbait",
      "image": "https://i.redd.it/v26cf44xyw1i1.gif",
      "url": "https://redd.it/1xxhnuj",
      "ups": 7034,
      "sub": "r/memes"
+    },
+    {
+     "title": "just felt like this needs to be said",
+     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
+     "url": "https://redd.it/1xye9en",
+     "ups": 1630,
+     "sub": "r/memes"
+    },
+    {
+     "title": "extra, if there's fruit",
+     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
+     "url": "https://redd.it/1xypdsl",
+     "ups": 303,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
+     "image": "https://i.redd.it/88dcewf6x62i1.png",
+     "url": "https://redd.it/1xyn68i",
+     "ups": 45,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T02:25:37.843432+00:00",
+   "fetched_at": "2026-11-18T02:55:44.172828+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Hakeem Jeffries' Democratic leadership",
+     "text": "\"Get to know your moots\" questionnaire",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8d54393dd74",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Congress asks where FAA money went",
+     "text": "Vance blames Democrats for flight stoppage",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3c57ea635395",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "\"Get to know your moots\" questionnaire",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft, FAA, Zelle outages",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
+     "text": "Pochettino leaves USMNT for United",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e9840443007a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trash geyser prompts LA health order",
+     "text": "Voyager 1 nears one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukrainian strike collapses Crimean Bridge",
+     "text": "Hakeem Jeffries' Democratic leadership",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8d54393dd74",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Protesters Storm Greg Bovino Event, Police Escort Him Off Stage",
      "author": "politics ",
      "url": "https://lemmy.world/post/54536218",
-     "likes": 186,
+     "likes": 204,
      "image": "https://lemmy.world/pictrs/image/340a25dd-08b5-41b2-b3c8-f185d79c5b5f.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Excel",
      "author": "Programmer Humor",
      "url": "https://lemmy.blahaj.zone/post/50619826",
-     "likes": 209,
+     "likes": 234,
      "image": "https://lemmy.world/pictrs/image/f7cf7877-34a9-4871-a9e8-938a3dd1a2b1.webp"
     },
     {
@@ -299,57 +299,57 @@
      "text": "Truth",
      "author": "Political Memes",
      "url": "https://piefed.social/c/politicalmemes@lemmy.world/p/2613940/truth",
-     "likes": 305,
+     "likes": 336,
      "image": "https://lemmy.world/pictrs/image/eefa2421-eb6b-4fcc-a416-c904493e1155.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Olive oil rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50620245",
-     "likes": 128,
-     "image": "https://lemmy.world/pictrs/image/a6dcde8c-a5b6-42b3-989b-9b13d54346ff.webp"
+     "text": "I'll never forget how badly the term \"AI\" nosedived into being uncool",
+     "author": "Showerthoughts",
+     "url": "https://lemmy.world/post/54535496",
+     "likes": 166,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T02:25:38.587671+00:00",
+   "fetched_at": "2026-11-18T02:55:44.877349+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
+     "text": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do cats write notes?\r\nScratch Paper!",
+     "text": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
      "source": "Dad joke"
     },
     {
-     "text": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
+     "text": "Why can't eggs have love? They will break up too soon.",
      "source": "Dad joke"
     }
    ]
