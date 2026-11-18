@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T05:26:15.050263+00:00",
+ "generated_at": "2026-11-18T05:26:30.801908+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T05:26:11.788873+00:00",
+   "fetched_at": "2026-11-18T05:26:27.698162+00:00",
    "stale": false,
    "items": [
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 13,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 650,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 90,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,45 +107,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "encapsulationByIntimidation",
-     "image": "https://i.redd.it/26i94vgrzo0i1.png",
-     "url": "https://redd.it/1xsao1b",
-     "ups": 601,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 11,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 70,
+     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
+     "image": "https://i.redd.it/byoe4xung82i1.png",
+     "url": "https://redd.it/1xyvexl",
+     "ups": 4,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "myCoworkerToday",
-     "image": "https://i.redd.it/aalnv9lhsa2i1.png",
-     "url": "https://redd.it/1xz5woj",
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11489,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 295,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Robert Pattinson to star as Jensen",
+     "image": "https://i.redd.it/djso4gqp492i1.png",
+     "url": "https://redd.it/1xyyrgs",
      "ups": 7,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 7039,
      "sub": "r/memes"
     },
     {
-     "title": "Nokia is building StarLink alternative",
-     "image": "https://i.redd.it/wy6zfp29162i1.png",
-     "url": "https://redd.it/1xyj3pt",
-     "ups": 95,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Best way to die",
-     "image": "https://i.redd.it/nsbub8mnn42i1.png",
-     "url": "https://redd.it/1xyegpf",
-     "ups": 1820,
+     "title": "A goat tried to eat my sister's shirt",
+     "image": "https://i.redd.it/geehf5bbg92i1.png",
+     "url": "https://redd.it/1xz0971",
+     "ups": 32,
      "sub": "r/memes"
     },
     {
@@ -163,10 +156,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's a me, James Bond!",
-     "image": "https://i.redd.it/w7getakmd62i1.png",
-     "url": "https://redd.it/1xykj2i",
-     "ups": 235,
+     "title": "Teenager self would not believe this",
+     "image": "https://i.redd.it/qoakd84ch42i1.png",
+     "url": "https://redd.it/1xydwzd",
+     "ups": 123,
      "sub": "r/memes"
     },
     {
@@ -175,11 +168,18 @@
      "url": "https://redd.it/1xyoe2c",
      "ups": 309,
      "sub": "r/memes"
+    },
+    {
+     "title": "13 years. Countless \u201cBefore GTA 6\u201d memes. One final send-off. \ud83e\udee1\ud83e\udea6\ud83e\udd40",
+     "image": "https://i.redd.it/zxzplrkuha2i1.png",
+     "url": "https://redd.it/1xz4s0h",
+     "ups": 15,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T05:26:13.543543+00:00",
+   "fetched_at": "2026-11-18T05:26:29.371588+00:00",
    "stale": false,
    "items": [
     {
@@ -313,23 +313,19 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T05:26:14.235558+00:00",
+   "fetched_at": "2026-11-18T05:26:30.049822+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why can't a bicycle stand on its own? It's two-tired.",
      "source": "Dad joke"
     },
     {
-     "text": "Why does Superman get invited to dinners? Because he is a Supperhero.",
+     "text": "A termite walks into a bar and asks \u201cIs the bar tender here?\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the kid cross the playground? To get to the other slide.",
+     "text": "Did you hear about the bread factory burning down? They say the business is toast.",
      "source": "Dad joke"
     }
    ]
