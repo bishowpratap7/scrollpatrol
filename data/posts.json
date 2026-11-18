@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:01:49.822159+00:00",
+ "generated_at": "2026-11-18T21:31:57.042046+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T21:01:43.306956+00:00",
+   "fetched_at": "2026-11-18T21:31:52.512813+00:00",
    "stale": false,
    "items": [
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1348,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 468,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 355,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "comparisonsAreOdorous",
-     "image": "https://i.redd.it/dotk9b6dq82i1.png",
-     "url": "https://redd.it/1xywxga",
-     "ups": 318,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 537,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 27,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +114,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 165,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2933,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Say no more.",
-     "image": "https://i.redd.it/z40vc7y2ze2i1.png",
-     "url": "https://redd.it/1xzmq76",
-     "ups": 1970,
-     "sub": "r/memes"
+     "title": "imTiredBoss",
+     "image": "https://i.redd.it/f6wx82e5za2i1.gif",
+     "url": "https://redd.it/1xz6lkd",
+     "ups": 132,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "It's always a shame",
-     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
-     "url": "https://redd.it/1xzgdba",
-     "ups": 1835,
-     "sub": "r/memes"
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 355,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Chinese history is a trip",
      "image": "https://i.redd.it/w9ffzffwje2i1.gif",
      "url": "https://redd.it/1xzkfod",
      "ups": 3,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Sad to see, sad to see",
+     "image": "https://i.redd.it/uwl33y1nra2i1.png",
+     "url": "https://redd.it/1xz5to3",
+     "ups": 393,
      "sub": "r/memes"
     },
     {
@@ -163,30 +156,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "How I be looking like on the toilet for real",
-     "image": "https://i.redd.it/wvlszxcf6f2i1.png",
-     "url": "https://redd.it/1xznu2t",
-     "ups": 9,
+     "title": "Finnally, end of an era of this Meme.",
+     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
+     "url": "https://redd.it/1xzdtiu",
+     "ups": 203,
      "sub": "r/memes"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 178,
+     "title": "that one guy",
+     "image": "https://i.redd.it/n8djw7pc572i1.gif",
+     "url": "https://redd.it/1xyoe2c",
+     "ups": 496,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Never a happy medium.",
+     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
+     "url": "https://redd.it/1xz4t0r",
+     "ups": 110,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T21:01:47.068205+00:00",
+   "fetched_at": "2026-11-18T21:31:55.009336+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Army to detonate lead explosives in Iowa",
+     "text": "Jeffries Speaker caucus vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3fffad78a3ec",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Avengers: Doomsday set photos",
+     "text": "Make a band name bigger",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3f15ebccc28",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Make a band name bigger",
+     "text": "Pattinson will be next James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
@@ -232,14 +232,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Atmospheric river hits California",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Voyager 1 reaches one light-day",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
@@ -248,9 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Elon Musk invests in Skydance",
+     "text": "Atmospheric river hits California",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68a9bbe2cb21",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nationwide emergency alert test",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
      "likes": 0,
      "image": ""
     },
@@ -264,17 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Army to detonate lead explosives in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Senate weighs BAAJA permitting bill",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
      "likes": 0,
      "image": ""
     },
@@ -283,49 +283,57 @@
      "text": "Egg",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54569302",
-     "likes": 30,
+     "likes": 91,
      "image": "https://lemmy.world/pictrs/image/9ae1bd3f-dbe8-4073-8f5c-1d368b5592df.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Me_IRL",
+     "text": "Send help",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54568794",
-     "likes": 55,
-     "image": "https://lemmy.world/pictrs/image/49f29381-cebb-4804-872a-26eb774f403d.jpeg"
+     "url": "https://lemmy.world/post/54569676",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/6d8f737f-41be-405a-9d81-156f37aef84f.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Hang in there gang",
+     "text": "Spaget",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54569304",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/099eb972-3949-4054-a4c1-a7d1dd469471.jpeg"
+     "url": "https://lemmy.world/post/54569730",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/4f67e67a-87cc-4b92-884d-4df7b4a4020e.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Sleeping with them",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54569240",
-     "likes": 21,
+     "likes": 66,
      "image": "https://lemmy.world/pictrs/image/09484126-4278-4ae3-bfdd-bbca63cd7d5e.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T21:01:47.491514+00:00",
+   "fetched_at": "2026-11-18T21:31:55.613901+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Where do owls go to buy their baby clothes? The owlet malls.",
+     "text": "Why do wizards clean their teeth three times a day? To prevent bat breath!",
      "source": "Dad joke"
     },
     {
-     "text": "Why is no one friends with Dracula? Because he's a pain in the neck.",
+     "text": "Did you hear the news? FedEx and UPS are merging. They\u2019re going to go by the name Fed-Up from now on.",
      "source": "Dad joke"
     },
     {
-     "text": "It's difficult to say what my wife does, she sells sea shells by the sea shore.",
+     "text": "I couldn't figure out how the seat belt worked. Then it just clicked.",
      "source": "Dad joke"
     }
    ]
