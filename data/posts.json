@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:24:51.263609+00:00",
+ "generated_at": "2026-11-18T00:25:15.765592+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,37 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T00:24:46.979074+00:00",
+   "fetched_at": "2026-11-18T00:25:12.890881+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "compilationError",
-     "image": "https://i.redd.it/5mlzvfoyoq0i1.png",
-     "url": "https://redd.it/1xsgyfn",
-     "ups": 422,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1223,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11472,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 491,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "kswapdIsAgeist",
      "image": "https://i.redd.it/fkef0qbna81i1.gif",
@@ -128,31 +100,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 489,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "just felt like this needs to be said",
-     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
-     "url": "https://redd.it/1xye9en",
-     "ups": 1570,
-     "sub": "r/memes"
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 588,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The ultimate clickbait",
-     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
-     "url": "https://redd.it/1xxhnuj",
-     "ups": 7023,
-     "sub": "r/memes"
+     "title": "whatSortingAlgorithmIsThis",
+     "image": "https://i.redd.it/iz274dmbkr0i1.gif",
+     "url": "https://redd.it/1xsjpbi",
+     "ups": 873,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
-     "image": "https://i.redd.it/88dcewf6x62i1.png",
-     "url": "https://redd.it/1xyn68i",
-     "ups": 44,
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
+     "ups": 116,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 38,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Sexiest Bond girl ever",
+     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
+     "url": "https://redd.it/1xxx7kx",
+     "ups": 3556,
      "sub": "r/memes"
     },
     {
@@ -163,23 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "What is wrong with you?",
-     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
-     "url": "https://redd.it/1xxnl61",
-     "ups": 4570,
+     "title": "The moon exists during the day",
+     "image": "https://i.redd.it/4vgl9rngj02i1.gif",
+     "url": "https://redd.it/1xxw4vm",
+     "ups": 1268,
      "sub": "r/memes"
     },
     {
-     "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
-     "image": "https://i.redd.it/nkhrh4yzy72i1.png",
-     "url": "https://redd.it/1xysthe",
-     "ups": 91,
+     "title": "Robert Pattinson to star as Jensen",
+     "image": "https://i.redd.it/djso4gqp492i1.png",
+     "url": "https://redd.it/1xyyrgs",
+     "ups": 3,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Comparisons Are Odorous",
+     "image": "https://i.redd.it/1hz35ztyq82i1.png",
+     "url": "https://redd.it/1xywxuk",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
+     "image": "https://i.redd.it/88dcewf6x62i1.png",
+     "url": "https://redd.it/1xyn68i",
+     "ups": 44,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T00:24:49.110064+00:00",
+   "fetched_at": "2026-11-18T00:25:14.554475+00:00",
    "stale": false,
    "items": [
     {
@@ -299,7 +299,7 @@
      "text": "Truth",
      "author": "Political Memes",
      "url": "https://piefed.social/c/politicalmemes@lemmy.world/p/2613940/truth",
-     "likes": 168,
+     "likes": 169,
      "image": "https://lemmy.world/pictrs/image/eefa2421-eb6b-4fcc-a416-c904493e1155.jpeg"
     },
     {
@@ -307,21 +307,17 @@
      "text": "Olive oil rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50620245",
-     "likes": 49,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/a6dcde8c-a5b6-42b3-989b-9b13d54346ff.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T00:24:49.995066+00:00",
+   "fetched_at": "2026-11-18T00:25:15.132655+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "How does a French skeleton say hello? Bone-jour.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why did the m&m go to school? Because it wanted to be a Smartie!",
      "source": "Dad joke"
     },
     {
-     "text": "Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!",
+     "text": "Why is Peter Pan always flying? Because he Neverlands.",
      "source": "Dad joke"
     },
     {
-     "text": "What's red and bad for your teeth? A Brick.",
+     "text": "I thought about going on an all-almond diet. But that's just nuts.",
      "source": "Dad joke"
     }
    ]
