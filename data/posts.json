@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:55:21.406980+00:00",
+ "generated_at": "2026-11-18T01:25:26.927417+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T00:55:18.469920+00:00",
+   "fetched_at": "2026-11-18T01:25:24.024366+00:00",
    "stale": false,
    "items": [
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 157,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2136,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 28,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1328,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 366,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11483,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 737,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +121,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "godIHateWhenThisHappens",
-     "image": "https://i.redd.it/kkuprpag3n0i1.png",
-     "url": "https://redd.it/1xs1fbm",
-     "ups": 647,
+     "title": "chancesAreLowButNeverZero",
+     "image": "https://i.redd.it/230tjjlzxm0i1.png",
+     "url": "https://redd.it/1xs0jz8",
+     "ups": 2154,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Best way to die",
-     "image": "https://i.redd.it/nsbub8mnn42i1.png",
-     "url": "https://redd.it/1xyegpf",
-     "ups": 1627,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 491,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Comparisons Are Odorous",
+     "image": "https://i.redd.it/1hz35ztyq82i1.png",
+     "url": "https://redd.it/1xywxuk",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "AI was not used in the making of VoldeRob",
-     "image": "https://i.redd.it/ln2duycnl72i1.png",
-     "url": "https://redd.it/1xyqugv",
-     "ups": 107,
+     "title": "Sexiest Bond girl ever",
+     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
+     "url": "https://redd.it/1xxx7kx",
+     "ups": 3556,
      "sub": "r/memes"
     },
     {
@@ -156,6 +156,13 @@
      "sub": "r/memes"
     },
     {
+     "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
+     "image": "https://i.redd.it/nkhrh4yzy72i1.png",
+     "url": "https://redd.it/1xysthe",
+     "ups": 91,
+     "sub": "r/memes"
+    },
+    {
      "title": "Robert Pattinson to star as Jensen",
      "image": "https://i.redd.it/djso4gqp492i1.png",
      "url": "https://redd.it/1xyyrgs",
@@ -163,23 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "that one guy",
-     "image": "https://i.redd.it/n8djw7pc572i1.gif",
-     "url": "https://redd.it/1xyoe2c",
-     "ups": 217,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's a me, James Bond!",
-     "image": "https://i.redd.it/w7getakmd62i1.png",
-     "url": "https://redd.it/1xykj2i",
-     "ups": 224,
+     "title": "The ultimate clickbait",
+     "image": "https://i.redd.it/v26cf44xyw1i1.gif",
+     "url": "https://redd.it/1xxhnuj",
+     "ups": 7023,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T00:55:20.147710+00:00",
+   "fetched_at": "2026-11-18T01:25:25.779179+00:00",
    "stale": false,
    "items": [
     {
@@ -187,38 +187,6 @@
      "text": "Make a band name bigger",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vance blames Democrats for flight stoppage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3c57ea635395",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Iran drones target Bahrain base",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "The Game Awards nominations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trash geyser prompts LA health order",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
+     "text": "Nvidia China chip controversy",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukrainian strike collapses Crimean Bridge",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +224,33 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "\"Get to know your moots\" questionnaire",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trash geyser prompts LA health order",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The Game Awards nominations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
      "likes": 0,
      "image": ""
     },
@@ -264,17 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia China chip controversy",
+     "text": "Mullin flies government jet to LSU game",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/edf03a98c7f7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Congress asks where FAA money went",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Protesters Storm Greg Bovino Event, Police Escort Him Off Stage",
      "author": "politics ",
      "url": "https://lemmy.world/post/54536218",
-     "likes": 113,
+     "likes": 139,
      "image": "https://lemmy.world/pictrs/image/340a25dd-08b5-41b2-b3c8-f185d79c5b5f.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Excel",
      "author": "Programmer Humor",
      "url": "https://lemmy.blahaj.zone/post/50619826",
-     "likes": 125,
+     "likes": 154,
      "image": "https://lemmy.world/pictrs/image/f7cf7877-34a9-4871-a9e8-938a3dd1a2b1.webp"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Truth",
      "author": "Political Memes",
      "url": "https://piefed.social/c/politicalmemes@lemmy.world/p/2613940/truth",
-     "likes": 199,
+     "likes": 237,
      "image": "https://lemmy.world/pictrs/image/eefa2421-eb6b-4fcc-a416-c904493e1155.jpeg"
     },
     {
@@ -307,58 +307,58 @@
      "text": "Olive oil rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50620245",
-     "likes": 71,
+     "likes": 90,
      "image": "https://lemmy.world/pictrs/image/a6dcde8c-a5b6-42b3-989b-9b13d54346ff.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T00:55:20.817382+00:00",
+   "fetched_at": "2026-11-18T01:25:26.286294+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, \u2018No, just leave it in the carton!\u2019",
+     "text": "I tried to write a chemistry joke, but could never get a reaction.",
      "source": "Dad joke"
     },
     {
-     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
+     "text": "You know that cemetery up the road? People are dying to get in there.",
      "source": "Dad joke"
     },
     {
-     "text": "I have kleptomania, but when it gets bad, I take something for it.",
+     "text": "Hear about the new restaurant called Karma? There\u2019s no menu: You get what you deserve.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
