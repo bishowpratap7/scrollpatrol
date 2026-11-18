@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:30:03.329513+00:00",
+ "generated_at": "2026-11-18T16:00:10.735762+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T15:29:59.613911+00:00",
+   "fetched_at": "2026-11-18T16:00:06.082917+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 14,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "whatSortingAlgorithmIsThis",
      "image": "https://i.redd.it/iz274dmbkr0i1.gif",
@@ -107,17 +100,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 519,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 69,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 128,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 215,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,17 +121,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 25,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4038,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Bad day to catch a cold",
-     "image": "https://i.redd.it/4ei0035rhd2i1.png",
-     "url": "https://redd.it/1xzf7vj",
-     "ups": 3,
+     "title": "cmonGitHubAgain",
+     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
+     "url": "https://redd.it/1xttllg",
+     "ups": 1227,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
+     "image": "https://i.redd.it/nkhrh4yzy72i1.png",
+     "url": "https://redd.it/1xysthe",
+     "ups": 144,
+     "sub": "r/memes"
+    },
+    {
+     "title": "AI was not used in the making of VoldeRob",
+     "image": "https://i.redd.it/ln2duycnl72i1.png",
+     "url": "https://redd.it/1xyqugv",
+     "ups": 176,
+     "sub": "r/memes"
+    },
+    {
+     "title": "extra, if there's fruit",
+     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
+     "url": "https://redd.it/1xypdsl",
+     "ups": 436,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 235,
      "sub": "r/memes"
     },
     {
@@ -149,92 +170,31 @@
      "sub": "r/memes"
     },
     {
-     "title": "Finnally, end of an era of this Meme.",
-     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
-     "url": "https://redd.it/1xzdtiu",
-     "ups": 91,
-     "sub": "r/memes"
-    },
-    {
-     "title": "just felt like this needs to be said",
-     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
-     "url": "https://redd.it/1xye9en",
-     "ups": 1829,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Sad to see, sad to see",
-     "image": "https://i.redd.it/uwl33y1nra2i1.png",
-     "url": "https://redd.it/1xz5to3",
-     "ups": 313,
-     "sub": "r/memes"
-    },
-    {
-     "title": "We got this meme before GTA VI",
-     "image": "https://i.redd.it/lybwt1sf1d2i1.gif",
-     "url": "https://redd.it/1xzdeep",
-     "ups": 3,
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 79,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T15:30:01.670410+00:00",
+   "fetched_at": "2026-11-18T16:00:08.728395+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Baude op-ed defends Supreme Court",
+     "text": "Hakeem Jeffries' Democratic leadership",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/643ddbec85f7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8d54393dd74",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's conduct during Manila visit",
+     "text": "Mullin flies government jet to LSU game",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed364a4fa12e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Make a band name bigger",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "The Game Awards nominations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang's Nvidia return bid",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Voyager 1 nears one light-day",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/edf03a98c7f7",
      "likes": 0,
      "image": ""
     },
@@ -248,6 +208,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Make a band name bigger",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Second-to-last text caption meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Microsoft, FAA, Zelle outages",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
@@ -256,109 +232,133 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
+     "text": "The Game Awards nominations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Epstein files release",
+     "text": "Voyager 1 nears one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29030774f525",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Jensen Huang's Nvidia return bid",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's conduct during Manila visit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed364a4fa12e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Baude op-ed defends Supreme Court",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/643ddbec85f7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The only condition",
+     "author": "linuxmemes",
+     "url": "https://lemmy.world/post/54558711",
+     "likes": 78,
+     "image": "https://lemmy.world/pictrs/image/e60219cb-6f3b-40f4-92aa-30e5716bd925.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Very impressive",
      "author": "memes",
      "url": "https://lemmy.world/post/54558577",
-     "likes": 39,
+     "likes": 91,
      "image": "https://lemmy.world/pictrs/image/946f25c8-c044-4cfa-b0fa-9cf3a77fb58a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "SHALL WE PLAY A GAME?",
-     "author": "Political Memes",
-     "url": "https://europe.pub/post/17655496",
-     "likes": 52,
-     "image": "https://lemmy.world/pictrs/image/fa8d49ed-30a6-402c-9f80-ea6d0f916983.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "banner",
+     "text": "Nutty Putty \ud83e\udea8",
      "author": "Memes",
-     "url": "https://europe.pub/post/17655217",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/86e3c7e0-7599-4788-b5e2-dbc5e90118d1.jpeg"
+     "url": "https://lemmy.dbzer0.com/post/78616327",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/98e32968-f16f-44f2-9292-6e02d1e390bf.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Voyager 1 is now one light-day from Earth",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54557092",
-     "likes": 93,
-     "image": "https://lemmy.world/pictrs/image/ebe66e69-e743-4189-ae7f-2a0cb86152bf.jpeg"
+     "text": "Banks and the NSA Admit That Yes, It Was AI That Caused the Massive Outages",
+     "author": "Fuck AI",
+     "url": "https://lemmy.nz/post/43969983",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/3c13fdd7-877b-4006-abd4-b22d5d1d00d1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T15:30:02.149910+00:00",
+   "fetched_at": "2026-11-18T16:00:09.519737+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "To the guy who invented zero... thanks for nothing.",
+     "text": "What do you call a careful wolf? Aware wolf.",
      "source": "Dad joke"
     },
     {
-     "text": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad.",
+     "text": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\".",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
+     "text": "What do you call a fish wearing a bowtie? Sofishticated.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
