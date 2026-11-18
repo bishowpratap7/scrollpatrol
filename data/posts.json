@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:29:13.911422+00:00",
+ "generated_at": "2026-11-18T13:59:22.888201+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,37 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T13:29:07.421151+00:00",
+   "fetched_at": "2026-11-18T13:59:16.680405+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 303,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "imTiredBoss",
-     "image": "https://i.redd.it/f6wx82e5za2i1.gif",
-     "url": "https://redd.it/1xz6lkd",
-     "ups": 58,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
      "image": "https://i.redd.it/sqilz99j2i1i1.png",
@@ -128,73 +100,101 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
-     "image": "https://i.redd.it/lv903rr6a01i1.png",
-     "url": "https://redd.it/1xtleu6",
-     "ups": 115,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 138,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "November 19th marks the end of one cycle, and the beginning of another",
-     "image": "https://i.redd.it/fe0p2rjcwa2i1.png",
-     "url": "https://redd.it/1xz6b29",
-     "ups": 6,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 508,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1179,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 520,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 25,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "We got this meme before GTA VI",
+     "image": "https://i.redd.it/lybwt1sf1d2i1.gif",
+     "url": "https://redd.it/1xzdeep",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
-     "title": "AI was not used in the making of VoldeRob",
-     "image": "https://i.redd.it/ln2duycnl72i1.png",
-     "url": "https://redd.it/1xyqugv",
-     "ups": 167,
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 38,
      "sub": "r/memes"
     },
     {
-     "title": "Comparisons Are Odorous",
-     "image": "https://i.redd.it/1hz35ztyq82i1.png",
-     "url": "https://redd.it/1xywxuk",
-     "ups": 26,
+     "title": "just felt like this needs to be said",
+     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
+     "url": "https://redd.it/1xye9en",
+     "ups": 1829,
      "sub": "r/memes"
     },
     {
-     "title": "Sexiest Bond girl ever",
-     "image": "https://i.redd.it/8rbpxq8iq02i1.png",
-     "url": "https://redd.it/1xxx7kx",
-     "ups": 3686,
+     "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
+     "image": "https://i.redd.it/nkhrh4yzy72i1.png",
+     "url": "https://redd.it/1xysthe",
+     "ups": 142,
      "sub": "r/memes"
     },
     {
-     "title": "We are not the same.",
-     "image": "https://i.redd.it/ix8repdskc2i1.png",
-     "url": "https://redd.it/1xzbtg3",
-     "ups": 12,
+     "title": "Best way to die",
+     "image": "https://i.redd.it/nsbub8mnn42i1.png",
+     "url": "https://redd.it/1xyegpf",
+     "ups": 2101,
      "sub": "r/memes"
     },
     {
-     "title": "It's a me, James Bond!",
-     "image": "https://i.redd.it/w7getakmd62i1.png",
-     "url": "https://redd.it/1xykj2i",
-     "ups": 251,
+     "title": "extra, if there's fruit",
+     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
+     "url": "https://redd.it/1xypdsl",
+     "ups": 432,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T13:29:12.763130+00:00",
+   "fetched_at": "2026-11-18T13:59:21.467342+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Burnham says Brexit hasn't worked",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's conduct during Manila visit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed364a4fa12e",
      "likes": 0,
      "image": ""
     },
@@ -208,33 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Voyager 1 nears one light-day",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Palmer Luckey reveals SLAB seastead",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/05c8f5256004",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Microsoft, FAA, Zelle outages",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "\"Get to know your moots\" questionnaire",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +224,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Palmer Luckey reveals SLAB seastead",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/05c8f5256004",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Gas and heating oil prices",
+     "text": "Voyager 1 nears one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/368443fe6d31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alaska Senate race projection",
+     "text": "Final Fantasy logo generator",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9759982533b9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/87450f5a1b37",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Second-to-last text caption meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Deutsche Bank document leak",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine reports daily Russian losses",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
@@ -280,76 +280,76 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "Me neither",
+     "author": "Memes",
+     "url": "https://reddthat.com/post/76818036",
+     "likes": 62,
+     "image": "https://lemmy.world/pictrs/image/16c8616e-6e7f-4aba-b8f5-234ba21dfd51.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Bernie Sanders unveils his plan to push Medicare for All when Democrats take power",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54555959",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/d29a1dbd-7b00-4aa0-a24b-e7457f4425e0.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Signal Warns Canada It Will Leave Rather Than Weaken Encryption",
+     "author": "Privacy",
+     "url": "https://lemmy.world/post/54555933",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/1d07541c-bc07-45b9-b560-45891200b94f.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "Ignorance is no excuse",
      "author": "Comic Strips",
      "url": "https://lemmy.ca/post/74020050",
-     "likes": 60,
+     "likes": 95,
      "image": "https://lemmy.world/pictrs/image/6403220d-a176-485a-a873-12435446c233.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "accurate image of how bigots get treated around these parts",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50639835",
-     "likes": 50,
-     "image": "https://lemmy.world/pictrs/image/7e3b53ef-98b2-4db9-82ea-a82b49b59f79.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Me too",
-     "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/70111358",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/30c94a72-f4e8-4abc-b9d6-ef52883fb7af.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Dual role",
-     "author": "memes",
-     "url": "https://lemmy.ca/post/74020149",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/c954e543-a575-497b-8036-7f6e2b39d31b.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T13:29:13.258333+00:00",
+   "fetched_at": "2026-11-18T13:59:22.204095+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the ocean say to the shore? Nothing, it just waved.",
+     "text": "People are shocked to discover I have a police record but I love their greatest hits!",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a snowman with a vampire? Frostbite.",
+     "text": "How do locomotives know where they're going? Lots of training",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of pants do ghosts wear? Boo jeans.",
+     "text": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.",
      "source": "Dad joke"
     }
    ]
