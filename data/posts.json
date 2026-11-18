@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:29:46.231834+00:00",
+ "generated_at": "2026-11-18T15:30:03.329513+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T15:29:42.854051+00:00",
+   "fetched_at": "2026-11-18T15:29:59.613911+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 14,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "whatSortingAlgorithmIsThis",
      "image": "https://i.redd.it/iz274dmbkr0i1.gif",
      "url": "https://redd.it/1xsjpbi",
      "ups": 873,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 519,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 128,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 520,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,51 +135,9 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2151,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 375,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4038,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 69,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "AI was not used in the making of VoldeRob",
-     "image": "https://i.redd.it/ln2duycnl72i1.png",
-     "url": "https://redd.it/1xyqugv",
-     "ups": 174,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's a me, James Bond!",
-     "image": "https://i.redd.it/w7getakmd62i1.png",
-     "url": "https://redd.it/1xykj2i",
-     "ups": 253,
-     "sub": "r/memes"
-    },
-    {
-     "title": "We got this meme before GTA VI",
-     "image": "https://i.redd.it/lybwt1sf1d2i1.gif",
-     "url": "https://redd.it/1xzdeep",
+     "title": "Bad day to catch a cold",
+     "image": "https://i.redd.it/4ei0035rhd2i1.png",
+     "url": "https://redd.it/1xzf7vj",
      "ups": 3,
      "sub": "r/memes"
     },
@@ -163,10 +149,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "extra, if there's fruit",
-     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
-     "url": "https://redd.it/1xypdsl",
-     "ups": 432,
+     "title": "Finnally, end of an era of this Meme.",
+     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
+     "url": "https://redd.it/1xzdtiu",
+     "ups": 91,
      "sub": "r/memes"
     },
     {
@@ -175,11 +161,25 @@
      "url": "https://redd.it/1xye9en",
      "ups": 1829,
      "sub": "r/memes"
+    },
+    {
+     "title": "Sad to see, sad to see",
+     "image": "https://i.redd.it/uwl33y1nra2i1.png",
+     "url": "https://redd.it/1xz5to3",
+     "ups": 313,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We got this meme before GTA VI",
+     "image": "https://i.redd.it/lybwt1sf1d2i1.gif",
+     "url": "https://redd.it/1xzdeep",
+     "ups": 3,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T15:29:45.040679+00:00",
+   "fetched_at": "2026-11-18T15:30:01.670410+00:00",
    "stale": false,
    "items": [
     {
@@ -313,19 +313,11 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T15:29:45.569549+00:00",
+   "fetched_at": "2026-11-18T15:30:02.149910+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Waking up this morning was an eye-opening experience.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "To the guy who invented zero... thanks for nothing.",
      "source": "Dad joke"
     },
     {
-     "text": "I just got fired from a florist, apparently I took too many leaves.",
+     "text": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of award did the dentist receive? A little plaque.",
+     "text": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
      "source": "Dad joke"
     }
    ]
