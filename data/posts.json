@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:29:30.978693+00:00",
+ "generated_at": "2026-11-18T14:59:40.277448+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,78 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T14:29:25.452019+00:00",
+   "fetched_at": "2026-11-18T14:59:34.122557+00:00",
    "stale": false,
    "items": [
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4038,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 519,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "cmonGitHubAgain",
      "image": "https://i.redd.it/jnx3yr1ms11i1.png",
      "url": "https://redd.it/1xttllg",
-     "ups": 1228,
+     "ups": 1227,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "comparisonsAreOdorous",
-     "image": "https://i.redd.it/dotk9b6dq82i1.png",
-     "url": "https://redd.it/1xywxga",
-     "ups": 251,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 13,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1179,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
+     "title": "thisBangerOfAQuestionIGotOnAQuizInQualityAssuranceClass",
+     "image": "https://i.redd.it/lv903rr6a01i1.png",
+     "url": "https://redd.it/1xtleu6",
      "ups": 117,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "that one guy",
-     "image": "https://i.redd.it/n8djw7pc572i1.gif",
-     "url": "https://redd.it/1xyoe2c",
-     "ups": 473,
-     "sub": "r/memes"
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 215,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "We got this meme before GTA VI",
-     "image": "https://i.redd.it/lybwt1sf1d2i1.gif",
-     "url": "https://redd.it/1xzdeep",
-     "ups": 3,
-     "sub": "r/memes"
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4115,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Never a happy medium.",
-     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
-     "url": "https://redd.it/1xz4t0r",
-     "ups": 108,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's a me, James Bond!",
-     "image": "https://i.redd.it/w7getakmd62i1.png",
-     "url": "https://redd.it/1xykj2i",
-     "ups": 253,
-     "sub": "r/memes"
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11492,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Best way to die",
@@ -170,16 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 38,
+     "title": "A goat tried to eat my sister's shirt",
+     "image": "https://i.redd.it/geehf5bbg92i1.png",
+     "url": "https://redd.it/1xz0971",
+     "ups": 51,
+     "sub": "r/memes"
+    },
+    {
+     "title": "AI was not used in the making of VoldeRob",
+     "image": "https://i.redd.it/ln2duycnl72i1.png",
+     "url": "https://redd.it/1xyqugv",
+     "ups": 174,
+     "sub": "r/memes"
+    },
+    {
+     "title": "just felt like this needs to be said",
+     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
+     "url": "https://redd.it/1xye9en",
+     "ups": 1829,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Finnally, end of an era of this Meme.",
+     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
+     "url": "https://redd.it/1xzdtiu",
+     "ups": 91,
+     "sub": "r/memes"
+    },
+    {
+     "title": "extra, if there's fruit",
+     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
+     "url": "https://redd.it/1xypdsl",
+     "ups": 432,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T14:29:29.643783+00:00",
+   "fetched_at": "2026-11-18T14:59:39.061328+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Iran drones target Bahrain base",
+     "text": "Baude op-ed defends Supreme Court",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/643ddbec85f7",
      "likes": 0,
      "image": ""
     },
@@ -211,6 +203,14 @@
      "text": "Make a band name bigger",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
@@ -232,33 +232,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "The Game Awards nominations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft, FAA, Zelle outages",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang's Nvidia return bid",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SNL \"Sister\" parody ad",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b8162c8e1b66",
      "likes": 0,
      "image": ""
     },
@@ -272,68 +272,56 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hakeem Jeffries' Democratic leadership",
+     "text": "US loses measles elimination status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8d54393dd74",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Bernie Sanders unveils his plan to push Medicare for All when Democrats take power",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54555959",
-     "likes": 89,
-     "image": "https://lemmy.world/pictrs/image/d29a1dbd-7b00-4aa0-a24b-e7457f4425e0.jpeg"
+     "text": "Voyager 1 is now one light-day from Earth",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54557092",
+     "likes": 60,
+     "image": "https://lemmy.world/pictrs/image/ebe66e69-e743-4189-ae7f-2a0cb86152bf.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "30% of Gen Z in the US is sympathetic to Communism",
+     "text": "SHALL WE PLAY A GAME?",
      "author": "Political Memes",
-     "url": "https://lemmy.ml/post/55456052",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/cc3e89a8-0575-42e6-89f4-ec5ee07b3cb5.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "When you're a starship captain but also want to keep it casual",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://piefed.world/c/tenforward/p/1541683/when-you-re-a-starship-captain-but-also-want-to-keep-it-casual",
+     "url": "https://europe.pub/post/17655496",
      "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/44dafe8f-7e81-4013-ac2c-50760a6cfffe.webp"
+     "image": "https://lemmy.world/pictrs/image/fa8d49ed-30a6-402c-9f80-ea6d0f916983.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
-     "author": "World News",
-     "url": "https://lemmy.nz/post/43967078",
-     "likes": 43,
-     "image": "https://lemmy.world/pictrs/image/74a4cdf3-7098-481f-baeb-b56e294e5a54.jpeg"
+     "text": "banner",
+     "author": "Memes",
+     "url": "https://europe.pub/post/17655217",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/86e3c7e0-7599-4788-b5e2-dbc5e90118d1.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Epstein death \"result of a homicide\", claims forensic medicine expert | BBC News",
+     "author": "Today I Learned",
+     "url": "https://lemmy.world/post/54557156",
+     "likes": 35,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T14:29:30.295617+00:00",
+   "fetched_at": "2026-11-18T14:59:39.554003+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "You know that cemetery up the road? People are dying to get in there.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What did the fish say when it swam into a wall? Damn!",
      "source": "Dad joke"
     },
     {
-     "text": "I am so good at sleeping I can do it with my eyes closed!",
+     "text": "Did you know that ghosts call their true love their ghoul-friend?",
      "source": "Dad joke"
     },
     {
-     "text": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
+     "text": "\"Dad, I'm cold.\"\r\n\"Go stand in the corner, I hear it's 90 degrees.\"",
      "source": "Dad joke"
     }
    ]
