@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:27:16.758820+00:00",
+ "generated_at": "2026-11-18T08:57:22.378972+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,70 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-18T08:27:08.655548+00:00",
+   "fetched_at": "2026-11-18T08:57:19.480500+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 68,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chancesAreLowButNeverZero",
-     "image": "https://i.redd.it/230tjjlzxm0i1.png",
-     "url": "https://redd.it/1xs0jz8",
-     "ups": 2154,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "imTiredBoss",
-     "image": "https://i.redd.it/f6wx82e5za2i1.gif",
-     "url": "https://redd.it/1xz6lkd",
-     "ups": 21,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "technicallyItCompiles",
      "image": "https://i.redd.it/soi73zn4r92i1.png",
      "url": "https://redd.it/1xz1mhm",
-     "ups": 112,
+     "ups": 140,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2532,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
      "image": "https://i.redd.it/0kw9x30oo71i1.png",
      "url": "https://redd.it/1xuhxgr",
-     "ups": 895,
+     "ups": 902,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 369,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "just felt like this needs to be said",
-     "image": "https://i.redd.it/9x1f6cbbl42i1.png",
-     "url": "https://redd.it/1xye9en",
-     "ups": 1720,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11492,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4041,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "\"I Only Speak the Truth \ud83d\udde3\ufe0f\"",
+     "image": "https://i.redd.it/nkhrh4yzy72i1.png",
+     "url": "https://redd.it/1xysthe",
+     "ups": 128,
      "sub": "r/memes"
     },
     {
-     "title": "Family's unofficial secret keeper!! \ud83d\ude02\ud83d\ude02",
-     "image": "https://i.redd.it/88dcewf6x62i1.png",
-     "url": "https://redd.it/1xyn68i",
-     "ups": 58,
+     "title": "that one guy",
+     "image": "https://i.redd.it/n8djw7pc572i1.gif",
+     "url": "https://redd.it/1xyoe2c",
+     "ups": 389,
+     "sub": "r/memes"
+    },
+    {
+     "title": "extra, if there's fruit",
+     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
+     "url": "https://redd.it/1xypdsl",
+     "ups": 381,
      "sub": "r/memes"
     },
     {
@@ -163,102 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's a me, James Bond!",
-     "image": "https://i.redd.it/w7getakmd62i1.png",
-     "url": "https://redd.it/1xykj2i",
-     "ups": 242,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's huge! Get ready for the wave of GTA6 memes and content",
-     "image": "https://i.redd.it/g0fg6qvc5b2i1.png",
-     "url": "https://redd.it/1xz79lw",
-     "ups": 38,
+     "title": "What is wrong with you?",
+     "image": "https://i.redd.it/5hinuo9dsy1i1.png",
+     "url": "https://redd.it/1xxnl61",
+     "ups": 4599,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-18T08:27:15.310942+00:00",
+   "fetched_at": "2026-11-18T08:57:21.015497+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Burnham says Brexit hasn't worked",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia China chip controversy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Second-to-last text caption meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Make a band name bigger",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trash geyser prompts LA health order",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c1f8d5c5b57b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Voyager 1 nears one light-day",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Palmer Luckey reveals SLAB seastead",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/05c8f5256004",
      "likes": 0,
      "image": ""
     },
@@ -279,57 +207,125 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Satellites now outnumber the visible stars above most towns",
-     "author": "Space & Astronomy",
-     "url": "https://feddit.online/c/space_astronomy@piefed.social/p/2122055/satellites-now-outnumber-the-visible-stars-above-most-towns",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/41738805-00f9-4171-a897-74451781b339.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "TIL in 1995 trans woman Tyra Hunter died because firefighters stopped treatment after discovering she was trans and started to call her slurs",
-     "author": "Today I Learned",
-     "url": "https://quokk.au/c/til/p/1333297/til-in-1995-trans-woman-tyra-hunter-died-because-firefighters-stopped-treatment-after-discov",
-     "likes": 30,
+     "kind": "Bluesky trend",
+     "text": "Gas and heating oil prices",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/368443fe6d31",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Second-to-last text caption meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "California bans Waymo from freeways",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8b2b2e456b13",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "\"Get to know your moots\" questionnaire",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Palmer Luckey reveals SLAB seastead",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/05c8f5256004",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Apple services hit by outage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c182645b18b7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia China chip controversy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump, Xi and Putin to meet",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Etsy has fallen",
-     "author": "Fuck AI",
-     "url": "https://sh.itjust.works/post/70100216",
-     "likes": 111,
-     "image": "https://lemmy.world/pictrs/image/8b440d4d-0a96-4fe6-a2d2-2fe067b26cb5.jpeg"
+     "text": "You have seen him rule",
+     "author": "196",
+     "url": "https://feddit.org/post/38162277",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/c29a6e7e-41f0-4e5b-a1c0-43f1c940c00f.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Salute",
      "author": "Comic Strips",
      "url": "https://reddthat.com/post/76808309",
-     "likes": 7,
+     "likes": 27,
      "image": "https://lemmy.world/pictrs/image/deb7aa5e-56bc-476e-9fee-bca0fd4c5f81.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "banner",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55447719",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/f743ba6b-0d5b-47ac-9344-576b5ebaaa3c.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "`SHALL WE PLAY A GAME?`",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55447490",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/8c5af24a-ec16-4399-a679-4aa78694b200.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-18T08:27:16.005603+00:00",
+   "fetched_at": "2026-11-18T08:57:21.651366+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I wouldn't buy anything with velcro. It's a total rip-off.",
      "source": "Dad joke"
     },
     {
-     "text": "Do you know where you can get chicken broth in bulk? The stock market.",
+     "text": "How come the stadium got hot after the game? Because all of the fans left.",
      "source": "Dad joke"
     },
     {
-     "text": "What did one wall say to the other wall? I'll meet you at the corner!",
+     "text": "I wanted to be a tailor but I didn't suit the job",
      "source": "Dad joke"
     }
    ]
