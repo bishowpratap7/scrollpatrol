@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:05:51.959383+00:00",
+ "generated_at": "2026-11-19T12:35:56.282216+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T12:05:49.632971+00:00",
+   "fetched_at": "2026-11-19T12:35:53.829257+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 1,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 934,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4055,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,52 +121,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 2882,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 375,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 15,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 44,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 125,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 682,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Well at least it is fun to play",
-     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
-     "url": "https://redd.it/1xzpu4f",
-     "ups": 1222,
+     "title": "AI CEOs After the Recent Outages",
+     "image": "https://i.redd.it/utg749he8h2i1.png",
+     "url": "https://redd.it/1xzxinh",
+     "ups": 136,
      "sub": "r/memes"
     },
     {
-     "title": "She died for us \ud83d\ude14",
-     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
-     "url": "https://redd.it/1y04zfv",
-     "ups": 5,
+     "title": "Finnally, end of an era of this Meme.",
+     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
+     "url": "https://redd.it/1xzdtiu",
+     "ups": 277,
      "sub": "r/memes"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 421,
+     "title": "Chinese history is a trip",
+     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
+     "url": "https://redd.it/1xzkfod",
+     "ups": 35,
      "sub": "r/memes"
     },
     {
@@ -163,23 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "How I be looking like on the toilet for real",
-     "image": "https://i.redd.it/wvlszxcf6f2i1.png",
-     "url": "https://redd.it/1xznu2t",
-     "ups": 22,
+     "title": "She died for us \ud83d\ude14",
+     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
+     "url": "https://redd.it/1y04zfv",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
-     "title": "Guess we need a new thing to say",
-     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
-     "url": "https://redd.it/1y072wt",
-     "ups": 24,
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 6982,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T12:05:51.129703+00:00",
+   "fetched_at": "2026-11-19T12:35:55.409715+00:00",
    "stale": false,
    "items": [
     {
@@ -192,25 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "World Court rules in Rohingya genocide case",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bc14abe9d5f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Outside site catalogs AO3 fics",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "International Men's Day",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
      "likes": 0,
      "image": ""
     },
@@ -224,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
+     "text": "International Men's Day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
      "likes": 0,
      "image": ""
     },
@@ -240,22 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Greatest detective besides Batman",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Make a band name bigger",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Data center emissions rival Denmark",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
@@ -264,9 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Deutsche Bank document leak",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pew projects global religion shifts",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377dcc805779",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Fiona the hippo swallows hat",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "World Court rules in Rohingya genocide case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bc14abe9d5f",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "What's yours?",
      "author": "Memes",
      "url": "https://reddthat.com/post/76869078",
-     "likes": 14,
+     "likes": 43,
      "image": "https://lemmy.world/pictrs/image/bd195088-5f9d-4b33-8d6c-7362870b8c0a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "ich3\ufe0f\u20e3iel",
-     "author": "ich_iel",
-     "url": "https://feddit.org/post/38208120",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/063e8cac-a5f2-4d13-922d-d626e46619ba.png"
+     "text": "Bad choice of guest",
+     "author": "Comic Strips",
+     "url": "https://lemmy.ca/post/74067088",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/e86d7375-a7c7-46ae-8504-5f01ade686d5.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "4 Black high school students sue after AI mistakes Doritos bag for gun",
-     "author": "Technology",
-     "url": "https://feddit.online/c/technology@lemmy.world/p/2125070/4-black-high-school-students-sue-after-ai-mistakes-doritos-bag-for-gun",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/380edf0f-5e60-42ab-b025-683e5d80fe2f.webp"
+     "text": "Take me out tonight",
+     "author": "memes",
+     "url": "https://lemmy.world/post/54597836",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/26e78678-ae34-4358-a1c0-3f949eb628ed.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "My cat plays with my vacuum robot",
-     "author": "cats",
-     "url": "https://lemmy.world/post/54595982",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/aeac46c6-0d2b-4d92-99c3-9bf119b7507e.jpeg"
+     "text": "\"Moscow lives in peace while we pay with our lives\": The blood tax paid by Russia's distant republics fuelling Putin's war",
+     "author": "Ukraine",
+     "url": "https://scribe.disroot.org/post/12555805",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/89126c67-6bce-45fa-9877-846574ced1a0.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T12:05:51.615224+00:00",
+   "fetched_at": "2026-11-19T12:35:55.902847+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call an alligator in a vest? An in-vest-igator!",
+     "text": "Yesterday a clown held a door open for me. I thought it was a nice jester.",
      "source": "Dad joke"
     },
     {
-     "text": "The invention of the wheel was what got things rolling",
+     "text": "Man, I really love my furniture... me and my recliner go way back.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the traffic light say to the car as it passed? \"Don't look I'm changing!\"",
+     "text": "Why do mathematicians hate the U.S.? Because it's indivisible.",
      "source": "Dad joke"
     }
    ]
