@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:03:33.033868+00:00",
+ "generated_at": "2026-11-19T03:33:38.847077+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T03:03:27.960770+00:00",
+   "fetched_at": "2026-11-19T03:33:35.092748+00:00",
    "stale": false,
    "items": [
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2936,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 45,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 635,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2155,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "comparisonsAreOdorous",
-     "image": "https://i.redd.it/dotk9b6dq82i1.png",
-     "url": "https://redd.it/1xywxga",
-     "ups": 344,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 132,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +114,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 15,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2155,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "that one guy",
-     "image": "https://i.redd.it/n8djw7pc572i1.gif",
-     "url": "https://redd.it/1xyoe2c",
-     "ups": 512,
-     "sub": "r/memes"
+     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
+     "image": "https://i.redd.it/byoe4xung82i1.png",
+     "url": "https://redd.it/1xyvexl",
+     "ups": 13,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 302,
-     "sub": "r/memes"
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1616,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Sad to see, sad to see",
-     "image": "https://i.redd.it/uwl33y1nra2i1.png",
-     "url": "https://redd.it/1xz5to3",
-     "ups": 422,
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 697,
      "sub": "r/memes"
     },
     {
@@ -163,10 +149,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 866,
+     "title": "Finnally, end of an era of this Meme.",
+     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
+     "url": "https://redd.it/1xzdtiu",
+     "ups": 250,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 3543,
      "sub": "r/memes"
     },
     {
@@ -175,21 +168,20 @@
      "url": "https://redd.it/1xznu2t",
      "ups": 16,
      "sub": "r/memes"
+    },
+    {
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 866,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T03:03:29.577182+00:00",
+   "fetched_at": "2026-11-19T03:33:37.244135+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Musk distances himself from MAGA",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/879496e6c423",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Trump frustrated with Vance over Iran",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Second-to-last text caption meme",
+     "text": "Musk distances himself from MAGA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/879496e6c423",
      "likes": 0,
      "image": ""
     },
@@ -216,22 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AEW Dynamite live from Denver",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1bcb99b417f7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Make a band name bigger",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
@@ -240,17 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Outside site catalogs AO3 fics",
+     "text": "Second-to-last text caption meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang's Nvidia return bid",
+     "text": "Anthropic's Claude and planned IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +240,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Fiona the hippo swallows hat",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Best Buy restocks 4K Blu-rays",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce9fb7d09d0e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
+     "text": "Jeffries Speaker caucus vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Token Friends",
-     "author": "Programmer Humor",
-     "url": "https://lemmy.world/post/54574014",
-     "likes": 266,
-     "image": "https://lemmy.world/pictrs/image/3c48900e-fc4a-474c-b35c-3202e617978e.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "A 45-Year-Old Commodore Program Was Recovered From a Paper Printout \u2014 And It Works Again",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54574348",
-     "likes": 166,
-     "image": "https://lemmy.world/pictrs/image/714d0c8a-86d1-49cb-9bcd-5aa1c2bcbac7.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+     "text": "Black high school students sue after AI mistakes Doritos bag for gun",
      "author": "News",
-     "url": "https://lemmy.world/post/54573288",
-     "likes": 217,
-     "image": "https://lemmy.world/pictrs/image/2b272920-5f61-4c70-af7b-9e3590e332f2.jpeg"
+     "url": "https://lemmy.ca/post/74051301",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/2e821fa5-7d4f-44b1-9aad-aa2e4008b040.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "A 45-Year-Old Commodore Program Was Recovered From a Paper Printout \u2014 And It Works Again",
-     "author": "RetroGaming",
-     "url": "https://lemmy.world/post/54574349",
-     "likes": 68,
-     "image": "https://lemmy.world/pictrs/image/5c4c4ad7-45a5-41b8-863c-2b0ee1489b06.jpeg"
+     "text": "Bridge connecting Russia to occupied Crimea has been hit again",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54578078",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/aa835b6c-27ed-4104-9e7d-2b8cddfb6f02.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Putin's Crimean Bridge comes under attack again, Russian official says",
+     "author": "News",
+     "url": "https://lemmy.world/post/54578307",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/f2d69e65-84f1-47a1-b8ed-ceeb28e3f0aa.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Black high school students sue after AI mistakes Doritos bag for gun",
+     "author": "Hacker News",
+     "url": "https://lemmy.bestiver.se/post/1455850",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/606d226d-486b-4999-8c37-99107de87870.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T03:03:32.504559+00:00",
+   "fetched_at": "2026-11-19T03:33:38.293716+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "What did the pirate say on his 80th birthday? Aye Matey!",
+     "text": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a sheep with no legs? A cloud.",
+     "text": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
      "source": "Dad joke"
     },
     {
-     "text": "Why is Peter Pan always flying? Because he Neverlands.",
+     "text": "What time did the man go to the dentist? Tooth hurt-y.",
      "source": "Dad joke"
     }
    ]
