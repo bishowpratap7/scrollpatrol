@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:02:34.503513+00:00",
+ "generated_at": "2026-11-19T00:32:42.016568+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T00:02:30.508763+00:00",
+   "fetched_at": "2026-11-19T00:32:37.937429+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 71,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1231,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 492,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1606,
+     "title": "wellJustTestInProd",
+     "image": "https://i.redd.it/r1na2r58je2i1.png",
+     "url": "https://redd.it/1xzkbmy",
+     "ups": 20,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +107,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 14,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 150,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Bad day to catch a cold",
-     "image": "https://i.redd.it/4ei0035rhd2i1.png",
-     "url": "https://redd.it/1xzf7vj",
-     "ups": 65,
-     "sub": "r/memes"
+     "title": "comparisonsAreOdorous",
+     "image": "https://i.redd.it/dotk9b6dq82i1.png",
+     "url": "https://redd.it/1xywxga",
+     "ups": 330,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Chinese history is a trip",
-     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
-     "url": "https://redd.it/1xzkfod",
-     "ups": 8,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 331,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 16,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 281,
      "sub": "r/memes"
     },
     {
@@ -156,10 +149,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "It's always a shame",
-     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
-     "url": "https://redd.it/1xzgdba",
-     "ups": 3129,
+     "title": "Bad day to catch a cold",
+     "image": "https://i.redd.it/4ei0035rhd2i1.png",
+     "url": "https://redd.it/1xzf7vj",
+     "ups": 65,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Never a happy medium.",
+     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
+     "url": "https://redd.it/1xz4t0r",
+     "ups": 112,
      "sub": "r/memes"
     },
     {
@@ -170,16 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "When will we get the \u201cNew Game+\u201d life update?",
-     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
-     "url": "https://redd.it/1xzdbvx",
-     "ups": 1049,
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 30,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T00:02:32.844849+00:00",
+   "fetched_at": "2026-11-19T00:32:40.272610+00:00",
    "stale": false,
    "items": [
     {
@@ -187,30 +187,6 @@
      "text": "Elon Musk says he's not MAGA",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/45410bf7020d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump frustrated with Vance over Iran",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3aeeea841464",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Make a band name bigger",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +200,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Jeffries Speaker caucus vote",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Make a band name bigger",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Anthropic's Claude and planned IPO",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
@@ -232,17 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Voyager 1 reaches one light-day",
+     "text": "Avengers: Doomsday set photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3f15ebccc28",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Best Buy restocks 4K Blu-rays",
+     "text": "Bancroft speaks on sandpapergate",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce9fb7d09d0e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ee3e6997a9d",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Second-to-last text caption meme",
+     "text": "\"Get to know your moots\" questionnaire",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f39c43865b6f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries Speaker caucus vote",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -279,11 +271,19 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Republican plan for Social Security",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5f66ac940ba1",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "Token Friends",
      "author": "Programmer Humor",
      "url": "https://lemmy.world/post/54574014",
-     "likes": 61,
+     "likes": 113,
      "image": "https://lemmy.world/pictrs/image/3c48900e-fc4a-474c-b35c-3202e617978e.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "A 45-Year-Old Commodore Program Was Recovered From a Paper Printout \u2014 And It Works Again",
      "author": "Technology",
      "url": "https://lemmy.world/post/54574348",
-     "likes": 28,
+     "likes": 49,
      "image": "https://lemmy.world/pictrs/image/714d0c8a-86d1-49cb-9bcd-5aa1c2bcbac7.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
      "author": "News",
      "url": "https://lemmy.world/post/54573288",
-     "likes": 77,
+     "likes": 111,
      "image": "https://lemmy.world/pictrs/image/2b272920-5f61-4c70-af7b-9e3590e332f2.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "A 45-Year-Old Commodore Program Was Recovered From a Paper Printout \u2014 And It Works Again",
      "author": "RetroGaming",
      "url": "https://lemmy.world/post/54574349",
-     "likes": 16,
+     "likes": 24,
      "image": "https://lemmy.world/pictrs/image/5c4c4ad7-45a5-41b8-863c-2b0ee1489b06.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T00:02:33.439192+00:00",
+   "fetched_at": "2026-11-19T00:32:40.942019+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Slept like a log last night \u2026 woke up in the fireplace.",
+     "text": "I saw a documentary on TV last night about how they put ships together.  It was rivetting.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are fish so smart? Because they live in schools!",
+     "text": "Why do bees hum? Because they don't know the words.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to work in a shoe recycling shop. It was sole destroying.",
+     "text": "Hostess: Do you have a preference of where you sit?\r\nDad: Down.",
      "source": "Dad joke"
     }
    ]
