@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T08:04:52.241930+00:00",
+ "generated_at": "2026-11-19T08:34:57.131761+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,30 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T08:04:48.872823+00:00",
+   "fetched_at": "2026-11-19T08:34:54.089746+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1438,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 933,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 21,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "wellJustTestInProd",
      "image": "https://i.redd.it/r1na2r58je2i1.png",
@@ -121,39 +100,39 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 27,
+     "title": "comparisonsAreOdorous",
+     "image": "https://i.redd.it/dotk9b6dq82i1.png",
+     "url": "https://redd.it/1xywxga",
+     "ups": 347,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
-     "image": "https://i.redd.it/byoe4xung82i1.png",
-     "url": "https://redd.it/1xyvexl",
-     "ups": 16,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4057,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 5154,
-     "sub": "r/memes"
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 15,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Things that break the internet.",
-     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
-     "url": "https://redd.it/1xzuvai",
-     "ups": 18,
-     "sub": "r/memes"
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1438,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Bad day to catch a cold",
-     "image": "https://i.redd.it/4ei0035rhd2i1.png",
-     "url": "https://redd.it/1xzf7vj",
-     "ups": 86,
-     "sub": "r/memes"
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2167,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "1 more day",
@@ -163,10 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "I feel like I am missing something important",
-     "image": "https://i.redd.it/omscbgy0hi2i1.png",
-     "url": "https://redd.it/1y0292w",
-     "ups": 48,
+     "title": "Chinese history is a trip",
+     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
+     "url": "https://redd.it/1xzkfod",
+     "ups": 30,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 1082,
      "sub": "r/memes"
     },
     {
@@ -175,13 +161,35 @@
      "url": "https://redd.it/1xzgdba",
      "ups": 4258,
      "sub": "r/memes"
+    },
+    {
+     "title": "AI CEOs After the Recent Outages",
+     "image": "https://i.redd.it/utg749he8h2i1.png",
+     "url": "https://redd.it/1xzxinh",
+     "ups": 90,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Things that break the internet.",
+     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
+     "url": "https://redd.it/1xzuvai",
+     "ups": 18,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T08:04:51.424892+00:00",
+   "fetched_at": "2026-11-19T08:34:56.519607+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
@@ -200,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Anthropic's Claude and planned IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Greatest detective besides Batman",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -224,49 +224,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
+     "text": "Greatest detective besides Batman",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
+     "text": "Russell Brand changes prisons",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Atmospheric river hits California",
+     "text": "Sunrise on the Reaping premieres",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Voyager 1 reaches one light-day",
+     "text": "Owls attack people in Brookline",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c309213bc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Make a band name bigger",
+     "text": "Outside site catalogs AO3 fics",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Burnham says Brexit hasn't worked",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
      "likes": 0,
      "image": ""
     },
@@ -279,77 +271,85 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Hinder's Putney or Pendle remark",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
-     "text": "Engorgment Ring",
-     "author": "196",
-     "url": "https://quokk.au/c/onehundredninetysix/p/1337789/engorgment-ring",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/cf8fdd09-c64b-489b-9e83-bb92134ad288.webp"
+     "text": "New exploit just dropped: cat2shell",
+     "author": "Linux",
+     "url": "https://lemmy.ca/post/74060411",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/c6428c70-a5c6-43cf-8cc0-a8dd60aa2a9e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "When the law exists only to protect the rich from the poor there is no justice... \ud83d\ude12",
+     "author": "A Boring Dystopia",
+     "url": "https://mastodon.art/users/NickEast_IndieWriter/statuses/117642103202773873",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/d800db62-95d8-4f39-90b8-a80781b22da0.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Containment rule",
      "author": "196",
      "url": "https://lemmy.today/post/63530319",
-     "likes": 21,
+     "likes": 37,
      "image": "https://lemmy.world/pictrs/image/3f4b0001-083d-4d59-9ec5-9ae8205ef22b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Lebanese newspaper launches campaign to decriminalise same-sex relationships",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54590596",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/58003e03-c81d-440e-8625-9d71f6edb857.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "A portrait of a friend looking stunning. Dip pen, November 2026.",
-     "author": "Art Share\ud83c\udfa8",
-     "url": "https://lemmy.world/post/54584847",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/26b779c5-92ec-42de-a1c6-5b86cea508c7.jpeg"
+     "text": "Engorgment Ring",
+     "author": "196",
+     "url": "https://quokk.au/c/onehundredninetysix/p/1337789/engorgment-ring",
+     "likes": 45,
+     "image": "https://lemmy.world/pictrs/image/cf8fdd09-c64b-489b-9e83-bb92134ad288.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T08:04:51.888459+00:00",
+   "fetched_at": "2026-11-19T08:34:56.854877+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call your friend who stands in a hole? Phil.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.",
+     "text": "\u2018Put the cat out\u2019 \u2026 \u2018I didn\u2019t realize it was on fire",
      "source": "Dad joke"
     },
     {
-     "text": "Whats a penguins favorite relative? Aunt Arctica.",
+     "text": "What has a bed that you can\u2019t sleep in? A river.",
      "source": "Dad joke"
     }
    ]
