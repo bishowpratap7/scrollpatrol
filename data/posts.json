@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:35:47.893076+00:00",
+ "generated_at": "2026-11-19T12:05:51.959383+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,104 +89,112 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T11:35:45.385654+00:00",
+   "fetched_at": "2026-11-19T12:05:49.632971+00:00",
    "stale": false,
    "items": [
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
+     "title": "itWorksOnMyMachineNow",
+     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
+     "url": "https://redd.it/1y069uu",
+     "ups": 1,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 934,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 899,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4144,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2882,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "comparisonsAreOdorous",
-     "image": "https://i.redd.it/dotk9b6dq82i1.png",
-     "url": "https://redd.it/1xywxga",
-     "ups": 361,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 558,
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 125,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 44,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 682,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Chinese history is a trip",
-     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
-     "url": "https://redd.it/1xzkfod",
-     "ups": 29,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 6224,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Bad day to catch a cold",
-     "image": "https://i.redd.it/4ei0035rhd2i1.png",
-     "url": "https://redd.it/1xzf7vj",
-     "ups": 93,
-     "sub": "r/memes"
     },
     {
      "title": "Well at least it is fun to play",
      "image": "https://i.redd.it/6pgs24aakf2i1.gif",
      "url": "https://redd.it/1xzpu4f",
-     "ups": 1161,
+     "ups": 1222,
      "sub": "r/memes"
     },
     {
-     "title": "It's huge! Get ready for the wave of GTA6 memes and content",
-     "image": "https://i.redd.it/g0fg6qvc5b2i1.png",
-     "url": "https://redd.it/1xz79lw",
-     "ups": 375,
+     "title": "She died for us \ud83d\ude14",
+     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
+     "url": "https://redd.it/1y04zfv",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
-     "title": "Things that break the internet.",
-     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
-     "url": "https://redd.it/1xzuvai",
-     "ups": 16,
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 421,
+     "sub": "r/memes"
+    },
+    {
+     "title": "When will we get the \u201cNew Game+\u201d life update?",
+     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
+     "url": "https://redd.it/1xzdbvx",
+     "ups": 1603,
+     "sub": "r/memes"
+    },
+    {
+     "title": "How I be looking like on the toilet for real",
+     "image": "https://i.redd.it/wvlszxcf6f2i1.png",
+     "url": "https://redd.it/1xznu2t",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Guess we need a new thing to say",
+     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
+     "url": "https://redd.it/1y072wt",
+     "ups": 24,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T11:35:47.253140+00:00",
+   "fetched_at": "2026-11-19T12:05:51.129703+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "World Court rules in Rohingya genocide case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bc14abe9d5f",
      "likes": 0,
      "image": ""
     },
@@ -200,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "International Men's Day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "The Game Awards nominations",
+     "text": "Microsoft, FAA, Zelle outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0bf92d371708",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Voyager 1 reaches one light-day",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
+     "text": "Greatest detective besides Batman",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Atmospheric river hits California",
+     "text": "Make a band name bigger",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Optimizely hack hits major websites",
+     "text": "Data center emissions rival Denmark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbffe525a19d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
      "likes": 0,
      "image": ""
     },
@@ -271,61 +279,57 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Jeffries Speaker caucus vote",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "What's yours?",
+     "author": "Memes",
+     "url": "https://reddthat.com/post/76869078",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/bd195088-5f9d-4b33-8d6c-7362870b8c0a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Another Australian corvid getting harassed",
-     "author": "Photography",
-     "url": "https://piefed.blahaj.zone/c/photography@lemmy.world/p/1090056/another-australian-corvid-getting-harassed",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/f07755c3-3eca-4172-a9dc-0998d2ed668b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "\u201cUkraine Is Fighting for Us\u201d: ABBA Legend Bj\u00f6rn Ulvaeus Donates Over \u20ac100,000 and Calls for More Support",
-     "author": "Europe",
-     "url": "https://lemmy.world/post/54594597",
-     "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/7a71518c-f841-428d-9636-91d25d7983db.jpeg"
+     "text": "ich3\ufe0f\u20e3iel",
+     "author": "ich_iel",
+     "url": "https://feddit.org/post/38208120",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/063e8cac-a5f2-4d13-922d-d626e46619ba.png"
     },
     {
      "kind": "Lemmy post",
      "text": "4 Black high school students sue after AI mistakes Doritos bag for gun",
      "author": "Technology",
      "url": "https://feddit.online/c/technology@lemmy.world/p/2125070/4-black-high-school-students-sue-after-ai-mistakes-doritos-bag-for-gun",
-     "likes": 14,
+     "likes": 42,
      "image": "https://lemmy.world/pictrs/image/380edf0f-5e60-42ab-b025-683e5d80fe2f.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Nestled In Screech Owl",
-     "author": "Superbowl",
-     "url": "https://lemmy.world/post/54595415",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/53ae3373-1383-4e86-84a9-aacb63419a2d.jpeg"
+     "text": "My cat plays with my vacuum robot",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54595982",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/aeac46c6-0d2b-4d92-99c3-9bf119b7507e.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T11:35:47.636076+00:00",
+   "fetched_at": "2026-11-19T12:05:51.615224+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -333,32 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.",
+     "text": "What do you call an alligator in a vest? An in-vest-igator!",
      "source": "Dad joke"
     },
     {
-     "text": "What biscuit does a short person like? Shortbread. ",
+     "text": "The invention of the wheel was what got things rolling",
      "source": "Dad joke"
     },
     {
-     "text": "What did one nut say as he chased another nut?  I'm a cashew!",
+     "text": "What did the traffic light say to the car as it passed? \"Don't look I'm changing!\"",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
