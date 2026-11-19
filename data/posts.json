@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T07:04:41.964853+00:00",
+ "generated_at": "2026-11-19T07:34:46.990452+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T07:04:38.775246+00:00",
+   "fetched_at": "2026-11-19T07:34:43.853605+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4138,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 48,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 300,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 192,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,46 +121,18 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 553,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 266,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 122,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 542,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 72,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
-     "image": "https://i.redd.it/byoe4xung82i1.png",
-     "url": "https://redd.it/1xyvexl",
-     "ups": 16,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Things that break the internet.",
-     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
-     "url": "https://redd.it/1xzuvai",
-     "ups": 15,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Finnally, end of an era of this Meme.",
-     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
-     "url": "https://redd.it/1xzdtiu",
-     "ups": 268,
-     "sub": "r/memes"
     },
     {
      "title": "It's huge! Get ready for the wave of GTA6 memes and content",
@@ -163,10 +149,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "Bad day to catch a cold",
-     "image": "https://i.redd.it/4ei0035rhd2i1.png",
-     "url": "https://redd.it/1xzf7vj",
-     "ups": 84,
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 984,
      "sub": "r/memes"
     },
     {
@@ -175,18 +161,40 @@
      "url": "https://redd.it/1xzkfod",
      "ups": 21,
      "sub": "r/memes"
+    },
+    {
+     "title": "Never a happy medium.",
+     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
+     "url": "https://redd.it/1xz4t0r",
+     "ups": 120,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Finnally, end of an era of this Meme.",
+     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
+     "url": "https://redd.it/1xzdtiu",
+     "ups": 268,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T07:04:41.275891+00:00",
+   "fetched_at": "2026-11-19T07:34:46.245476+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Russell Brand changes prisons",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
      "likes": 0,
      "image": ""
     },
@@ -224,41 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Voyager 1 reaches one light-day",
+     "text": "Make a band name bigger",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Avengers: Doomsday set photos",
+     "text": "Anthropic's Claude and planned IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3f15ebccc28",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Second-to-last text caption meme",
+     "text": "Pew projects global religion shifts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377dcc805779",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "UnitedHealth's quarterly profit",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/426bf08f439b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -271,85 +279,77 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Jeffries Speaker caucus vote",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Engorgment Ring",
+     "author": "196",
+     "url": "https://quokk.au/c/onehundredninetysix/p/1337789/engorgment-ring",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/cf8fdd09-c64b-489b-9e83-bb92134ad288.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Evidence Is Growing That the Massive Tech Outages Are Trump\u2019s Fault: \"If we cut the fire department, we shouldn\u2019t act as if we\u2019re surprised when we can\u2019t put out the fires.\"",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54582314",
-     "likes": 79,
-     "image": "https://lemmy.world/pictrs/image/5480402d-b04b-43fb-97ba-48b2c8db9629.jpeg"
+     "text": "Welcome back to Portugal as the country with the longest European bridge (again)",
+     "author": "Europe",
+     "url": "https://sh.itjust.works/post/70150168",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/aaf5d19a-3ec4-4bc5-9c51-b674ae7547f7.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Overnighter in the Victorian High Country",
-     "author": "camping",
-     "url": "https://aussie.zone/post/38580769",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/339cf435-cbaa-43f7-a07f-318a9a162f57.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Old drawings - the princess and the apprentice",
+     "text": "A portrait of a friend looking stunning. Dip pen, November 2026.",
      "author": "Art Share\ud83c\udfa8",
-     "url": "https://jlai.lu/post/46373942",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/fc3c829c-f156-4b78-8cf3-1693c4214c1e.jpeg"
+     "url": "https://lemmy.world/post/54584847",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/26b779c5-92ec-42de-a1c6-5b86cea508c7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "What foods do you stick to?",
-     "author": "Autism",
-     "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1078311/what-foods-do-you-stick-to",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/71d5cd31-b676-435c-afb2-098168dd80d5.jpeg"
+     "text": "Web server: nginx update fixes serious vulnerabilities",
+     "author": "Free Software",
+     "url": "https://discuss.tchncs.de/post/71111202",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/3374ccbc-bed3-49d3-af91-1b454d99031a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T07:04:41.720712+00:00",
+   "fetched_at": "2026-11-19T07:34:46.714019+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
     {
      "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What did the dog say to the two trees? Bark bark.",
      "source": "Dad joke"
     },
     {
-     "text": "Atheism is a non-prophet organisation.",
+     "text": "How do you make a hankie dance? Put a little boogie in it.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a fish wearing a bowtie? Sofishticated.",
+     "text": "What's blue and not very heavy?  Light blue.",
      "source": "Dad joke"
     }
    ]
