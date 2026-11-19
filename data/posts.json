@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:38:00.226317+00:00",
+ "generated_at": "2026-11-19T21:38:19.955731+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T21:37:57.282269+00:00",
+   "fetched_at": "2026-11-19T21:38:15.936133+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 76,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 27,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11491,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,59 +114,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 27,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 211,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2935,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4148,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 578,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 305,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 2971,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Guess we need a new thing to say",
-     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
-     "url": "https://redd.it/1y072wt",
-     "ups": 262,
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 1372,
      "sub": "r/memes"
     },
     {
-     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
-     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
-     "url": "https://redd.it/1y0ib7g",
-     "ups": 9,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA 6 has already generated over $1.5 billion in revenue",
-     "image": "https://i.redd.it/kedaqytjzl2i1.png",
-     "url": "https://redd.it/1y0g7by",
-     "ups": 276,
-     "sub": "r/memes"
-    },
-    {
-     "title": "gas is absolutely GAS bro",
-     "image": "https://i.redd.it/0hk9ren1jl2i1.png",
-     "url": "https://redd.it/1y0dqwj",
-     "ups": 4355,
+     "title": "the myth of consensual trade",
+     "image": "https://i.redd.it/56gq9dhrak2i1.png",
+     "url": "https://redd.it/1y0813s",
+     "ups": 533,
      "sub": "r/memes"
     },
     {
@@ -170,16 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "Words cannot describe how \"very\" I am",
-     "image": "https://i.redd.it/thyixefupl2i1.png",
-     "url": "https://redd.it/1y0er7g",
-     "ups": 5,
+     "title": "I feel like I am missing something important",
+     "image": "https://i.redd.it/omscbgy0hi2i1.png",
+     "url": "https://redd.it/1y0292w",
+     "ups": 236,
+     "sub": "r/memes"
+    },
+    {
+     "title": "AI CEOs After the Recent Outages",
+     "image": "https://i.redd.it/utg749he8h2i1.png",
+     "url": "https://redd.it/1xzxinh",
+     "ups": 181,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Guess we need a new thing to say",
+     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
+     "url": "https://redd.it/1y072wt",
+     "ups": 262,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T21:37:58.828319+00:00",
+   "fetched_at": "2026-11-19T21:38:18.284204+00:00",
    "stale": false,
    "items": [
     {
@@ -307,33 +307,21 @@
      "text": "SMBC - Juice",
      "author": "Comic Strips",
      "url": "https://europe.pub/post/17689374",
-     "likes": 66,
+     "likes": 67,
      "image": "https://lemmy.world/pictrs/image/1cf1f66a-6d98-494d-b871-8560eca87670.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T21:37:59.442065+00:00",
+   "fetched_at": "2026-11-19T21:38:18.977201+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "I used to work for a soft drink can crusher. It was soda pressing.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Where does batman go to the bathroom? The batroom.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the barber win the race? He took a short cut.",
+     "text": "What did the dog say to the two trees? Bark bark.",
      "source": "Dad joke"
     },
     {
-     "text": "An apple a day keeps the bullies away. If you throw it hard enough.",
+     "text": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
      "source": "Dad joke"
     }
    ]
