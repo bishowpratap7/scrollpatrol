@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:36:36.142957+00:00",
+ "generated_at": "2026-11-19T16:36:53.506114+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T16:36:34.133917+00:00",
+   "fetched_at": "2026-11-19T16:36:48.602269+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "imTiredBoss",
-     "image": "https://i.redd.it/f6wx82e5za2i1.gif",
-     "url": "https://redd.it/1xz6lkd",
-     "ups": 151,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "kswapdIsAgeist",
      "image": "https://i.redd.it/fkef0qbna81i1.gif",
@@ -107,10 +100,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 2917,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 76,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4145,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,38 +121,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
-     "image": "https://i.redd.it/byoe4xung82i1.png",
-     "url": "https://redd.it/1xyvexl",
-     "ups": 12,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 28,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 398,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I feel like I am missing something important",
-     "image": "https://i.redd.it/omscbgy0hi2i1.png",
-     "url": "https://redd.it/1y0292w",
-     "ups": 208,
+     "title": "Finnally, end of an era of this Meme.",
+     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
+     "url": "https://redd.it/1xzdtiu",
+     "ups": 287,
      "sub": "r/memes"
     },
     {
-     "title": "the myth of consensual trade",
-     "image": "https://i.redd.it/56gq9dhrak2i1.png",
-     "url": "https://redd.it/1y0813s",
-     "ups": 282,
+     "title": "She died for us \ud83d\ude14",
+     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
+     "url": "https://redd.it/1y04zfv",
+     "ups": 22,
      "sub": "r/memes"
     },
     {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 161,
+     "title": "this is bullsit",
+     "image": "https://i.redd.it/rycqtb2l3l2i1.gif",
+     "url": "https://redd.it/1y0bjd9",
+     "ups": 4,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 4730,
      "sub": "r/memes"
     },
     {
@@ -168,18 +175,11 @@
      "url": "https://redd.it/1xzdbvx",
      "ups": 1667,
      "sub": "r/memes"
-    },
-    {
-     "title": "It's always a shame",
-     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
-     "url": "https://redd.it/1xzgdba",
-     "ups": 4730,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T16:36:35.317683+00:00",
+   "fetched_at": "2026-11-19T16:36:52.130363+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "Butt (2026-11-17)",
      "author": "Comic Strips",
      "url": "https://lemmy.world/post/54604319",
-     "likes": 43,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/9160b490-0821-4ce1-ae3a-07efc34ff671.png"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Grand task auto six",
      "author": "Lemmy Shitpost",
      "url": "https://sh.itjust.works/post/70167662",
-     "likes": 110,
+     "likes": 112,
      "image": "https://lemmy.world/pictrs/image/48f3113a-49a8-4470-8e3f-ac5a237dd747.jpeg"
     },
     {
@@ -313,19 +313,27 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T16:36:35.718497+00:00",
+   "fetched_at": "2026-11-19T16:36:52.680488+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What kind of music do planets listen to? Nep-tunes.",
+     "text": "The urge to sing the Lion King song is just a whim away.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a pile of cats?  A Meowtain.",
+     "text": "What do you do on a remote island? Try and find the TV island it belongs to.",
      "source": "Dad joke"
     },
     {
-     "text": "Why can't you use \"Beef stew\" as a password? Because it's not stroganoff.",
+     "text": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
      "source": "Dad joke"
     }
    ]
