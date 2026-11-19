@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:35:56.282216+00:00",
+ "generated_at": "2026-11-19T13:06:00.147887+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,56 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T12:35:53.829257+00:00",
+   "fetched_at": "2026-11-19T13:05:58.114049+00:00",
    "stale": false,
    "items": [
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 70,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 360,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 934,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4142,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4055,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 123,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 899,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 375,
-     "sub": "r/ProgrammerHumor"
+     "title": "When will we get the \u201cNew Game+\u201d life update?",
+     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
+     "url": "https://redd.it/1xzdbvx",
+     "ups": 1603,
+     "sub": "r/memes"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 44,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 136,
+     "title": "Things that break the internet.",
+     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
+     "url": "https://redd.it/1xzuvai",
+     "ups": 20,
      "sub": "r/memes"
     },
     {
@@ -149,39 +156,40 @@
      "sub": "r/memes"
     },
     {
-     "title": "Chinese history is a trip",
-     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
-     "url": "https://redd.it/1xzkfod",
-     "ups": 35,
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 1222,
      "sub": "r/memes"
     },
     {
-     "title": "When will we get the \u201cNew Game+\u201d life update?",
-     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
-     "url": "https://redd.it/1xzdbvx",
-     "ups": 1603,
+     "title": "Sad to see, sad to see",
+     "image": "https://i.redd.it/uwl33y1nra2i1.png",
+     "url": "https://redd.it/1xz5to3",
+     "ups": 435,
      "sub": "r/memes"
     },
     {
-     "title": "She died for us \ud83d\ude14",
-     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
-     "url": "https://redd.it/1y04zfv",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 6982,
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 4555,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T12:35:55.409715+00:00",
+   "fetched_at": "2026-11-19T13:05:59.200971+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
@@ -192,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Outside site catalogs AO3 fics",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
      "likes": 0,
      "image": ""
     },
@@ -224,33 +232,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Data center emissions rival Denmark",
+     "text": "Avengers: Doomsday set photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3f15ebccc28",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
+     "text": "Greatest detective besides Batman",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pew projects global religion shifts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377dcc805779",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Fiona the hippo swallows hat",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
      "likes": 0,
      "image": ""
     },
@@ -259,6 +251,14 @@
      "text": "Pattinson will be next James Bond",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Owls attack people in Brookline",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c309213bc",
      "likes": 0,
      "image": ""
     },
@@ -280,56 +280,56 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "What's yours?",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/76869078",
-     "likes": 43,
-     "image": "https://lemmy.world/pictrs/image/bd195088-5f9d-4b33-8d6c-7362870b8c0a.jpeg"
+     "text": "Take me out tonight",
+     "author": "memes",
+     "url": "https://lemmy.world/post/54597836",
+     "likes": 73,
+     "image": "https://lemmy.world/pictrs/image/26e78678-ae34-4358-a1c0-3f949eb628ed.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Bad choice of guest",
      "author": "Comic Strips",
      "url": "https://lemmy.ca/post/74067088",
-     "likes": 11,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/e86d7375-a7c7-46ae-8504-5f01ade686d5.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Take me out tonight",
-     "author": "memes",
-     "url": "https://lemmy.world/post/54597836",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/26e78678-ae34-4358-a1c0-3f949eb628ed.jpeg"
+     "text": "Escitalo*rule*",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50678544",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/3bb3a232-44d4-493a-a8a7-18f84321c33e.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "\"Moscow lives in peace while we pay with our lives\": The blood tax paid by Russia's distant republics fuelling Putin's war",
-     "author": "Ukraine",
-     "url": "https://scribe.disroot.org/post/12555805",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/89126c67-6bce-45fa-9877-846574ced1a0.jpeg"
+     "text": "What's yours?",
+     "author": "Memes",
+     "url": "https://reddthat.com/post/76869078",
+     "likes": 92,
+     "image": "https://lemmy.world/pictrs/image/bd195088-5f9d-4b33-8d6c-7362870b8c0a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T12:35:55.902847+00:00",
+   "fetched_at": "2026-11-19T13:05:59.676553+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
     {
      "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
@@ -337,28 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Yesterday a clown held a door open for me. I thought it was a nice jester.",
+     "text": "What do you call a boy who stopped digging holes? Douglas.",
      "source": "Dad joke"
     },
     {
-     "text": "Man, I really love my furniture... me and my recliner go way back.",
+     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do mathematicians hate the U.S.? Because it's indivisible.",
+     "text": "What do you call a troublesome Canadian high schooler? A poutine.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
