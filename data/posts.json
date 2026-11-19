@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T05:03:55.709861+00:00",
+ "generated_at": "2026-11-19T05:34:01.935562+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T05:03:52.232967+00:00",
+   "fetched_at": "2026-11-19T05:33:58.122098+00:00",
    "stale": false,
    "items": [
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2157,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2826,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 524,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 393,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11495,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 379,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 619,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wellJustTestInProd",
-     "image": "https://i.redd.it/r1na2r58je2i1.png",
-     "url": "https://redd.it/1xzkbmy",
-     "ups": 32,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 9,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "choosingMyFirstProgrammingLanguage",
-     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
-     "url": "https://redd.it/1xv7ls8",
-     "ups": 0,
+     "title": "comparisonsAreOdorous",
+     "image": "https://i.redd.it/dotk9b6dq82i1.png",
+     "url": "https://redd.it/1xywxga",
+     "ups": 343,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Sad to see, sad to see",
-     "image": "https://i.redd.it/uwl33y1nra2i1.png",
-     "url": "https://redd.it/1xz5to3",
-     "ups": 423,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Things that break the internet.",
-     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
-     "url": "https://redd.it/1xzuvai",
-     "ups": 11,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Chinese history is a trip",
-     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
-     "url": "https://redd.it/1xzkfod",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 359,
+     "title": "AI CEOs After the Recent Outages",
+     "image": "https://i.redd.it/utg749he8h2i1.png",
+     "url": "https://redd.it/1xzxinh",
+     "ups": 42,
      "sub": "r/memes"
     },
     {
@@ -170,31 +149,52 @@
      "sub": "r/memes"
     },
     {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 42,
+     "title": "Farewell, we move to a new ERA",
+     "image": "https://i.redd.it/nnvxpwgalh2i1.png",
+     "url": "https://redd.it/1xzz0sf",
+     "ups": 0,
+     "sub": "r/memes"
+    },
+    {
+     "title": "When will we get the \u201cNew Game+\u201d life update?",
+     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
+     "url": "https://redd.it/1xzdbvx",
+     "ups": 1290,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 3845,
+     "sub": "r/memes"
+    },
+    {
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 359,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T05:03:54.658727+00:00",
+   "fetched_at": "2026-11-19T05:34:00.658323+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Greatest detective besides Batman",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic's Claude and planned IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Best Buy restocks 4K Blu-rays",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce9fb7d09d0e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang's Nvidia return bid",
+     "text": "Deutsche Bank document leak",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Dere type personality test results",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jeffries Speaker caucus vote",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
      "likes": 0,
      "image": ""
     },
@@ -279,41 +271,49 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Let the frog posting commence",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54580549",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/f5e5143c-3ae0-4473-ab64-e6497f76b4e3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I meant Stephen Miller, but google makes a surprisingly good point...",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54580527",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/4ea60159-e51e-4ad4-8b29-502f61cc14ff.png"
+     "kind": "Bluesky trend",
+     "text": "US loses measles elimination status",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Abject Poverty [flork of cows]",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70146032",
-     "likes": 7,
-     "image": "https://lemmy.world/pictrs/image/eef9efc5-792c-41f2-bd3c-3ba560ab807b.png"
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/cb9a8ff2-b080-40a9-9d7c-a7a8d714b0fc.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Waymo pauses robotaxi service amid San Francisco storms: \u2018We were kind of just stuck there\u2019",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54581143",
-     "likes": 4,
-     "image": ""
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1078325/me-irl",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/708be16a-d962-48cf-a83f-b511f9840fce.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Let the frog posting commence",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54580549",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/f5e5143c-3ae0-4473-ab64-e6497f76b4e3.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Anon is left out",
+     "author": "Greentext",
+     "url": "https://sh.itjust.works/post/70146031",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/d9fdb9f9-9ca6-4be3-8ab7-9e6b52a17f4b.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T05:03:55.224316+00:00",
+   "fetched_at": "2026-11-19T05:34:01.379057+00:00",
    "stale": false,
    "items": [
     {
@@ -321,19 +321,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Camping is intense.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What did one wall say to the other wall? I'll meet you at the corner!",
      "source": "Dad joke"
     },
     {
-     "text": "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
+     "text": "A boy dug three holes in the yard. When his mother saw, she exclaimed: \"well, well, well\"",
      "source": "Dad joke"
     },
     {
-     "text": "Me and my mates are in a band called Duvet. We're a cover band.",
+     "text": "I couldn't get a reservation at the library. They were completely booked.",
      "source": "Dad joke"
     }
    ]
