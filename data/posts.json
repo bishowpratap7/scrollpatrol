@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:38:19.955731+00:00",
+ "generated_at": "2026-11-19T22:08:26.261206+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T21:38:15.936133+00:00",
+   "fetched_at": "2026-11-19T22:08:22.447336+00:00",
    "stale": false,
    "items": [
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 27,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 76,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11491,
+     "title": "cmonGitHubAgain",
+     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
+     "url": "https://redd.it/1xttllg",
+     "ups": 1234,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 83,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 466,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 578,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 24,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,65 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4148,
-     "sub": "r/ProgrammerHumor"
+     "title": "the myth of consensual trade",
+     "image": "https://i.redd.it/56gq9dhrak2i1.png",
+     "url": "https://redd.it/1y0813s",
+     "ups": 611,
+     "sub": "r/memes"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 305,
-     "sub": "r/ProgrammerHumor"
+     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
+     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
+     "url": "https://redd.it/1y0ib7g",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "She died for us \ud83d\ude14",
+     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
+     "url": "https://redd.it/1y04zfv",
+     "ups": 20,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He's taking all the jobs.",
+     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
+     "url": "https://redd.it/1y0jb3n",
+     "ups": 103,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Words cannot describe how \"very\" I am",
+     "image": "https://i.redd.it/thyixefupl2i1.png",
+     "url": "https://redd.it/1y0er7g",
+     "ups": 4,
+     "sub": "r/memes"
     },
     {
      "title": "Well at least it is fun to play",
      "image": "https://i.redd.it/6pgs24aakf2i1.gif",
      "url": "https://redd.it/1xzpu4f",
-     "ups": 1372,
-     "sub": "r/memes"
-    },
-    {
-     "title": "the myth of consensual trade",
-     "image": "https://i.redd.it/56gq9dhrak2i1.png",
-     "url": "https://redd.it/1y0813s",
-     "ups": 533,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The body of Christ",
-     "image": "https://i.redd.it/12o8sbsktk2i1.png",
-     "url": "https://redd.it/1y0a6zx",
-     "ups": 79,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I feel like I am missing something important",
-     "image": "https://i.redd.it/omscbgy0hi2i1.png",
-     "url": "https://redd.it/1y0292w",
-     "ups": 236,
-     "sub": "r/memes"
-    },
-    {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 181,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Guess we need a new thing to say",
-     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
-     "url": "https://redd.it/1y072wt",
-     "ups": 262,
+     "ups": 1412,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T21:38:18.284204+00:00",
+   "fetched_at": "2026-11-19T22:08:24.794977+00:00",
    "stale": false,
    "items": [
     {
@@ -187,78 +187,6 @@
      "text": "Putin cites Anchorage compromises on Ukraine",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nintendo Wii turns 20",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a6a465cde2d9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Death of Fiona the hippo",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ashton Kutcher's firm gains from Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Names parents almost chose",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Economics grad charts male loneliness",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b310f48f2fff",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia chips and China's military",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Warrior of Light and Azem prompt",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/20256b388433",
      "likes": 0,
      "image": ""
     },
@@ -272,64 +200,132 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Cincinnati Zoo's Fiona dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Names parents almost chose",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kutcher's firm and Anthropic IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Wave of software vulnerability disclosures",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nintendo Wii turns 20",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a6a465cde2d9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Archive of Our Own goes down",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "NFL suspends Puka Nacua three games",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/da8cf6885ec7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate weighs BAAJA permitting bill",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Jeffries, Who\u2019s Pledged to End Trump\u2019s War on Iran, Says \u201cNo\u201d on Defunding It",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54615323",
+     "likes": 35,
+     "image": "https://truthout.org/app/uploads/2026/11/2026_11-18-hakeem-jeffries-1200x675.jpg"
     },
     {
      "kind": "Lemmy post",
      "text": "the chair [Li Chen]",
      "author": "Comic Strips",
      "url": "https://lemmus.org/post/27034389",
-     "likes": 39,
+     "likes": 82,
      "image": "https://lemmy.world/pictrs/image/b92819d0-039c-4054-b22b-266a498d3fc0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "November does even have afternoons",
-     "author": "Funny: Home of the Haha",
-     "url": "https://lemmy.world/post/54613546",
-     "likes": 79,
-     "image": "https://lemmy.world/pictrs/image/36e51009-2b74-4127-9713-91dfa7392cce.jpeg"
+     "text": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
+     "author": "World News",
+     "url": "https://lemmy.world/post/54615002",
+     "likes": 43,
+     "image": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3BResize%3D860"
     },
     {
      "kind": "Lemmy post",
      "text": "The future is bright",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.zip/post/75318606",
-     "likes": 19,
+     "likes": 57,
      "image": "https://lemmy.zip/pictrs/image/877e1cb6-a386-46cb-801f-e0946a51f95e.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "SMBC - Juice",
-     "author": "Comic Strips",
-     "url": "https://europe.pub/post/17689374",
-     "likes": 67,
-     "image": "https://lemmy.world/pictrs/image/1cf1f66a-6d98-494d-b871-8560eca87670.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T21:38:18.977201+00:00",
+   "fetched_at": "2026-11-19T22:08:25.302463+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -337,28 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Where does batman go to the bathroom? The batroom.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What kind of music do mummy's like? Rap",
      "source": "Dad joke"
     },
     {
-     "text": "What did the dog say to the two trees? Bark bark.",
+     "text": "What did the hat say to the scarf?\r\nYou can hang around. I'll just go on ahead.\r\n",
      "source": "Dad joke"
     },
     {
-     "text": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
+     "text": "Yesterday, I accidentally swallowed some food coloring. The doctor says I\u2019m okay, but I feel like I\u2019ve dyed a little inside.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
