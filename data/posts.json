@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:06:00.147887+00:00",
+ "generated_at": "2026-11-19T13:36:05.608578+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,37 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T13:05:58.114049+00:00",
+   "fetched_at": "2026-11-19T13:36:01.979508+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 70,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 360,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4142,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "thanksWebSphere",
      "image": "https://i.redd.it/oern6i93ki2i1.png",
@@ -128,17 +100,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 0,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 28,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "When will we get the \u201cNew Game+\u201d life update?",
-     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
-     "url": "https://redd.it/1xzdbvx",
-     "ups": 1603,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2904,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 956,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cmonGitHubAgain",
+     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
+     "url": "https://redd.it/1xttllg",
+     "ups": 1228,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 692,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 421,
      "sub": "r/memes"
     },
     {
@@ -149,24 +149,24 @@
      "sub": "r/memes"
     },
     {
-     "title": "Finnally, end of an era of this Meme.",
-     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
-     "url": "https://redd.it/1xzdtiu",
-     "ups": 277,
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 6982,
      "sub": "r/memes"
     },
     {
-     "title": "Well at least it is fun to play",
-     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
-     "url": "https://redd.it/1xzpu4f",
-     "ups": 1222,
+     "title": "When will we get the \u201cNew Game+\u201d life update?",
+     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
+     "url": "https://redd.it/1xzdbvx",
+     "ups": 1603,
      "sub": "r/memes"
     },
     {
-     "title": "Sad to see, sad to see",
-     "image": "https://i.redd.it/uwl33y1nra2i1.png",
-     "url": "https://redd.it/1xz5to3",
-     "ups": 435,
+     "title": "AI CEOs After the Recent Outages",
+     "image": "https://i.redd.it/utg749he8h2i1.png",
+     "url": "https://redd.it/1xzxinh",
+     "ups": 136,
      "sub": "r/memes"
     },
     {
@@ -179,17 +179,9 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T13:05:59.200971+00:00",
+   "fetched_at": "2026-11-19T13:36:04.615762+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Outside site catalogs AO3 fics",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
      "likes": 0,
      "image": ""
     },
@@ -224,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +232,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Outside site catalogs AO3 fics",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Greatest detective besides Batman",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
@@ -248,17 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
+     "text": "Voyager 1 reaches one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Owls attack people in Brookline",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/396c309213bc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
      "likes": 0,
      "image": ""
     },
@@ -280,56 +280,44 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "Take me out tonight",
-     "author": "memes",
-     "url": "https://lemmy.world/post/54597836",
-     "likes": 73,
-     "image": "https://lemmy.world/pictrs/image/26e78678-ae34-4358-a1c0-3f949eb628ed.jpeg"
+     "text": "Top Dems warn Elon Musk his MAGA U-turn won\u2019t save him from investigation: \u2018Still getting a subpoena\u2019",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54598986",
+     "likes": 55,
+     "image": "https://lemmy.world/pictrs/image/c4856b02-6da5-4a24-9aff-bcc306cae2af.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Bad choice of guest",
-     "author": "Comic Strips",
-     "url": "https://lemmy.ca/post/74067088",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/e86d7375-a7c7-46ae-8504-5f01ade686d5.png"
+     "text": "Ready to Slurp",
+     "author": "Bats",
+     "url": "https://lemmy.zip/post/75294957",
+     "likes": 26,
+     "image": "https://lemmy.zip/api/v3/image_proxy?url=https%3A%2F%2Flemmy.world%2Fpictrs%2Fimage%2F750551f1-3424-4c73-b15b-ac0850da2914.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Escitalo*rule*",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50678544",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/3bb3a232-44d4-493a-a8a7-18f84321c33e.webp"
+     "text": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
+     "author": "News",
+     "url": "https://lemmy.world/post/54599018",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/45400897-e8df-4dd5-ab83-524c9dc5d746.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "What's yours?",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/76869078",
-     "likes": 92,
-     "image": "https://lemmy.world/pictrs/image/bd195088-5f9d-4b33-8d6c-7362870b8c0a.jpeg"
+     "text": "I have a weekend-long session coming up involving 24/7 nudity, a collar, chains, free use, cooking, cleaning, and more",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54599048",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/1c100be1-0282-40d3-8d5a-fa06498e3bae.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T13:05:59.676553+00:00",
+   "fetched_at": "2026-11-19T13:36:05.209720+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
@@ -337,19 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a boy who stopped digging holes? Douglas.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What did the digital clock say to the grandfather clock? Look, no hands!",
      "source": "Dad joke"
     },
     {
-     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
+     "text": "Leather is great for sneaking around because it's made of hide.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a troublesome Canadian high schooler? A poutine.",
+     "text": "Q: What did the spaghetti say to the other spaghetti?\r\nA: Pasta la vista, baby!",
      "source": "Dad joke"
     }
    ]
