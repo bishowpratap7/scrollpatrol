@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:04:07.053147+00:00",
+ "generated_at": "2026-11-19T06:34:12.411376+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T06:04:03.985858+00:00",
+   "fetched_at": "2026-11-19T06:34:08.929770+00:00",
    "stale": false,
    "items": [
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 246,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2930,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,52 +107,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 193,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 393,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 19,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2826,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wellJustTestInProd",
-     "image": "https://i.redd.it/r1na2r58je2i1.png",
-     "url": "https://redd.it/1xzkbmy",
-     "ups": 32,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11495,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4057,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 808,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 390,
+     "title": "AI CEOs After the Recent Outages",
+     "image": "https://i.redd.it/utg749he8h2i1.png",
+     "url": "https://redd.it/1xzxinh",
+     "ups": 70,
      "sub": "r/memes"
     },
     {
-     "title": "Never a happy medium.",
-     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
-     "url": "https://redd.it/1xz4t0r",
-     "ups": 120,
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 4044,
      "sub": "r/memes"
     },
     {
-     "title": "Things that break the internet.",
-     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
-     "url": "https://redd.it/1xzuvai",
-     "ups": 15,
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 984,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Sad to see, sad to see",
+     "image": "https://i.redd.it/uwl33y1nra2i1.png",
+     "url": "https://redd.it/1xz5to3",
+     "ups": 432,
+     "sub": "r/memes"
+    },
+    {
+     "title": "How I be looking like on the toilet for real",
+     "image": "https://i.redd.it/wvlszxcf6f2i1.png",
+     "url": "https://redd.it/1xznu2t",
+     "ups": 18,
      "sub": "r/memes"
     },
     {
@@ -161,25 +175,11 @@
      "url": "https://redd.it/1xzgdba",
      "ups": 4065,
      "sub": "r/memes"
-    },
-    {
-     "title": "Finnally, end of an era of this Meme.",
-     "image": "https://i.redd.it/6s8q3kib5d2i1.png",
-     "url": "https://redd.it/1xzdtiu",
-     "ups": 268,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Chinese history is a trip",
-     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
-     "url": "https://redd.it/1xzkfod",
-     "ups": 21,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T06:04:05.920903+00:00",
+   "fetched_at": "2026-11-19T06:34:10.950051+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Trump, Xi and Putin to meet",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Musk distances himself from MAGA",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/879496e6c423",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AEW Dynamite live from Denver",
+     "text": "Musk distances himself from MAGA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1bcb99b417f7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/879496e6c423",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Make a band name bigger",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The Rings of Power season 3",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cb7dadee975e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Deutsche Bank document leak",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
      "likes": 0,
      "image": ""
     },
@@ -232,30 +256,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Atmospheric river hits California",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Dere type personality test results",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Canada tests emergency alert system",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
@@ -264,17 +264,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army to detonate lead explosives in Iowa",
+     "text": "Ukrainian strike collapses Crimean Bridge",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham says Brexit hasn't worked",
+     "text": "Jeffries Speaker caucus vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
      "likes": 0,
      "image": ""
     },
@@ -283,37 +283,37 @@
      "text": "Evidence Is Growing That the Massive Tech Outages Are Trump\u2019s Fault: \"If we cut the fire department, we shouldn\u2019t act as if we\u2019re surprised when we can\u2019t put out the fires.\"",
      "author": "politics ",
      "url": "https://lemmy.world/post/54582314",
-     "likes": 21,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/5480402d-b04b-43fb-97ba-48b2c8db9629.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "What foods do you stick to?",
+     "author": "Autism",
+     "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1078311/what-foods-do-you-stick-to",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/71d5cd31-b676-435c-afb2-098168dd80d5.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Americans are revolting against Trump's right-wing Christian makeover: report",
      "author": "politics ",
      "url": "https://lemmy.world/post/54582180",
-     "likes": 25,
+     "likes": 42,
      "image": "https://lemmy.world/pictrs/image/a4b88206-e836-43ca-8ba3-8dbdf3141dc6.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Abject Poverty [flork of cows]",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70146032",
-     "likes": 64,
-     "image": "https://lemmy.world/pictrs/image/cb9a8ff2-b080-40a9-9d7c-a7a8d714b0fc.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Me_irl",
-     "author": "me_irl",
-     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1078325/me-irl",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/708be16a-d962-48cf-a83f-b511f9840fce.jpeg"
+     "text": "AI Is Breaking the Entire Structure of Software That Powers the World: The systems we take for granted are crumbling before our eyes.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54582215",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/f9f3686f-a737-4d3c-9961-6f8aab2bf461.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T06:04:06.652925+00:00",
+   "fetched_at": "2026-11-19T06:34:11.749040+00:00",
    "stale": false,
    "items": [
     {
@@ -321,35 +321,35 @@
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Why do scuba divers fall backwards into the water? Because if they fell forwards they\u2019d still be in the boat.",
+     "text": "What\u2019s the difference between an African elephant and an Indian elephant? About 5000 miles.",
      "source": "Dad joke"
     },
     {
-     "text": "Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!",
+     "text": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
      "source": "Dad joke"
     },
     {
-     "text": "I\u2019m only familiar with 25 letters in the English language. I don\u2019t know why.",
+     "text": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.",
      "source": "Dad joke"
     }
    ]
