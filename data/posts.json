@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:08:39.443019+00:00",
+ "generated_at": "2026-11-19T23:38:46.272274+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T23:08:34.830950+00:00",
+   "fetched_at": "2026-11-19T23:38:42.318017+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1229,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4076,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 134,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 958,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 1727,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 768,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 276,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 2,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 381,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2935,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 477,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2983,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "\"we got X before GTA VI\" is dead, but there's one thing we'll get everything before...",
-     "image": "https://i.redd.it/igleqy2jjm2i1.png",
-     "url": "https://redd.it/1y0j0sd",
-     "ups": 18,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 9096,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA 6 has already generated over $1.5 billion in revenue",
-     "image": "https://i.redd.it/kedaqytjzl2i1.png",
-     "url": "https://redd.it/1y0g7by",
-     "ups": 536,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Words cannot describe how \"very\" I am",
-     "image": "https://i.redd.it/thyixefupl2i1.png",
-     "url": "https://redd.it/1y0er7g",
-     "ups": 4,
+     "title": "The body of Christ",
+     "image": "https://i.redd.it/12o8sbsktk2i1.png",
+     "url": "https://redd.it/1y0a6zx",
+     "ups": 118,
      "sub": "r/memes"
     },
     {
@@ -167,6 +146,27 @@
      "image": "https://i.redd.it/j7f68e8fcl2i1.png",
      "url": "https://redd.it/1y0cst2",
      "ups": 3431,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A hand touches the beacon",
+     "image": "https://i.redd.it/as139z2ytk2i1.png",
+     "url": "https://redd.it/1y0a8qu",
+     "ups": 40,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He's taking all the jobs.",
+     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
+     "url": "https://redd.it/1y0jb3n",
+     "ups": 103,
+     "sub": "r/memes"
+    },
+    {
+     "title": "GTA 6 has already generated over $1.5 billion in revenue",
+     "image": "https://i.redd.it/kedaqytjzl2i1.png",
+     "url": "https://redd.it/1y0g7by",
+     "ups": 536,
      "sub": "r/memes"
     },
     {
@@ -179,14 +179,14 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T23:08:37.737110+00:00",
+   "fetched_at": "2026-11-19T23:38:44.654613+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Army to detonate lead explosives in Iowa",
+     "text": "Trump appears asleep at APEC summit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/16f0245683eb",
      "likes": 0,
      "image": ""
     },
@@ -200,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chips and China's military",
+     "text": "Kutcher's firm and Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kutcher's firm and Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Names parents almost chose",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Archive of Our Own goes down",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "International Men's Day",
+     "text": "Archive of Our Own goes down",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Economics grad charts male loneliness",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b310f48f2fff",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump appears asleep at APEC summit",
+     "text": "Sunrise on the Reaping premieres",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/16f0245683eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ravens send Marlon Humphrey home",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2121132f57ac",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army to detonate lead explosives in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
@@ -280,10 +280,26 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "All this talk about looksmaxxing, and yet no one has thought about personality maxxing",
+     "author": "Showerthoughts",
+     "url": "https://lemmy.world/post/54617795",
+     "likes": 26,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "TIL Compuserve still has a homepage and it\u2019s from the 2000\u2019s.",
+     "author": "Sysadmin",
+     "url": "https://lemmy.world/post/54618080",
+     "likes": 20,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
      "text": "Best in Show",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70185255",
-     "likes": 56,
+     "likes": 97,
      "image": "https://lemmy.world/pictrs/image/28775c52-bc08-47fb-b6c9-f6e702eed51d.jpeg"
     },
     {
@@ -291,65 +307,49 @@
      "text": "Cookies",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70185141",
-     "likes": 52,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/46e9fdc0-b1ad-44e6-a9c7-039ed53aa99e.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "fibonacci",
-     "author": "Lemmy Shitpost",
-     "url": "https://quokk.au/c/lemmyshitpost/p/1341108/fibonacci",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/505d9baf-9bb5-4e1e-9c94-80d2c00a0069.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Conform or be cast out...",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70184497",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/67bb09fc-aa43-43b8-aac1-9cda2fd2ffca.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T23:08:38.407464+00:00",
+   "fetched_at": "2026-11-19T23:38:45.207913+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
+     "text": "What do you call an elephant that doesn\u2019t matter? An irrelephant.",
      "source": "Dad joke"
     },
     {
-     "text": "R.I.P. boiled water. You will be mist.",
+     "text": "Why is it so windy inside an arena? All those fans.",
      "source": "Dad joke"
     },
     {
-     "text": "We all know where the Big Apple is but does anyone know where the Minneapolis?",
+     "text": "What did the hat say to the scarf?\r\nYou can hang around. I'll just go on ahead.\r\n",
      "source": "Dad joke"
     }
    ]
