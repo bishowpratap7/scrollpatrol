@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:03:21.071934+00:00",
+ "generated_at": "2026-11-19T02:33:26.144029+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T02:03:16.981984+00:00",
+   "fetched_at": "2026-11-19T02:33:23.116638+00:00",
    "stale": false,
    "items": [
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 11,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 300,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 933,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 538,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,17 +114,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 1,
+     "title": "noTimeToPhotoShopNewCVEsDropped",
+     "image": "https://i.redd.it/qssdpylx7f2i1.png",
+     "url": "https://redd.it/1xzo5k3",
+     "ups": 32,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 381,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 20,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,10 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Bad day to catch a cold",
-     "image": "https://i.redd.it/4ei0035rhd2i1.png",
-     "url": "https://redd.it/1xzf7vj",
-     "ups": 77,
+     "title": "that one guy",
+     "image": "https://i.redd.it/n8djw7pc572i1.gif",
+     "url": "https://redd.it/1xyoe2c",
+     "ups": 512,
      "sub": "r/memes"
     },
     {
@@ -149,6 +149,13 @@
      "sub": "r/memes"
     },
     {
+     "title": "How I be looking like on the toilet for real",
+     "image": "https://i.redd.it/wvlszxcf6f2i1.png",
+     "url": "https://redd.it/1xznu2t",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
      "title": "Sad to see, sad to see",
      "image": "https://i.redd.it/uwl33y1nra2i1.png",
      "url": "https://redd.it/1xz5to3",
@@ -156,37 +163,102 @@
      "sub": "r/memes"
     },
     {
-     "title": "Best way to die",
-     "image": "https://i.redd.it/nsbub8mnn42i1.png",
-     "url": "https://redd.it/1xyegpf",
-     "ups": 2169,
+     "title": "It's huge! Get ready for the wave of GTA6 memes and content",
+     "image": "https://i.redd.it/g0fg6qvc5b2i1.png",
+     "url": "https://redd.it/1xz79lw",
+     "ups": 360,
      "sub": "r/memes"
     },
     {
-     "title": "Never a happy medium.",
-     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
-     "url": "https://redd.it/1xz4t0r",
-     "ups": 118,
-     "sub": "r/memes"
-    },
-    {
-     "title": "extra, if there's fruit",
-     "image": "https://i.redd.it/tw4yqcz1c72i1.png",
-     "url": "https://redd.it/1xypdsl",
-     "ups": 452,
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 697,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T02:03:19.725092+00:00",
+   "fetched_at": "2026-11-19T02:33:24.817006+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Nick Wayne's \"washed unc\" gimmick",
+     "text": "Musk distances himself from MAGA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/078350c031f4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/879496e6c423",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump frustrated with Vance over Iran",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3aeeea841464",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Make a band name bigger",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang's Nvidia return bid",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Atmospheric river hits California",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Second-to-last text caption meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UnitedHealth's quarterly profit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/426bf08f439b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Voyager 1 reaches one light-day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SNL \"Sister\" parody ad",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b8162c8e1b66",
      "likes": 0,
      "image": ""
     },
@@ -207,83 +279,11 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bancroft speaks on sandpapergate",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6ee3e6997a9d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Microsoft, FAA, Zelle outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Data center emissions rival Denmark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Wachowskis seek Matrix rights back",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/67b6bb7996da",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukrainian strike collapses Crimean Bridge",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "Token Friends",
      "author": "Programmer Humor",
      "url": "https://lemmy.world/post/54574014",
-     "likes": 213,
+     "likes": 242,
      "image": "https://lemmy.world/pictrs/image/3c48900e-fc4a-474c-b35c-3202e617978e.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "A 45-Year-Old Commodore Program Was Recovered From a Paper Printout \u2014 And It Works Again",
      "author": "Technology",
      "url": "https://lemmy.world/post/54574348",
-     "likes": 126,
+     "likes": 150,
      "image": "https://lemmy.world/pictrs/image/714d0c8a-86d1-49cb-9bcd-5aa1c2bcbac7.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
      "author": "News",
      "url": "https://lemmy.world/post/54573288",
-     "likes": 179,
+     "likes": 197,
      "image": "https://lemmy.world/pictrs/image/2b272920-5f61-4c70-af7b-9e3590e332f2.jpeg"
     },
     {
@@ -307,33 +307,21 @@
      "text": "A 45-Year-Old Commodore Program Was Recovered From a Paper Printout \u2014 And It Works Again",
      "author": "RetroGaming",
      "url": "https://lemmy.world/post/54574349",
-     "likes": 53,
+     "likes": 58,
      "image": "https://lemmy.world/pictrs/image/5c4c4ad7-45a5-41b8-863c-2b0ee1489b06.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T02:03:20.443313+00:00",
+   "fetched_at": "2026-11-19T02:33:25.534418+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
      "source": "Dad joke"
     },
     {
-     "text": "I'm glad I know sign language, it's pretty handy.",
+     "text": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
      "source": "Dad joke"
     },
     {
-     "text": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
+     "text": "I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up",
      "source": "Dad joke"
     }
    ]
