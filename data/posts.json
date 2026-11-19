@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:37:09.871265+00:00",
+ "generated_at": "2026-11-19T18:07:16.781770+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,23 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T17:37:05.810659+00:00",
+   "fetched_at": "2026-11-19T18:07:12.545338+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 960,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 25,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "codeReviewIn2026",
      "image": "https://i.redd.it/s1c5fp18dy0i1.png",
@@ -114,103 +100,93 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2930,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 306,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 69,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2168,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 570,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 26,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "the myth of consensual trade",
-     "image": "https://i.redd.it/56gq9dhrak2i1.png",
-     "url": "https://redd.it/1y0813s",
-     "ups": 282,
-     "sub": "r/memes"
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1350,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "She died for us \ud83d\ude14",
-     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
-     "url": "https://redd.it/1y04zfv",
-     "ups": 22,
-     "sub": "r/memes"
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 162,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Finnally, end of an era of this Meme.",
      "image": "https://i.redd.it/6s8q3kib5d2i1.png",
      "url": "https://redd.it/1xzdtiu",
-     "ups": 287,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Guess we need a new thing to say",
-     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
-     "url": "https://redd.it/1y072wt",
-     "ups": 177,
-     "sub": "r/memes"
-    },
-    {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 431,
+     "ups": 290,
      "sub": "r/memes"
     },
     {
      "title": "this is bullsit",
      "image": "https://i.redd.it/rycqtb2l3l2i1.gif",
      "url": "https://redd.it/1y0bjd9",
-     "ups": 4,
+     "ups": 9,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A hand touches the beacon",
+     "image": "https://i.redd.it/as139z2ytk2i1.png",
+     "url": "https://redd.it/1y0a8qu",
+     "ups": 30,
+     "sub": "r/memes"
+    },
+    {
+     "title": "She died for us \ud83d\ude14",
+     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
+     "url": "https://redd.it/1y04zfv",
+     "ups": 21,
+     "sub": "r/memes"
+    },
+    {
+     "title": "not judging but was it worth it?",
+     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
+     "url": "https://redd.it/1y0cst2",
+     "ups": 1304,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The body of Christ",
+     "image": "https://i.redd.it/12o8sbsktk2i1.png",
+     "url": "https://redd.it/1y0a6zx",
+     "ups": 41,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T17:37:08.519433+00:00",
+   "fetched_at": "2026-11-19T18:07:15.160656+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Nintendo Wii turns 20",
+     "text": "Atmospheric river hits California",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a6a465cde2d9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Army to detonate lead explosives in Iowa",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump golf pro tax leak case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/577d8b624a50",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Fiona the hippo swallows hat",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
      "likes": 0,
      "image": ""
     },
@@ -224,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "International Men's Day",
+     "text": "Army to detonate lead explosives in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump, Xi and Putin to meet",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "International Men's Day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Anthropic's Lord of the Rings analogy",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca227034eaa2",
@@ -248,33 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Greatest detective besides Batman",
+     "text": "Nintendo Wii turns 20",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a6a465cde2d9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
+     "text": "Economics grad charts male loneliness",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b310f48f2fff",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 draft drops fossil fuels",
+     "text": "Voyager 1 reaches one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Putin cites Anchorage compromises on Ukraine",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
      "likes": 0,
      "image": ""
     },
@@ -283,49 +283,41 @@
      "text": "Evidence Is Growing That the Massive Tech Outages Are Trump\u2019s Fault: \"If we cut the fire department, we shouldn\u2019t act as if we\u2019re surprised when we can\u2019t put out the fires.\"",
      "author": "Technology",
      "url": "https://sh.itjust.works/post/70171700",
-     "likes": 62,
+     "likes": 121,
      "image": "https://lemmy.world/pictrs/image/cada6416-3a65-41a5-a6cd-31a17eb419dd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Wage slavery is slavery",
-     "author": "Unpopular Opinion",
-     "url": "https://fedia.io/m/unpopularopinion@lemmy.world/t/4579695",
-     "likes": 28,
-     "image": ""
+     "text": "White House pool have phones taken away on return from China as speculation mounts over unscheduled stop",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54607666",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/379cf7fe-dcf3-4994-a380-ccf285ea13a2.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "99.9% accurate",
-     "author": "Programmer Humor",
-     "url": "https://sh.itjust.works/post/70171595",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/9e3524fe-1455-4d96-b82b-d8dd410524f1.png"
+     "text": "Lap Cat. [263]",
+     "author": "Mimi.",
+     "url": "https://discuss.tchncs.de/post/71134574",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/0f39855b-73e9-4092-a02b-9ab2d02cedc4.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "AI isn\u2019t replacing your job. It\u2019s turning it into low-paid gig work",
-     "author": "Technology",
-     "url": "https://feddit.online/c/technology@lemmy.world/p/2125974/ai-isnt-replacing-your-job-its-turning-it-into-low-paid-gig-work",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/c4237cf5-b9ba-4e3a-9768-71b0ac8cd073.jpeg"
+     "text": "Canadian Squirrel in Hamilton",
+     "author": "Squirrels",
+     "url": "https://piefed.ca/c/squirrels@lemmy.ca/p/1081163/canadian-squirrel-in-hamilton",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/1a2cb86a-9c62-4e6c-8de0-e91d9d8f333a.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T17:37:09.078562+00:00",
+   "fetched_at": "2026-11-19T18:07:15.782321+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
@@ -333,32 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "What did the pirate say on his 80th birthday? Aye Matey!",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "You will never guess what Elsa did to the balloon. She let it go.",
      "source": "Dad joke"
     },
     {
-     "text": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
+     "text": "Did you hear about the guy who invented Lifesavers? They say he made a mint.",
      "source": "Dad joke"
     },
     {
-     "text": "What's the difference between a seal and a sea lion?\r\nAn ion! ",
+     "text": "So, I heard this pun about cows, but it\u2019s kinda offensive so I won\u2019t say it. I don\u2019t want there to be any beef between us. ",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
