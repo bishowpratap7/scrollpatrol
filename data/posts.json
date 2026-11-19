@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:34:36.503764+00:00",
+ "generated_at": "2026-11-19T07:04:41.964853+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T06:34:33.412936+00:00",
+   "fetched_at": "2026-11-19T07:04:38.775246+00:00",
    "stale": false,
    "items": [
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 24,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4138,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 379,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "nowWeGotGtaSixForPlaystationFour",
      "image": "https://i.redd.it/xrt67cpkpa1i1.png",
      "url": "https://redd.it/1xuwq64",
-     "ups": 556,
+     "ups": 553,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "wellJustTestInProd",
-     "image": "https://i.redd.it/r1na2r58je2i1.png",
-     "url": "https://redd.it/1xzkbmy",
-     "ups": 32,
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 122,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "imTiredBoss",
-     "image": "https://i.redd.it/f6wx82e5za2i1.gif",
-     "url": "https://redd.it/1xz6lkd",
-     "ups": 146,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 72,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 166,
+     "title": "pressEscAndMyGameTurnsIntoASpreadsheetWhichIsSomehowMoreStressful",
+     "image": "https://i.redd.it/byoe4xung82i1.png",
+     "url": "https://redd.it/1xyvexl",
+     "ups": 16,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 193,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "It's always a shame",
-     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
-     "url": "https://redd.it/1xzgdba",
-     "ups": 4065,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Sad to see, sad to see",
-     "image": "https://i.redd.it/uwl33y1nra2i1.png",
-     "url": "https://redd.it/1xz5to3",
-     "ups": 432,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Bad day to catch a cold",
-     "image": "https://i.redd.it/4ei0035rhd2i1.png",
-     "url": "https://redd.it/1xzf7vj",
-     "ups": 84,
-     "sub": "r/memes"
-    },
-    {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 390,
+     "title": "Things that break the internet.",
+     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
+     "url": "https://redd.it/1xzuvai",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
@@ -170,16 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Things that break the internet.",
-     "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
-     "url": "https://redd.it/1xzuvai",
-     "ups": 15,
+     "title": "It's huge! Get ready for the wave of GTA6 memes and content",
+     "image": "https://i.redd.it/g0fg6qvc5b2i1.png",
+     "url": "https://redd.it/1xz79lw",
+     "ups": 373,
+     "sub": "r/memes"
+    },
+    {
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 390,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Bad day to catch a cold",
+     "image": "https://i.redd.it/4ei0035rhd2i1.png",
+     "url": "https://redd.it/1xzf7vj",
+     "ups": 84,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Chinese history is a trip",
+     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
+     "url": "https://redd.it/1xzkfod",
+     "ups": 21,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T06:34:35.782456+00:00",
+   "fetched_at": "2026-11-19T07:04:41.275891+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Trump, Xi and Putin to meet",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Greatest detective besides Batman",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Make a band name bigger",
+     "text": "Greatest detective besides Batman",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2786e0f18452",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
      "likes": 0,
      "image": ""
     },
@@ -224,30 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "The Rings of Power season 3",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cb7dadee975e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Deutsche Bank document leak",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd6d2a8319c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Data center emissions rival Denmark",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
@@ -256,17 +224,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Canada tests emergency alert system",
+     "text": "Voyager 1 reaches one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8486d6b08f03",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukrainian strike collapses Crimean Bridge",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Avengers: Doomsday set photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3f15ebccc28",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Second-to-last text caption meme",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UnitedHealth's quarterly profit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/426bf08f439b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Burnham says Brexit hasn't worked",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
      "likes": 0,
      "image": ""
     },
@@ -283,57 +283,53 @@
      "text": "Evidence Is Growing That the Massive Tech Outages Are Trump\u2019s Fault: \"If we cut the fire department, we shouldn\u2019t act as if we\u2019re surprised when we can\u2019t put out the fires.\"",
      "author": "politics ",
      "url": "https://lemmy.world/post/54582314",
-     "likes": 52,
+     "likes": 79,
      "image": "https://lemmy.world/pictrs/image/5480402d-b04b-43fb-97ba-48b2c8db9629.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Overnighter in the Victorian High Country",
+     "author": "camping",
+     "url": "https://aussie.zone/post/38580769",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/339cf435-cbaa-43f7-a07f-318a9a162f57.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Old drawings - the princess and the apprentice",
+     "author": "Art Share\ud83c\udfa8",
+     "url": "https://jlai.lu/post/46373942",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/fc3c829c-f156-4b78-8cf3-1693c4214c1e.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "What foods do you stick to?",
      "author": "Autism",
      "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1078311/what-foods-do-you-stick-to",
-     "likes": 22,
+     "likes": 36,
      "image": "https://lemmy.world/pictrs/image/71d5cd31-b676-435c-afb2-098168dd80d5.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Americans are revolting against Trump's right-wing Christian makeover: report",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54582180",
-     "likes": 44,
-     "image": "https://lemmy.world/pictrs/image/a4b88206-e836-43ca-8ba3-8dbdf3141dc6.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "AI Is Breaking the Entire Structure of Software That Powers the World: The systems we take for granted are crumbling before our eyes.",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54582215",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/f9f3686f-a737-4d3c-9961-6f8aab2bf461.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T06:34:36.215614+00:00",
+   "fetched_at": "2026-11-19T07:04:41.720712+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "When do doctors get angry? When they run out of patients.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
      "source": "Dad joke"
     },
     {
-     "text": "\"What time is it?\" I don't know... it keeps changing.",
+     "text": "Atheism is a non-prophet organisation.",
      "source": "Dad joke"
     },
     {
-     "text": "What's the best thing about elevator jokes? They work on so many levels.",
+     "text": "What do you call a fish wearing a bowtie? Sofishticated.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
