@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:07:54.604441+00:00",
+ "generated_at": "2026-11-19T21:38:00.226317+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T21:07:51.573456+00:00",
+   "fetched_at": "2026-11-19T21:37:57.282269+00:00",
    "stale": false,
    "items": [
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 130,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 76,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 250,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 253,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 83,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,45 +114,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 957,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2935,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 15,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 578,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "POV your mom enters your room when you play GTA",
-     "image": "https://i.redd.it/ajrud7mmml2i1.png",
-     "url": "https://redd.it/1y0ea7g",
-     "ups": 61,
-     "sub": "r/memes"
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 2971,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Words cannot describe how \"very\" I am",
-     "image": "https://i.redd.it/thyixefupl2i1.png",
-     "url": "https://redd.it/1y0er7g",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "this is bullsit",
-     "image": "https://i.redd.it/rycqtb2l3l2i1.gif",
-     "url": "https://redd.it/1y0bjd9",
-     "ups": 9,
-     "sub": "r/memes"
-    },
-    {
-     "title": "When will we get the \u201cNew Game+\u201d life update?",
-     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
-     "url": "https://redd.it/1xzdbvx",
-     "ups": 1729,
+     "title": "Guess we need a new thing to say",
+     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
+     "url": "https://redd.it/1y072wt",
+     "ups": 262,
      "sub": "r/memes"
     },
     {
@@ -170,39 +149,44 @@
      "sub": "r/memes"
     },
     {
+     "title": "GTA 6 has already generated over $1.5 billion in revenue",
+     "image": "https://i.redd.it/kedaqytjzl2i1.png",
+     "url": "https://redd.it/1y0g7by",
+     "ups": 276,
+     "sub": "r/memes"
+    },
+    {
      "title": "gas is absolutely GAS bro",
      "image": "https://i.redd.it/0hk9ren1jl2i1.png",
      "url": "https://redd.it/1y0dqwj",
      "ups": 4355,
      "sub": "r/memes"
+    },
+    {
+     "title": "The body of Christ",
+     "image": "https://i.redd.it/12o8sbsktk2i1.png",
+     "url": "https://redd.it/1y0a6zx",
+     "ups": 79,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Words cannot describe how \"very\" I am",
+     "image": "https://i.redd.it/thyixefupl2i1.png",
+     "url": "https://redd.it/1y0er7g",
+     "ups": 5,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T21:07:53.478154+00:00",
+   "fetched_at": "2026-11-19T21:37:58.828319+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Fiona the hippo swallows hat",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Putin cites Anchorage compromises on Ukraine",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump appears asleep at APEC summit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/16f0245683eb",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Names parents almost chose",
+     "text": "Death of Fiona the hippo",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2c2441c4253f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Names parents almost chose",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Economics grad charts male loneliness",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b310f48f2fff",
@@ -240,116 +240,116 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Nvidia chips and China's military",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
+     "text": "Pattinson will be next James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Taylor Swift performs at CMA Awards",
+     "text": "Warrior of Light and Azem prompt",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/121676c7a34e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/20256b388433",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Epstein files release",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/29030774f525",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Dr. Oz's Medicaid couch remarks",
+     "text": "US loses measles elimination status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/55a1d81dcae1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "the chair [Li Chen]",
+     "author": "Comic Strips",
+     "url": "https://lemmus.org/post/27034389",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/b92819d0-039c-4054-b22b-266a498d3fc0.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "November does even have afternoons",
      "author": "Funny: Home of the Haha",
      "url": "https://lemmy.world/post/54613546",
-     "likes": 44,
+     "likes": 79,
      "image": "https://lemmy.world/pictrs/image/36e51009-2b74-4127-9713-91dfa7392cce.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The future is bright",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/75318606",
+     "likes": 19,
+     "image": "https://lemmy.zip/pictrs/image/877e1cb6-a386-46cb-801f-e0946a51f95e.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "SMBC - Juice",
      "author": "Comic Strips",
      "url": "https://europe.pub/post/17689374",
-     "likes": 35,
+     "likes": 66,
      "image": "https://lemmy.world/pictrs/image/1cf1f66a-6d98-494d-b871-8560eca87670.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "As all other treatments have failed to improve Miez's breathing, next Tuesday we're going to the veterinary clinic in Nuremberg for a bronchoscopy. I already dread the day.",
-     "author": "cats",
-     "url": "https://sh.itjust.works/post/70179538",
-     "likes": 69,
-     "image": "https://lemmy.world/pictrs/image/c3fab7e9-dddc-4f9f-95d3-a050aee315ff.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I love animals.",
-     "author": "I'm going to Hell for this",
-     "url": "https://piefed.zip/c/imgoingtohellforthis@sopuli.xyz/p/2016142/i-love-animals",
-     "likes": 46,
-     "image": "https://lemmy.world/pictrs/image/23fc622b-dc89-49ae-90ff-a0c8f0793370.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T21:07:53.895046+00:00",
+   "fetched_at": "2026-11-19T21:37:59.442065+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
     {
      "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What's orange and sounds like a parrot? A Carrot.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I used to work for a soft drink can crusher. It was soda pressing.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
+     "text": "Why did the barber win the race? He took a short cut.",
      "source": "Dad joke"
     },
     {
-     "text": "Someone broke into my house last night and stole my limbo trophy. How low can you go?",
+     "text": "An apple a day keeps the bullies away. If you throw it hard enough.",
      "source": "Dad joke"
     }
    ]
