@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:35:29.153973+00:00",
+ "generated_at": "2026-11-19T11:35:47.893076+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T11:35:25.924146+00:00",
+   "fetched_at": "2026-11-19T11:35:45.385654+00:00",
    "stale": false,
    "items": [
     {
-     "title": "wellJustTestInProd",
-     "image": "https://i.redd.it/r1na2r58je2i1.png",
-     "url": "https://redd.it/1xzkbmy",
-     "ups": 39,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1348,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 934,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "imTiredBoss",
-     "image": "https://i.redd.it/f6wx82e5za2i1.gif",
-     "url": "https://redd.it/1xz6lkd",
-     "ups": 150,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4144,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 375,
+     "title": "comparisonsAreOdorous",
+     "image": "https://i.redd.it/dotk9b6dq82i1.png",
+     "url": "https://redd.it/1xywxga",
+     "ups": 361,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 2882,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 558,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2167,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 44,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Never a happy medium.",
-     "image": "https://i.redd.it/91v8u5t7ia2i1.png",
-     "url": "https://redd.it/1xz4t0r",
-     "ups": 126,
+     "title": "Chinese history is a trip",
+     "image": "https://i.redd.it/w9ffzffwje2i1.gif",
+     "url": "https://redd.it/1xzkfod",
+     "ups": 29,
      "sub": "r/memes"
     },
     {
-     "title": "When will we get the \u201cNew Game+\u201d life update?",
-     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
-     "url": "https://redd.it/1xzdbvx",
-     "ups": 1568,
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 6224,
      "sub": "r/memes"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 412,
+     "title": "Bad day to catch a cold",
+     "image": "https://i.redd.it/4ei0035rhd2i1.png",
+     "url": "https://redd.it/1xzf7vj",
+     "ups": 93,
      "sub": "r/memes"
     },
     {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 114,
+     "title": "Well at least it is fun to play",
+     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
+     "url": "https://redd.it/1xzpu4f",
+     "ups": 1161,
      "sub": "r/memes"
     },
     {
@@ -179,7 +179,7 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T11:35:28.410411+00:00",
+   "fetched_at": "2026-11-19T11:35:47.253140+00:00",
    "stale": false,
    "items": [
     {
@@ -313,23 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T11:35:28.860411+00:00",
+   "fetched_at": "2026-11-19T11:35:47.636076+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What's brown and sticky? A stick.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a pig and a pineapple? A porky pine",
+     "text": "What biscuit does a short person like? Shortbread. ",
      "source": "Dad joke"
     },
     {
-     "text": "What was a more important invention than the first telephone? The second one.",
+     "text": "What did one nut say as he chased another nut?  I'm a cashew!",
      "source": "Dad joke"
     }
    ]
