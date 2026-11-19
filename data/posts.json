@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T08:34:57.131761+00:00",
+ "generated_at": "2026-11-19T09:05:02.115054+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,56 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T08:34:54.089746+00:00",
+   "fetched_at": "2026-11-19T09:04:58.920748+00:00",
    "stale": false,
    "items": [
     {
-     "title": "wellJustTestInProd",
-     "image": "https://i.redd.it/r1na2r58je2i1.png",
-     "url": "https://redd.it/1xzkbmy",
-     "ups": 38,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 299,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "comparisonsAreOdorous",
-     "image": "https://i.redd.it/dotk9b6dq82i1.png",
-     "url": "https://redd.it/1xywxga",
-     "ups": 347,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 376,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4057,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 550,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 15,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 49,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1438,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 30,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2167,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 297,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 406,
+     "title": "How I be looking like on the toilet for real",
+     "image": "https://i.redd.it/wvlszxcf6f2i1.png",
+     "url": "https://redd.it/1xznu2t",
+     "ups": 23,
+     "sub": "r/memes"
+    },
+    {
+     "title": "When will we get the \u201cNew Game+\u201d life update?",
+     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
+     "url": "https://redd.it/1xzdbvx",
+     "ups": 1509,
      "sub": "r/memes"
     },
     {
@@ -149,47 +156,32 @@
      "sub": "r/memes"
     },
     {
-     "title": "Well at least it is fun to play",
-     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
-     "url": "https://redd.it/1xzpu4f",
-     "ups": 1082,
-     "sub": "r/memes"
-    },
-    {
-     "title": "It's always a shame",
-     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
-     "url": "https://redd.it/1xzgdba",
-     "ups": 4258,
-     "sub": "r/memes"
-    },
-    {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 90,
-     "sub": "r/memes"
-    },
-    {
      "title": "Things that break the internet.",
      "image": "https://i.redd.it/ekyt9fgzlg2i1.png",
      "url": "https://redd.it/1xzuvai",
      "ups": 18,
      "sub": "r/memes"
+    },
+    {
+     "title": "1 more day",
+     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
+     "url": "https://redd.it/1xzcrsi",
+     "ups": 406,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 5154,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T08:34:56.519607+00:00",
+   "fetched_at": "2026-11-19T09:05:01.424925+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
@@ -208,41 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic's Claude and planned IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Data center emissions rival Denmark",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f82956e8540",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Greatest detective besides Batman",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russell Brand changes prisons",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5216827d128e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
@@ -256,72 +216,116 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Outside site catalogs AO3 fics",
+     "text": "Pattinson will be next James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine reports daily Russian losses",
+     "text": "Anthropic's Claude and planned IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hinder's Putney or Pendle remark",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0e1dda5b46d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Sunrise on the Reaping premieres",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Microsoft, FAA, Zelle outages",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukrainian strike collapses Crimean Bridge",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca017e6d8837",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "New exploit just dropped: cat2shell",
-     "author": "Linux",
-     "url": "https://lemmy.ca/post/74060411",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/c6428c70-a5c6-43cf-8cc0-a8dd60aa2a9e.jpeg"
+     "text": "While they're at it, they should also give back all pain meds, disinfectants, and cosmetics",
+     "author": "Skeptic",
+     "url": "https://sopuli.xyz/post/54793897",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/07343d87-55eb-4d57-a91b-8b49b06a8027.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Trixie Mattel with the tea",
+     "author": "RuPaul Drag Race",
+     "url": "https://sopuli.xyz/post/54793693",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/b54b5ae6-101f-46ff-8cd7-d9c814c8edbb.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "When the law exists only to protect the rich from the poor there is no justice... \ud83d\ude12",
      "author": "A Boring Dystopia",
      "url": "https://mastodon.art/users/NickEast_IndieWriter/statuses/117642103202773873",
-     "likes": 15,
+     "likes": 33,
      "image": "https://lemmy.world/pictrs/image/d800db62-95d8-4f39-90b8-a80781b22da0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Containment rule",
-     "author": "196",
-     "url": "https://lemmy.today/post/63530319",
-     "likes": 37,
-     "image": "https://lemmy.world/pictrs/image/3f4b0001-083d-4d59-9ec5-9ae8205ef22b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Engorgment Ring",
-     "author": "196",
-     "url": "https://quokk.au/c/onehundredninetysix/p/1337789/engorgment-ring",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/cf8fdd09-c64b-489b-9e83-bb92134ad288.webp"
+     "text": "hahahahhaahhahahahahahahahahahahhahahaah",
+     "author": "Political Memes",
+     "url": "https://lemmy.blahaj.zone/post/50672057",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/be16247e-4905-4619-93db-c2d7b032fdb9.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T08:34:56.854877+00:00",
+   "fetched_at": "2026-11-19T09:05:01.797139+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
      "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
+     "text": "It's only a murder of crows if there's probable caws.",
      "source": "Dad joke"
     },
     {
-     "text": "\u2018Put the cat out\u2019 \u2026 \u2018I didn\u2019t realize it was on fire",
+     "text": "What did the mountain climber name his son? Cliff.",
      "source": "Dad joke"
     },
     {
-     "text": "What has a bed that you can\u2019t sleep in? A river.",
+     "text": "I met this girl on a dating site and, I don't know, we just clicked.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
