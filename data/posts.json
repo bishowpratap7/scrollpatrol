@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:07:42.135165+00:00",
+ "generated_at": "2026-11-19T20:37:48.875884+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T20:07:39.148413+00:00",
+   "fetched_at": "2026-11-19T20:37:45.377193+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 27,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 1616,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 168,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "cmonGitHubAgain",
      "image": "https://i.redd.it/jnx3yr1ms11i1.png",
@@ -100,45 +121,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 303,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 574,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1122,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 205,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 30,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 24,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 15,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "She died for us \ud83d\ude14",
-     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
-     "url": "https://redd.it/1y04zfv",
-     "ups": 24,
+     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
+     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
+     "url": "https://redd.it/1y0ib7g",
+     "ups": 9,
      "sub": "r/memes"
     },
     {
@@ -149,10 +149,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "When will we get the \u201cNew Game+\u201d life update?",
-     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
-     "url": "https://redd.it/1xzdbvx",
-     "ups": 1729,
+     "title": "I said \"God help me\"",
+     "image": "https://i.redd.it/muiz8jrorl2i1.png",
+     "url": "https://redd.it/1y0f17o",
+     "ups": 66,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Words cannot describe how \"very\" I am",
+     "image": "https://i.redd.it/thyixefupl2i1.png",
+     "url": "https://redd.it/1y0er7g",
+     "ups": 5,
      "sub": "r/memes"
     },
     {
@@ -163,38 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "1 more day",
-     "image": "https://i.redd.it/v4ffzfn0vc2i1.gif",
-     "url": "https://redd.it/1xzcrsi",
-     "ups": 449,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
-     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
-     "url": "https://redd.it/1y0ib7g",
-     "ups": 9,
+     "title": "A hand touches the beacon",
+     "image": "https://i.redd.it/as139z2ytk2i1.png",
+     "url": "https://redd.it/1y0a8qu",
+     "ups": 35,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T20:07:40.863574+00:00",
+   "fetched_at": "2026-11-19T20:37:47.645906+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Dr. Oz's Medicaid couch remarks",
+     "text": "Putin cites Anchorage compromises on Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/55a1d81dcae1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic's Lord of the Rings analogy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca227034eaa2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Names parents almost chose",
+     "text": "Nvidia chips and China's military",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Putin cites Anchorage compromises on Ukraine",
+     "text": "Trump appears asleep at APEC summit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/16f0245683eb",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Names parents almost chose",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "International Men's Day",
+     "text": "Anthropic's Lord of the Rings analogy",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ca227034eaa2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Atmospheric river hits California",
+     "text": "Economics grad charts male loneliness",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b310f48f2fff",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "International Men's Day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
      "likes": 0,
      "image": ""
     },
@@ -256,84 +264,64 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chips and China's military",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army to detonate lead explosives in Iowa",
+     "text": "Blumenthal questions nominees on January 6",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump appears asleep at APEC summit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/16f0245683eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4067ece3b89",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "I don't care what they say about us anyway",
-     "author": "Political Memes",
-     "url": "https://lemmy.dbzer0.com/post/78671938",
-     "likes": 82,
-     "image": "https://lemmy.world/pictrs/image/9ad1a5a8-53db-47b4-a321-c0bf5d75e710.webp"
+     "text": "Prosecutor declines to charge a White police officer who fatally shot a Black man in Wisconsin",
+     "author": "News",
+     "url": "https://lemmy.world/post/54612079",
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/5f3d0942-e266-41d2-b5cc-bcb8ecd0d4f9.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "I want to poop with friends :)",
-     "author": "Memes",
-     "url": "https://europe.pub/post/17687456",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/704b9e42-aab7-4178-adf6-fe84f5210998.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "noailist.org Remove AI from Ecosia Petition",
-     "author": "Fuck AI",
-     "url": "https://piefed.social/c/fuck_ai@lemmy.world/p/2620852/noailist-org-remove-ai-from-ecosia-petition",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/1f110ab3-46fb-4b55-acad-001239ae5f53.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Moichandising... Where the real money is made!",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54610959",
+     "text": "As all other treatments have failed to improve Miez's breathing, next Tuesday we're going to the veterinary clinic in Nuremberg for a bronchoscopy. I already dread the day.",
+     "author": "cats",
+     "url": "https://sh.itjust.works/post/70179538",
      "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/2f7bcd19-52b1-4b04-a95a-c5aca03dc4d7.png"
+     "image": "https://lemmy.world/pictrs/image/fbb2dcfb-7742-4e7b-b8ae-0b8dbda4ca14.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Trump\u2019s CISA pick Michael LoSapio rejects Jan. 6 as an 'attack,' won't name 2020 election winner",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54612005",
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/b9b512e4-79f9-440c-8baf-a43fd25a2ee0.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "76% of Canadians believe transgender people should be able to live without fear of harassment",
+     "author": "Canada",
+     "url": "https://quokk.au/c/canada/p/1340649/76-of-canadians-believe-transgender-people-should-be-able-to-live-without-fear-of-harassment",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/ccd0a4e0-2ea2-48d5-bfea-f2c34be42d5c.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T20:07:41.461568+00:00",
+   "fetched_at": "2026-11-19T20:37:48.240130+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Did you hear the one about the giant pickle?  He was kind of a big dill.",
      "source": "Dad joke"
     },
     {
-     "text": "Why is it so windy inside an arena? All those fans.",
+     "text": "A termite walks into a bar and asks \u201cIs the bar tender here?\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.",
+     "text": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
      "source": "Dad joke"
     }
    ]
