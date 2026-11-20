@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:09:06.753304+00:00",
+ "generated_at": "2026-11-20T01:39:13.310630+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,7 +89,7 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T01:09:02.530214+00:00",
+   "fetched_at": "2026-11-20T01:39:09.470915+00:00",
    "stale": false,
    "items": [
     {
@@ -100,24 +100,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "meWhenIDoAnythingWithFiles",
-     "image": "https://i.redd.it/aozvafp8wd1i1.png",
-     "url": "https://redd.it/1xv8967",
-     "ups": 14,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4065,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 28,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 468,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,11 +114,53 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 114,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 2,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 48,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 590,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 4917,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Words cannot describe how \"very\" I am",
+     "image": "https://i.redd.it/thyixefupl2i1.png",
+     "url": "https://redd.it/1y0er7g",
+     "ups": 5,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A hand touches the beacon",
+     "image": "https://i.redd.it/as139z2ytk2i1.png",
+     "url": "https://redd.it/1y0a8qu",
+     "ups": 41,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Guess we need a new thing to say",
+     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
+     "url": "https://redd.it/1y072wt",
+     "ups": 314,
+     "sub": "r/memes"
     },
     {
      "title": "The body of Christ",
@@ -142,44 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "She died for us \ud83d\ude14",
-     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
-     "url": "https://redd.it/1y04zfv",
-     "ups": 21,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Well at least it is fun to play",
-     "image": "https://i.redd.it/6pgs24aakf2i1.gif",
-     "url": "https://redd.it/1xzpu4f",
-     "ups": 1422,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I feel like I am missing something important",
-     "image": "https://i.redd.it/omscbgy0hi2i1.png",
-     "url": "https://redd.it/1y0292w",
-     "ups": 253,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\"we got X before GTA VI\" is dead, but there's one thing we'll get everything before...",
-     "image": "https://i.redd.it/igleqy2jjm2i1.png",
-     "url": "https://redd.it/1y0j0sd",
-     "ups": 24,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A hand touches the beacon",
-     "image": "https://i.redd.it/as139z2ytk2i1.png",
-     "url": "https://redd.it/1y0a8qu",
-     "ups": 41,
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 9249,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T01:09:04.915130+00:00",
+   "fetched_at": "2026-11-20T01:39:11.806800+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Trump, Xi and Putin hold summit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -208,22 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kutcher's firm and Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Nvidia chips and China's military",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
@@ -232,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Umamusume and Denver Broncos collab",
+     "text": "Kutcher's firm and Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a6c252bc81e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +232,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
+     "text": "Taylor Swift performs at CMA Awards",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/121676c7a34e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "National Book Awards winners announced",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f6b44c5d9a9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's Pete Rose pardon",
+     "text": "International Men's Day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f68d49265d6c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocasio-Cortez to lead health policy",
+     "text": "AEW Dynamite live from Denver",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/620d11336ac9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1bcb99b417f7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Blumenthal questions nominees on January 6",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4067ece3b89",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "TIL Compuserve still has a homepage and it\u2019s from the 2000\u2019s.",
      "author": "Sysadmin",
      "url": "https://lemmy.world/post/54618080",
-     "likes": 69,
+     "likes": 84,
      "image": ""
     },
     {
@@ -291,7 +291,7 @@
      "text": "Gay Juice Rule",
      "author": "196",
      "url": "https://lemmy.zip/post/75325003",
-     "likes": 64,
+     "likes": 76,
      "image": "https://lemmy.zip/pictrs/image/b4f89ecd-6e77-48de-b713-8c51e9eeb98e.avif"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
      "author": "Work Reform",
      "url": "https://lemmy.world/post/54618465",
-     "likes": 57,
+     "likes": 68,
      "image": "https://lemmy.world/pictrs/image/1c858f84-c8c7-4d2d-8662-696a8fe41a75.jpeg"
     },
     {
@@ -307,29 +307,29 @@
      "text": "\"Security is a priority, so we will use 4 digit PIN via SMS as the only authentication factor\"",
      "author": "Crappy Design",
      "url": "https://lemmy.sdf.org/post/62096794",
-     "likes": 37,
+     "likes": 48,
      "image": "https://lemmy.world/pictrs/image/fce32509-ec17-4a30-bd91-21c79a95fabf.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T01:09:05.618110+00:00",
+   "fetched_at": "2026-11-20T01:39:12.308578+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
     {
      "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
+     "text": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call an Argentinian with a rubber toe? Roberto",
+     "text": "Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do bears have hairy coats? Fur protection.",
+     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
      "source": "Dad joke"
     }
    ]
