@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:14:00.510174+00:00",
+ "generated_at": "2026-11-20T18:44:06.616931+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T18:13:57.164421+00:00",
+   "fetched_at": "2026-11-20T18:44:03.266437+00:00",
    "stale": false,
    "items": [
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 182,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 958,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 35,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 603,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 274,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 1935,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 707,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,72 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1688,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4074,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1349,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "People who shit all over public toilets be like:",
-     "image": "https://i.redd.it/don3lw1hls2i1.png",
-     "url": "https://redd.it/1y17jmt",
-     "ups": 8,
+     "title": "Another day another vulnerability to patch",
+     "image": "https://i.redd.it/aei6x62gup2i1.png",
+     "url": "https://redd.it/1y0wu2m",
+     "ups": 19,
      "sub": "r/memes"
     },
     {
-     "title": "Real as shit son",
-     "image": "https://i.redd.it/zf5yi69fen2i1.png",
-     "url": "https://redd.it/1y0n86o",
-     "ups": 57,
+     "title": "I hate it when that happens",
+     "image": "https://i.redd.it/rswwmnwz0t2i1.png",
+     "url": "https://redd.it/1y19rgf",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 75,
+     "title": "He's taking all the jobs.",
+     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
+     "url": "https://redd.it/1y0jb3n",
+     "ups": 603,
      "sub": "r/memes"
     },
     {
-     "title": "He's takin' all 'er jobs! (OC)",
-     "image": "https://i.redd.it/hatqhbrwxs2i1.gif",
-     "url": "https://redd.it/1y19b7a",
-     "ups": 10,
+     "title": "Guess we need a new thing to say",
+     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
+     "url": "https://redd.it/1y072wt",
+     "ups": 374,
      "sub": "r/memes"
     },
     {
-     "title": "not judging but was it worth it?",
-     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
-     "url": "https://redd.it/1y0cst2",
-     "ups": 7003,
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 40,
      "sub": "r/memes"
     },
     {
-     "title": "get the \"we got this before gta 6\" jokes out of your system ASAP folks.",
-     "image": "https://i.redd.it/1j8imm9yog2i1.png",
-     "url": "https://redd.it/1xzv8jw",
-     "ups": 0,
-     "sub": "r/dankmemes"
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
+     "ups": 24,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T18:13:58.986109+00:00",
+   "fetched_at": "2026-11-20T18:44:05.200339+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Data center ballot measures",
+     "text": "Trump tells Europe to defund Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Death of Fiona the hippo",
+     "text": "Mike Johnson urges Republicans to show up",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4f38b9cb203e",
      "likes": 0,
      "image": ""
     },
@@ -216,33 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin hold summit",
+     "text": "Colts release Daniel Jones",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Report alleges Huang humiliated employees",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ruin a movie with a Supreme Court justice",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82dc20d5994d",
      "likes": 0,
      "image": ""
     },
@@ -256,6 +232,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Anthropic debuts on Nasdaq",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Riemann hypothesis proof claimed",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
@@ -264,72 +248,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
+     "text": "Report alleges Huang humiliated employees",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump tells Europe to defund Ukraine",
+     "text": "Earthquake felt in Los Angeles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/248c58b0b6e8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump triumphal arch court case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4a143533d5c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Canada emboldened",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/835aa8a80868",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Time for Cosmic Whimsy",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54646744",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/391b2a4d-18df-4235-ba26-0beb8d4c0894.jpeg"
+     "text": "The game was rigged from the start",
+     "author": "Fallout New Vegas",
+     "url": "https://sh.itjust.works/post/70222484",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/37d9c8d1-ca0d-488d-b90a-30120e9012d3.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "\u2018The abuse I copped was phenomenal\u2019: researchers accuse tobacco companies of intimidation tactics to silence critics",
+     "author": "science",
+     "url": "https://lemmy.zip/post/75368840",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/983cbf81-e53e-40ee-8dc8-43f1d1d29890.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Internet Archive Staffers Are Unionizing",
+     "author": "Technology",
+     "url": "https://lemmy.ml/post/55542625",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/00e267e8-ca1b-4adc-9a39-aa3d51db979b.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation - Public humiliation reportedly considered a \"rite of passage\".",
      "author": "PC Gaming",
      "url": "https://lemmy.ca/post/74126581",
-     "likes": 23,
+     "likes": 56,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "AI pls make my blog good make no mistakes",
-     "author": "Lemmy Shitpost",
-     "url": "https://sopuli.xyz/post/54855616",
-     "likes": 73,
-     "image": "https://lemmy.world/pictrs/image/d5832577-1dc0-437c-9562-f61d0ab62f9d.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Canadian populism",
-     "author": "Canada",
-     "url": "https://lemmy.today/post/63601586",
-     "likes": 59,
-     "image": "https://lemmy.world/pictrs/image/126aba49-9c07-475a-a60b-b9ab1f3eb6d1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T18:13:59.764370+00:00",
+   "fetched_at": "2026-11-20T18:44:05.811774+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -337,19 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Where does astronauts hangout after work? At the spacebar.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What happens to a frog's car when it breaks down? It gets toad.",
      "source": "Dad joke"
     },
     {
-     "text": "How do locomotives know where they're going? Lots of training",
+     "text": "I been watching a channel on TV that is strictly just about origami \u2014 of course it is paper-view.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the tree go to the dentist? It needed a root canal.",
+     "text": "They're making a movie about clocks. It's about time",
      "source": "Dad joke"
     }
    ]
