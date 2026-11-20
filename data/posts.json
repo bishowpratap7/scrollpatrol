@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:08:53.925826+00:00",
+ "generated_at": "2026-11-20T00:38:59.426237+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T00:08:49.128609+00:00",
+   "fetched_at": "2026-11-20T00:38:56.542269+00:00",
    "stale": false,
    "items": [
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 301,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 95,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4076,
+     "title": "itWorksOnMyMachineNow",
+     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
+     "url": "https://redd.it/1y069uu",
+     "ups": 26,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11490,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,18 +128,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2167,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 29,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 78,
-     "sub": "r/ProgrammerHumor"
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 9249,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Words cannot describe how \"very\" I am",
+     "image": "https://i.redd.it/thyixefupl2i1.png",
+     "url": "https://redd.it/1y0er7g",
+     "ups": 5,
+     "sub": "r/memes"
     },
     {
      "title": "When will we get the \u201cNew Game+\u201d life update?",
@@ -142,59 +156,45 @@
      "sub": "r/memes"
     },
     {
-     "title": "She died for us \ud83d\ude14",
-     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
-     "url": "https://redd.it/1y04zfv",
-     "ups": 21,
+     "title": "\"we got X before GTA VI\" is dead, but there's one thing we'll get everything before...",
+     "image": "https://i.redd.it/igleqy2jjm2i1.png",
+     "url": "https://redd.it/1y0j0sd",
+     "ups": 24,
      "sub": "r/memes"
     },
     {
-     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
-     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
-     "url": "https://redd.it/1y0ib7g",
-     "ups": 20,
+     "title": "not judging but was it worth it?",
+     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
+     "url": "https://redd.it/1y0cst2",
+     "ups": 3988,
      "sub": "r/memes"
     },
     {
-     "title": "Now that's paradise",
-     "image": "https://i.redd.it/b7hm9985mn2i1.png",
-     "url": "https://redd.it/1y0o60a",
-     "ups": 2,
-     "sub": "r/memes"
-    },
-    {
-     "title": "the myth of consensual trade",
-     "image": "https://i.redd.it/56gq9dhrak2i1.png",
-     "url": "https://redd.it/1y0813s",
-     "ups": 652,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He's taking all the jobs.",
-     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
-     "url": "https://redd.it/1y0jb3n",
-     "ups": 208,
+     "title": "Real as shit son",
+     "image": "https://i.redd.it/zf5yi69fen2i1.png",
+     "url": "https://redd.it/1y0n86o",
+     "ups": 13,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T00:08:52.081776+00:00",
+   "fetched_at": "2026-11-20T00:38:57.881103+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Trump, Xi and Putin to meet",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army to detonate lead explosives in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
@@ -216,41 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Umamusume and Denver Broncos collab",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a6c252bc81e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Names parents almost chose",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Voyager 1 reaches one light-day",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Taylor Swift performs at CMA Awards",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/121676c7a34e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Archive of Our Own goes down",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Gettysburg Address anniversary",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f40682a827e3",
      "likes": 0,
      "image": ""
     },
@@ -264,17 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army to detonate lead explosives in Iowa",
+     "text": "The Rings of Power season 3",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cb7dadee975e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen targets AI in Schumer challenge",
+     "text": "Avengers: Doomsday character posters",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c3f15ebccc28",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Schools weigh dropping Google over AI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ac93021e745d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Blumenthal questions nominees on January 6",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4067ece3b89",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "TIL Compuserve still has a homepage and it\u2019s from the 2000\u2019s.",
      "author": "Sysadmin",
      "url": "https://lemmy.world/post/54618080",
-     "likes": 39,
+     "likes": 55,
      "image": ""
     },
     {
@@ -291,7 +291,7 @@
      "text": "Gay Juice Rule",
      "author": "196",
      "url": "https://lemmy.zip/post/75325003",
-     "likes": 18,
+     "likes": 43,
      "image": "https://lemmy.zip/pictrs/image/b4f89ecd-6e77-48de-b713-8c51e9eeb98e.avif"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
      "author": "Work Reform",
      "url": "https://lemmy.world/post/54618465",
-     "likes": 20,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/1c858f84-c8c7-4d2d-8662-696a8fe41a75.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "\"Security is a priority, so we will use 4 digit PIN via SMS as the only authentication factor\"",
      "author": "Crappy Design",
      "url": "https://lemmy.sdf.org/post/62096794",
-     "likes": 13,
+     "likes": 24,
      "image": "https://lemmy.world/pictrs/image/fce32509-ec17-4a30-bd91-21c79a95fabf.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T00:08:52.835218+00:00",
+   "fetched_at": "2026-11-20T00:38:58.555547+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A horse walks into a bar. The bar tender says \"Hey.\" The horse says \"Sure.\"",
+     "text": "What did the left eye say to the right eye? Between us, something smells!",
      "source": "Dad joke"
     },
     {
-     "text": "They're making a movie about clocks. It's about time",
+     "text": "Wife: Honey I\u2019m pregnant.\r\n\r\nMe: Well\u2026. what do we do now?\r\n\r\nWife: Well, I guess we should go to a baby doctor.\r\n\r\nMe: Hm.. I think I\u2019d be a lot more comfortable going to an adult doctor.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the digital clock say to the grandfather clock? Look, no hands!",
+     "text": "When do doctors get angry? When they run out of patients.",
      "source": "Dad joke"
     }
    ]
