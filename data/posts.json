@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:43:25.323355+00:00",
+ "generated_at": "2026-11-20T17:13:31.752460+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,70 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T16:43:22.066106+00:00",
+   "fetched_at": "2026-11-20T17:13:28.265763+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 26,
+     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
+     "image": "https://i.redd.it/5deu3zterr2i1.png",
+     "url": "https://redd.it/1y13imc",
+     "ups": 1686,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 1910,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 21,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 32,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 1,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1352,
+     "title": "itWorksOnMyMachineNow",
+     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
+     "url": "https://redd.it/1y069uu",
+     "ups": 35,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3095,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2172,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 130,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2933,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Total obliteration",
-     "image": "https://i.redd.it/nzprrms9go2i1.gif",
-     "url": "https://redd.it/1y0rqre",
-     "ups": 23,
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
-     "title": "Another day another vulnerability to patch",
-     "image": "https://i.redd.it/aei6x62gup2i1.png",
-     "url": "https://redd.it/1y0wu2m",
-     "ups": 23,
+     "title": "This is a turn of events i did not expect.",
+     "image": "https://i.redd.it/r2f58gjjyp2i1.png",
+     "url": "https://redd.it/1y0x7mx",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The body of Christ",
+     "image": "https://i.redd.it/12o8sbsktk2i1.png",
+     "url": "https://redd.it/1y0a6zx",
+     "ups": 404,
      "sub": "r/memes"
     },
     {
@@ -163,33 +170,18 @@
      "sub": "r/memes"
     },
     {
-     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
-     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
-     "url": "https://redd.it/1y0ib7g",
-     "ups": 35,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I merged 2 existing memes into one by creative editing (edited by me)",
-     "image": "https://i.redd.it/5goxljjycs2i1.png",
-     "url": "https://redd.it/1y16b81",
-     "ups": 3,
+     "title": "Can't sleep now",
+     "image": "https://i.redd.it/32s6pynirr2i1.png",
+     "url": "https://redd.it/1y13g5g",
+     "ups": 31,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T16:43:23.918315+00:00",
+   "fetched_at": "2026-11-20T17:13:30.170066+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Mamdani tears Achilles playing soccer",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f8435a15480",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Transgender Day of Remembrance",
@@ -200,9 +192,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin hold summit",
+     "text": "Stock market sell-off",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unidentified object in Poland",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/693ab4a4a0dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mamdani tears Achilles playing soccer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f8435a15480",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic debuts on Nasdaq",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Stock market sell-off",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a movie with a Supreme Court justice",
+     "text": "Death of Fiona the hippo",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Wave of software vulnerability disclosures",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
      "likes": 0,
      "image": ""
     },
@@ -280,48 +280,44 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "gay",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54644126",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/da498bc4-08c9-47ad-a57d-34e2d37f1722.webp"
+     "text": "Gemini logo is interesting",
+     "author": "Programmer Humor",
+     "url": "https://piefed.social/c/programmer_humor@programming.dev/p/2624039/gemini-logo-is-interesting",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/e14d7226-b6c8-430f-b199-9bde5f54b58d.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Rule to the king, baby",
-     "author": "196",
-     "url": "https://crazypeople.online/post/27842881",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/24db8e23-23ad-405d-8ebe-a348b6052a5a.jpeg"
+     "text": "\u2018I\u2019m Not MAGA,\u2019 Says Man in MAGA Hat | Elon Musk would like to pretend that the past two years didn\u2019t happen.",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54644913",
+     "likes": 34,
+     "image": "https://cdn.theatlantic.com/thumbor/Llt7-g7oqGAJIXyKxJyKNsOCp_8=/0x0:2880x1620/1952x1098/media/img/mt/2026/11/2026_11_19_Elon_Musks_MAGA_Pivot_2198394195/original.jpg"
     },
     {
      "kind": "Lemmy post",
      "text": "Anyway\u2026",
      "author": "Lemmy Shitpost",
      "url": "https://sh.itjust.works/post/70218215",
-     "likes": 18,
+     "likes": 54,
      "image": "https://lemmy.world/pictrs/image/f88b6561-2ec3-4b29-9f9f-7d3f06ecd8cd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "GOP leaders fume after members who lost reelection are no-shows",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54644125",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/7dc6772c-0bca-4518-9239-787437759df6.jpeg"
+     "text": "gay",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54644126",
+     "likes": 75,
+     "image": "https://lemmy.world/pictrs/image/da498bc4-08c9-47ad-a57d-34e2d37f1722.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T16:43:24.550797+00:00",
+   "fetched_at": "2026-11-20T17:13:31.026008+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you make a water bed more bouncy. You use Spring Water",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What's a ninja's favorite type of shoes? Sneakers!",
      "source": "Dad joke"
     },
     {
-     "text": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+     "text": "You can't run through a camp site. You can only ran, because it's past tents.",
      "source": "Dad joke"
     },
     {
-     "text": "My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.",
+     "text": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
