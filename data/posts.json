@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:14:12.979358+00:00",
+ "generated_at": "2026-11-20T19:44:19.169991+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T19:14:09.618206+00:00",
+   "fetched_at": "2026-11-20T19:44:15.737295+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 559,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "codeReviewIn2026",
      "image": "https://i.redd.it/s1c5fp18dy0i1.png",
@@ -107,45 +100,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 6,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2172,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1231,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4085,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 302,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 28,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 27,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 957,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "He's taking all the jobs.",
-     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
-     "url": "https://redd.it/1y0jb3n",
-     "ups": 603,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1692,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "not judging but was it worth it?",
+     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
+     "url": "https://redd.it/1y0cst2",
+     "ups": 7003,
      "sub": "r/memes"
     },
     {
-     "title": "He's done with it all",
-     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
-     "url": "https://redd.it/1y0z49k",
-     "ups": 4278,
+     "title": "Guess we need a new thing to say",
+     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
+     "url": "https://redd.it/1y072wt",
+     "ups": 374,
      "sub": "r/memes"
     },
     {
@@ -156,53 +156,53 @@
      "sub": "r/memes"
     },
     {
-     "title": "apps when you dont pay the pro",
-     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
-     "url": "https://redd.it/1y189sy",
-     "ups": 24,
+     "title": "He's done with it all",
+     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
+     "url": "https://redd.it/1y0z49k",
+     "ups": 4278,
      "sub": "r/memes"
     },
     {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 75,
+     "title": "POV your mom enters your room when you play GTA",
+     "image": "https://i.redd.it/ajrud7mmml2i1.png",
+     "url": "https://redd.it/1y0ea7g",
+     "ups": 107,
      "sub": "r/memes"
     },
     {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 10033,
+     "title": "the myth of consensual trade",
+     "image": "https://i.redd.it/56gq9dhrak2i1.png",
+     "url": "https://redd.it/1y0813s",
+     "ups": 849,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T19:14:11.475216+00:00",
+   "fetched_at": "2026-11-20T19:44:17.598204+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Vance and Rubio behind Trump",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e5252ad9b7a5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US cleared China chip sales",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Stock market sell-off",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mundane celebrity encounters",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/328db357504a",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
+     "text": "Vance and Rubio behind Trump",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e5252ad9b7a5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Colts release Daniel Jones",
+     "text": "New Home Alone movie announced",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82dc20d5994d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Next James Bond film's continuity",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea0e58ccc4d0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33824d3a8ff2",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Death of Fiona the hippo",
+     "text": "Colts release Daniel Jones",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82dc20d5994d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senators vow cybersecurity nominee holds",
+     "text": "Anthropic debuts on Nasdaq",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4067ece3b89",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -279,45 +271,69 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "UK, EU seal reset deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
+     "likes": 0,
+     "image": ""
+    },
+    {
      "kind": "Lemmy post",
      "text": "Make the white queen run so fast...",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70224612",
-     "likes": 28,
+     "likes": 70,
      "image": "https://lemmy.world/pictrs/image/6ffa8141-313c-47f9-8b0a-0cfdce666202.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "xkcd #3327: Plate Maintenance",
-     "author": "xkcd",
-     "url": "https://lemmy.world/post/54649176",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/5dd2a19f-71d0-49f2-a200-1c27146d741c.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Internet Archive Staffers Are Unionizing",
-     "author": "Technology",
-     "url": "https://lemmy.ml/post/55542625",
-     "likes": 74,
-     "image": "https://lemmy.world/pictrs/image/00e267e8-ca1b-4adc-9a39-aa3d51db979b.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "My friend just emailed this to Jeff Bezos",
      "author": "Late Stage Capitalism",
      "url": "https://lemmy.world/post/54649625",
-     "likes": 12,
+     "likes": 42,
      "image": "https://lemmy.world/pictrs/image/85c61009-654c-4a3c-b7c7-1ef11fd4a068.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Notebook Wallet",
+     "author": "I Made This",
+     "url": "https://piefed.social/c/imadethis@lemmy.zip/p/2624634/notebook-wallet",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/508fa1e0-cbc3-4c22-834b-45270975ce92.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "My life in a nutshell",
+     "author": "linuxmemes",
+     "url": "https://lemmy.world/post/54651004",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/b1c5336b-3d3e-44a4-8cee-54a83a8c43eb.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T19:14:12.225063+00:00",
+   "fetched_at": "2026-11-20T19:44:18.474725+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
+     "text": "Someone asked me to name two structures that hold water. I said \"Well dam\"",
      "source": "Dad joke"
     },
     {
-     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
+     "text": "Why did the man put his money in the freezer? He wanted cold hard cash!",
      "source": "Dad joke"
     },
     {
-     "text": "Why is Peter Pan always flying? Because he Neverlands.",
+     "text": "What do you call a monkey in a mine field? A babooooom!\n",
      "source": "Dad joke"
     }
    ]
