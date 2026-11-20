@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:10:13.366893+00:00",
+ "generated_at": "2026-11-20T04:40:18.953222+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T04:10:10.784144+00:00",
+   "fetched_at": "2026-11-20T04:40:16.291843+00:00",
    "stale": false,
    "items": [
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 3,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 1778,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,24 +107,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1208,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 476,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 47,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 312,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,24 +128,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "not judging but was it worth it?",
-     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
-     "url": "https://redd.it/1y0cst2",
-     "ups": 4853,
+     "title": "choosingMyFirstProgrammingLanguage",
+     "image": "https://i.redd.it/yb8k2amfqd1i1.gif",
+     "url": "https://redd.it/1xv7ls8",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 9514,
      "sub": "r/memes"
     },
     {
-     "title": "\"we got X before GTA VI\" is dead, but there's one thing we'll get everything before...",
-     "image": "https://i.redd.it/igleqy2jjm2i1.png",
-     "url": "https://redd.it/1y0j0sd",
-     "ups": 34,
+     "title": "AI CEOs After the Recent Outages",
+     "image": "https://i.redd.it/utg749he8h2i1.png",
+     "url": "https://redd.it/1xzxinh",
+     "ups": 201,
      "sub": "r/memes"
     },
     {
-     "title": "He's taking all the jobs.",
-     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
-     "url": "https://redd.it/1y0jb3n",
-     "ups": 346,
+     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
+     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
+     "url": "https://redd.it/1y0ib7g",
+     "ups": 28,
      "sub": "r/memes"
     },
     {
@@ -163,23 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "the myth of consensual trade",
-     "image": "https://i.redd.it/56gq9dhrak2i1.png",
-     "url": "https://redd.it/1y0813s",
-     "ups": 707,
+     "title": "He's taking all the jobs.",
+     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
+     "url": "https://redd.it/1y0jb3n",
+     "ups": 346,
      "sub": "r/memes"
     },
     {
-     "title": "Now that's paradise",
-     "image": "https://i.redd.it/b7hm9985mn2i1.png",
-     "url": "https://redd.it/1y0o60a",
-     "ups": 556,
+     "title": "not judging but was it worth it?",
+     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
+     "url": "https://redd.it/1y0cst2",
+     "ups": 4853,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T04:10:12.163711+00:00",
+   "fetched_at": "2026-11-20T04:40:17.554780+00:00",
    "stale": false,
    "items": [
     {
@@ -200,14 +200,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Names parents almost chose",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Kutcher's firm and Anthropic IPO",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
@@ -216,25 +208,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Deltarune's scrapped Apple Girlington character",
+     "text": "Death of Fiona the hippo",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fce378597657",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chips and China's military",
+     "text": "Names parents almost chose",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Worst Marvel movie",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70044aad527a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "International Men's Day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US cleared China chip sales",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Umamusume and Denver Broncos collab",
+     "text": "Second-to-last text caption meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a6c252bc81e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Wave of software vulnerability disclosures",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ec23c655bee",
      "likes": 0,
      "image": ""
     },
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cyber director Sean Cairncross steps down",
+     "text": "Trump's Pete Rose pardon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3a53e3bed051",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f68d49265d6c",
      "likes": 0,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Steelworker with Goggles by W. Eugene Smith Pittsburgh 1955",
-     "author": "HistoryPhotos",
-     "url": "https://lemmy.world/post/54623546",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/ddd3cd1f-3cf4-4e81-855e-40d27dfde2a3.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Google is finally mask-off trying to kill GrapheneOS",
      "author": "Privacy",
      "url": "https://lemmy.dbzer0.com/post/78689258",
-     "likes": 13,
+     "likes": 33,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Do not forgive MAGA, hold them accountable for the actual Nazi rhetoric. Lots of \"Ooooorrrraaah!\" energy out there.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54623221",
-     "likes": 57,
-     "image": ""
+     "text": "Anon hates aluminum",
+     "author": "Greentext",
+     "url": "https://sh.itjust.works/post/70195728",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/7fe352b5-5915-4ca3-b9fd-e81cf4637d63.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trump Says He Wants to Protect 'My Friend' Putin From International Courts",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54623009",
-     "likes": 53,
-     "image": "https://lemmy.world/pictrs/image/09d176d2-cb97-469a-9a52-9e0cd0cc6227.jpeg"
+     "text": "Steelworker with Goggles by W. Eugene Smith Pittsburgh 1955",
+     "author": "HistoryPhotos",
+     "url": "https://lemmy.world/post/54623546",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/ddd3cd1f-3cf4-4e81-855e-40d27dfde2a3.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "No words needed",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54624036",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/9b898d09-bd0b-4e8d-9b3d-a540855e8e92.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T04:10:12.648080+00:00",
+   "fetched_at": "2026-11-20T04:40:18.287620+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Where do young cows eat lunch? In the calf-ateria.",
+     "text": "How do you get a baby alien to sleep?  You rocket.",
      "source": "Dad joke"
     },
     {
-     "text": "Where does batman go to the bathroom? The batroom.",
+     "text": "It's only a murder of crows if there's probable caws.",
      "source": "Dad joke"
     },
     {
-     "text": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
+     "text": "I used to be addicted to soap, but I'm clean now.",
      "source": "Dad joke"
     }
    ]
