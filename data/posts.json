@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:11:17.104755+00:00",
+ "generated_at": "2026-11-20T08:41:23.231065+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T08:11:13.918550+00:00",
+   "fetched_at": "2026-11-20T08:41:19.680934+00:00",
    "stale": false,
    "items": [
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 390,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 345,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2935,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,32 +114,39 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1671,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 586,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 796,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 18,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 592,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 52,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 166,
-     "sub": "r/ProgrammerHumor"
+     "title": "A hand touches the beacon",
+     "image": "https://i.redd.it/as139z2ytk2i1.png",
+     "url": "https://redd.it/1y0a8qu",
+     "ups": 41,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"we got X before GTA VI\" is dead, but there's one thing we'll get everything before...",
+     "image": "https://i.redd.it/igleqy2jjm2i1.png",
+     "url": "https://redd.it/1y0j0sd",
+     "ups": 38,
+     "sub": "r/memes"
     },
     {
      "title": "Now that's paradise",
@@ -142,54 +156,32 @@
      "sub": "r/memes"
     },
     {
-     "title": "This is a turn of events i did not expect.",
-     "image": "https://i.redd.it/r2f58gjjyp2i1.png",
-     "url": "https://redd.it/1y0x7mx",
-     "ups": 1,
+     "title": "The body of Christ",
+     "image": "https://i.redd.it/12o8sbsktk2i1.png",
+     "url": "https://redd.it/1y0a6zx",
+     "ups": 334,
      "sub": "r/memes"
     },
     {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 201,
+     "title": "GTA VI giving fresh memes for a day and a half now",
+     "image": "https://i.redd.it/wc54bpw50o2i1.png",
+     "url": "https://redd.it/1y0pvpa",
+     "ups": 721,
      "sub": "r/memes"
     },
     {
-     "title": "He's taking all the jobs.",
-     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
-     "url": "https://redd.it/1y0jb3n",
-     "ups": 460,
-     "sub": "r/memes"
-    },
-    {
-     "title": "two memes I merged together because I was bored and seemed funny to me",
-     "image": "https://i.redd.it/ykipc57rjm2i1.png",
-     "url": "https://redd.it/1y0j4g3",
-     "ups": 14,
-     "sub": "r/memes"
-    },
-    {
-     "title": "not judging but was it worth it?",
-     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
-     "url": "https://redd.it/1y0cst2",
-     "ups": 5578,
+     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
+     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
+     "url": "https://redd.it/1y0ib7g",
+     "ups": 24,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T08:11:15.607299+00:00",
+   "fetched_at": "2026-11-20T08:41:21.527201+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "UK weighs closer EU ties",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "COP31 draft drops fossil fuels",
@@ -200,49 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a movie with a Supreme Court justice",
+     "text": "Ukraine strikes Kerch Bridge railway",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Names parents almost chose",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Deltarune's scrapped Apple Girlington character",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fce378597657",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US cleared China chip sales",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Worst Marvel movie",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70044aad527a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +208,65 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pew projects global religion shifts",
+     "text": "Films owned on VHS",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/377dcc805779",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/259393edeef6",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine strikes Kerch Bridge railway",
+     "text": "Ruin a movie with a Supreme Court justice",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "International Men's Day",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Worst Marvel movie",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70044aad527a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Archive of Our Own goes down",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33ecf119c8d8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Autumn foliage photos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "OCASK prompt on shared characters",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/96349219abb6",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK weighs closer EU ties",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "Think like your enemy",
      "author": "cats",
      "url": "https://nord.pub/c/cat@lemmy.world/p/562106/think-like-your-enemy",
-     "likes": 37,
+     "likes": 70,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Literal shitpost",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.dbzer0.com/post/78694059",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/53c8ff0f-aebb-4d01-84d3-9405e3019c75.webp"
+     "text": "New shirts finally came in the mail!",
+     "author": "Chevron 7",
+     "url": "https://lemmy.world/post/54630711",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/01317f0a-62b3-4601-ab99-a50764e5e768.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "rule",
-     "author": "196",
-     "url": "https://lemmy.world/post/54629166",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/498efc77-1a6a-49c1-b342-9989da317171.webp"
+     "text": "Mr.Nook took all my money",
+     "author": "Animemes",
+     "url": "https://ani.social/post/39679964",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/ae2d0260-09d7-4a8f-b478-ea247a0da0ea.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "posting she-ra adjacent memes weekly to sustain moral: 45",
-     "author": "She-Ra",
-     "url": "https://lemmy.blahaj.zone/post/50711298",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/3ab4b349-7531-468e-afa2-82637b4e314c.webp"
+     "text": "Ubisoft Creates Generative AI Game Studio Called Motherbrain as Part of New Operating Model",
+     "author": "PC Gaming",
+     "url": "https://lemmy.ca/post/74107511",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/315d154f-36bf-4bd4-8f46-46f716261261.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T08:11:16.077696+00:00",
+   "fetched_at": "2026-11-20T08:41:22.528806+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
     {
      "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear the news? FedEx and UPS are merging. They\u2019re going to go by the name Fed-Up from now on.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How was the snow globe feeling after the storm? A little shaken.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the dog say to the two trees? Bark bark.",
+     "text": "I\u2019ll tell you something about German sausages, they\u2019re the wurst",
      "source": "Dad joke"
     },
     {
-     "text": "I ate a clock yesterday. It was so time consuming.",
+     "text": "Doctor: Do you want to hear the good news or the bad news?\r\nPatient: Good news please.\r\nDoctor: we're naming a disease after you.",
      "source": "Dad joke"
     }
    ]
