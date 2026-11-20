@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:13:19.246110+00:00",
+ "generated_at": "2026-11-20T16:43:25.323355+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T16:13:15.920696+00:00",
+   "fetched_at": "2026-11-20T16:43:22.066106+00:00",
    "stale": false,
    "items": [
     {
-     "title": "astrologyDrivenDevelopment",
-     "image": "https://i.redd.it/3gm3awecrq2i1.png",
-     "url": "https://redd.it/1y0zrep",
-     "ups": 200,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 26,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 138,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 1910,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
      "ups": 32,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1519,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1352,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cmonGitHubAgain",
-     "image": "https://i.redd.it/jnx3yr1ms11i1.png",
-     "url": "https://redd.it/1xttllg",
-     "ups": 1232,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3095,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 4,
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
+     "ups": 130,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "\"we got X before GTA VI\" is dead, but there's one thing we'll get everything before...",
-     "image": "https://i.redd.it/igleqy2jjm2i1.png",
-     "url": "https://redd.it/1y0j0sd",
-     "ups": 42,
+     "title": "Total obliteration",
+     "image": "https://i.redd.it/nzprrms9go2i1.gif",
+     "url": "https://redd.it/1y0rqre",
+     "ups": 23,
      "sub": "r/memes"
     },
     {
-     "title": "Can't sleep now",
-     "image": "https://i.redd.it/32s6pynirr2i1.png",
-     "url": "https://redd.it/1y13g5g",
-     "ups": 31,
+     "title": "Another day another vulnerability to patch",
+     "image": "https://i.redd.it/aei6x62gup2i1.png",
+     "url": "https://redd.it/1y0wu2m",
+     "ups": 23,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Google is more based than the Indonesian government, ngl",
+     "image": "https://i.redd.it/b1za9d5etr2i1.png",
+     "url": "https://redd.it/1y13pn8",
+     "ups": 55,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was thinking more pepper and salt",
+     "image": "https://i.redd.it/jq1243is4q2i1.gif",
+     "url": "https://redd.it/1y0xqt2",
+     "ups": 312,
      "sub": "r/memes"
     },
     {
@@ -156,32 +170,26 @@
      "sub": "r/memes"
     },
     {
-     "title": "This is a turn of events i did not expect.",
-     "image": "https://i.redd.it/r2f58gjjyp2i1.png",
-     "url": "https://redd.it/1y0x7mx",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Total obliteration",
-     "image": "https://i.redd.it/nzprrms9go2i1.gif",
-     "url": "https://redd.it/1y0rqre",
-     "ups": 23,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The body of Christ",
-     "image": "https://i.redd.it/12o8sbsktk2i1.png",
-     "url": "https://redd.it/1y0a6zx",
-     "ups": 404,
+     "title": "I merged 2 existing memes into one by creative editing (edited by me)",
+     "image": "https://i.redd.it/5goxljjycs2i1.png",
+     "url": "https://redd.it/1y16b81",
+     "ups": 3,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T16:13:17.587899+00:00",
+   "fetched_at": "2026-11-20T16:43:23.918315+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Mamdani tears Achilles playing soccer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f8435a15480",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Transgender Day of Remembrance",
@@ -192,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mamdani tears Achilles playing soccer",
+     "text": "Trump, Xi and Putin hold summit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f8435a15480",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Next James Bond film's continuity",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea0e58ccc4d0",
      "likes": 0,
      "image": ""
     },
@@ -216,41 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Death of Fiona the hippo",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Next James Bond film's continuity",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea0e58ccc4d0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "UK, EU seal reset deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Report alleges Huang humiliated employees",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -264,92 +248,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unidentified object in Poland",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/693ab4a4a0dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mamdani vows to close Rikers",
+     "text": "Wave of software vulnerability disclosures",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump tells Europe to defund Ukraine",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate weighs BAAJA permitting bill",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Anyone got this coming on Thanksgiving?",
-     "author": "memes",
-     "url": "https://reddthat.com/post/76931260",
-     "likes": 55,
-     "image": "https://lemmy.world/pictrs/image/fd3531ea-45e6-4373-a3d6-87bbc002d31b.jpeg"
+     "text": "gay",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54644126",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/da498bc4-08c9-47ad-a57d-34e2d37f1722.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Denmark\u2019s Oldest Person, 112, Exposed as Former Nazi Leader in Shocking Wartime Records",
-     "author": "Europe",
-     "url": "https://lemmy.ml/post/55537068",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/c5bd2fbd-7223-4781-adfd-17cfc135448a.jpeg"
+     "text": "Rule to the king, baby",
+     "author": "196",
+     "url": "https://crazypeople.online/post/27842881",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/24db8e23-23ad-405d-8ebe-a348b6052a5a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Priorities",
-     "author": "Superbowl",
-     "url": "https://reddthat.com/post/76930800",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/39ff62d5-e642-4034-b254-5ba7b63294e4.jpeg"
+     "text": "Anyway\u2026",
+     "author": "Lemmy Shitpost",
+     "url": "https://sh.itjust.works/post/70218215",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/f88b6561-2ec3-4b29-9f9f-7d3f06ecd8cd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Palmer Luckey plans to build a sovereign city at sea, free from US laws",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54643235",
+     "text": "GOP leaders fume after members who lost reelection are no-shows",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54644125",
      "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/4c827cce-eeba-4a89-ba33-2a818544dfe0.jpeg"
+     "image": "https://lemmy.world/pictrs/image/7dc6772c-0bca-4518-9239-787437759df6.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T16:13:18.212431+00:00",
+   "fetched_at": "2026-11-20T16:43:24.550797+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "What did one wall say to the other wall? I'll meet you at the corner!",
+     "text": "How do you make a water bed more bouncy. You use Spring Water",
      "source": "Dad joke"
     },
     {
-     "text": "You will never guess what Elsa did to the balloon. She let it go.",
+     "text": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
      "source": "Dad joke"
     },
     {
-     "text": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
+     "text": "My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.",
      "source": "Dad joke"
     }
    ]
