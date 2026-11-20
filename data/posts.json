@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:42:59.808167+00:00",
+ "generated_at": "2026-11-20T15:13:05.846140+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,50 +89,57 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T14:42:56.045548+00:00",
+   "fetched_at": "2026-11-20T15:13:02.139792+00:00",
    "stale": false,
    "items": [
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 593,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 381,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4079,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1679,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1354,
+     "title": "thatAgentIsUpToSomething",
+     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
+     "url": "https://redd.it/1xud9iz",
+     "ups": 26,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "ultimateMergeConflict",
      "image": "https://i.redd.it/6zh9ngcxx12i1.png",
      "url": "https://redd.it/1xy3mhz",
-     "ups": 50,
+     "ups": 51,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 1910,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11504,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 138,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
+     "image": "https://i.redd.it/5deu3zterr2i1.png",
+     "url": "https://redd.it/1y13imc",
+     "ups": 926,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "POV your mom enters your room when you play GTA",
+     "image": "https://i.redd.it/ajrud7mmml2i1.png",
+     "url": "https://redd.it/1y0ea7g",
+     "ups": 107,
+     "sub": "r/memes"
     },
     {
      "title": "GTA 6 has already generated over $1.5 billion in revenue",
@@ -142,44 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 9907,
+     "title": "Share With Astronomy Kids!",
+     "image": "https://i.redd.it/24elgqh01o2i1.png",
+     "url": "https://redd.it/1y0pzaj",
+     "ups": 9,
      "sub": "r/memes"
     },
     {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 6,
+     "title": "I was thinking more pepper and salt",
+     "image": "https://i.redd.it/jq1243is4q2i1.gif",
+     "url": "https://redd.it/1y0xqt2",
+     "ups": 218,
      "sub": "r/memes"
     },
     {
-     "title": "I feel like I am missing something important",
-     "image": "https://i.redd.it/omscbgy0hi2i1.png",
-     "url": "https://redd.it/1y0292w",
-     "ups": 263,
+     "title": "Another day another vulnerability to patch",
+     "image": "https://i.redd.it/aei6x62gup2i1.png",
+     "url": "https://redd.it/1y0wu2m",
+     "ups": 22,
      "sub": "r/memes"
     },
     {
-     "title": "He's taking all the jobs.",
-     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
-     "url": "https://redd.it/1y0jb3n",
-     "ups": 563,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I said \"God help me\"",
-     "image": "https://i.redd.it/muiz8jrorl2i1.png",
-     "url": "https://redd.it/1y0f17o",
-     "ups": 333,
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 5004,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T14:42:57.666127+00:00",
+   "fetched_at": "2026-11-20T15:13:04.345737+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unidentified object in Poland",
+     "text": "Next James Bond film's continuity",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/693ab4a4a0dd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "COP31 draft drops fossil fuels",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea0e58ccc4d0",
      "likes": 0,
      "image": ""
     },
@@ -216,33 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic debuts on Nasdaq",
+     "text": "Senate weighs BAAJA permitting bill",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
+     "text": "Princeton student held by ICE",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Poll on Britain's national anthem",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e57656e2a6c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8fa8fcc843bb",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +240,125 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Princeton student held by ICE",
+     "text": "Poll on Britain's national anthem",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8fa8fcc843bb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e57656e2a6c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin hold summit",
+     "text": "Anthropic debuts on Nasdaq",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unidentified object in Poland",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/693ab4a4a0dd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mamdani vows to close Rikers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Reporting on this \"yogurt\" fad",
-     "author": "Funny: Home of the Haha",
-     "url": "https://lemmy.world/post/54640330",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/2d07e7a4-7f50-4e41-b4d8-6e6d29247b86.jpeg"
+     "text": "99 bottles of bugs",
+     "author": "Programmer Humor",
+     "url": "https://programming.dev/post/59666029",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/d7705e22-679f-4770-a2a5-4d056bc31799.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Game on",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75357987",
-     "likes": 22,
-     "image": "https://lemmy.zip/pictrs/image/15b15f4a-6357-4636-939b-913465d9f856.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Bad track record",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54640277",
+     "text": "Busy day",
+     "author": "Wholesome",
+     "url": "https://piefed.blahaj.zone/c/wholesome@reddthat.com/p/1078286/busy-day",
      "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/c6327e59-953e-4dec-b723-7100a75d385d.jpeg"
+     "image": "https://lemmy.world/pictrs/image/4478f9a4-34e4-4ba9-a01e-e2c934e6832f.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Nancy - May 21, 1952",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54640151",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/b577b792-46db-4648-ae8e-6bf5552525d1.jpeg"
+     "text": "Man furious that GTA VI gives you the option to be nice to your girlfriend",
+     "author": "The Onion and other satire w/ layers",
+     "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1082713/man-furious-that-gta-vi-gives-you-the-option-to-be-nice-to-your-girlfriend",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/7e3f8484-3647-419c-9f59-17495d40c119.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "2 senators block Trump nominee who said Capitol wasn\u2019t attacked on Jan. 6, 2021",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54641473",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/3e74c171-c811-4696-89be-870b697d1eb7.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T14:42:58.743602+00:00",
+   "fetched_at": "2026-11-20T15:13:04.999391+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
+     "text": "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
+     "text": "\"Dad, I'm cold.\"\r\n\"Go stand in the corner, I hear it's 90 degrees.\"",
      "source": "Dad joke"
     },
     {
-     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
+     "text": "The best time on a clock is 6:30--hands down.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
