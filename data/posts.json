@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:13:05.846140+00:00",
+ "generated_at": "2026-11-20T15:43:13.193551+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,64 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T15:13:02.139792+00:00",
+   "fetched_at": "2026-11-20T15:43:09.802503+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thatAgentIsUpToSomething",
-     "image": "https://i.redd.it/p3cqlnmsr61i1.png",
-     "url": "https://redd.it/1xud9iz",
-     "ups": 26,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3095,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 51,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 32,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 1910,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 824,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codeReviewIn2026",
-     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
-     "url": "https://redd.it/1xtdji5",
-     "ups": 11504,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 138,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 22,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
-     "image": "https://i.redd.it/5deu3zterr2i1.png",
-     "url": "https://redd.it/1y13imc",
-     "ups": 926,
+     "title": "codexUseSudo",
+     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
+     "url": "https://redd.it/1xv1adv",
+     "ups": 4,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "POV your mom enters your room when you play GTA",
-     "image": "https://i.redd.it/ajrud7mmml2i1.png",
-     "url": "https://redd.it/1y0ea7g",
-     "ups": 107,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA 6 has already generated over $1.5 billion in revenue",
-     "image": "https://i.redd.it/kedaqytjzl2i1.png",
-     "url": "https://redd.it/1y0g7by",
-     "ups": 1417,
-     "sub": "r/memes"
     },
     {
      "title": "Share With Astronomy Kids!",
@@ -156,17 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "I was thinking more pepper and salt",
-     "image": "https://i.redd.it/jq1243is4q2i1.gif",
-     "url": "https://redd.it/1y0xqt2",
-     "ups": 218,
+     "title": "POV your mom enters your room when you play GTA",
+     "image": "https://i.redd.it/ajrud7mmml2i1.png",
+     "url": "https://redd.it/1y0ea7g",
+     "ups": 107,
      "sub": "r/memes"
     },
     {
-     "title": "Another day another vulnerability to patch",
-     "image": "https://i.redd.it/aei6x62gup2i1.png",
-     "url": "https://redd.it/1y0wu2m",
-     "ups": 22,
+     "title": "If you watch tiktok, get a life like us reddit users. \ud83d\ude02",
+     "image": "https://i.redd.it/vfp5yyhdip2i1.png",
+     "url": "https://redd.it/1y0vpy0",
+     "ups": 50,
      "sub": "r/memes"
     },
     {
@@ -175,26 +161,48 @@
      "url": "https://redd.it/1xzgdba",
      "ups": 5004,
      "sub": "r/memes"
+    },
+    {
+     "title": "He's taking all the jobs.",
+     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
+     "url": "https://redd.it/1y0jb3n",
+     "ups": 563,
+     "sub": "r/memes"
+    },
+    {
+     "title": "two memes I merged together because I was bored and seemed funny to me",
+     "image": "https://i.redd.it/ykipc57rjm2i1.png",
+     "url": "https://redd.it/1y0j4g3",
+     "ups": 24,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T15:13:04.345737+00:00",
+   "fetched_at": "2026-11-20T15:43:11.781860+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Ruin a movie with a Supreme Court justice",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Next James Bond film's continuity",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea0e58ccc4d0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK, EU seal reset deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Melania Trump's Fox & Friends interview",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9d72ff683fd",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
+     "text": "Anthropic debuts on Nasdaq",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Princeton student held by ICE",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8fa8fcc843bb",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Death of Fiona the hippo",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic debuts on Nasdaq",
+     "text": "Ruin a movie with a Supreme Court justice",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Amazon developing The Prisoner remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c715f4ed0b6e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -280,60 +280,60 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "99 bottles of bugs",
-     "author": "Programmer Humor",
-     "url": "https://programming.dev/post/59666029",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/d7705e22-679f-4770-a2a5-4d056bc31799.png"
+     "text": "Anyone got this coming on Thanksgiving?",
+     "author": "memes",
+     "url": "https://reddthat.com/post/76931260",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/fd3531ea-45e6-4373-a3d6-87bbc002d31b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Busy day",
-     "author": "Wholesome",
-     "url": "https://piefed.blahaj.zone/c/wholesome@reddthat.com/p/1078286/busy-day",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/4478f9a4-34e4-4ba9-a01e-e2c934e6832f.webp"
+     "text": "Not Today: Artificial Scarcity Ploy ",
+     "author": "Not The Onion",
+     "url": "https://thelemmy.club/post/59202459",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/276f9500-61cf-4c1f-8ad5-74e0b039bee0.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Man furious that GTA VI gives you the option to be nice to your girlfriend",
-     "author": "The Onion and other satire w/ layers",
-     "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1082713/man-furious-that-gta-vi-gives-you-the-option-to-be-nice-to-your-girlfriend",
+     "text": "Priorities",
+     "author": "Superbowl",
+     "url": "https://reddthat.com/post/76930800",
      "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/7e3f8484-3647-419c-9f59-17495d40c119.jpeg"
+     "image": "https://lemmy.world/pictrs/image/39ff62d5-e642-4034-b254-5ba7b63294e4.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "2 senators block Trump nominee who said Capitol wasn\u2019t attacked on Jan. 6, 2021",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54641473",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/3e74c171-c811-4696-89be-870b697d1eb7.jpeg"
+     "text": "This is Ralph. He's a house opossum. He likes to ride in his owner's hood. He's very polite and loves yogurt.",
+     "author": "Opossums",
+     "url": "https://lemmy.world/post/54642475",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/8f39d525-39a0-4c7b-b2e5-5d7cd79ca0e3.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T15:13:04.999391+00:00",
+   "fetched_at": "2026-11-20T15:43:12.426912+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.",
+     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
      "source": "Dad joke"
     },
     {
-     "text": "\"Dad, I'm cold.\"\r\n\"Go stand in the corner, I hear it's 90 degrees.\"",
+     "text": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
      "source": "Dad joke"
     },
     {
-     "text": "The best time on a clock is 6:30--hands down.",
+     "text": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
      "source": "Dad joke"
     }
    ]
