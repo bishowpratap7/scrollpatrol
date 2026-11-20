@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:13:31.752460+00:00",
+ "generated_at": "2026-11-20T17:43:37.888965+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T17:13:28.265763+00:00",
+   "fetched_at": "2026-11-20T17:43:34.632544+00:00",
    "stale": false,
    "items": [
     {
-     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
-     "image": "https://i.redd.it/5deu3zterr2i1.png",
-     "url": "https://redd.it/1y13imc",
-     "ups": 1686,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 507,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 21,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 831,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 1,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 35,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2172,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 1935,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,38 +121,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
-     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
-     "url": "https://redd.it/1y1597y",
-     "ups": 11,
+     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
+     "image": "https://i.redd.it/5deu3zterr2i1.png",
+     "url": "https://redd.it/1y13imc",
+     "ups": 1686,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3121,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Its now or never",
+     "image": "https://i.redd.it/4ezuee570o2i1.png",
+     "url": "https://redd.it/1y0pwat",
+     "ups": 28,
      "sub": "r/memes"
     },
     {
-     "title": "This is a turn of events i did not expect.",
-     "image": "https://i.redd.it/r2f58gjjyp2i1.png",
-     "url": "https://redd.it/1y0x7mx",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The body of Christ",
-     "image": "https://i.redd.it/12o8sbsktk2i1.png",
-     "url": "https://redd.it/1y0a6zx",
-     "ups": 404,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 55,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I was thinking more pepper and salt",
-     "image": "https://i.redd.it/jq1243is4q2i1.gif",
-     "url": "https://redd.it/1y0xqt2",
-     "ups": 312,
+     "title": "iykyk\u3164\u3164\u3164\u3164\u3164",
+     "image": "https://i.redd.it/ym5j9t5ovp2i1.png",
+     "url": "https://redd.it/1y0wzod",
+     "ups": 365,
      "sub": "r/memes"
     },
     {
@@ -175,21 +154,34 @@
      "url": "https://redd.it/1y13g5g",
      "ups": 31,
      "sub": "r/memes"
+    },
+    {
+     "title": "Guess we need a new thing to say",
+     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
+     "url": "https://redd.it/1y072wt",
+     "ups": 369,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Real as shit son",
+     "image": "https://i.redd.it/zf5yi69fen2i1.png",
+     "url": "https://redd.it/1y0n86o",
+     "ups": 51,
+     "sub": "r/memes"
+    },
+    {
+     "title": "get the \"we got this before gta 6\" jokes out of your system ASAP folks.",
+     "image": "https://i.redd.it/1j8imm9yog2i1.png",
+     "url": "https://redd.it/1xzv8jw",
+     "ups": 0,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T17:13:30.170066+00:00",
+   "fetched_at": "2026-11-20T17:43:36.540572+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Stock market sell-off",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unidentified object in Poland",
+     "text": "Transgender Day of Remembrance",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/693ab4a4a0dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic debuts on Nasdaq",
+     "text": "Trump, Xi and Putin hold summit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
+     "text": "Report alleges Huang humiliated employees",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
      "likes": 0,
      "image": ""
     },
@@ -248,14 +240,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Report alleges Huang humiliated employees",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Death of Fiona the hippo",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
@@ -264,76 +248,88 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump tells Europe to defund Ukraine",
+     "text": "Anthropic debuts on Nasdaq",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate weighs BAAJA permitting bill",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army to detonate lead explosives in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK, EU seal reset deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Gemini logo is interesting",
-     "author": "Programmer Humor",
-     "url": "https://piefed.social/c/programmer_humor@programming.dev/p/2624039/gemini-logo-is-interesting",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/e14d7226-b6c8-430f-b199-9bde5f54b58d.webp"
+     "text": "AI pls make my blog good make no mistakes",
+     "author": "Lemmy Shitpost",
+     "url": "https://sopuli.xyz/post/54855616",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/d5832577-1dc0-437c-9562-f61d0ab62f9d.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Canadian populism",
+     "author": "Canada",
+     "url": "https://lemmy.today/post/63601586",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/126aba49-9c07-475a-a60b-b9ab1f3eb6d1.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "\u2018I\u2019m Not MAGA,\u2019 Says Man in MAGA Hat | Elon Musk would like to pretend that the past two years didn\u2019t happen.",
      "author": "politics ",
      "url": "https://lemmy.world/post/54644913",
-     "likes": 34,
+     "likes": 69,
      "image": "https://cdn.theatlantic.com/thumbor/Llt7-g7oqGAJIXyKxJyKNsOCp_8=/0x0:2880x1620/1952x1098/media/img/mt/2026/11/2026_11_19_Elon_Musks_MAGA_Pivot_2198394195/original.jpg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Anyway\u2026",
-     "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/70218215",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/f88b6561-2ec3-4b29-9f9f-7d3f06ecd8cd.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "gay",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54644126",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/da498bc4-08c9-47ad-a57d-34e2d37f1722.webp"
+     "text": "nice stickers",
+     "author": "Fuck AI",
+     "url": "https://lemmy.blahaj.zone/post/50725750",
+     "likes": 47,
+     "image": "https://lemmy.world/pictrs/image/02f955a4-5643-4b42-b103-acb10db18381.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T17:13:31.026008+00:00",
+   "fetched_at": "2026-11-20T17:43:37.146128+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "What's a ninja's favorite type of shoes? Sneakers!",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you fix a broken pizza? With tomato paste.",
      "source": "Dad joke"
     },
     {
-     "text": "You can't run through a camp site. You can only ran, because it's past tents.",
+     "text": "How do you know if there\u2019s an elephant under your bed? Your head hits the ceiling!",
      "source": "Dad joke"
     },
     {
-     "text": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
+     "text": "What do you call a pile of cats?  A Meowtain.",
      "source": "Dad joke"
     }
    ]
