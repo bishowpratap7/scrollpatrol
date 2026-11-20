@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:39:13.310630+00:00",
+ "generated_at": "2026-11-20T02:09:20.195803+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,23 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T01:39:09.470915+00:00",
+   "fetched_at": "2026-11-20T02:09:15.946384+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3003,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 114,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "itCouldAlwaysBeWorse",
      "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
@@ -100,101 +114,87 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 468,
+     "title": "classAbstractSingletonProxyFactoryBean",
+     "image": "https://i.redd.it/409rnyoc5y0i1.png",
+     "url": "https://redd.it/1xtctzr",
+     "ups": 2931,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1350,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 14,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "codexUseSudo",
-     "image": "https://i.redd.it/lqm3z5fvxb1i1.png",
-     "url": "https://redd.it/1xv1adv",
-     "ups": 2,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 661,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 48,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 590,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "It's always a shame",
-     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
-     "url": "https://redd.it/1xzgdba",
-     "ups": 4917,
+     "title": "She died for us \ud83d\ude14",
+     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
+     "url": "https://redd.it/1y04zfv",
+     "ups": 20,
      "sub": "r/memes"
     },
     {
-     "title": "Words cannot describe how \"very\" I am",
-     "image": "https://i.redd.it/thyixefupl2i1.png",
-     "url": "https://redd.it/1y0er7g",
-     "ups": 5,
+     "title": "not judging but was it worth it?",
+     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
+     "url": "https://redd.it/1y0cst2",
+     "ups": 4427,
      "sub": "r/memes"
     },
     {
-     "title": "A hand touches the beacon",
-     "image": "https://i.redd.it/as139z2ytk2i1.png",
-     "url": "https://redd.it/1y0a8qu",
-     "ups": 41,
+     "title": "this is bullsit",
+     "image": "https://i.redd.it/rycqtb2l3l2i1.gif",
+     "url": "https://redd.it/1y0bjd9",
+     "ups": 12,
      "sub": "r/memes"
     },
     {
-     "title": "Guess we need a new thing to say",
-     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
-     "url": "https://redd.it/1y072wt",
-     "ups": 314,
+     "title": "the myth of consensual trade",
+     "image": "https://i.redd.it/56gq9dhrak2i1.png",
+     "url": "https://redd.it/1y0813s",
+     "ups": 680,
      "sub": "r/memes"
     },
     {
-     "title": "The body of Christ",
-     "image": "https://i.redd.it/12o8sbsktk2i1.png",
-     "url": "https://redd.it/1y0a6zx",
-     "ups": 167,
+     "title": "POV your mom enters your room when you play GTA",
+     "image": "https://i.redd.it/ajrud7mmml2i1.png",
+     "url": "https://redd.it/1y0ea7g",
+     "ups": 77,
      "sub": "r/memes"
     },
     {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 9249,
+     "title": "Its now or never",
+     "image": "https://i.redd.it/4ezuee570o2i1.png",
+     "url": "https://redd.it/1y0pwat",
+     "ups": 7,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T01:39:11.806800+00:00",
+   "fetched_at": "2026-11-20T02:09:18.355805+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Army to detonate lead explosives in Iowa",
+     "text": "Cyber director Sean Cairncross steps down",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3a53e3bed051",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin hold summit",
+     "text": "Army to detonate lead explosives in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
@@ -208,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chips and China's military",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Kutcher's firm and Anthropic IPO",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
@@ -224,49 +216,57 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Atmospheric river hits California",
+     "text": "Greatest detective besides Batman",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c3a5c2923d9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2da629cba75f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Taylor Swift performs at CMA Awards",
+     "text": "Nintendo Wii turns 20",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/121676c7a34e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a6a465cde2d9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Nvidia chips and China's military",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "International Men's Day",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a57d32d5fd3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AEW Dynamite live from Denver",
+     "text": "Autumn foliage photos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1bcb99b417f7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Blumenthal questions nominees on January 6",
+     "text": "Dere type personality test results",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4067ece3b89",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/970a35d1b85b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump, Xi and Putin hold summit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "TIL Compuserve still has a homepage and it\u2019s from the 2000\u2019s.",
      "author": "Sysadmin",
      "url": "https://lemmy.world/post/54618080",
-     "likes": 84,
+     "likes": 103,
      "image": ""
     },
     {
@@ -291,7 +291,7 @@
      "text": "Gay Juice Rule",
      "author": "196",
      "url": "https://lemmy.zip/post/75325003",
-     "likes": 76,
+     "likes": 83,
      "image": "https://lemmy.zip/pictrs/image/b4f89ecd-6e77-48de-b713-8c51e9eeb98e.avif"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
      "author": "Work Reform",
      "url": "https://lemmy.world/post/54618465",
-     "likes": 68,
+     "likes": 84,
      "image": "https://lemmy.world/pictrs/image/1c858f84-c8c7-4d2d-8662-696a8fe41a75.jpeg"
     },
     {
@@ -307,21 +307,21 @@
      "text": "\"Security is a priority, so we will use 4 digit PIN via SMS as the only authentication factor\"",
      "author": "Crappy Design",
      "url": "https://lemmy.sdf.org/post/62096794",
-     "likes": 48,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/fce32509-ec17-4a30-bd91-21c79a95fabf.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T01:39:12.308578+00:00",
+   "fetched_at": "2026-11-20T02:09:19.164968+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -329,36 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
+     "text": "Why did the tree go to the dentist? It needed a root canal.",
      "source": "Dad joke"
     },
     {
-     "text": "Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.",
+     "text": "I met this girl on a dating site and, I don't know, we just clicked.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was the big cat disqualified from the race? Because it was a cheetah.",
+     "text": "Where do you learn to make banana splits? At sundae school.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
