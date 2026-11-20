@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:12:52.981266+00:00",
+ "generated_at": "2026-11-20T14:42:59.808167+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T14:12:50.349346+00:00",
+   "fetched_at": "2026-11-20T14:42:56.045548+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 165,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "nowWeGotGtaSixForPlaystationFour",
      "image": "https://i.redd.it/xrt67cpkpa1i1.png",
@@ -107,10 +100,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 26,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 381,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4079,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1679,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1354,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,31 +135,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 602,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itCouldAlwaysBeWorse",
-     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
-     "url": "https://redd.it/1xuykvl",
-     "ups": 75,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "GTA VI giving fresh memes for a day and a half now",
-     "image": "https://i.redd.it/wc54bpw50o2i1.png",
-     "url": "https://redd.it/1y0pvpa",
-     "ups": 1456,
+     "title": "GTA 6 has already generated over $1.5 billion in revenue",
+     "image": "https://i.redd.it/kedaqytjzl2i1.png",
+     "url": "https://redd.it/1y0g7by",
+     "ups": 1417,
      "sub": "r/memes"
     },
     {
-     "title": "\"we got X before GTA VI\" is dead, but there's one thing we'll get everything before...",
-     "image": "https://i.redd.it/igleqy2jjm2i1.png",
-     "url": "https://redd.it/1y0j0sd",
-     "ups": 45,
+     "title": "Time to pass the torch",
+     "image": "https://i.redd.it/abga5tjihg2i1.png",
+     "url": "https://redd.it/1xzua3e",
+     "ups": 9907,
      "sub": "r/memes"
     },
     {
@@ -163,38 +163,38 @@
      "sub": "r/memes"
     },
     {
-     "title": "the myth of consensual trade",
-     "image": "https://i.redd.it/56gq9dhrak2i1.png",
-     "url": "https://redd.it/1y0813s",
-     "ups": 811,
+     "title": "He's taking all the jobs.",
+     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
+     "url": "https://redd.it/1y0jb3n",
+     "ups": 563,
      "sub": "r/memes"
     },
     {
-     "title": "POV your mom enters your room when you play GTA",
-     "image": "https://i.redd.it/ajrud7mmml2i1.png",
-     "url": "https://redd.it/1y0ea7g",
-     "ups": 107,
+     "title": "I said \"God help me\"",
+     "image": "https://i.redd.it/muiz8jrorl2i1.png",
+     "url": "https://redd.it/1y0f17o",
+     "ups": 333,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T14:12:51.466626+00:00",
+   "fetched_at": "2026-11-20T14:42:57.666127+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
+     "text": "Ruin a movie with a Supreme Court justice",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK weighs closer EU ties",
+     "text": "Unidentified object in Poland",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/693ab4a4a0dd",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Death of Fiona the hippo",
+     "text": "Transgender Day of Remembrance",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang's Nvidia return bid",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a movie with a Supreme Court justice",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
@@ -256,76 +248,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Voyager 1 reaches one light-day",
+     "text": "Death of Fiona the hippo",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/db53df5547bc",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unidentified object in Poland",
+     "text": "Report alleges Huang humiliated employees",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/693ab4a4a0dd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mamdani vows to close Rikers",
+     "text": "Princeton student held by ICE",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1d85d7d27761",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8fa8fcc843bb",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump, Xi and Putin hold summit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "SBA #307 First Day",
+     "text": "Reporting on this \"yogurt\" fad",
+     "author": "Funny: Home of the Haha",
+     "url": "https://lemmy.world/post/54640330",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/2d07e7a4-7f50-4e41-b4d8-6e6d29247b86.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Game on",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54639176",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/c79be686-26f0-41e5-912f-1e22fb744a5d.jpeg"
+     "url": "https://lemmy.zip/post/75357987",
+     "likes": 22,
+     "image": "https://lemmy.zip/pictrs/image/15b15f4a-6357-4636-939b-913465d9f856.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Grassy tram tracks in Hungary",
-     "author": "Fuck Cars",
-     "url": "https://lemmy.world/post/54639227",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/a3e34057-c84e-438d-bd32-a3372ffc0a34.jpeg"
+     "text": "Bad track record",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.world/post/54640277",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/c6327e59-953e-4dec-b723-7100a75d385d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Thank you for being a mutant",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54639329",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/4e8829f6-2034-4fb4-ade2-5732c7cb9e4f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Complimentary",
-     "author": "memes",
-     "url": "https://lemmy.ca/post/74116298",
-     "likes": 120,
-     "image": "https://lemmy.world/pictrs/image/1b533224-45a8-43ca-a448-4ad2a6edd3e0.png"
+     "text": "Nancy - May 21, 1952",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54640151",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/b577b792-46db-4648-ae8e-6bf5552525d1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T14:12:52.288303+00:00",
+   "fetched_at": "2026-11-20T14:42:58.743602+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a fish wearing a bowtie? Sofishticated.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.",
      "source": "Dad joke"
     },
     {
-     "text": "Man, I really love my furniture... me and my recliner go way back.",
+     "text": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
      "source": "Dad joke"
     },
     {
-     "text": "A farmer had 297 cows, when he rounded them up, he found he had 300",
+     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
      "source": "Dad joke"
     }
    ]
