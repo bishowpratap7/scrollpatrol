@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:40:55.116847+00:00",
+ "generated_at": "2026-11-20T07:41:10.873715+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,23 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T07:40:52.134668+00:00",
+   "fetched_at": "2026-11-20T07:41:08.411421+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 27,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 130,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
      "image": "https://i.redd.it/pxb629pb9o2i1.gif",
@@ -114,31 +100,73 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1502,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 306,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 52,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 586,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1671,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "the myth of consensual trade",
-     "image": "https://i.redd.it/56gq9dhrak2i1.png",
-     "url": "https://redd.it/1y0813s",
-     "ups": 740,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 669,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 79,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "two memes I merged together because I was bored and seemed funny to me",
+     "image": "https://i.redd.it/ykipc57rjm2i1.png",
+     "url": "https://redd.it/1y0j4g3",
+     "ups": 15,
+     "sub": "r/memes"
+    },
+    {
+     "title": "this is bullsit",
+     "image": "https://i.redd.it/rycqtb2l3l2i1.gif",
+     "url": "https://redd.it/1y0bjd9",
+     "ups": 19,
+     "sub": "r/memes"
+    },
+    {
+     "title": "When will we get the \u201cNew Game+\u201d life update?",
+     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
+     "url": "https://redd.it/1xzdbvx",
+     "ups": 1763,
+     "sub": "r/memes"
+    },
+    {
+     "title": "GTA VI giving fresh memes for a day and a half now",
+     "image": "https://i.redd.it/wc54bpw50o2i1.png",
+     "url": "https://redd.it/1y0pvpa",
+     "ups": 529,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's always a shame",
+     "image": "https://i.redd.it/3lghcs0zqd2i1.png",
+     "url": "https://redd.it/1xzgdba",
+     "ups": 4962,
      "sub": "r/memes"
     },
     {
@@ -147,39 +175,11 @@
      "url": "https://redd.it/1y0a8qu",
      "ups": 39,
      "sub": "r/memes"
-    },
-    {
-     "title": "GTA 6 has already generated over $1.5 billion in revenue",
-     "image": "https://i.redd.it/kedaqytjzl2i1.png",
-     "url": "https://redd.it/1y0g7by",
-     "ups": 1011,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Time to pass the torch",
-     "image": "https://i.redd.it/abga5tjihg2i1.png",
-     "url": "https://redd.it/1xzua3e",
-     "ups": 9606,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Total obliteration",
-     "image": "https://i.redd.it/nzprrms9go2i1.gif",
-     "url": "https://redd.it/1y0rqre",
-     "ups": 14,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
-     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
-     "url": "https://redd.it/1y0ib7g",
-     "ups": 26,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T07:40:54.022120+00:00",
+   "fetched_at": "2026-11-20T07:41:09.749849+00:00",
    "stale": false,
    "items": [
     {
@@ -313,15 +313,27 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T07:40:54.480327+00:00",
+   "fetched_at": "2026-11-20T07:41:10.205852+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
+     "text": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
      "source": "Dad joke"
     },
     {
-     "text": "Don\u2019t interrupt someone working intently on a puzzle. Chances are, you\u2019ll hear some crosswords.",
+     "text": "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.",
      "source": "Dad joke"
     },
     {
-     "text": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
+     "text": "What was a more important invention than the first telephone? The second one.",
      "source": "Dad joke"
     }
    ]
