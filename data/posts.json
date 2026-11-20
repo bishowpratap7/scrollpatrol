@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:43:37.888965+00:00",
+ "generated_at": "2026-11-20T17:43:55.021127+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-20T17:43:34.632544+00:00",
+   "fetched_at": "2026-11-20T17:43:51.425867+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 388,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 46,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1521,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "javaForShell",
      "image": "https://i.redd.it/6bk18o8xmc2i1.png",
@@ -100,46 +121,18 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 831,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1349,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 1935,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 595,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2933,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
-     "image": "https://i.redd.it/5deu3zterr2i1.png",
-     "url": "https://redd.it/1y13imc",
-     "ups": 1686,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3121,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Its now or never",
-     "image": "https://i.redd.it/4ezuee570o2i1.png",
-     "url": "https://redd.it/1y0pwat",
-     "ups": 28,
-     "sub": "r/memes"
     },
     {
      "title": "iykyk\u3164\u3164\u3164\u3164\u3164",
@@ -149,17 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "Can't sleep now",
-     "image": "https://i.redd.it/32s6pynirr2i1.png",
-     "url": "https://redd.it/1y13g5g",
-     "ups": 31,
+     "title": "He's done with it all",
+     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
+     "url": "https://redd.it/1y0z49k",
+     "ups": 3628,
      "sub": "r/memes"
     },
     {
-     "title": "Guess we need a new thing to say",
-     "image": "https://i.redd.it/l5tyo1l71k2i1.png",
-     "url": "https://redd.it/1y072wt",
-     "ups": 369,
+     "title": "GTA 6 has already generated over $1.5 billion in revenue",
+     "image": "https://i.redd.it/kedaqytjzl2i1.png",
+     "url": "https://redd.it/1y0g7by",
+     "ups": 1503,
      "sub": "r/memes"
     },
     {
@@ -170,16 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "get the \"we got this before gta 6\" jokes out of your system ASAP folks.",
-     "image": "https://i.redd.it/1j8imm9yog2i1.png",
-     "url": "https://redd.it/1xzv8jw",
-     "ups": 0,
-     "sub": "r/dankmemes"
+     "title": "POV your mom enters your room when you play GTA",
+     "image": "https://i.redd.it/ajrud7mmml2i1.png",
+     "url": "https://redd.it/1y0ea7g",
+     "ups": 106,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was thinking more pepper and salt",
+     "image": "https://i.redd.it/jq1243is4q2i1.gif",
+     "url": "https://redd.it/1y0xqt2",
+     "ups": 312,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-20T17:43:36.540572+00:00",
+   "fetched_at": "2026-11-20T17:43:53.323977+00:00",
    "stale": false,
    "items": [
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-20T17:43:37.146128+00:00",
+   "fetched_at": "2026-11-20T17:43:54.309132+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
     {
      "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you fix a broken pizza? With tomato paste.",
+     "text": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you know if there\u2019s an elephant under your bed? Your head hits the ceiling!",
+     "text": "What did the dog say to the two trees? Bark bark.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a pile of cats?  A Meowtain.",
+     "text": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
      "source": "Dad joke"
     }
    ]
