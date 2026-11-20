@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:38:46.272274+00:00",
+ "generated_at": "2026-11-20T00:08:53.925826+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-19T23:38:42.318017+00:00",
+   "fetched_at": "2026-11-20T00:08:49.128609+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 95,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "devsAtMicrosoftRightNow",
      "image": "https://i.redd.it/2ybf8ceszc1i1.png",
      "url": "https://redd.it/1xv4nsz",
      "ups": 4076,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 958,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 768,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,88 +121,80 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "classAbstractSingletonProxyFactoryBean",
-     "image": "https://i.redd.it/409rnyoc5y0i1.png",
-     "url": "https://redd.it/1xtctzr",
-     "ups": 2935,
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2167,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 2983,
+     "title": "itCouldAlwaysBeWorse",
+     "image": "https://i.redd.it/l4izf8ep6b1i1.gif",
+     "url": "https://redd.it/1xuykvl",
+     "ups": 78,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The body of Christ",
-     "image": "https://i.redd.it/12o8sbsktk2i1.png",
-     "url": "https://redd.it/1y0a6zx",
-     "ups": 118,
+     "title": "When will we get the \u201cNew Game+\u201d life update?",
+     "image": "https://i.redd.it/zxfnaotq0d2i1.gif",
+     "url": "https://redd.it/1xzdbvx",
+     "ups": 1753,
      "sub": "r/memes"
     },
     {
-     "title": "not judging but was it worth it?",
-     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
-     "url": "https://redd.it/1y0cst2",
-     "ups": 3431,
+     "title": "She died for us \ud83d\ude14",
+     "image": "https://i.redd.it/c3re4eh1dj2i1.png",
+     "url": "https://redd.it/1y04zfv",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
-     "title": "A hand touches the beacon",
-     "image": "https://i.redd.it/as139z2ytk2i1.png",
-     "url": "https://redd.it/1y0a8qu",
-     "ups": 40,
+     "title": "Has my Berlin colleague had enough of my bullshit? Ich habe keine anung",
+     "image": "https://i.redd.it/vl5b7gjcem2i1.png",
+     "url": "https://redd.it/1y0ib7g",
+     "ups": 20,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Now that's paradise",
+     "image": "https://i.redd.it/b7hm9985mn2i1.png",
+     "url": "https://redd.it/1y0o60a",
+     "ups": 2,
+     "sub": "r/memes"
+    },
+    {
+     "title": "the myth of consensual trade",
+     "image": "https://i.redd.it/56gq9dhrak2i1.png",
+     "url": "https://redd.it/1y0813s",
+     "ups": 652,
      "sub": "r/memes"
     },
     {
      "title": "He's taking all the jobs.",
      "image": "https://i.redd.it/xgwzzxaelm2i1.png",
      "url": "https://redd.it/1y0jb3n",
-     "ups": 103,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA 6 has already generated over $1.5 billion in revenue",
-     "image": "https://i.redd.it/kedaqytjzl2i1.png",
-     "url": "https://redd.it/1y0g7by",
-     "ups": 536,
-     "sub": "r/memes"
-    },
-    {
-     "title": "AI CEOs After the Recent Outages",
-     "image": "https://i.redd.it/utg749he8h2i1.png",
-     "url": "https://redd.it/1xzxinh",
-     "ups": 186,
+     "ups": 208,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-19T23:38:44.654613+00:00",
+   "fetched_at": "2026-11-20T00:08:52.081776+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Trump appears asleep at APEC summit",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/16f0245683eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53c4dabc2e89",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Putin cites Anchorage compromises on Ukraine",
+     "text": "Trump, Xi and Putin to meet",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Kutcher's firm and Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -216,6 +208,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Kutcher's firm and Anthropic IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Names parents almost chose",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9813a0425542",
@@ -224,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nintendo Wii turns 20",
+     "text": "Voyager 1 reaches one light-day",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a6a465cde2d9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a595aa25011",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Taylor Swift performs at CMA Awards",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/121676c7a34e",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
+     "text": "Gettysburg Address anniversary",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f40682a827e3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
+     "text": "Nvidia chips and China's military",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ravens send Marlon Humphrey home",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2121132f57ac",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +272,10 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump, Xi and Putin to meet",
+     "text": "Van Hollen targets AI in Schumer challenge",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "All this talk about looksmaxxing, and yet no one has thought about personality maxxing",
-     "author": "Showerthoughts",
-     "url": "https://lemmy.world/post/54617795",
-     "likes": 26,
      "image": ""
     },
     {
@@ -291,49 +283,41 @@
      "text": "TIL Compuserve still has a homepage and it\u2019s from the 2000\u2019s.",
      "author": "Sysadmin",
      "url": "https://lemmy.world/post/54618080",
-     "likes": 20,
+     "likes": 39,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Best in Show",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70185255",
-     "likes": 97,
-     "image": "https://lemmy.world/pictrs/image/28775c52-bc08-47fb-b6c9-f6e702eed51d.jpeg"
+     "text": "Gay Juice Rule",
+     "author": "196",
+     "url": "https://lemmy.zip/post/75325003",
+     "likes": 18,
+     "image": "https://lemmy.zip/pictrs/image/b4f89ecd-6e77-48de-b713-8c51e9eeb98e.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Cookies",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70185141",
-     "likes": 76,
-     "image": "https://lemmy.world/pictrs/image/46e9fdc0-b1ad-44e6-a9c7-039ed53aa99e.png"
+     "text": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+     "author": "Work Reform",
+     "url": "https://lemmy.world/post/54618465",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/1c858f84-c8c7-4d2d-8662-696a8fe41a75.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "\"Security is a priority, so we will use 4 digit PIN via SMS as the only authentication factor\"",
+     "author": "Crappy Design",
+     "url": "https://lemmy.sdf.org/post/62096794",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/fce32509-ec17-4a30-bd91-21c79a95fabf.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-19T23:38:45.207913+00:00",
+   "fetched_at": "2026-11-20T00:08:52.835218+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
@@ -341,24 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "What do you call an elephant that doesn\u2019t matter? An irrelephant.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A horse walks into a bar. The bar tender says \"Hey.\" The horse says \"Sure.\"",
      "source": "Dad joke"
     },
     {
-     "text": "Why is it so windy inside an arena? All those fans.",
+     "text": "They're making a movie about clocks. It's about time",
      "source": "Dad joke"
     },
     {
-     "text": "What did the hat say to the scarf?\r\nYou can hang around. I'll just go on ahead.\r\n",
+     "text": "What did the digital clock say to the grandfather clock? Look, no hands!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
