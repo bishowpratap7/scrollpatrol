@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:49:47.683969+00:00",
+ "generated_at": "2026-11-21T18:50:03.482691+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T18:49:44.635014+00:00",
+   "fetched_at": "2026-11-21T18:50:00.312990+00:00",
    "stale": false,
    "items": [
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 268,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1368,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 609,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 539,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 210,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,31 +114,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11500,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 383,
+     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
+     "image": "https://i.redd.it/5deu3zterr2i1.png",
+     "url": "https://redd.it/1y13imc",
+     "ups": 3643,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Those were the most difficult missions",
-     "image": "https://i.redd.it/5q68857xqx2i1.png",
-     "url": "https://redd.it/1y1t3q5",
-     "ups": 93,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 522,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 154,
      "sub": "r/memes"
     },
     {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 3,
+     "title": "GTA VI giving fresh memes for a day and a half now",
+     "image": "https://i.redd.it/wc54bpw50o2i1.png",
+     "url": "https://redd.it/1y0pvpa",
+     "ups": 2128,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A good one? No, a very good one.",
+     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
+     "url": "https://redd.it/1y1cuq5",
+     "ups": 1516,
      "sub": "r/memes"
     },
     {
@@ -156,30 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 123,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Now that's paradise",
-     "image": "https://i.redd.it/b7hm9985mn2i1.png",
-     "url": "https://redd.it/1y0o60a",
-     "ups": 4518,
-     "sub": "r/memes"
-    },
-    {
      "title": "apps when you dont pay the pro",
      "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
      "url": "https://redd.it/1y189sy",
      "ups": 146,
      "sub": "r/memes"
+    },
+    {
+     "title": "This can\u2019t be happening again",
+     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
+     "url": "https://redd.it/1y1n8m6",
+     "ups": 98,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T18:49:46.355587+00:00",
+   "fetched_at": "2026-11-21T18:50:02.257086+00:00",
    "stale": false,
    "items": [
     {
@@ -313,15 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T18:49:47.050368+00:00",
+   "fetched_at": "2026-11-21T18:50:02.996346+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
+     "text": "Why is Peter Pan always flying? Because he Neverlands.",
      "source": "Dad joke"
     },
     {
-     "text": "I think circles are pointless.",
+     "text": "Why did the melons plan a big wedding? Because they cantaloupe!",
      "source": "Dad joke"
     },
     {
-     "text": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
+     "text": "What did the pirate say on his 80th birthday? Aye Matey!",
      "source": "Dad joke"
     }
    ]
