@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:18:26.644398+00:00",
+ "generated_at": "2026-11-21T13:48:32.024330+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T13:18:22.694567+00:00",
+   "fetched_at": "2026-11-21T13:48:28.460660+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 2065,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 516,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 270,
+     "title": "itWorksOnMyMachineNow",
+     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
+     "url": "https://redd.it/1y069uu",
+     "ups": 133,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 401,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,31 +121,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 1585,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 134,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 10,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 306,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 32,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Imagine how devastated that poor man must have been when he had to reject Mandy",
-     "image": "https://i.redd.it/v8i0s2m1eu2i1.png",
-     "url": "https://redd.it/1y1gjhn",
-     "ups": 116,
+     "title": "Always wondered what happened to him",
+     "image": "https://i.redd.it/7j1crf8x0u2i1.png",
+     "url": "https://redd.it/1y1et1p",
+     "ups": 22,
      "sub": "r/memes"
     },
     {
@@ -149,39 +149,47 @@
      "sub": "r/memes"
     },
     {
-     "title": "Inspiration quote from the greatest philosopher",
-     "image": "https://i.redd.it/0vonr6mluu2i1.png",
-     "url": "https://redd.it/1y1ijqj",
-     "ups": 24,
+     "title": "Can't sleep now",
+     "image": "https://i.redd.it/32s6pynirr2i1.png",
+     "url": "https://redd.it/1y13g5g",
+     "ups": 49,
      "sub": "r/memes"
     },
     {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 879,
+     "title": "Those were the most difficult missions",
+     "image": "https://i.redd.it/5q68857xqx2i1.png",
+     "url": "https://redd.it/1y1t3q5",
+     "ups": 36,
      "sub": "r/memes"
     },
     {
-     "title": "I was thinking more pepper and salt",
-     "image": "https://i.redd.it/jq1243is4q2i1.gif",
-     "url": "https://redd.it/1y0xqt2",
-     "ups": 699,
+     "title": "don't worry you can retire if you make it to triple digits",
+     "image": "https://i.redd.it/0kp73frflt2i1.png",
+     "url": "https://redd.it/1y1cqmi",
+     "ups": 19,
      "sub": "r/memes"
     },
     {
-     "title": "This can\u2019t be happening again",
-     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
-     "url": "https://redd.it/1y1n8m6",
-     "ups": 34,
+     "title": "Imagine how devastated that poor man must have been when he had to reject Mandy",
+     "image": "https://i.redd.it/v8i0s2m1eu2i1.png",
+     "url": "https://redd.it/1y1gjhn",
+     "ups": 116,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T13:18:25.317868+00:00",
+   "fetched_at": "2026-11-21T13:48:30.981758+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate Democrats speed up Trump judge votes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Russia's war in Ukraine",
@@ -200,25 +208,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hackers breach Agriculture Department",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US cleared China chip sales",
+     "text": "Boldest movies seen on dates",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Report alleges Huang humiliated employees",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mundane celebrity encounters",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/328db357504a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Transgender Day of Remembrance",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
      "likes": 0,
      "image": ""
     },
@@ -232,38 +264,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Trump meets Xi and Putin",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Senate Democrats speed up Trump judge votes",
+     "text": "Hegseth memo restricts Canada defense ties",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
      "likes": 0,
      "image": ""
     },
@@ -283,45 +283,49 @@
      "text": "An apple a day\u2026",
      "author": "Comic Strips",
      "url": "https://lemmy.world/post/54676015",
-     "likes": 51,
+     "likes": 94,
      "image": "https://lemmy.world/pictrs/image/c0f8957e-b22c-48d1-8387-09ee9d6d65a7.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Wallstreet black Friday, are you in ?",
+     "author": "Waltstreetbets",
+     "url": "https://sopuli.xyz/post/54888253",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/8c97d406-ed49-4079-a64f-93ffa92de208.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "another CVE",
      "author": "Programmer Humor",
      "url": "https://lemmy.blahaj.zone/post/50755863",
-     "likes": 41,
+     "likes": 83,
      "image": "https://lemmy.world/pictrs/image/8530ce8d-feed-48fb-991b-f3d1d2cea091.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "the corruption tower",
-     "author": "political memes on db0",
-     "url": "https://lemmy.wtf/post/52285430",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/f2a5b9d8-b1ac-4695-b808-7a97b0ff7745.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "What happened to the docker logo?",
-     "author": "Open Source",
-     "url": "https://lemmy.ml/post/55567782",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/ea671a7d-5cf8-4668-ae5a-745cdd29d984.jpeg"
+     "text": "Bongo Jeans ad, 1995",
+     "author": "Vintage and Retro Ads, Promos, Fliers,  Etc. ",
+     "url": "https://lemmy.world/post/54677045",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/2a2e57c6-cbb2-4791-9d4d-6c039a9b760f.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T13:18:26.238222+00:00",
+   "fetched_at": "2026-11-21T13:48:31.608891+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face.",
+     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "How many apples grow on a tree? All of them!",
+     "text": "What did the sea say to the sand? \"We have to stop meeting like this.\"",
      "source": "Dad joke"
     },
     {
-     "text": "I was wondering why the frisbee was getting bigger, then it hit me.",
+     "text": "I used to work for a soft drink can crusher. It was soda pressing.",
      "source": "Dad joke"
     }
    ]
