@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:19:20.059380+00:00",
+ "generated_at": "2026-11-21T16:49:25.745841+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,37 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T16:19:17.172565+00:00",
+   "fetched_at": "2026-11-21T16:49:22.737068+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 53,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 534,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 420,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 25,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "cacheRemembers",
      "image": "https://i.redd.it/q693dqo1il1i1.png",
@@ -128,31 +100,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1364,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 600,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "He's done with it all",
-     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
-     "url": "https://redd.it/1y0z49k",
-     "ups": 5449,
-     "sub": "r/memes"
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 14,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Inspiration quote from the greatest philosopher",
-     "image": "https://i.redd.it/0vonr6mluu2i1.png",
-     "url": "https://redd.it/1y1ijqj",
-     "ups": 30,
-     "sub": "r/memes"
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "So futuristic",
-     "image": "https://i.redd.it/5ipjv5gaiq2i1.png",
-     "url": "https://redd.it/1y0ywtu",
-     "ups": 837,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 165,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 34,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Always wondered what happened to him",
+     "image": "https://i.redd.it/7j1crf8x0u2i1.png",
+     "url": "https://redd.it/1y1et1p",
+     "ups": 23,
      "sub": "r/memes"
     },
     {
@@ -163,102 +149,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 121,
+     "title": "GTA VI giving fresh memes for a day and a half now",
+     "image": "https://i.redd.it/wc54bpw50o2i1.png",
+     "url": "https://redd.it/1y0pvpa",
+     "ups": 2121,
      "sub": "r/memes"
     },
     {
-     "title": "Sure buddy",
-     "image": "https://i.redd.it/0usuo3c4kh2i1.gif",
-     "url": "https://redd.it/1xzyv9v",
-     "ups": 1154,
-     "sub": "r/dankmemes"
+     "title": "if you know, you know",
+     "image": "https://i.redd.it/9pjojubhbz2i1.png",
+     "url": "https://redd.it/1y1yu8h",
+     "ups": 1,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A good one? No, a very good one.",
+     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
+     "url": "https://redd.it/1y1cuq5",
+     "ups": 1462,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Where is the free-body diagram?",
+     "image": "https://i.redd.it/bjqx1ae9at2i1.png",
+     "url": "https://redd.it/1y1b5ky",
+     "ups": 28,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T16:19:18.869466+00:00",
+   "fetched_at": "2026-11-21T16:49:24.446540+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Senate Democrats speed up Trump judge votes",
+     "text": "Russia's war in Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Calls to release Epstein files",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00d4241b94de",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US cleared China chip sales",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Boldest movies seen on dates",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Melania: The Series",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9d72ff683fd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e54d320a7c8",
      "likes": 0,
      "image": ""
     },
@@ -272,84 +200,156 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Reported drone strike on freighter",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/632e3a88e83f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US cleared China chip sales",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ruin a movie with a Supreme Court justice",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Boldest movies seen on dates",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Record rain floods Florida coast",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f803629a06f8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Hegseth memo restricts Canada defense ties",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate Democrats speed up Trump judge votes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "This is George. George is an adorable little shit. Pic by Michael D Wilson",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54681732",
+     "likes": 87,
+     "image": "https://lemmy.world/pictrs/image/3c8b281b-eddc-4e59-8ad4-a9815a93e9fe.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Motion detected. Please do not resist.",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54681895",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/3ca0f716-5b39-4f86-99a3-ff34861a3732.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "AKC rule",
+     "author": "196",
+     "url": "https://crazypeople.online/post/27884357",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/ffc97550-0627-44c2-a927-503ce7abf58f.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "A piece by Art by Dee",
      "author": "cats",
      "url": "https://lemmy.world/post/54681315",
-     "likes": 43,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/33a557a7-4d32-4b72-a1d2-e3969435cad2.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "There are memes in my images folder that are older than a lot of people here",
-     "author": "Showerthoughts",
-     "url": "https://piefed.world/c/showerthoughts/p/1547963/there-memes-in-my-images-folder-that-are-older-than-a-lot-of-people-here",
-     "likes": 69,
-     "image": "https://lemmy.world/pictrs/image/717e3334-864f-4dc8-9dfa-b1be4c9a350d.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Transgender consumers can face harm simply by trying to access everyday services, research finds",
-     "author": "science",
-     "url": "https://feddit.online/c/science@lemmy.world/p/2130786/transgender-consumers-can-face-harm-simply-by-trying-to-access-everyday-services-resear",
-     "likes": 18,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "US pursuit of \u2018Trump-class\u2019 warships has blown cost of new fleet by billions, report warns",
-     "author": "politics ",
-     "url": "https://lemmy.zip/post/75415623",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/67b5e205-1a92-4e30-8719-62477b1f22e7.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T16:19:19.377548+00:00",
+   "fetched_at": "2026-11-21T16:49:25.126294+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.",
+     "text": "what do you call a dog that can do magic tricks? a labracadabrador",
      "source": "Dad joke"
     },
     {
-     "text": "Two fish are in a tank, one turns to the other and says, \"how do you drive this thing?\"",
+     "text": "Want to hear a joke about construction? Nah, I'm still working on it.",
      "source": "Dad joke"
     },
     {
-     "text": "Today a girl said she recognized me from vegetarian club, but I\u2019m sure I\u2019ve never met herbivore.",
+     "text": "I met this girl on a dating site and, I don't know, we just clicked.",
      "source": "Dad joke"
     }
    ]
