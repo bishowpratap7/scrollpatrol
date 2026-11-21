@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:48:09.638713+00:00",
+ "generated_at": "2026-11-21T12:18:15.314767+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,13 +89,27 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T11:48:06.072312+00:00",
+   "fetched_at": "2026-11-21T12:18:11.621427+00:00",
    "stale": false,
    "items": [
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 943,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 270,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
      "ups": 28,
      "sub": "r/ProgrammerHumor"
     },
@@ -107,86 +121,80 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 880,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 136,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 208,
-     "sub": "r/ProgrammerHumor"
+     "title": "I hate it when that happens",
+     "image": "https://i.redd.it/rswwmnwz0t2i1.png",
+     "url": "https://redd.it/1y19rgf",
+     "ups": 26,
+     "sub": "r/memes"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 404,
-     "sub": "r/ProgrammerHumor"
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 135,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was thinking more pepper and salt",
+     "image": "https://i.redd.it/jq1243is4q2i1.gif",
+     "url": "https://redd.it/1y0xqt2",
+     "ups": 699,
+     "sub": "r/memes"
+    },
+    {
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
+     "ups": 135,
+     "sub": "r/memes"
     },
     {
      "title": "iykyk\u3164\u3164\u3164\u3164\u3164",
      "image": "https://i.redd.it/ym5j9t5ovp2i1.png",
      "url": "https://redd.it/1y0wzod",
-     "ups": 563,
+     "ups": 567,
      "sub": "r/memes"
     },
     {
-     "title": "not judging but was it worth it?",
-     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
-     "url": "https://redd.it/1y0cst2",
-     "ups": 7440,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He's done with it all",
-     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
-     "url": "https://redd.it/1y0z49k",
-     "ups": 5326,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Those were the most difficult missions",
-     "image": "https://i.redd.it/5q68857xqx2i1.png",
-     "url": "https://redd.it/1y1t3q5",
-     "ups": 10,
-     "sub": "r/memes"
-    },
-    {
-     "title": "don't worry you can retire if you make it to triple digits",
-     "image": "https://i.redd.it/0kp73frflt2i1.png",
-     "url": "https://redd.it/1y1cqmi",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A good one? No, a very good one.",
-     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
-     "url": "https://redd.it/1y1cuq5",
-     "ups": 1131,
-     "sub": "r/memes"
+     "title": "Stock market crashing, people back engineer expensive apps with ai...list goes on",
+     "image": "https://i.redd.it/7pfpewaqdu2i1.png",
+     "url": "https://redd.it/1y1ggm6",
+     "ups": 0,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T11:48:08.671585+00:00",
+   "fetched_at": "2026-11-21T12:18:14.361636+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Russia's war in Ukraine",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e54d320a7c8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump meets Xi and Putin",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -195,38 +203,6 @@
      "text": "UK, EU seal reset deal",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Boldest movies seen on dates",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "OCASK office job prompt",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6562edc88e3c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
      "likes": 0,
      "image": ""
     },
@@ -248,82 +224,98 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix weekend",
+     "text": "Poll on Britain's national anthem",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e57656e2a6c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Fox News Sophie Cunningham segment",
+     "text": "GTA 6 sets day-one sales record",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee53eb4ca86e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0dfc0d876140",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vance and Rubio behind Trump",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e5252ad9b7a5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Youth protests sweep across Europe",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d9179d00ced",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Wave of software vulnerability disclosures",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army Iowa detonation court case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate Democrats speed up Trump judge votes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Trump is making sure Vance and Rubio go down with him",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54674884",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/810c08ab-39fd-4bec-b39e-3618dc0175f2.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Justice Sotomayor signals support for Supreme Court term limits",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54674454",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/a7789af3-d3dc-4f38-96c0-7d10576f5036.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The FBI was hacked again, this time the breach targeted its crime database",
+     "author": "News",
+     "url": "https://lemmy.world/post/54674291",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/8ec69817-41b3-4054-b804-34a3474b637e.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
      "author": "News",
      "url": "https://lemmy.world/post/54674077",
-     "likes": 18,
+     "likes": 40,
      "image": "https://lemmy.world/pictrs/image/676590a7-83a9-4fc0-9a50-3f55984eebfb.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "IOF",
-     "author": "Memes",
-     "url": "https://lemmy.ml/post/55566375",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/6d2656a4-fa8e-4e92-a53c-55657b58b0a3.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Signal now blocks screenshots by default to stymie AI agents",
-     "author": "News",
-     "url": "https://lemmy.world/post/54674153",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/52a8cb5f-2fd7-495b-a91f-015582c246b3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "It\u2019s all just atemporal water, actually",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63635629",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/5e071477-2093-4a59-8682-789c2ca8a692.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T11:48:09.217926+00:00",
+   "fetched_at": "2026-11-21T12:18:14.898956+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
     {
      "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
@@ -333,32 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.",
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Where does Napoleon keep his armies? In his sleevies.",
      "source": "Dad joke"
     },
     {
-     "text": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+     "text": "What do you call an alligator in a vest? An in-vest-igator!",
      "source": "Dad joke"
     },
     {
-     "text": "I got fired from a florist, apparently I took too many leaves.",
+     "text": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
