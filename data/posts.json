@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:48:51.687894+00:00",
+ "generated_at": "2026-11-21T14:18:57.073672+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T13:48:48.902834+00:00",
+   "fetched_at": "2026-11-21T14:18:54.585518+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 595,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 186,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 957,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "itWorksOnMyMachineNow",
      "image": "https://i.redd.it/f4xnkae9sj2i1.png",
@@ -100,17 +121,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1718,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 595,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 772,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,96 +135,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 166,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 386,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "This can\u2019t be happening again",
-     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
-     "url": "https://redd.it/1y1n8m6",
-     "ups": 34,
+     "title": "A good one? No, a very good one.",
+     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
+     "url": "https://redd.it/1y1cuq5",
+     "ups": 1367,
      "sub": "r/memes"
     },
     {
-     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
-     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
-     "url": "https://redd.it/1y1597y",
-     "ups": 135,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I was thinking more pepper and salt",
-     "image": "https://i.redd.it/jq1243is4q2i1.gif",
-     "url": "https://redd.it/1y0xqt2",
-     "ups": 699,
+     "title": "Those were the most difficult missions",
+     "image": "https://i.redd.it/5q68857xqx2i1.png",
+     "url": "https://redd.it/1y1t3q5",
+     "ups": 55,
      "sub": "r/memes"
     },
     {
      "title": "iykyk\u3164\u3164\u3164\u3164\u3164",
      "image": "https://i.redd.it/ym5j9t5ovp2i1.png",
      "url": "https://redd.it/1y0wzod",
-     "ups": 567,
+     "ups": 579,
      "sub": "r/memes"
     },
     {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 113,
+     "title": "Inspiration quote from the greatest philosopher",
+     "image": "https://i.redd.it/0vonr6mluu2i1.png",
+     "url": "https://redd.it/1y1ijqj",
+     "ups": 26,
      "sub": "r/memes"
     },
     {
-     "title": "don't worry you can retire if you make it to triple digits",
-     "image": "https://i.redd.it/0kp73frflt2i1.png",
-     "url": "https://redd.it/1y1cqmi",
-     "ups": 19,
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 145,
+     "sub": "r/memes"
+    },
+    {
+     "title": "People who shit all over public toilets be like:",
+     "image": "https://i.redd.it/don3lw1hls2i1.png",
+     "url": "https://redd.it/1y17jmt",
+     "ups": 38,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T13:48:50.616696+00:00",
+   "fetched_at": "2026-11-21T14:18:55.857477+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Hegseth memo restricts Canada defense ties",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Senate Democrats speed up Trump judge votes",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russia's war in Ukraine",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e54d320a7c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Stock market sell-off",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Report alleges Huang humiliated employees",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Mundane celebrity encounters",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/328db357504a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -256,109 +232,133 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a movie with a Supreme Court justice",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump meets Xi and Putin",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth memo restricts Canada defense ties",
+     "text": "Sunrise on the Reaping premieres",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "An apple a day\u2026",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54676015",
-     "likes": 94,
-     "image": "https://lemmy.world/pictrs/image/c0f8957e-b22c-48d1-8387-09ee9d6d65a7.webp"
+     "kind": "Bluesky trend",
+     "text": "AI patching likely behind outages",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE detention and surveillance",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/603b7fedca4e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate vote on BAAJA bill",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Wallstreet black Friday, are you in ?",
      "author": "Waltstreetbets",
      "url": "https://sopuli.xyz/post/54888253",
-     "likes": 28,
+     "likes": 61,
      "image": "https://lemmy.world/pictrs/image/8c97d406-ed49-4079-a64f-93ffa92de208.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "another CVE",
-     "author": "Programmer Humor",
-     "url": "https://lemmy.blahaj.zone/post/50755863",
-     "likes": 83,
-     "image": "https://lemmy.world/pictrs/image/8530ce8d-feed-48fb-991b-f3d1d2cea091.webp"
+     "text": "An apple a day\u2026",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54676015",
+     "likes": 153,
+     "image": "https://lemmy.world/pictrs/image/c0f8957e-b22c-48d1-8387-09ee9d6d65a7.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Bongo Jeans ad, 1995",
-     "author": "Vintage and Retro Ads, Promos, Fliers,  Etc. ",
-     "url": "https://lemmy.world/post/54677045",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/2a2e57c6-cbb2-4791-9d4d-6c039a9b760f.jpeg"
+     "text": "Nuremberg Tram",
+     "author": "Trams, Trolleys and Streetcars",
+     "url": "https://lemmy.world/post/54677190",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/5122cc0d-6457-4e34-98e9-a427d481a12e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "ICE employee avoids sex crime conviction under 'sweeter than chocolate cake' plea deal",
+     "author": "News",
+     "url": "https://lemmy.ca/post/74162268",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/3864af6e-09cd-457e-80d0-3561db251edf.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T13:48:51.050461+00:00",
+   "fetched_at": "2026-11-21T14:18:56.499969+00:00",
    "stale": false,
    "items": [
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you make Lady Gaga cry? Poker face. ",
+     "text": "\"Dad, I'm cold.\"\r\n\"Go stand in the corner, I hear it's 90 degrees.\"",
      "source": "Dad joke"
     },
     {
-     "text": "What do you do when you see a space man?\r\nPark your car, man.",
+     "text": "I thought about going on an all-almond diet. But that's just nuts.",
      "source": "Dad joke"
     },
     {
-     "text": "What's red and bad for your teeth? A Brick.",
+     "text": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
