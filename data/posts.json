@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:17:43.134283+00:00",
+ "generated_at": "2026-11-21T09:47:48.790636+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,131 +89,99 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T09:17:39.106507+00:00",
+   "fetched_at": "2026-11-21T09:47:44.855598+00:00",
    "stale": false,
    "items": [
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 759,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 385,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "codeReviewIn2026",
+     "image": "https://i.redd.it/s1c5fp18dy0i1.png",
+     "url": "https://redd.it/1xtdji5",
+     "ups": 11498,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 406,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1359,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itWorksOnMyMachineNow",
+     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
+     "url": "https://redd.it/1y069uu",
+     "ups": 125,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Imagine how devastated that poor man must have been when he had to reject Mandy",
+     "image": "https://i.redd.it/v8i0s2m1eu2i1.png",
+     "url": "https://redd.it/1y1gjhn",
+     "ups": 79,
+     "sub": "r/memes"
+    },
+    {
+     "title": "So futuristic",
+     "image": "https://i.redd.it/5ipjv5gaiq2i1.png",
+     "url": "https://redd.it/1y0ywtu",
+     "ups": 825,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Always wondered what happened to him",
+     "image": "https://i.redd.it/7j1crf8x0u2i1.png",
+     "url": "https://redd.it/1y1et1p",
+     "ups": 19,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was thinking more pepper and salt",
+     "image": "https://i.redd.it/jq1243is4q2i1.gif",
+     "url": "https://redd.it/1y0xqt2",
+     "ups": 677,
+     "sub": "r/memes"
+    },
+    {
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
      "ups": 133,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1723,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 11,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 29,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 955,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 609,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 109,
      "sub": "r/memes"
     },
     {
-     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
-     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
-     "url": "https://redd.it/1y1597y",
-     "ups": 130,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Inspiration quote from the greatest philosopher",
-     "image": "https://i.redd.it/0vonr6mluu2i1.png",
-     "url": "https://redd.it/1y1ijqj",
-     "ups": 22,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He's done with it all",
-     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
-     "url": "https://redd.it/1y0z49k",
-     "ups": 5291,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA VI giving fresh memes for a day and a half now",
-     "image": "https://i.redd.it/wc54bpw50o2i1.png",
-     "url": "https://redd.it/1y0pvpa",
-     "ups": 2019,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Corporate problem solving explained",
-     "image": "https://i.redd.it/ekwnaj2fws2i1.png",
-     "url": "https://redd.it/1y1943f",
-     "ups": 14,
-     "sub": "r/memes"
+     "title": "it's just authentic method writing",
+     "image": "https://i.redd.it/ll5vub95lz1i1.gif",
+     "url": "https://redd.it/1xxr2f6",
+     "ups": 972,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T09:17:41.921235+00:00",
+   "fetched_at": "2026-11-21T09:47:47.626570+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic debuts on Nasdaq",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Stock market sell-off",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "UK, EU seal reset deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hackers breach Agriculture Department",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Riemann hypothesis proof claimed",
@@ -224,41 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Favorite niche FFXIV characters",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/990d10bb3db9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia game",
+     "text": "Trump tells Europe to defund Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix weekend",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "US cleared China chip sales",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -272,10 +224,66 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump tells Europe to defund Ukraine",
+     "text": "Boreen daily trivia game",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
      "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Boldest movies seen on dates",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Stock market sell-off",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pattinson will be next James Bond",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SEC probes Nvidia accounting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK, EU seal reset deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump's foreign air traffic control claim",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dfbb20c829d3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Dear ladies, what things are huge turn-off for you when looking at men?",
+     "author": "Ask Lemmy",
+     "url": "https://lemmy.world/post/54671593",
+     "likes": 5,
      "image": ""
     },
     {
@@ -283,73 +291,65 @@
      "text": "Poison ivy",
      "author": "Dad Jokes",
      "url": "https://piefed.ca/c/dadjokes@lemmy.world/p/1084100/poison-ivy",
-     "likes": 47,
+     "likes": 71,
      "image": "https://lemmy.world/pictrs/image/4719ae40-4f87-4f80-a7dc-33d77021ea36.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Arte: Keine direkten MP4 Videos mehr via MediathekViewWeb",
+     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
+     "url": "https://friendica.de/objects/f6687705-386b-0164-3dcc-378957764069",
+     "likes": 7,
+     "image": "https://lemmy.world/pictrs/image/851e4965-8fee-4dbf-b9fa-f9a1eac6a404.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Docker rebranded",
      "author": "Selfhosted",
      "url": "https://gregtech.eu/post/39370656",
-     "likes": 37,
+     "likes": 62,
      "image": "https://lemmy.world/pictrs/image/09299ab1-8a27-4265-b6d4-f61fad5649a1.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "ich\ud83d\udc6e\ud83d\udebfiel",
-     "author": "ich_iel",
-     "url": "https://feddit.org/post/38284950",
-     "likes": 50,
-     "image": "https://lemmy.world/pictrs/image/4ebdc943-5c22-4122-8f3f-4ea1e11d9834.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Why do American men seem to care more about being masculine than European men do?",
-     "author": "No Stupid Questions",
-     "url": "https://lemmy.world/post/54669832",
-     "likes": 14,
-     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T09:17:42.699684+00:00",
+   "fetched_at": "2026-11-21T09:47:48.356884+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
     {
      "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "How do you fix a broken pizza? With tomato paste.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why don\u2019t seagulls fly over the bay? Because then they\u2019d be bay-gulls!",
      "source": "Dad joke"
     },
     {
-     "text": "How come a man driving a train got struck by lightning? He was a good conductor.",
+     "text": "I was wondering why the frisbee was getting bigger, then it hit me.",
      "source": "Dad joke"
     },
     {
-     "text": "I was thinking about moving to Moscow but there is no point Russian into things.",
+     "text": "Two peanuts were walking down the street. One was a salted.",
      "source": "Dad joke"
     }
    ]
