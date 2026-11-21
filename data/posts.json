@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:16:57.904270+00:00",
+ "generated_at": "2026-11-21T06:47:03.448402+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,85 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T06:16:55.112442+00:00",
+   "fetched_at": "2026-11-21T06:47:00.132628+00:00",
    "stale": false,
    "items": [
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 531,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 310,
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1347,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 391,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 165,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 26,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 28,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4086,
+     "title": "itWorksOnMyMachineNow",
+     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
+     "url": "https://redd.it/1y069uu",
+     "ups": 108,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "kswapdIsAgeist",
-     "image": "https://i.redd.it/fkef0qbna81i1.gif",
-     "url": "https://redd.it/1xula42",
-     "ups": 130,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3189,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "don't worry you can retire if you make it to triple digits",
-     "image": "https://i.redd.it/0kp73frflt2i1.png",
-     "url": "https://redd.it/1y1cqmi",
-     "ups": 13,
-     "sub": "r/memes"
-    },
-    {
-     "title": "So futuristic",
-     "image": "https://i.redd.it/5ipjv5gaiq2i1.png",
-     "url": "https://redd.it/1y0ywtu",
-     "ups": 803,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Inspiration quote from the greatest philosopher",
-     "image": "https://i.redd.it/0vonr6mluu2i1.png",
-     "url": "https://redd.it/1y1ijqj",
-     "ups": 16,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I was thinking more pepper and salt",
-     "image": "https://i.redd.it/jq1243is4q2i1.gif",
-     "url": "https://redd.it/1y0xqt2",
-     "ups": 662,
-     "sub": "r/memes"
-    },
-    {
-     "title": "People who shit all over public toilets be like:",
-     "image": "https://i.redd.it/don3lw1hls2i1.png",
-     "url": "https://redd.it/1y17jmt",
-     "ups": 34,
-     "sub": "r/memes"
     },
     {
      "title": "Google is more based than the Indonesian government, ngl",
@@ -175,11 +140,46 @@
      "url": "https://redd.it/1y13pn8",
      "ups": 101,
      "sub": "r/memes"
+    },
+    {
+     "title": "Where is the free-body diagram?",
+     "image": "https://i.redd.it/bjqx1ae9at2i1.png",
+     "url": "https://redd.it/1y1b5ky",
+     "ups": 19,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A good one? No, a very good one.",
+     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
+     "url": "https://redd.it/1y1cuq5",
+     "ups": 843,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 124,
+     "sub": "r/memes"
+    },
+    {
+     "title": "not judging but was it worth it?",
+     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
+     "url": "https://redd.it/1y0cst2",
+     "ups": 7383,
+     "sub": "r/memes"
+    },
+    {
+     "title": "GTA VI giving fresh memes for a day and a half now",
+     "image": "https://i.redd.it/wc54bpw50o2i1.png",
+     "url": "https://redd.it/1y0pvpa",
+     "ups": 2004,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T06:16:57.007992+00:00",
+   "fetched_at": "2026-11-21T06:47:02.516589+00:00",
    "stale": false,
    "items": [
     {
@@ -187,22 +187,6 @@
      "text": "Mundane celebrity encounters",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/328db357504a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hackers breach Agriculture Department",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
      "likes": 0,
      "image": ""
     },
@@ -216,14 +200,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boldest movies seen on dates",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Senate Democrats speed up Trump judge votes",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
@@ -232,25 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic debuts on Nasdaq",
+     "text": "ICE detention and surveillance",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/603b7fedca4e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Next James Bond film's continuity",
+     "text": "Sunrise on the Reaping premieres",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ea0e58ccc4d0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Report alleges Huang humiliated employees",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
@@ -264,18 +232,66 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israel, Gaza and Zionism debate",
+     "text": "Boldest movies seen on dates",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/da97f9376264",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Melania Trump's Fox & Friends interview",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9d72ff683fd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Transgender Day of Remembrance",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Las Vegas Grand Prix weekend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Gaza families' donation appeals",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a27ce676985",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US loses measles elimination status",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1084837/me-irl",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/d2aa3bbb-4b73-49f7-82fa-36b644ec3189.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I extended the life of my dremel.",
+     "author": "Dull Men's Club",
+     "url": "https://lemmy.world/post/54665637",
+     "likes": 21,
      "image": ""
     },
     {
@@ -283,41 +299,29 @@
      "text": "Anyone else?",
      "author": "Autism",
      "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1084803/anyone-else",
-     "likes": 26,
+     "likes": 41,
      "image": "https://lemmy.world/pictrs/image/c61cde28-8766-4d54-b19d-f9174692f50b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Me_irl",
-     "author": "me_irl",
-     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1084837/me-irl",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/d2aa3bbb-4b73-49f7-82fa-36b644ec3189.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Modern life",
-     "author": "General Memes & Private Chuckle",
-     "url": "https://piefed.blahaj.zone/c/Memes@lemmy.dbzer0.com/p/1084821/modern-life",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/b7e8c138-b88a-48ea-a2ef-14855b0b45c9.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "2meirl4irl",
-     "author": "2meirl4meirl",
-     "url": "https://piefed.blahaj.zone/c/2meirl4meirl@lemmy.dbzer0.com/p/1084843/2meirl4irl",
-     "likes": 7,
-     "image": "https://lemmy.world/pictrs/image/6e811a46-9dc6-42cf-b86e-335c2d2e4649.jpeg"
+     "text": "Slopstrap \u2014 Make your site look hastily vibecoded.",
+     "author": "Fuck AI",
+     "url": "https://lemmy.blahaj.zone/post/50747295",
+     "likes": 16,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T06:16:57.535809+00:00",
+   "fetched_at": "2026-11-21T06:47:03.081620+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
@@ -325,7 +329,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
+     "text": "Why are pirates called pirates? Because they arrr!",
      "source": "Dad joke"
     },
     {
-     "text": "A boy dug three holes in the yard. When his mother saw, she exclaimed: \"well, well, well\"",
+     "text": "Where\u2019s the bin? Dad: I haven\u2019t been anywhere!",
      "source": "Dad joke"
     },
     {
-     "text": "Why are ghosts bad liars? Because you can see right through them!",
+     "text": "How do you know if there\u2019s an elephant under your bed? Your head hits the ceiling!",
      "source": "Dad joke"
     }
    ]
