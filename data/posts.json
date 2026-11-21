@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:17:18.428192+00:00",
+ "generated_at": "2026-11-21T08:47:23.229501+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,30 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T08:17:15.410480+00:00",
+   "fetched_at": "2026-11-21T08:47:20.188839+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 31,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 761,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 12,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "cmonGitHubAgain",
      "image": "https://i.redd.it/jnx3yr1ms11i1.png",
@@ -121,18 +100,60 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2073,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 391,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 531,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "setJavaDevsToUnmanly",
+     "image": "https://i.redd.it/oktvigu0911i1.png",
+     "url": "https://redd.it/1xtqrwc",
+     "ups": 1350,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 207,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itWorksOnMyMachineNow",
+     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
+     "url": "https://redd.it/1y069uu",
+     "ups": 118,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Inspiration quote from the greatest philosopher",
+     "image": "https://i.redd.it/0vonr6mluu2i1.png",
+     "url": "https://redd.it/1y1ijqj",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Now that's paradise",
+     "image": "https://i.redd.it/b7hm9985mn2i1.png",
+     "url": "https://redd.it/1y0o60a",
+     "ups": 4294,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A good one? No, a very good one.",
+     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
+     "url": "https://redd.it/1y1cuq5",
+     "ups": 975,
+     "sub": "r/memes"
     },
     {
      "title": "iykyk\u3164\u3164\u3164\u3164\u3164",
@@ -142,46 +163,33 @@
      "sub": "r/memes"
     },
     {
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
+     "ups": 133,
+     "sub": "r/memes"
+    },
+    {
      "title": "People who shit all over public toilets be like:",
      "image": "https://i.redd.it/don3lw1hls2i1.png",
      "url": "https://redd.it/1y17jmt",
      "ups": 32,
      "sub": "r/memes"
-    },
-    {
-     "title": "Always wondered what happened to him",
-     "image": "https://i.redd.it/7j1crf8x0u2i1.png",
-     "url": "https://redd.it/1y1et1p",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Situational awareness much?",
-     "image": "https://i.redd.it/rosi139dit2i1.png",
-     "url": "https://redd.it/1y1c9w2",
-     "ups": 49,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA 6 has already generated over $1.5 billion in revenue",
-     "image": "https://i.redd.it/kedaqytjzl2i1.png",
-     "url": "https://redd.it/1y0g7by",
-     "ups": 1639,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Can't sleep now",
-     "image": "https://i.redd.it/32s6pynirr2i1.png",
-     "url": "https://redd.it/1y13g5g",
-     "ups": 49,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T08:17:17.348135+00:00",
+   "fetched_at": "2026-11-21T08:47:22.146353+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "UK, EU seal reset deal",
@@ -192,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Stock market sell-off",
+     "text": "Trump meets Xi and Putin",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +216,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mundane celebrity encounters",
+     "text": "Stock market sell-off",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/328db357504a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Anthropic debuts on Nasdaq",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Transgender Day of Remembrance",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
      "likes": 0,
      "image": ""
     },
@@ -232,14 +256,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 draft drops fossil fuels",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Boldest movies seen on dates",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
@@ -248,108 +264,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
+     "text": "Ukraine strike collapses Crimean Bridge",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix weekend",
+     "text": "Trump tells Europe to defund Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Senate vote on BAAJA bill",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35ed57e11c05",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FAA nationwide ground stop",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced: Test using prompts with unique, trackable secrets proves that data doesn\u2019t stay private.",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54667944",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/df33034f-3fb6-40ef-88ef-74ba112686bc.jpeg"
+     "text": "Poison ivy",
+     "author": "Dad Jokes",
+     "url": "https://piefed.ca/c/dadjokes@lemmy.world/p/1084100/poison-ivy",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/4719ae40-4f87-4f80-a7dc-33d77021ea36.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Docker rebranded",
+     "author": "Selfhosted",
+     "url": "https://gregtech.eu/post/39370656",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/09299ab1-8a27-4265-b6d4-f61fad5649a1.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "ich\ud83d\udc6e\ud83d\udebfiel",
      "author": "ich_iel",
      "url": "https://feddit.org/post/38284950",
-     "likes": 14,
+     "likes": 32,
      "image": "https://lemmy.world/pictrs/image/4ebdc943-5c22-4122-8f3f-4ea1e11d9834.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Gen Z are protesting across 25 European countries",
-     "author": "Politics",
-     "url": "https://piefed.social/c/politics@piefed.social/p/2626127/gen-z-are-protesting-across-25-european-countries",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/3474f2fc-2e38-4bce-807e-d10ed243bb8f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Video: 6.9 Magnitude Earthquake Hits Peru, Residents Rush Into Streets",
-     "author": "World News",
-     "url": "https://lemy.lol/post/74494962",
-     "likes": 7,
+     "text": "Billionaires are the ultimate brain rot",
+     "author": "Showerthoughts",
+     "url": "https://lemmy.zip/post/75400109",
+     "likes": 9,
      "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T08:17:18.060619+00:00",
+   "fetched_at": "2026-11-21T08:47:22.879400+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A panda walks into a bar and says to the bartender \u201cI\u2019ll have a Scotch and . . . . . . . . . . . . . . Coke thank you\u201d. \r\n\r\n\u201cSure thing\u201d the bartender replies and asks \u201cbut what\u2019s with the big pause?\u201d \r\n\r\nThe panda holds up his hands and says \u201cI was born with them\u201d",
+     "text": "Why didn\u2019t the orange win the race? It ran out of juice.",
      "source": "Dad joke"
     },
     {
-     "text": "I was thinking about moving to Moscow but there is no point Russian into things.",
+     "text": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
      "source": "Dad joke"
     },
     {
-     "text": "A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.",
+     "text": "How do the trees get on the internet? They log on.",
      "source": "Dad joke"
     }
    ]
