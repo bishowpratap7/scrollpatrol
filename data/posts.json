@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:20:50.795347+00:00",
+ "generated_at": "2026-11-21T23:50:55.337473+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T23:20:47.988928+00:00",
+   "fetched_at": "2026-11-21T23:50:52.608355+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 602,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 18,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "ultimateMergeConflict",
      "image": "https://i.redd.it/6zh9ngcxx12i1.png",
      "url": "https://redd.it/1xy3mhz",
      "ups": 55,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 163,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 37,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 140,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1734,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,51 +121,65 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "He's done with it all",
-     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
-     "url": "https://redd.it/1y0z49k",
-     "ups": 5498,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 163,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 785,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "This can\u2019t be happening again",
+     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
+     "url": "https://redd.it/1y1n8m6",
+     "ups": 146,
      "sub": "r/memes"
     },
     {
-     "title": "I was thinking more pepper and salt",
-     "image": "https://i.redd.it/jq1243is4q2i1.gif",
-     "url": "https://redd.it/1y0xqt2",
-     "ups": 789,
+     "title": "So futuristic",
+     "image": "https://i.redd.it/5ipjv5gaiq2i1.png",
+     "url": "https://redd.it/1y0ywtu",
+     "ups": 844,
      "sub": "r/memes"
     },
     {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 15,
+     "title": "iykyk\u3164\u3164\u3164\u3164\u3164",
+     "image": "https://i.redd.it/ym5j9t5ovp2i1.png",
+     "url": "https://redd.it/1y0wzod",
+     "ups": 605,
      "sub": "r/memes"
     },
     {
-     "title": "I just wanted to pet the kitty! T.T",
-     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
-     "url": "https://redd.it/1y24fiw",
-     "ups": 20,
+     "title": "spiderman can't count to 8",
+     "image": "https://i.redd.it/vr0y20nyb13i1.png",
+     "url": "https://redd.it/1y288lp",
+     "ups": 48,
      "sub": "r/memes"
     },
     {
-     "title": "Situational awareness much?",
-     "image": "https://i.redd.it/rosi139dit2i1.png",
-     "url": "https://redd.it/1y1c9w2",
-     "ups": 80,
+     "title": "I am getting too old for reddit imo",
+     "image": "https://i.redd.it/jmueom45d13i1.png",
+     "url": "https://redd.it/1y28ezq",
+     "ups": 8,
      "sub": "r/memes"
     },
     {
-     "title": "apps when you dont pay the pro",
-     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
-     "url": "https://redd.it/1y189sy",
-     "ups": 154,
+     "title": "Inspiration quote from the greatest philosopher",
+     "image": "https://i.redd.it/0vonr6mluu2i1.png",
+     "url": "https://redd.it/1y1ijqj",
+     "ups": 34,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T23:20:49.395502+00:00",
+   "fetched_at": "2026-11-21T23:50:54.122988+00:00",
    "stale": false,
    "items": [
     {
@@ -187,78 +187,6 @@
      "text": "ICE detention video at Seattle airport",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump's Truth Social post about Putin",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/165d940558ed",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving pie rankings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Record rain floods Florida coast",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f803629a06f8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Computer science enrollment declines",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a4a0e7a1922",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pattinson will be next James Bond",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +200,106 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump order limits contractor talks",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/38ba4319b16f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving dinner preparations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Home Alone movie announced",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33824d3a8ff2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unusually warm late November weather",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "The Rings of Power season 3",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cb7dadee975e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Las Vegas Grand Prix weekend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bolsonaro hospitalized again",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4092018cfc4a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US war with Iran",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/904c29fa47c4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The chosen one",
+     "author": "Political Memes",
+     "url": "https://lemmy.zip/post/75436917",
+     "likes": 35,
+     "image": "https://lemmy.zip/pictrs/image/7cd2a4e4-0881-43cc-906c-18311932e44b.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "My sleepy boys",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54697251",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/60e0030c-fcd2-4996-bb45-f61cd67d148d.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
      "author": "News",
      "url": "https://lemmy.world/post/54696442",
-     "likes": 21,
+     "likes": 47,
      "image": ""
     },
     {
@@ -291,45 +307,29 @@
      "text": "Carlin on Pride",
      "author": "\"Quotes\"",
      "url": "https://piefed.social/c/quotes@quokk.au/p/2628235/carlin-on-pride",
-     "likes": 16,
+     "likes": 38,
      "image": "https://lemmy.world/pictrs/image/4eb7735e-b854-4f7f-b098-358fcb444a1d.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "\"Dramatic Drop\" in Memory Prices Expected by Mid-2027 as Demand Cools and Channel Inventory Gluts Slow New Orders, Says Korean Financial Firm",
-     "author": "Technology",
-     "url": "https://piefed.social/c/technology@lemmy.world/p/2628191/dramatic-drop-in-memory-prices-expected-by-mid-2027-as-demand-cools-and-channel-invento",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/a897ed3b-0795-48ed-8b74-5990a8cfc29e.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "A little somethin' you can't take off.",
-     "author": "Political Memes",
-     "url": "https://feddit.org/post/38311192",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/14241327-6748-418c-8c21-f11f439b8133.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T23:20:50.105333+00:00",
+   "fetched_at": "2026-11-21T23:50:54.899404+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
@@ -337,19 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+     "text": "What do you call a monkey in a mine field? A babooooom!\n",
      "source": "Dad joke"
     },
     {
-     "text": "Velcro\u2026 What a rip-off.",
+     "text": "Just watched a documentary about beavers\u2026 It was the best damn program I\u2019ve ever seen.",
      "source": "Dad joke"
     },
     {
-     "text": "Two silk worms had a race. They ended up in a tie.",
+     "text": "I thought about going on an all-almond diet. But that's just nuts.",
      "source": "Dad joke"
     }
    ]
