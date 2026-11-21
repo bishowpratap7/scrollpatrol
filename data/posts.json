@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:15:49.703566+00:00",
+ "generated_at": "2026-11-21T02:45:54.197030+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T02:15:47.191687+00:00",
+   "fetched_at": "2026-11-21T02:45:51.630193+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 95,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 738,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 31,
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 17,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 30,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1711,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1338,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 10,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1535,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2170,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4188,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Now that's paradise",
-     "image": "https://i.redd.it/b7hm9985mn2i1.png",
-     "url": "https://redd.it/1y0o60a",
-     "ups": 4102,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Always wondered what happened to him",
-     "image": "https://i.redd.it/7j1crf8x0u2i1.png",
-     "url": "https://redd.it/1y1et1p",
-     "ups": 14,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Inspiration quote from the greatest philosopher",
-     "image": "https://i.redd.it/0vonr6mluu2i1.png",
-     "url": "https://redd.it/1y1ijqj",
-     "ups": 12,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
-     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
-     "url": "https://redd.it/1y1597y",
-     "ups": 112,
+     "title": "He's taking all the jobs.",
+     "image": "https://i.redd.it/xgwzzxaelm2i1.png",
+     "url": "https://redd.it/1y0jb3n",
+     "ups": 629,
      "sub": "r/memes"
     },
     {
@@ -170,16 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "People who shit all over public toilets be like:",
-     "image": "https://i.redd.it/don3lw1hls2i1.png",
-     "url": "https://redd.it/1y17jmt",
-     "ups": 29,
+     "title": "Can't sleep now",
+     "image": "https://i.redd.it/32s6pynirr2i1.png",
+     "url": "https://redd.it/1y13g5g",
+     "ups": 44,
      "sub": "r/memes"
+    },
+    {
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
+     "ups": 94,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A good one? No, a very good one.",
+     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
+     "url": "https://redd.it/1y1cuq5",
+     "ups": 606,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Comparisons Are Odorous",
+     "image": "https://i.redd.it/rslwbrqwq82i1.png",
+     "url": "https://redd.it/1xywxob",
+     "ups": 62,
+     "sub": "r/dankmemes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T02:15:48.787487+00:00",
+   "fetched_at": "2026-11-21T02:45:53.269217+00:00",
    "stale": false,
    "items": [
     {
@@ -200,41 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Stock market sell-off",
+     "text": "Ruin a movie with a Supreme Court justice",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
+     "text": "Vance and Rubio behind Trump",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix weekend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "ICE detention and surveillance",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/603b7fedca4e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Canada emboldened",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/835aa8a80868",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e5252ad9b7a5",
      "likes": 0,
      "image": ""
     },
@@ -248,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "ICE detention and surveillance",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/603b7fedca4e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "US cleared China chip sales",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
@@ -256,25 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ruin a movie with a Supreme Court justice",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5218fca1ea75",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Carney says Canada is busy without U.S. deal",
+     "text": "Stock market sell-off",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Data center ballot measures",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump meets Xi and Putin",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army Iowa detonation court case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "French police officers found guilty of racist assault on black music producer",
      "author": "World News",
      "url": "https://lemmy.zip/post/75383474",
-     "likes": 92,
+     "likes": 102,
      "image": "https://lemmy.world/pictrs/image/e330ef45-afb3-43a3-99cf-f15e6ae7c0be.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Linux YouTubers using Non-FOSS Software",
      "author": "linuxmemes",
      "url": "https://lemmy.zip/post/75383911",
-     "likes": 91,
+     "likes": 102,
      "image": "https://lemmy.zip/pictrs/image/db9174d7-40d7-4dfa-8f1e-4ce456cd8385.avif"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Hurray!",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54656704",
-     "likes": 178,
+     "likes": 196,
      "image": "https://lemmy.world/pictrs/image/206fdba3-2f8f-48dd-a140-194356b17354.jpeg"
     },
     {
@@ -307,33 +307,33 @@
      "text": "Thailand Supreme Court sentences 29-year-old activist to prison over Facebook post",
      "author": "Technology",
      "url": "https://feddit.online/c/technology@lemmy.world/p/2129461/supreme-court-sentences-29-year-old-activist-to-prison-over-facebook-post",
-     "likes": 87,
+     "likes": 95,
      "image": "https://lemmy.world/pictrs/image/cc2a9975-7c34-4ab1-9f90-da2487e57bcb.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T02:15:49.384515+00:00",
+   "fetched_at": "2026-11-21T02:45:53.844319+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why are fish easy to weigh? Because they have their own scales.",
+     "text": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
      "source": "Dad joke"
     },
     {
-     "text": "What is this movie about? It is about 2 hours long.",
+     "text": "I was going to get a brain transplant, but I changed my mind",
      "source": "Dad joke"
     },
     {
-     "text": "What did the sea say to the sand? \"We have to stop meeting like this.\"",
+     "text": "Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.",
      "source": "Dad joke"
     }
    ]
