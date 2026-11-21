@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:19:42.084102+00:00",
+ "generated_at": "2026-11-21T18:49:47.683969+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,23 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T18:19:38.920098+00:00",
+   "fetched_at": "2026-11-21T18:49:44.635014+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 268,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 609,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "javaForShell",
      "image": "https://i.redd.it/6bk18o8xmc2i1.png",
@@ -100,24 +114,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 53,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1731,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 594,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1543,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,13 +135,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2167,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
      "title": "Those were the most difficult missions",
      "image": "https://i.redd.it/5q68857xqx2i1.png",
      "url": "https://redd.it/1y1t3q5",
@@ -142,10 +142,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "Inspiration quote from the greatest philosopher",
-     "image": "https://i.redd.it/0vonr6mluu2i1.png",
-     "url": "https://redd.it/1y1ijqj",
-     "ups": 29,
+     "title": "Capcom: Does nothing. Wins.",
+     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
+     "url": "https://redd.it/1y2138w",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
@@ -156,30 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "So futuristic",
-     "image": "https://i.redd.it/5ipjv5gaiq2i1.png",
-     "url": "https://redd.it/1y0ywtu",
-     "ups": 838,
+     "title": "Google is more based than the Indonesian government, ngl",
+     "image": "https://i.redd.it/b1za9d5etr2i1.png",
+     "url": "https://redd.it/1y13pn8",
+     "ups": 123,
      "sub": "r/memes"
     },
     {
-     "title": "This can\u2019t be happening again",
-     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
-     "url": "https://redd.it/1y1n8m6",
-     "ups": 98,
+     "title": "Now that's paradise",
+     "image": "https://i.redd.it/b7hm9985mn2i1.png",
+     "url": "https://redd.it/1y0o60a",
+     "ups": 4518,
      "sub": "r/memes"
     },
     {
-     "title": "GTA VI giving fresh memes for a day and a half now",
-     "image": "https://i.redd.it/wc54bpw50o2i1.png",
-     "url": "https://redd.it/1y0pvpa",
-     "ups": 2128,
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
+     "ups": 146,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T18:19:40.678621+00:00",
+   "fetched_at": "2026-11-21T18:49:46.355587+00:00",
    "stale": false,
    "items": [
     {
@@ -187,78 +187,6 @@
      "text": "Trump order limits contractor talks",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/38ba4319b16f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hegseth memo restricts Canada defense ties",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Boldest movies seen on dates",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Melania: The Series",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b9d72ff683fd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Autumn foliage photos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
@@ -272,56 +200,132 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE detention and surveillance",
+     "text": "Boldest movies seen on dates",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/603b7fedca4e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving dinner preparations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Las Vegas Grand Prix weekend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US cleared China chip sales",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Report alleges Huang humiliated employees",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Deltarune's scrapped Apple Girlington character",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fce378597657",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Carney says Canada is busy without U.S. deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Senate Democrats speed up Trump judge votes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e7c0f53f004f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Sigh",
-     "author": "memes",
-     "url": "https://lemmy.world/post/54685205",
-     "likes": 65,
-     "image": "https://lemmy.world/pictrs/image/37f74e21-cca7-4dd1-9ad8-fe194bdea72c.jpeg"
+     "text": "up to 64% off !!",
+     "author": "Lemmy Shitpost",
+     "url": "https://feddit.org/post/38301863",
+     "likes": 62,
+     "image": "https://lemmy.world/pictrs/image/5f639538-392d-43e1-921e-17c9e25cccbb.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Welcome to your new foster home, 4y/o Bella! She'll be staying with us for at least three weeks until she is ready for her new forever home that's already waiting for her.",
-     "author": "cats",
-     "url": "https://sh.itjust.works/post/70270645",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/c88c614c-d074-418a-8ce1-b600ec56b1e6.jpeg"
+     "text": "By your powers combined\u2026",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54686292",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/fb2dc055-d168-47b8-aa09-a3a7a706df22.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Only 2 \u269b\ufe0f",
-     "author": "Memes",
-     "url": "https://lemmy.dbzer0.com/post/78761944",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/c98204d5-b4d2-491f-95dd-e7661a0e22fc.webp"
+     "text": "Trump orders federal contractors to check with White House before responding to Congress",
+     "author": "News",
+     "url": "https://lemmy.world/post/54686231",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/3b994aa8-9982-471a-9a0b-15b786236f22.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trapped",
+     "text": "Young People",
      "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70269955",
-     "likes": 50,
-     "image": "https://lemmy.world/pictrs/image/45b216b8-11c8-4eb8-ade6-55857b26fbd5.jpeg"
+     "url": "https://sh.itjust.works/post/70272474",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/e541853e-06dc-4f5b-b818-4cfada241e59.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T18:19:41.430228+00:00",
+   "fetched_at": "2026-11-21T18:49:47.050368+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Did you know that protons have mass? I didn't even know they were catholic.",
+     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
+     "text": "I think circles are pointless.",
      "source": "Dad joke"
     },
     {
-     "text": "Do I enjoy making courthouse puns? Guilty",
+     "text": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
      "source": "Dad joke"
     }
    ]
