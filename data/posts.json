@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:47:03.448402+00:00",
+ "generated_at": "2026-11-21T07:17:08.328101+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,78 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T06:47:00.132628+00:00",
+   "fetched_at": "2026-11-21T07:17:05.583219+00:00",
    "stale": false,
    "items": [
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 531,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "setJavaDevsToUnmanly",
-     "image": "https://i.redd.it/oktvigu0911i1.png",
-     "url": "https://redd.it/1xtqrwc",
-     "ups": 1347,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4081,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 165,
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 954,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 28,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1715,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itWorksOnMyMachineNow",
-     "image": "https://i.redd.it/f4xnkae9sj2i1.png",
-     "url": "https://redd.it/1y069uu",
-     "ups": 108,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 31,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3189,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 516,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Google is more based than the Indonesian government, ngl",
-     "image": "https://i.redd.it/b1za9d5etr2i1.png",
-     "url": "https://redd.it/1y13pn8",
-     "ups": 101,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Where is the free-body diagram?",
-     "image": "https://i.redd.it/bjqx1ae9at2i1.png",
-     "url": "https://redd.it/1y1b5ky",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A good one? No, a very good one.",
-     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
-     "url": "https://redd.it/1y1cuq5",
-     "ups": 843,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
-     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
-     "url": "https://redd.it/1y1597y",
-     "ups": 124,
-     "sub": "r/memes"
     },
     {
      "title": "not judging but was it worth it?",
@@ -170,16 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "GTA VI giving fresh memes for a day and a half now",
-     "image": "https://i.redd.it/wc54bpw50o2i1.png",
-     "url": "https://redd.it/1y0pvpa",
-     "ups": 2004,
+     "title": "So futuristic",
+     "image": "https://i.redd.it/5ipjv5gaiq2i1.png",
+     "url": "https://redd.it/1y0ywtu",
+     "ups": 803,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Can't sleep now",
+     "image": "https://i.redd.it/32s6pynirr2i1.png",
+     "url": "https://redd.it/1y13g5g",
+     "ups": 47,
+     "sub": "r/memes"
+    },
+    {
+     "title": "GTA 6 has already generated over $1.5 billion in revenue",
+     "image": "https://i.redd.it/kedaqytjzl2i1.png",
+     "url": "https://redd.it/1y0g7by",
+     "ups": 1634,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Now that's paradise",
+     "image": "https://i.redd.it/b7hm9985mn2i1.png",
+     "url": "https://redd.it/1y0o60a",
+     "ups": 4236,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Situational awareness much?",
+     "image": "https://i.redd.it/rosi139dit2i1.png",
+     "url": "https://redd.it/1y1c9w2",
+     "ups": 43,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T06:47:02.516589+00:00",
+   "fetched_at": "2026-11-21T07:17:07.478426+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Mundane celebrity encounters",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/328db357504a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Stock market sell-off",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
      "likes": 0,
      "image": ""
     },
@@ -208,33 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE detention and surveillance",
+     "text": "Stock market sell-off",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/603b7fedca4e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping premieres",
+     "text": "Hackers breach Agriculture Department",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Favorite niche FFXIV characters",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/990d10bb3db9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Boldest movies seen on dates",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
      "likes": 0,
      "image": ""
     },
@@ -264,18 +240,50 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Gaza families' donation appeals",
+     "text": "Fox News Sophie Cunningham segment",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a27ce676985",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee53eb4ca86e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Boldest movies seen on dates",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
      "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic debuts on Nasdaq",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 draft drops fossil fuels",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK, EU seal reset deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Slopstrap \u2014 Make your site look hastily vibecoded.",
+     "author": "Fuck AI",
+     "url": "https://lemmy.blahaj.zone/post/50747295",
+     "likes": 32,
      "image": ""
     },
     {
@@ -283,37 +291,29 @@
      "text": "Me_irl",
      "author": "me_irl",
      "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1084837/me-irl",
-     "likes": 33,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/d2aa3bbb-4b73-49f7-82fa-36b644ec3189.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "He\u2019s just like us",
+     "author": "Political Memes",
+     "url": "https://sh.itjust.works/post/70246938",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/923f83e1-835a-4c0d-a3d8-a5e3eb5df654.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "I extended the life of my dremel.",
      "author": "Dull Men's Club",
      "url": "https://lemmy.world/post/54665637",
-     "likes": 21,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Anyone else?",
-     "author": "Autism",
-     "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1084803/anyone-else",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/c61cde28-8766-4d54-b19d-f9174692f50b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Slopstrap \u2014 Make your site look hastily vibecoded.",
-     "author": "Fuck AI",
-     "url": "https://lemmy.blahaj.zone/post/50747295",
-     "likes": 16,
+     "likes": 33,
      "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T06:47:03.081620+00:00",
+   "fetched_at": "2026-11-21T07:17:07.960378+00:00",
    "stale": false,
    "items": [
     {
@@ -321,44 +321,44 @@
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why are pirates called pirates? Because they arrr!",
+     "text": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
      "source": "Dad joke"
     },
     {
-     "text": "Where\u2019s the bin? Dad: I haven\u2019t been anywhere!",
+     "text": "A book just fell on my head. I only have my shelf to blame.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you know if there\u2019s an elephant under your bed? Your head hits the ceiling!",
+     "text": "I went to a Foo Fighters Concert once... It was Everlong...",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
