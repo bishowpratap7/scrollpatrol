@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:17:08.328101+00:00",
+ "generated_at": "2026-11-21T07:47:13.242753+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T07:17:05.583219+00:00",
+   "fetched_at": "2026-11-21T07:47:10.368519+00:00",
    "stale": false,
    "items": [
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 531,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 310,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "meWhenIDoAnythingWithFiles",
+     "image": "https://i.redd.it/aozvafp8wd1i1.png",
+     "url": "https://redd.it/1xv8967",
+     "ups": 17,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,39 +114,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 954,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 588,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1715,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 49,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 31,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 391,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 516,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "not judging but was it worth it?",
-     "image": "https://i.redd.it/j7f68e8fcl2i1.png",
-     "url": "https://redd.it/1y0cst2",
-     "ups": 7383,
-     "sub": "r/memes"
     },
     {
      "title": "So futuristic",
@@ -149,10 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "Can't sleep now",
-     "image": "https://i.redd.it/32s6pynirr2i1.png",
-     "url": "https://redd.it/1y13g5g",
-     "ups": 47,
+     "title": "I was thinking more pepper and salt",
+     "image": "https://i.redd.it/jq1243is4q2i1.gif",
+     "url": "https://redd.it/1y0xqt2",
+     "ups": 662,
+     "sub": "r/memes"
+    },
+    {
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
+     "ups": 122,
      "sub": "r/memes"
     },
     {
@@ -163,23 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Now that's paradise",
-     "image": "https://i.redd.it/b7hm9985mn2i1.png",
-     "url": "https://redd.it/1y0o60a",
-     "ups": 4236,
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 124,
      "sub": "r/memes"
     },
     {
-     "title": "Situational awareness much?",
-     "image": "https://i.redd.it/rosi139dit2i1.png",
-     "url": "https://redd.it/1y1c9w2",
-     "ups": 43,
+     "title": "iykyk\u3164\u3164\u3164\u3164\u3164",
+     "image": "https://i.redd.it/ym5j9t5ovp2i1.png",
+     "url": "https://redd.it/1y0wzod",
+     "ups": 554,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T07:17:07.478426+00:00",
+   "fetched_at": "2026-11-21T07:47:12.272716+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,14 @@
      "text": "Mundane celebrity encounters",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/328db357504a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK, EU seal reset deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Stock market sell-off",
+     "text": "Poll on Britain's national anthem",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hackers breach Agriculture Department",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e57656e2a6c",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +232,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "GTA 6 sets day-one sales record",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0dfc0d876140",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Stock market sell-off",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a1a1c1d51a2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Las Vegas Grand Prix weekend",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
@@ -240,25 +256,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Fox News Sophie Cunningham segment",
+     "text": "Earthquake felt in Los Angeles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee53eb4ca86e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/248c58b0b6e8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boldest movies seen on dates",
+     "text": "Army Iowa detonation court case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic debuts on Nasdaq",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
@@ -271,57 +279,53 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "UK, EU seal reset deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced: Test using prompts with unique, trackable secrets proves that data doesn\u2019t stay private.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54667944",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/df33034f-3fb6-40ef-88ef-74ba112686bc.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Slopstrap \u2014 Make your site look hastily vibecoded.",
-     "author": "Fuck AI",
-     "url": "https://lemmy.blahaj.zone/post/50747295",
-     "likes": 32,
-     "image": ""
+     "text": "Every damn day rule \ud83e\udd70",
+     "author": "Wholesome",
+     "url": "https://lemmy.today/post/63629589",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/5380aa9e-f887-4c5b-95a8-87634142bd9a.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Me_irl",
-     "author": "me_irl",
-     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1084837/me-irl",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/d2aa3bbb-4b73-49f7-82fa-36b644ec3189.jpeg"
+     "text": "Google\u2019s Embrace of AI Is Backfiring Spectacularly: It turns out that forcing its users to read AI answers is bad news for Google's lucrative ad business.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54667365",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/df64cfae-f653-4d13-ad2d-6c0cc6aff420.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "He\u2019s just like us",
-     "author": "Political Memes",
-     "url": "https://sh.itjust.works/post/70246938",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/923f83e1-835a-4c0d-a3d8-a5e3eb5df654.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I extended the life of my dremel.",
-     "author": "Dull Men's Club",
-     "url": "https://lemmy.world/post/54665637",
-     "likes": 33,
-     "image": ""
+     "text": "SpaceX\u2019s Starshield troubles in Ukraine could threaten its broader military business: \u201cExplain the changes that were made to the Starshield service in October 2026.\u201d",
+     "author": "News",
+     "url": "https://lemmy.world/post/54667772",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/447495dc-e5d5-47cb-95d1-4e39ddf65a71.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T07:17:07.960378+00:00",
+   "fetched_at": "2026-11-21T07:47:12.802515+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
+     "text": "What biscuit does a short person like? Shortbread. ",
      "source": "Dad joke"
     },
     {
-     "text": "A book just fell on my head. I only have my shelf to blame.",
+     "text": "What did the mountain climber name his son? Cliff.",
      "source": "Dad joke"
     },
     {
-     "text": "I went to a Foo Fighters Concert once... It was Everlong...",
+     "text": "Why did the coffee file a police report? It got mugged.",
      "source": "Dad joke"
     }
    ]
