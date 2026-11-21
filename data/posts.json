@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:47:37.431419+00:00",
+ "generated_at": "2026-11-21T09:17:43.134283+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,84 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-21T08:47:33.827638+00:00",
+   "fetched_at": "2026-11-21T09:17:39.106507+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 310,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 30,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 872,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 207,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4081,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 1608,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I was thinking more pepper and salt",
-     "image": "https://i.redd.it/jq1243is4q2i1.gif",
-     "url": "https://redd.it/1y0xqt2",
-     "ups": 677,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A good one? No, a very good one.",
-     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
-     "url": "https://redd.it/1y1cuq5",
-     "ups": 975,
-     "sub": "r/memes"
-    },
-    {
-     "title": "People who shit all over public toilets be like:",
-     "image": "https://i.redd.it/don3lw1hls2i1.png",
-     "url": "https://redd.it/1y17jmt",
-     "ups": 32,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Now that's paradise",
-     "image": "https://i.redd.it/b7hm9985mn2i1.png",
-     "url": "https://redd.it/1y0o60a",
-     "ups": 4294,
-     "sub": "r/memes"
-    },
-    {
-     "title": "apps when you dont pay the pro",
-     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
-     "url": "https://redd.it/1y189sy",
+     "title": "kswapdIsAgeist",
+     "image": "https://i.redd.it/fkef0qbna81i1.gif",
+     "url": "https://redd.it/1xula42",
      "ups": 133,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1723,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 11,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 29,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 955,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 609,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Google is more based than the Indonesian government, ngl",
+     "image": "https://i.redd.it/b1za9d5etr2i1.png",
+     "url": "https://redd.it/1y13pn8",
+     "ups": 109,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
+     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
+     "url": "https://redd.it/1y1597y",
+     "ups": 130,
      "sub": "r/memes"
     },
     {
@@ -175,42 +154,39 @@
      "url": "https://redd.it/1y1ijqj",
      "ups": 22,
      "sub": "r/memes"
+    },
+    {
+     "title": "He's done with it all",
+     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
+     "url": "https://redd.it/1y0z49k",
+     "ups": 5291,
+     "sub": "r/memes"
+    },
+    {
+     "title": "GTA VI giving fresh memes for a day and a half now",
+     "image": "https://i.redd.it/wc54bpw50o2i1.png",
+     "url": "https://redd.it/1y0pvpa",
+     "ups": 2019,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Corporate problem solving explained",
+     "image": "https://i.redd.it/ekwnaj2fws2i1.png",
+     "url": "https://redd.it/1y1943f",
+     "ups": 14,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-21T08:47:36.453585+00:00",
+   "fetched_at": "2026-11-21T09:17:41.921235+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Anthropic debuts on Nasdaq",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "UK, EU seal reset deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump meets Xi and Putin",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +200,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Anthropic debuts on Nasdaq",
+     "text": "UK, EU seal reset deal",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Hackers breach Agriculture Department",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Favorite niche FFXIV characters",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/990d10bb3db9",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boldest movies seen on dates",
+     "text": "Las Vegas Grand Prix weekend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cec41f4b2d6f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine strike collapses Crimean Bridge",
+     "text": "Pattinson will be next James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/62c6a2aac97b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US cleared China chip sales",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "COP31 draft drops fossil fuels",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Poison ivy",
      "author": "Dad Jokes",
      "url": "https://piefed.ca/c/dadjokes@lemmy.world/p/1084100/poison-ivy",
-     "likes": 25,
+     "likes": 47,
      "image": "https://lemmy.world/pictrs/image/4719ae40-4f87-4f80-a7dc-33d77021ea36.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Docker rebranded",
      "author": "Selfhosted",
      "url": "https://gregtech.eu/post/39370656",
-     "likes": 22,
+     "likes": 37,
      "image": "https://lemmy.world/pictrs/image/09299ab1-8a27-4265-b6d4-f61fad5649a1.jpeg"
     },
     {
@@ -299,66 +299,66 @@
      "text": "ich\ud83d\udc6e\ud83d\udebfiel",
      "author": "ich_iel",
      "url": "https://feddit.org/post/38284950",
-     "likes": 32,
+     "likes": 50,
      "image": "https://lemmy.world/pictrs/image/4ebdc943-5c22-4122-8f3f-4ea1e11d9834.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Billionaires are the ultimate brain rot",
-     "author": "Showerthoughts",
-     "url": "https://lemmy.zip/post/75400109",
-     "likes": 10,
+     "text": "Why do American men seem to care more about being masculine than European men do?",
+     "author": "No Stupid Questions",
+     "url": "https://lemmy.world/post/54669832",
+     "likes": 14,
      "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-21T08:47:37.007759+00:00",
+   "fetched_at": "2026-11-21T09:17:42.699684+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "How does a French skeleton say hello? Bone-jour.",
+     "text": "How do you fix a broken pizza? With tomato paste.",
      "source": "Dad joke"
     },
     {
-     "text": "The invention of the wheel was what got things rolling",
+     "text": "How come a man driving a train got struck by lightning? He was a good conductor.",
      "source": "Dad joke"
     },
     {
-     "text": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
+     "text": "I was thinking about moving to Moscow but there is no point Russian into things.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
