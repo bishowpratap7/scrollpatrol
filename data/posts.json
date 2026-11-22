@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:25:03.550076+00:00",
+ "generated_at": "2026-11-22T15:55:10.373550+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T15:24:59.859147+00:00",
+   "fetched_at": "2026-11-22T15:55:06.021305+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 3757,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 432,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
+     "image": "https://i.redd.it/5deu3zterr2i1.png",
+     "url": "https://redd.it/1y13imc",
+     "ups": 3839,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "weAllHaveThisAbility",
      "image": "https://i.redd.it/0t8l11pa053i1.png",
@@ -100,125 +121,88 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 40,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 2962,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3357,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Video games cause violence? Nope. They taught me economics",
+     "image": "https://i.redd.it/rquz3pti923i1.png",
+     "url": "https://redd.it/1y2c650",
+     "ups": 83,
+     "sub": "r/memes"
+    },
+    {
+     "title": "And everyone believes it",
+     "image": "https://i.redd.it/83kiy2cdo03i1.png",
+     "url": "https://redd.it/1y259k1",
+     "ups": 821,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 24,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 135,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Two memes, 1'm Stoned",
+     "image": "https://i.redd.it/vd7mmedae33i1.png",
+     "url": "https://redd.it/1y2gied",
      "ups": 15,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 29,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 223,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "studyingFor2026USJobMarketLike",
-     "image": "https://i.redd.it/eeuhc8md613i1.png",
-     "url": "https://redd.it/1y27ju7",
-     "ups": 181,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Why it there already",
-     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
-     "url": "https://redd.it/1y2h0u1",
-     "ups": 40,
      "sub": "r/memes"
     },
     {
-     "title": "Things to say to your drug dealer",
-     "image": "https://i.redd.it/si8umfinv23i1.png",
-     "url": "https://redd.it/1y2ekty",
-     "ups": 93,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Chaos and DND",
-     "image": "https://i.redd.it/ok5wukbso23i1.png",
-     "url": "https://redd.it/1y2duam",
-     "ups": 4,
-     "sub": "r/memes"
-    },
-    {
-     "title": "spiderman can't count to 8",
-     "image": "https://i.redd.it/vr0y20nyb13i1.png",
-     "url": "https://redd.it/1y288lp",
-     "ups": 538,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
-     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
-     "url": "https://redd.it/1y2k2ym",
-     "ups": 41,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 4916,
+     "title": "I am getting too old for reddit imo",
+     "image": "https://i.redd.it/jmueom45d13i1.png",
+     "url": "https://redd.it/1y28ezq",
+     "ups": 36,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T15:25:02.009568+00:00",
+   "fetched_at": "2026-11-22T15:55:08.718241+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "ICE immigration arrests",
+     "text": "ESPN analyst Tom Jackson dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0df89d5bec",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
+     "text": "Clayton dodges January 6 question",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6aeb8e72939d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Frivolous billionaire spending wishes",
+     "text": "Carney says Canada is busy without U.S. deal",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia China chip case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
      "likes": 0,
      "image": ""
     },
@@ -232,25 +216,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix",
+     "text": "Frivolous billionaire spending wishes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google adds AI across products",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
+     "text": "Nvidia China chip case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
@@ -264,72 +248,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 draft drops fossil fuels",
+     "text": "AEW Collision in Green Bay",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/119816c4c072",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army canceled chemical treatment contract",
+     "text": "Record rain floods Florida coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f803629a06f8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israel's military campaign in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4212892e704",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russian warship explodes in Libya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Many Etsy sellers close up shop over site\u2019s new AI policy",
-     "author": "Fuck AI",
-     "url": "https://lemmy.world/post/54719206",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/cb514ff2-0878-49f5-ba65-965042163fc8.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mastodon users",
-     "author": "Lemmy Shitpost",
-     "url": "https://gregtech.eu/post/39417866",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/8f577580-c568-4157-8b14-fa5cd5289351.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Made to Last [FlorkOfCows]",
+     "text": "Does your dog bite?",
      "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54718577",
-     "likes": 75,
-     "image": "https://lemmy.world/pictrs/image/d0cd1d6d-1eb1-42b3-ab9b-47d5ec822793.jpeg"
+     "url": "https://lemmy.world/post/54720431",
+     "likes": 44,
+     "image": "https://lemmy.world/pictrs/image/5a4600cc-001f-4224-8c57-d6afabd6d89c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "You do",
-     "author": "Wholesome",
-     "url": "https://piefed.blahaj.zone/c/wholesome@reddthat.com/p/1084798/you-do",
-     "likes": 53,
-     "image": "https://lemmy.world/pictrs/image/9c135ef5-433c-4bc8-a810-50f654acb313.webp"
+     "text": "I should set up unattended upgrades...",
+     "author": "Programmer Humor",
+     "url": "https://gregtech.eu/post/39419453",
+     "likes": 54,
+     "image": "https://lemmy.world/pictrs/image/7504477f-9d67-4c6b-a926-21c9c09b6737.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Blood draw",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54720664",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/9d5e8a78-e4e0-4deb-861f-53df539e58df.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The more you know \ud83d\udcab",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54720058",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/c971a945-b994-4583-a4f9-b972b7a7f6ab.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T15:25:02.598427+00:00",
+   "fetched_at": "2026-11-22T15:55:09.489030+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Why can't eggs have love? They will break up too soon.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I decided to sell my Hoover\u2026 well it was just collecting dust.",
      "source": "Dad joke"
     },
     {
-     "text": "Today a girl said she recognized me from vegetarian club, but I\u2019m sure I\u2019ve never met herbivore.",
+     "text": "Why are fish so smart? Because they live in schools!",
      "source": "Dad joke"
     },
     {
-     "text": "What do birds give out on Halloween? Tweets.",
+     "text": "What did the traffic light say to the car as it passed? \"Don't look I'm changing!\"",
      "source": "Dad joke"
     }
    ]
