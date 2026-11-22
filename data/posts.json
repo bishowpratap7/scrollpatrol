@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:52:39.972403+00:00",
+ "generated_at": "2026-11-22T06:22:46.053800+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T05:52:36.306599+00:00",
+   "fetched_at": "2026-11-22T06:22:42.059130+00:00",
    "stale": false,
    "items": [
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2144,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 605,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 55,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 284,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 423,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1549,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 547,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 12,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,65 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 441,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 387,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "This will make a fine addition to my collection",
-     "image": "https://i.redd.it/futn7narh13i1.png",
-     "url": "https://redd.it/1y29031",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "He's done with it all",
-     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
-     "url": "https://redd.it/1y0z49k",
-     "ups": 5550,
-     "sub": "r/memes"
-    },
-    {
-     "title": "And everyone believes it",
-     "image": "https://i.redd.it/83kiy2cdo03i1.png",
-     "url": "https://redd.it/1y259k1",
-     "ups": 346,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I just wanted to pet the kitty! T.T",
-     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
-     "url": "https://redd.it/1y24fiw",
+     "title": "Why it there already",
+     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
+     "url": "https://redd.it/1y2h0u1",
      "ups": 21,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Seems Sony won this battle",
+     "image": "https://i.redd.it/h498kx8t023i1.png",
+     "url": "https://redd.it/1y2b5n1",
+     "ups": 2415,
+     "sub": "r/memes"
+    },
+    {
+     "title": "how much are they getting paid",
+     "image": "https://i.redd.it/bpa6t4dyz13i1.png",
+     "url": "https://redd.it/1y2b2l8",
+     "ups": 69,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Those were the most difficult missions",
+     "image": "https://i.redd.it/5q68857xqx2i1.png",
+     "url": "https://redd.it/1y1t3q5",
+     "ups": 127,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Video games cause violence? Nope. They taught me economics",
+     "image": "https://i.redd.it/rquz3pti923i1.png",
+     "url": "https://redd.it/1y2c650",
+     "ups": 69,
      "sub": "r/memes"
     },
     {
      "title": "Buying a used device be like",
      "image": "https://i.redd.it/tpce0aex333i1.png",
      "url": "https://redd.it/1y2fgki",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "History shows Sonic fans can go pretty far",
-     "image": "https://i.redd.it/v7a421bjg03i1.png",
-     "url": "https://redd.it/1y2481q",
-     "ups": 2636,
+     "ups": 16,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T05:52:38.749908+00:00",
+   "fetched_at": "2026-11-22T06:22:44.535049+00:00",
    "stale": false,
    "items": [
     {
@@ -200,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russia's war in Ukraine",
+     "text": "US loses measles elimination status",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e54d320a7c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +216,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Sunrise on the Reaping hits theaters",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Thanksgiving pie rankings",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
@@ -232,92 +248,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sam Kinison AI avatar deal",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48f887552153",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AEW Collision in Green Bay",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/119816c4c072",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Record rain floods Florida coast",
+     "text": "COP31 draft drops fossil fuels",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f803629a06f8",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Earthquake felt in Los Angeles",
+     "text": "Trump meets Xi and Putin",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/248c58b0b6e8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Stancil calls 'Zionist' insult bigoted",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/da97f9376264",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump says Democrats have healthcare points",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-     "author": "blueteamsec",
-     "url": "https://infosec.pub/post/55219734",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/c7ccae61-c1d4-4c33-b03e-d3bd18903cf9.jpeg"
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1084839/me-irl",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/f6aeabf9-f9fb-4049-b3b3-17803309f83f.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Best thing about it",
-     "author": "aww",
-     "url": "https://piefed.blahaj.zone/c/aww@lemmy.world/p/1084792/best-thing-about-it",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/86f5709e-b1d8-4da2-b829-03617ad9a9f3.jpeg"
+     "text": "Nails",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70294549",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/a2809fa8-ad87-498d-979c-9af58f540341.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "what stretchy skin rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50785041",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/daf968ae-f0f6-4453-b5a2-b66778e4e54b.webp"
+     "text": "2meirl4irl",
+     "author": "2meirl4meirl",
+     "url": "https://piefed.blahaj.zone/c/2meirl4meirl@lemmy.dbzer0.com/p/1084844/2meirl4irl",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/98b6a516-acab-45af-a9e0-c8db97fecb98.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "tight schedule rule",
-     "author": "196",
-     "url": "https://lemmy.world/post/54702601",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/63c6e7c2-3565-423a-b5ad-b9f82ac19b73.jpeg"
+     "text": "Can you do it?",
+     "author": "General Memes & Private Chuckle",
+     "url": "https://piefed.blahaj.zone/c/Memes@lemmy.dbzer0.com/p/1084824/can-you-do-it",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/56c73d42-fa1b-4ffc-b058-529fa4c1ffe9.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T05:52:39.576119+00:00",
+   "fetched_at": "2026-11-22T06:22:45.631313+00:00",
    "stale": false,
    "items": [
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
@@ -325,7 +325,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
@@ -333,32 +341,24 @@
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Why do seagulls fly over the ocean?\" \"Because if they flew over the bay, we'd call them bagels.\"",
+     "text": "Why was the shirt happy to hang around the tank top? Because it was armless",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the miner get fired from his job? He took it for granite...",
+     "text": "Whats a penguins favorite relative? Aunt Arctica.",
      "source": "Dad joke"
     },
     {
-     "text": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
+     "text": "My boss told me to have a good day... so I went home.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
