@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:56:02.915681+00:00",
+ "generated_at": "2026-11-22T19:56:17.902177+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,16 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T19:55:59.130026+00:00",
+   "fetched_at": "2026-11-22T19:56:14.873623+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2176,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "recursion",
      "image": "https://i.redd.it/9c68q9667b2i1.png",
@@ -100,24 +107,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 2984,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 225,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 36,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 136,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,11 +128,39 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 167,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 627,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 26,
+     "sub": "r/memes"
+    },
+    {
+     "title": "And everyone believes it",
+     "image": "https://i.redd.it/83kiy2cdo03i1.png",
+     "url": "https://redd.it/1y259k1",
+     "ups": 897,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"We can get through this!\" No.",
+     "image": "https://i.redd.it/e4lg195te13i1.gif",
+     "url": "https://redd.it/1y28l1w",
+     "ups": 13193,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
+     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
+     "url": "https://redd.it/1y2k2ym",
+     "ups": 50,
+     "sub": "r/memes"
     },
     {
      "title": "Grand Theft Buddha",
@@ -142,44 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "how much are they getting paid",
-     "image": "https://i.redd.it/bpa6t4dyz13i1.png",
-     "url": "https://redd.it/1y2b2l8",
-     "ups": 117,
-     "sub": "r/memes"
-    },
-    {
      "title": "Two memes, 1'm Stoned",
      "image": "https://i.redd.it/vd7mmedae33i1.png",
      "url": "https://redd.it/1y2gied",
      "ups": 21,
      "sub": "r/memes"
-    },
-    {
-     "title": "Why it there already",
-     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
-     "url": "https://redd.it/1y2h0u1",
-     "ups": 43,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Maybe they are just bored",
-     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
-     "url": "https://redd.it/1y2t87a",
-     "ups": 25,
-     "sub": "r/memes"
-    },
-    {
-     "title": "AI helped plumbers and electricians?",
-     "image": "https://i.redd.it/ix486yrn863i1.png",
-     "url": "https://redd.it/1y2q64h",
-     "ups": 158,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T19:56:01.335236+00:00",
+   "fetched_at": "2026-11-22T19:56:16.945817+00:00",
    "stale": false,
    "items": [
     {
@@ -307,49 +307,49 @@
      "text": "[OC] Wulfenite",
      "author": "Cool Rocks",
      "url": "https://lemmy.world/post/54727938",
-     "likes": 30,
+     "likes": 31,
      "image": "https://lemmy.world/pictrs/image/2e3e6370-2e9e-4feb-90ec-4196cfe651b3.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T19:56:01.972017+00:00",
+   "fetched_at": "2026-11-22T19:56:17.331518+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you organize a space party? You planet.",
+     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
      "source": "Dad joke"
     },
     {
-     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+     "text": "Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer",
      "source": "Dad joke"
     },
     {
-     "text": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
+     "text": "I couldn't get a reservation at the library. They were completely booked.",
      "source": "Dad joke"
     }
    ]
