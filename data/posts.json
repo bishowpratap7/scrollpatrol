@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:26:35.324723+00:00",
+ "generated_at": "2026-11-22T21:56:40.467076+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T21:26:32.175693+00:00",
+   "fetched_at": "2026-11-22T21:56:38.109824+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 225,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "nowWeGotGtaSixForPlaystationFour",
      "image": "https://i.redd.it/xrt67cpkpa1i1.png",
@@ -107,10 +100,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "agedLikeMilk",
-     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
-     "url": "https://redd.it/1xv0311",
-     "ups": 386,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 567,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,31 +121,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1755,
+     "title": "studyingFor2026USJobMarketLike",
+     "image": "https://i.redd.it/eeuhc8md613i1.png",
+     "url": "https://redd.it/1y27ju7",
+     "ups": 211,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 55,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4081,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Why it there already",
-     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
-     "url": "https://redd.it/1y2h0u1",
-     "ups": 42,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Video games cause violence? Nope. They taught me economics",
-     "image": "https://i.redd.it/rquz3pti923i1.png",
-     "url": "https://redd.it/1y2c650",
-     "ups": 83,
+     "title": "\"We can get through this!\" No.",
+     "image": "https://i.redd.it/e4lg195te13i1.gif",
+     "url": "https://redd.it/1y28l1w",
+     "ups": 13574,
      "sub": "r/memes"
     },
     {
@@ -156,30 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "I am getting too old for reddit imo",
-     "image": "https://i.redd.it/jmueom45d13i1.png",
-     "url": "https://redd.it/1y28ezq",
-     "ups": 40,
+     "title": "Two memes, 1'm Stoned",
+     "image": "https://i.redd.it/vd7mmedae33i1.png",
+     "url": "https://redd.it/1y2gied",
+     "ups": 23,
      "sub": "r/memes"
     },
     {
-     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
-     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
-     "url": "https://redd.it/1y2k2ym",
-     "ups": 52,
+     "title": "Also I eat less in the game",
+     "image": "https://i.redd.it/vjk4iodh833i1.png",
+     "url": "https://redd.it/1y2fy8a",
+     "ups": 6043,
      "sub": "r/memes"
     },
     {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 5886,
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 655,
+     "sub": "r/memes"
+    },
+    {
+     "title": "spiderman can't count to 8",
+     "image": "https://i.redd.it/vr0y20nyb13i1.png",
+     "url": "https://redd.it/1y288lp",
+     "ups": 587,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T21:26:34.148182+00:00",
+   "fetched_at": "2026-11-22T21:56:39.525696+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Carney jokes at Press Gallery dinner",
+     "text": "Frivolous billionaire spending wishes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames Democrats for selloff",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
      "likes": 0,
      "image": ""
     },
@@ -216,33 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Frivolous billionaire spending wishes",
+     "text": "NFL Week 11 games",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10bf76088faf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "ESPN analyst Tom Jackson dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "GTA VI's Jason and Lucia",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8130317be1ba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0df89d5bec",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +256,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
+     "text": "New Home Alone movie announced",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33824d3a8ff2",
      "likes": 0,
      "image": ""
     },
@@ -279,77 +271,85 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "How tf are we supposed to get to the playoffs with these shit players?",
-     "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/70328155",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/1cf4f3b8-f47f-46bd-a394-f108b2994aa1.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I know what I saw! [War and Peas]",
-     "author": "Comic Strips",
-     "url": "https://lemmus.org/post/27103901",
-     "likes": 92,
-     "image": "https://lemmy.world/pictrs/image/f5f47f2a-6feb-44a2-a45a-a8aa020b9efe.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Just got that new game everyone's talking about.",
-     "author": "Games",
-     "url": "https://lemmy.today/post/63710944",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/3fea3dd4-c2ed-4df9-b7a3-f301ece2b7ef.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Russian warship explodes in Libya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Chat, is this true?",
      "author": "Dogs",
      "url": "https://lemmy.dbzer0.com/post/78815275",
-     "likes": 17,
+     "likes": 64,
      "image": "https://lemmy.world/pictrs/image/6e93c109-784b-4dfd-ae88-e13ece5071fc.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "How tf are we supposed to get to the playoffs with these shit players?",
+     "author": "Lemmy Shitpost",
+     "url": "https://sh.itjust.works/post/70328155",
+     "likes": 69,
+     "image": "https://lemmy.world/pictrs/image/1cf4f3b8-f47f-46bd-a394-f108b2994aa1.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54732644",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/c80cca88-7e83-441b-beac-e0f10d57f3e4.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Do not Toot it!",
+     "author": "Antique Memes Roadshow",
+     "url": "https://lemmy.world/post/54732872",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/333668eb-feb3-4ffe-9f9c-4d2c544b46a4.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T21:26:34.695325+00:00",
+   "fetched_at": "2026-11-22T21:56:39.861900+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "What is the tallest building in the world? The library \u2013 it\u2019s got the most stories!",
+     "text": "I used to work for an origami company but they folded.",
      "source": "Dad joke"
     },
     {
-     "text": "My boss told me to have a good day... so I went home.",
+     "text": "It's difficult to say what my wife does, she sells sea shells by the sea shore.",
      "source": "Dad joke"
     },
     {
-     "text": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.",
+     "text": "\"What time is it?\" I don't know... it keeps changing.",
      "source": "Dad joke"
     }
    ]
