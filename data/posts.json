@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:26:23.326502+00:00",
+ "generated_at": "2026-11-22T20:56:29.480348+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T20:26:20.330296+00:00",
+   "fetched_at": "2026-11-22T20:56:25.934907+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 158,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "commentsInJson",
      "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
      "url": "https://redd.it/1y1rd5z",
      "ups": 5257,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 2984,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 28,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 428,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,55 +135,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4079,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 15,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1418,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 548,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Video games cause violence? Nope. They taught me economics",
-     "image": "https://i.redd.it/rquz3pti923i1.png",
-     "url": "https://redd.it/1y2c650",
-     "ups": 83,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 176,
-     "sub": "r/memes"
-    },
-    {
-     "title": "AI helped plumbers and electricians?",
-     "image": "https://i.redd.it/ix486yrn863i1.png",
-     "url": "https://redd.it/1y2q64h",
-     "ups": 621,
-     "sub": "r/memes"
-    },
-    {
      "title": "Also I eat less in the game",
      "image": "https://i.redd.it/vjk4iodh833i1.png",
      "url": "https://redd.it/1y2fy8a",
@@ -163,30 +142,51 @@
      "sub": "r/memes"
     },
     {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 5886,
+     "title": "\"We can get through this!\" No.",
+     "image": "https://i.redd.it/e4lg195te13i1.gif",
+     "url": "https://redd.it/1y28l1w",
+     "ups": 13574,
      "sub": "r/memes"
     },
     {
-     "title": "Maybe they are just bored",
-     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
-     "url": "https://redd.it/1y2t87a",
-     "ups": 52,
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 655,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 24,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Two memes, 1'm Stoned",
+     "image": "https://i.redd.it/vd7mmedae33i1.png",
+     "url": "https://redd.it/1y2gied",
+     "ups": 23,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I work best under pressure (apparently) \ud83d\udc80",
+     "image": "https://i.redd.it/uu6vn80aq53i1.png",
+     "url": "https://redd.it/1y2o6bw",
+     "ups": 13,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T20:26:22.283950+00:00",
+   "fetched_at": "2026-11-22T20:56:28.281143+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Change one letter, ruin a movie",
+     "text": "Carney jokes at Press Gallery dinner",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
      "likes": 0,
      "image": ""
     },
@@ -200,17 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "JFK assassination anniversary",
+     "text": "Virginia Foxx House race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d53b7a659058",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Virginia Foxx House race",
+     "text": "Change one letter, ruin a movie",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Delta system outage delays flights",
+     "text": "Sunrise on the Reaping hits theaters",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
+     "text": "Pattinson will be next James Bond",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22769c70f72c",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
+     "text": "Thanksgiving pie rankings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
+     "text": "Trump blames Democrats for selloff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army canceled chemical treatment contract",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
@@ -283,37 +283,37 @@
      "text": "The post the mods of fuckcars didn't want you to see",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.dbzer0.com/post/78812735",
-     "likes": 44,
+     "likes": 91,
      "image": "https://lemmy.world/pictrs/image/bc003b1e-99b5-4461-a713-4a07374380da.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Worth it",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://piefed.world/c/tenforward/p/1550042/worth-it",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/9f919ee6-311b-4dba-846c-665317d7c83a.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "AI obsessed managers",
      "author": "memes",
      "url": "https://midwest.social/post/55029867",
-     "likes": 16,
+     "likes": 50,
      "image": "https://midwest.social/pictrs/image/5230efb7-4627-49d5-9e85-f6e180a65901.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Asking the right questions about the wrong things",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.dbzer0.com/post/78812563",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/19bef036-680f-41be-ba9f-ec57922902f6.webp"
+     "text": "I know what I saw! [War and Peas]",
+     "author": "Comic Strips",
+     "url": "https://lemmus.org/post/27103901",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/f5f47f2a-6feb-44a2-a45a-a8aa020b9efe.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Just got that new game everyone's talking about.",
+     "author": "Games",
+     "url": "https://lemmy.today/post/63710944",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/3fea3dd4-c2ed-4df9-b7a3-f301ece2b7ef.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T20:26:22.715302+00:00",
+   "fetched_at": "2026-11-22T20:56:28.819936+00:00",
    "stale": false,
    "items": [
     {
@@ -321,35 +321,35 @@
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the 0 say to the 8? Nice belt.",
+     "text": "I used to hate facial hair, but then it grew on me.",
      "source": "Dad joke"
     },
     {
-     "text": "What's brown and sticky? A stick.",
+     "text": "Want to hear my pizza joke? Never mind, it's too cheesy.",
      "source": "Dad joke"
     },
     {
-     "text": "If you\u2019re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.",
+     "text": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
      "source": "Dad joke"
     }
    ]
