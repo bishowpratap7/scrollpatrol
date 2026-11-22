@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T03:21:54.227335+00:00",
+ "generated_at": "2026-11-22T03:52:00.587057+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,7 +89,7 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T03:21:50.280711+00:00",
+   "fetched_at": "2026-11-22T03:51:57.165002+00:00",
    "stale": false,
    "items": [
     {
@@ -100,31 +100,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 218,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1390,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "copyPastingFromChatLikeIts2023",
-     "image": "https://i.redd.it/m99xod77923i1.png",
-     "url": "https://redd.it/1y2c6la",
-     "ups": 15,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 135,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1549,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,11 +121,18 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "This can\u2019t be happening again",
-     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
-     "url": "https://redd.it/1y1n8m6",
-     "ups": 163,
-     "sub": "r/memes"
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 795,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "So futuristic",
@@ -149,10 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "A good one? No, a very good one.",
-     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
-     "url": "https://redd.it/1y1cuq5",
-     "ups": 1610,
+     "title": "I just wanted to pet the kitty! T.T",
+     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
+     "url": "https://redd.it/1y24fiw",
+     "ups": 21,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Seems Sony won this battle",
+     "image": "https://i.redd.it/h498kx8t023i1.png",
+     "url": "https://redd.it/1y2b5n1",
+     "ups": 907,
      "sub": "r/memes"
     },
     {
@@ -163,23 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "spiderman can't count to 8",
-     "image": "https://i.redd.it/vr0y20nyb13i1.png",
-     "url": "https://redd.it/1y288lp",
-     "ups": 270,
+     "title": "This can\u2019t be happening again",
+     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
+     "url": "https://redd.it/1y1n8m6",
+     "ups": 163,
      "sub": "r/memes"
     },
     {
-     "title": "I am getting too old for reddit imo",
-     "image": "https://i.redd.it/jmueom45d13i1.png",
-     "url": "https://redd.it/1y28ezq",
-     "ups": 24,
+     "title": "Those were the most difficult missions",
+     "image": "https://i.redd.it/5q68857xqx2i1.png",
+     "url": "https://redd.it/1y1t3q5",
+     "ups": 120,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T03:21:52.298904+00:00",
+   "fetched_at": "2026-11-22T03:51:59.105852+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,14 @@
      "text": "Change one letter, ruin a movie",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "NWSL final: Current vs. Spirit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/383f13f52c2d",
      "likes": 0,
      "image": ""
     },
@@ -200,33 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump says Democrats have healthcare points",
+     "text": "Army canceled chemical treatment contract",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sam Kinison AI avatar deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48f887552153",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Computer science enrollment declines",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a4a0e7a1922",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
@@ -240,92 +224,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix weekend",
+     "text": "Thanksgiving pie rankings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump order limits contractor talks",
+     "text": "Wave of software vulnerability disclosures",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/38ba4319b16f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Fred Nile dies at 92",
+     "text": "Claude AI coding tools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7397543a5ea",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump says Democrats have healthcare points",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Stancil calls 'Zionist' insult bigoted",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/da97f9376264",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Abdul El-Sayed catches Trump\u2019s attention with pitch for \u2018Trumpcare\u2019",
+     "author": "politics ",
+     "url": "https://piefed.social/c/politics@lemmy.world/p/2628584/abdul-el-sayed-catches-trumps-attention-with-pitch-for-trumpcare",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/28dc4a8b-7e7b-477e-bec7-20e0b31f29b8.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Accurate",
+     "author": "Political Memes",
+     "url": "https://europe.pub/post/17744634",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/11737b35-7729-4162-8ebd-c7d613852fa8.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Finding $270 software at a thrift store for $3 rules",
+     "author": "196",
+     "url": "https://programming.dev/post/59735641",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/cbe8c4d2-b281-4caf-9231-5f04c897e8a2.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Accurate",
      "author": "Memes",
      "url": "https://lemmy.ml/post/55594799",
-     "likes": 12,
+     "likes": 32,
      "image": "https://lemmy.world/pictrs/image/2867def7-3928-4f51-bcdb-1a25f8b800f8.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I feel like this is a huge insult to Alfred",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54701257",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/d9909856-49a2-4ec8-b2d5-9b711ae62faf.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Trump reposts El-Sayed's 'TrumpCare' proposal",
-     "author": "politics ",
-     "url": "https://lemmy.zip/post/75444049",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/e1b4f8b7-e093-43a1-8ba8-d94534e36a36.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Her Seat",
-     "author": "cats",
-     "url": "https://lemmy.world/post/54701090",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/0508b5b4-d9fe-413a-ac2b-9f9626571e17.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T03:21:53.099879+00:00",
+   "fetched_at": "2026-11-22T03:51:59.828756+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
+     "text": "What do you call a dad that has fallen through the ice? A Popsicle.",
      "source": "Dad joke"
     },
     {
-     "text": "To the guy who invented zero... thanks for nothing.",
+     "text": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
      "source": "Dad joke"
     },
     {
-     "text": "I went to a Foo Fighters Concert once... It was Everlong...",
+     "text": "I used to be addicted to soap, but I'm clean now.",
      "source": "Dad joke"
     }
    ]
