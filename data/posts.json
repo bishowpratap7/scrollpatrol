@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:53:05.249791+00:00",
+ "generated_at": "2026-11-22T08:23:11.050966+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,23 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T07:53:01.443448+00:00",
+   "fetched_at": "2026-11-22T08:23:07.375394+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "chaoticEvil",
+     "image": "https://i.redd.it/7rski0ubn61i1.png",
+     "url": "https://redd.it/1xucmuw",
+     "ups": 2171,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
+     "image": "https://i.redd.it/0kw9x30oo71i1.png",
+     "url": "https://redd.it/1xuhxgr",
+     "ups": 962,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
      "image": "https://i.redd.it/sqilz99j2i1i1.png",
@@ -100,86 +114,72 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 597,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 606,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 309,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2143,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 217,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 609,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 448,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 30,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 63,
+     "title": "And everyone believes it",
+     "image": "https://i.redd.it/83kiy2cdo03i1.png",
+     "url": "https://redd.it/1y259k1",
+     "ups": 548,
      "sub": "r/memes"
     },
     {
-     "title": "I am getting too old for reddit imo",
-     "image": "https://i.redd.it/jmueom45d13i1.png",
-     "url": "https://redd.it/1y28ezq",
-     "ups": 34,
+     "title": "This will make a fine addition to my collection",
+     "image": "https://i.redd.it/futn7narh13i1.png",
+     "url": "https://redd.it/1y29031",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
      "title": "Two memes, 1'm Stoned",
      "image": "https://i.redd.it/vd7mmedae33i1.png",
      "url": "https://redd.it/1y2gied",
-     "ups": 6,
+     "ups": 11,
      "sub": "r/memes"
     },
     {
-     "title": "And everyone believes it",
-     "image": "https://i.redd.it/83kiy2cdo03i1.png",
-     "url": "https://redd.it/1y259k1",
-     "ups": 463,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 6329,
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
      "title": "A good one? No, a very good one.",
      "image": "https://i.redd.it/h2cj5b5omt2i1.png",
      "url": "https://redd.it/1y1cuq5",
-     "ups": 1627,
+     "ups": 1632,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Cries in post-graduation (OC)",
+     "image": "https://i.redd.it/e7eb3g0i043i1.gif",
+     "url": "https://redd.it/1y2ioc1",
+     "ups": 8,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T07:53:03.916917+00:00",
+   "fetched_at": "2026-11-22T08:23:09.802371+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Change one letter, ruin a movie",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "ICE immigration arrests",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
@@ -208,41 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "COP31 draft drops fossil fuels",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping hits theaters",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Report alleges Huang humiliated employees",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia China chip case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -256,6 +216,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Sunrise on the Reaping hits theaters",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Boreen daily trivia game",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AI sell-off overshadows Anthropic IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Claude AI coding tools",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
@@ -264,101 +248,117 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 draft drops fossil fuels",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Fred Nile dies at 92",
+     "text": "Transgender Day of Remembrance",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7397543a5ea",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE immigration arrests",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump tells Europe to defund Ukraine",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Everything Is Falling Apart, and AI's Fingerprints Are All Over It",
-     "author": "Fuck AI",
-     "url": "https://discuss.tchncs.de/post/71260957",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/41ee6296-ada2-4d5f-bd88-8880b36f5ff1.jpeg"
+     "text": "It\u2019s not a bug, it\u2019s a feature",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63679546",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/d4183c33-0d5d-47c5-baf3-551b7a37dca5.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Meta's Muse AI Accessed Signal Messages in Tests, Sent Employees Unexplained Bank Balances, Investigation Finds",
+     "author": "Privacy",
+     "url": "https://lemmy.world/post/54706339",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/c729a1a0-04f6-4a94-a934-6fb9daf98fe7.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "The Voice of Space by Ren\u00e9 Magritte (1931)",
      "author": "Traditional Art",
      "url": "https://lemmy.world/post/54706026",
-     "likes": 10,
+     "likes": 21,
      "image": "https://lemmy.world/pictrs/image/585df521-06de-4a23-9df3-157311b6b263.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "my rulefriends",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50787195",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/2899e844-83f2-40fd-b5cf-7e6cd9447e13.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Sprouted at about the same time this spring. But beggars can't be choosers",
-     "author": "Gardening",
-     "url": "https://lemmy.world/post/54704975",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/34842b85-23e5-4b5a-ac6f-2ba374efc640.png"
+     "text": "Everything Is Falling Apart, and AI's Fingerprints Are All Over It",
+     "author": "Fuck AI",
+     "url": "https://discuss.tchncs.de/post/71260957",
+     "likes": 56,
+     "image": "https://lemmy.world/pictrs/image/41ee6296-ada2-4d5f-bd88-8880b36f5ff1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T07:53:04.874291+00:00",
+   "fetched_at": "2026-11-22T08:23:10.680888+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you fix a broken pizza? With tomato paste.",
+     "text": "I don\u2019t play soccer because I enjoy the sport. I\u2019m just doing it for kicks.",
      "source": "Dad joke"
     },
     {
-     "text": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
+     "text": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.",
      "source": "Dad joke"
     },
     {
-     "text": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
+     "text": "What happens when you anger a brain surgeon? They will give you a piece of your mind.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
