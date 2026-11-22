@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T01:21:28.447079+00:00",
+ "generated_at": "2026-11-22T01:51:35.119280+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T01:21:25.393889+00:00",
+   "fetched_at": "2026-11-22T01:51:31.433152+00:00",
    "stale": false,
    "items": [
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 212,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,39 +114,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
-     "image": "https://i.redd.it/5deu3zterr2i1.png",
-     "url": "https://redd.it/1y13imc",
-     "ups": 3757,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 4385,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4209,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 798,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 285,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 436,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I may be joking, but we should put science to look into it. Microorganisms date too.",
-     "image": "https://i.redd.it/bl7oilyw4s2i1.png",
-     "url": "https://redd.it/1y1597y",
-     "ups": 165,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Now that's paradise",
-     "image": "https://i.redd.it/b7hm9985mn2i1.png",
-     "url": "https://redd.it/1y0o60a",
-     "ups": 4621,
-     "sub": "r/memes"
     },
     {
      "title": "He's done with it all",
@@ -156,30 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "And everyone believes it",
-     "image": "https://i.redd.it/83kiy2cdo03i1.png",
-     "url": "https://redd.it/1y259k1",
-     "ups": 133,
-     "sub": "r/memes"
-    },
-    {
-     "title": "This can\u2019t be happening again",
-     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
-     "url": "https://redd.it/1y1n8m6",
-     "ups": 157,
-     "sub": "r/memes"
-    },
-    {
-     "title": "how much are they getting paid",
-     "image": "https://i.redd.it/bpa6t4dyz13i1.png",
-     "url": "https://redd.it/1y2b2l8",
+     "title": "This will make a fine addition to my collection",
+     "image": "https://i.redd.it/futn7narh13i1.png",
+     "url": "https://redd.it/1y29031",
      "ups": 1,
+     "sub": "r/memes"
+    },
+    {
+     "title": "apps when you dont pay the pro",
+     "image": "https://i.redd.it/l6lt9q5tqs2i1.png",
+     "url": "https://redd.it/1y189sy",
+     "ups": 158,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I just wanted to pet the kitty! T.T",
+     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
+     "url": "https://redd.it/1y24fiw",
+     "ups": 23,
+     "sub": "r/memes"
+    },
+    {
+     "title": "spiderman can't count to 8",
+     "image": "https://i.redd.it/vr0y20nyb13i1.png",
+     "url": "https://redd.it/1y288lp",
+     "ups": 180,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I was thinking more pepper and salt",
+     "image": "https://i.redd.it/jq1243is4q2i1.gif",
+     "url": "https://redd.it/1y0xqt2",
+     "ups": 827,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T01:21:27.319263+00:00",
+   "fetched_at": "2026-11-22T01:51:33.425936+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FBI crime database reportedly hacked",
+     "text": "Trump order limits contractor talks",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/38ba4319b16f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "GTA VI's Jason and Lucia",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8130317be1ba",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US cleared China chip sales",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
@@ -208,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Thanksgiving pie rankings",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
@@ -216,33 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
+     "text": "Wave of software vulnerability disclosures",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping hits theaters",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +256,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
+     "text": "Sunrise on the Reaping hits theaters",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army Iowa detonation court case",
+     "text": "Russia's war in Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e54d320a7c8",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "My sleepy boys",
      "author": "cats",
      "url": "https://lemmy.world/post/54697251",
-     "likes": 92,
+     "likes": 122,
      "image": "https://lemmy.world/pictrs/image/60e0030c-fcd2-4996-bb45-f61cd67d148d.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "The chosen one",
      "author": "Political Memes",
      "url": "https://lemmy.zip/post/75436917",
-     "likes": 118,
+     "likes": 133,
      "image": "https://lemmy.zip/pictrs/image/7cd2a4e4-0881-43cc-906c-18311932e44b.avif"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
      "author": "News",
      "url": "https://lemmy.world/post/54696442",
-     "likes": 99,
+     "likes": 114,
      "image": ""
     },
     {
@@ -307,33 +307,29 @@
      "text": "Carlin on Pride",
      "author": "\"Quotes\"",
      "url": "https://piefed.social/c/quotes@quokk.au/p/2628235/carlin-on-pride",
-     "likes": 86,
+     "likes": 99,
      "image": "https://lemmy.world/pictrs/image/4eb7735e-b854-4f7f-b098-358fcb444a1d.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T01:21:27.761155+00:00",
+   "fetched_at": "2026-11-22T01:51:34.146931+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What is the hardest part about sky diving? The ground.",
      "source": "Dad joke"
     },
     {
-     "text": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
+     "text": "Where does astronauts hangout after work? At the spacebar.",
      "source": "Dad joke"
     },
     {
-     "text": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
+     "text": "Where do sheep go to get their hair cut? The baa-baa shop.",
      "source": "Dad joke"
     }
    ]
