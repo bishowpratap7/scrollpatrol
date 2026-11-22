@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T12:24:12.553890+00:00",
+ "generated_at": "2026-11-22T12:54:18.423338+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,16 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T12:24:08.111262+00:00",
+   "fetched_at": "2026-11-22T12:54:15.312130+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 368,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "interestingTimes",
      "image": "https://i.redd.it/6s2ekr7mut2i1.png",
@@ -100,24 +107,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 53,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 34,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 36,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,17 +121,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3345,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 606,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 6859,
+     "title": "studyingFor2026USJobMarketLike",
+     "image": "https://i.redd.it/eeuhc8md613i1.png",
+     "url": "https://redd.it/1y27ju7",
+     "ups": 159,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "\"We can get through this!\" No.",
+     "image": "https://i.redd.it/e4lg195te13i1.gif",
+     "url": "https://redd.it/1y28l1w",
+     "ups": 11289,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A good one? No, a very good one.",
+     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
+     "url": "https://redd.it/1y1cuq5",
+     "ups": 1650,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Two memes, 1'm Stoned",
+     "image": "https://i.redd.it/vd7mmedae33i1.png",
+     "url": "https://redd.it/1y2gied",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
@@ -149,23 +163,9 @@
      "sub": "r/memes"
     },
     {
-     "title": "I am getting too old for reddit imo",
-     "image": "https://i.redd.it/jmueom45d13i1.png",
-     "url": "https://redd.it/1y28ezq",
-     "ups": 41,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Chaos and DND",
-     "image": "https://i.redd.it/ok5wukbso23i1.png",
-     "url": "https://redd.it/1y2duam",
-     "ups": 6,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Cries in post-graduation (OC)",
-     "image": "https://i.redd.it/e7eb3g0i043i1.gif",
-     "url": "https://redd.it/1y2ioc1",
+     "title": "I just wanted to pet the kitty! T.T",
+     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
+     "url": "https://redd.it/1y24fiw",
      "ups": 22,
      "sub": "r/memes"
     },
@@ -179,7 +179,7 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T12:24:11.251076+00:00",
+   "fetched_at": "2026-11-22T12:54:16.802036+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Theresa May urges accepting Brexit",
+     "text": "Carney says Canada is busy without U.S. deal",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AEW Collision in Green Bay",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/119816c4c072",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +240,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Unusually warm late November weather",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Las Vegas Grand Prix",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
@@ -232,94 +256,66 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Wave of software vulnerability disclosures",
+     "text": "Record rain floods Florida coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f803629a06f8",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Theresa May urges accepting Brexit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving pie rankings",
+     "text": "Trump says Democrats have healthcare points",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "ICE immigration arrests",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Calls to release Epstein files",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00d4241b94de",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves | CNN Business",
-     "author": "Fuck AI",
-     "url": "https://piefed.social/c/fuck_ai@lemmy.world/p/2629441/nasdaq-wipes-out-gains-for-the-year-as-anthropic-ipo-fails-to-quell-ai-nerves-cnn-busin",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/ef71392a-3a98-490b-84cc-7662854ef2aa.jpeg"
+     "text": "Officials say...",
+     "author": "Comic Strips",
+     "url": "https://lemmy.ca/post/74206566",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/36f94aa5-6e9a-4a4a-89b6-65d3aba0edd9.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "I made my own backpack pins",
-     "author": "Dull Men's Club",
-     "url": "https://lemmy.zip/post/75461956",
-     "likes": 16,
-     "image": "https://lemmy.zip/pictrs/image/4dfe3fe5-5aed-4acf-a6f0-272234fa9851.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "How?",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75461063",
-     "likes": 23,
-     "image": "https://lemmy.zip/pictrs/image/9e92f35c-ff46-4a02-a880-1d658888ed36.avif"
+     "text": "Honest",
+     "author": "Comic Strips",
+     "url": "https://lemmy.ca/post/74206492",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/98f4b983-12e8-43e4-94b9-a7b8eafc1676.png"
     },
     {
      "kind": "Lemmy post",
      "text": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
      "author": "Technology",
      "url": "https://lemmy.ca/post/74205732",
-     "likes": 10,
+     "likes": 41,
      "image": "https://lemmy.world/pictrs/image/e7372c60-7c4b-464d-8687-2efeefb52992.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Scotland's most epic gorge [OC]",
+     "author": "pics",
+     "url": "https://lemmy.world/post/54714480",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/fa3ec5c4-8ef7-4c52-bc41-69c1e3fe8fa3.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T12:24:11.839269+00:00",
+   "fetched_at": "2026-11-22T12:54:17.633629+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
     {
      "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
@@ -329,27 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "If you want a job in the moisturizer industry, the best advice I can give is to apply daily.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "This morning I was wondering where the sun was, but then it dawned on me.",
      "source": "Dad joke"
     },
     {
-     "text": "Recent survey revealed 6 out of 7 dwarf's aren't happy.",
+     "text": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
      "source": "Dad joke"
     },
     {
-     "text": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+     "text": "Slept like a log last night \u2026 woke up in the fireplace.",
      "source": "Dad joke"
     }
    ]
