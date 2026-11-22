@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T09:53:41.179152+00:00",
+ "generated_at": "2026-11-22T10:23:47.597463+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T09:53:37.924772+00:00",
+   "fetched_at": "2026-11-22T10:23:43.881091+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2148,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 540,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 918,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "technicallyItCompiles",
      "image": "https://i.redd.it/soi73zn4r92i1.png",
@@ -100,101 +121,80 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 12,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 2717,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3339,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4209,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 32,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 606,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I just wanted to pet the kitty! T.T",
-     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
-     "url": "https://redd.it/1y24fiw",
-     "ups": 21,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 3074,
-     "sub": "r/memes"
     },
     {
      "title": "Cries in post-graduation (OC)",
      "image": "https://i.redd.it/e7eb3g0i043i1.gif",
      "url": "https://redd.it/1y2ioc1",
-     "ups": 8,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Why it there already",
-     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
-     "url": "https://redd.it/1y2h0u1",
-     "ups": 29,
+     "ups": 18,
      "sub": "r/memes"
     },
     {
      "title": "\"We can get through this!\" No.",
      "image": "https://i.redd.it/e4lg195te13i1.gif",
      "url": "https://redd.it/1y28l1w",
-     "ups": 8157,
+     "ups": 9779,
      "sub": "r/memes"
     },
     {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 76,
+     "title": "Things to say to your drug dealer",
+     "image": "https://i.redd.it/si8umfinv23i1.png",
+     "url": "https://redd.it/1y2ekty",
+     "ups": 59,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
+     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
+     "url": "https://redd.it/1y2k2ym",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Seems Sony won this battle",
+     "image": "https://i.redd.it/h498kx8t023i1.png",
+     "url": "https://redd.it/1y2b5n1",
+     "ups": 3830,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Also I eat less in the game",
+     "image": "https://i.redd.it/vjk4iodh833i1.png",
+     "url": "https://redd.it/1y2fy8a",
+     "ups": 2278,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T09:53:39.861101+00:00",
+   "fetched_at": "2026-11-22T10:23:45.853299+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "COP31 draft drops fossil fuels",
+     "text": "Theresa May urges accepting Brexit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK, EU seal reset deal",
+     "text": "COP31 draft drops fossil fuels",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia game",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -224,57 +224,57 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
+     "text": "Nvidia China chip case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
+     "text": "Thanksgiving pie rankings",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AEW Collision in Green Bay",
+     "text": "Boreen daily trivia game",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/119816c4c072",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Claude AI coding tools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
+     "text": "Washington Spirit vs. Kansas City Current",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/383f13f52c2d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump says Democrats have healthcare points",
+     "text": "Trump tells Europe to defund Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FBI crime database reportedly hacked",
+     "text": "ICE immigration arrests",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "loadingartist",
      "author": "Comic Strips",
      "url": "https://lemmy.world/post/54709625",
-     "likes": 34,
+     "likes": 55,
      "image": "https://lemmy.world/pictrs/image/9a606c3e-86bf-4ed2-be15-cd76d96b760c.jpeg"
     },
     {
@@ -291,37 +291,33 @@
      "text": "Noise cancelling",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54709498",
-     "likes": 32,
+     "likes": 59,
      "image": "https://lemmy.world/pictrs/image/5403e658-4a6d-40a2-9d39-dcb80a15be4d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Sambal makes everything taste better",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.today/post/63682475",
-     "likes": 24,
-     "image": "https://lemmy.world/pictrs/image/e0ba0a9d-af01-4d00-9d5a-fd73cc96cc03.jpeg"
+     "text": "Corrupt Politicians",
+     "author": "Political Memes",
+     "url": "https://sh.itjust.works/post/70301263",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/e1d73371-655e-4b07-8c95-fce17f00f01d.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "When you thought the soap dispenser in the vet's office was your auto-feeder",
+     "text": "Tipping is getting out of control",
      "author": "Catposting",
-     "url": "https://lemmy.blahaj.zone/post/50790202",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/c578402f-a8cd-4563-afeb-f0d0a1447777.webp"
+     "url": "https://lemmy.blahaj.zone/post/50791412",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/0dd2a6b9-7420-48d6-a860-517f0c45187e.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T09:53:40.438269+00:00",
+   "fetched_at": "2026-11-22T10:23:46.529590+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How many bones are in the human hand? A handful of them.",
      "source": "Dad joke"
     },
     {
-     "text": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
+     "text": "It's only a murder of crows if there's probable caws.",
      "source": "Dad joke"
     },
     {
-     "text": "Do I enjoy making courthouse puns? Guilty",
+     "text": "What did the dog say to the two trees? Bark bark.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
