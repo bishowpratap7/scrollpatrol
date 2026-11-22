@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:23:11.050966+00:00",
+ "generated_at": "2026-11-22T08:53:16.858037+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T08:23:07.375394+00:00",
+   "fetched_at": "2026-11-22T08:53:13.208278+00:00",
    "stale": false,
    "items": [
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2171,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 597,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,39 +107,32 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 138,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 338,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 606,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 34,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2143,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 546,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 609,
+     "title": "studyingFor2026USJobMarketLike",
+     "image": "https://i.redd.it/eeuhc8md613i1.png",
+     "url": "https://redd.it/1y27ju7",
+     "ups": 144,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "And everyone believes it",
-     "image": "https://i.redd.it/83kiy2cdo03i1.png",
-     "url": "https://redd.it/1y259k1",
-     "ups": 548,
-     "sub": "r/memes"
     },
     {
      "title": "This will make a fine addition to my collection",
@@ -149,24 +142,24 @@
      "sub": "r/memes"
     },
     {
-     "title": "Two memes, 1'm Stoned",
-     "image": "https://i.redd.it/vd7mmedae33i1.png",
-     "url": "https://redd.it/1y2gied",
-     "ups": 11,
+     "title": "This can\u2019t be happening again",
+     "image": "https://i.redd.it/4orgko3p0w2i1.gif",
+     "url": "https://redd.it/1y1n8m6",
+     "ups": 172,
      "sub": "r/memes"
     },
     {
-     "title": "Buying a used device be like",
-     "image": "https://i.redd.it/tpce0aex333i1.png",
-     "url": "https://redd.it/1y2fgki",
-     "ups": 21,
+     "title": "Why it there already",
+     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
+     "url": "https://redd.it/1y2h0u1",
+     "ups": 29,
      "sub": "r/memes"
     },
     {
-     "title": "A good one? No, a very good one.",
-     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
-     "url": "https://redd.it/1y1cuq5",
-     "ups": 1632,
+     "title": "Chaos and DND",
+     "image": "https://i.redd.it/ok5wukbso23i1.png",
+     "url": "https://redd.it/1y2duam",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
@@ -175,11 +168,18 @@
      "url": "https://redd.it/1y2ioc1",
      "ups": 8,
      "sub": "r/memes"
+    },
+    {
+     "title": "He's done with it all",
+     "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
+     "url": "https://redd.it/1y0z49k",
+     "ups": 5579,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T08:23:09.802371+00:00",
+   "fetched_at": "2026-11-22T08:53:15.580446+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Change one letter, ruin a movie",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "UK, EU seal reset deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping hits theaters",
+     "text": "Boreen daily trivia game",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia game",
+     "text": "UK, EU seal reset deal",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/def246ceebd1",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +232,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Claude AI coding tools",
+     "text": "Nvidia China chip case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
+     "text": "Riemann hypothesis proof claimed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Transgender Day of Remembrance",
+     "text": "Wave of software vulnerability disclosures",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fbb2cfbcb59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unusually warm late November weather",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +272,34 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump tells Europe to defund Ukraine",
+     "text": "Bolsonaro hospitalized again",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4092018cfc4a",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Using AI in a code base is Walmartification",
+     "author": "Showerthoughts",
+     "url": "https://lemmy.zip/post/75454429",
+     "likes": 15,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Well what can i say",
+     "author": "196",
+     "url": "https://nord.pub/c/onehundredninetysix@lemmy.blahaj.zone/p/566318/well-what-can-i-say",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/685f45bd-27fe-48ef-be9f-138221c50146.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "It\u2019s not a bug, it\u2019s a feature",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63679546",
-     "likes": 32,
+     "likes": 47,
      "image": "https://lemmy.world/pictrs/image/d4183c33-0d5d-47c5-baf3-551b7a37dca5.jpeg"
     },
     {
@@ -291,65 +307,49 @@
      "text": "Meta's Muse AI Accessed Signal Messages in Tests, Sent Employees Unexplained Bank Balances, Investigation Finds",
      "author": "Privacy",
      "url": "https://lemmy.world/post/54706339",
-     "likes": 15,
+     "likes": 29,
      "image": "https://lemmy.world/pictrs/image/c729a1a0-04f6-4a94-a934-6fb9daf98fe7.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The Voice of Space by Ren\u00e9 Magritte (1931)",
-     "author": "Traditional Art",
-     "url": "https://lemmy.world/post/54706026",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/585df521-06de-4a23-9df3-157311b6b263.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Everything Is Falling Apart, and AI's Fingerprints Are All Over It",
-     "author": "Fuck AI",
-     "url": "https://discuss.tchncs.de/post/71260957",
-     "likes": 56,
-     "image": "https://lemmy.world/pictrs/image/41ee6296-ada2-4d5f-bd88-8880b36f5ff1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T08:23:10.680888+00:00",
+   "fetched_at": "2026-11-22T08:53:16.472686+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
     {
      "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I don\u2019t play soccer because I enjoy the sport. I\u2019m just doing it for kicks.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What cheese can never be yours? Nacho cheese.",
      "source": "Dad joke"
     },
     {
-     "text": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.",
+     "text": "Did you know that protons have mass? I didn't even know they were catholic.",
      "source": "Dad joke"
     },
     {
-     "text": "What happens when you anger a brain surgeon? They will give you a piece of your mind.",
+     "text": "\"What time is it?\" I don't know... it keeps changing.",
      "source": "Dad joke"
     }
    ]
