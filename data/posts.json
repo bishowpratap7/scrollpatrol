@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:22:34.025863+00:00",
+ "generated_at": "2026-11-22T05:52:39.972403+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T05:22:30.495705+00:00",
+   "fetched_at": "2026-11-22T05:52:36.306599+00:00",
    "stale": false,
    "items": [
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 38,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2144,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "chaoticEvil",
-     "image": "https://i.redd.it/7rski0ubn61i1.png",
-     "url": "https://redd.it/1xucmuw",
-     "ups": 2173,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 55,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1742,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 423,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 311,
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 166,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 2671,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 441,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iNeverKnowWhichIsWhichWhenResolvingConflicts",
-     "image": "https://i.redd.it/0kw9x30oo71i1.png",
-     "url": "https://redd.it/1xuhxgr",
-     "ups": 959,
+     "title": "agedLikeMilk",
+     "image": "https://i.redd.it/ajtbyxzelb1i1.png",
+     "url": "https://redd.it/1xv0311",
+     "ups": 387,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "This will make a fine addition to my collection",
+     "image": "https://i.redd.it/futn7narh13i1.png",
+     "url": "https://redd.it/1y29031",
+     "ups": 5,
+     "sub": "r/memes"
     },
     {
      "title": "He's done with it all",
      "image": "https://i.redd.it/6ilqbwcrkq2i1.gif",
      "url": "https://redd.it/1y0z49k",
      "ups": 5550,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Buying a used device be like",
-     "image": "https://i.redd.it/tpce0aex333i1.png",
-     "url": "https://redd.it/1y2fgki",
-     "ups": 5,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Video games cause violence? Nope. They taught me economics",
-     "image": "https://i.redd.it/rquz3pti923i1.png",
-     "url": "https://redd.it/1y2c650",
-     "ups": 65,
-     "sub": "r/memes"
-    },
-    {
-     "title": "if you know, you know",
-     "image": "https://i.redd.it/9pjojubhbz2i1.png",
-     "url": "https://redd.it/1y1yu8h",
-     "ups": 6,
      "sub": "r/memes"
     },
     {
@@ -170,16 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "A good one? No, a very good one.",
-     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
-     "url": "https://redd.it/1y1cuq5",
-     "ups": 1618,
+     "title": "I just wanted to pet the kitty! T.T",
+     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
+     "url": "https://redd.it/1y24fiw",
+     "ups": 21,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 5,
+     "sub": "r/memes"
+    },
+    {
+     "title": "History shows Sonic fans can go pretty far",
+     "image": "https://i.redd.it/v7a421bjg03i1.png",
+     "url": "https://redd.it/1y2481q",
+     "ups": 2636,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T05:22:32.966435+00:00",
+   "fetched_at": "2026-11-22T05:52:38.749908+00:00",
    "stale": false,
    "items": [
     {
@@ -187,78 +187,6 @@
      "text": "Change one letter, ruin a movie",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump says Democrats have healthcare points",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russia's war in Ukraine",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e54d320a7c8",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia China chip case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Report alleges Huang humiliated employees",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d1de6ed2d7e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping hits theaters",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Claude AI coding tools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +200,106 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Data center ballot measures",
+     "text": "Russia's war in Ukraine",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8e54d320a7c8",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AI patching likely behind outages",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unusually warm late November weather",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving pie rankings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Sam Kinison AI avatar deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48f887552153",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AEW Collision in Green Bay",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/119816c4c072",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Record rain floods Florida coast",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f803629a06f8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Earthquake felt in Los Angeles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/248c58b0b6e8",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Stancil calls 'Zionist' insult bigoted",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/da97f9376264",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump says Democrats have healthcare points",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+     "author": "blueteamsec",
+     "url": "https://infosec.pub/post/55219734",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/c7ccae61-c1d4-4c33-b03e-d3bd18903cf9.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Best thing about it",
+     "author": "aww",
+     "url": "https://piefed.blahaj.zone/c/aww@lemmy.world/p/1084792/best-thing-about-it",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/86f5709e-b1d8-4da2-b829-03617ad9a9f3.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "what stretchy skin rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50785041",
-     "likes": 9,
+     "likes": 21,
      "image": "https://lemmy.world/pictrs/image/daf968ae-f0f6-4453-b5a2-b66778e4e54b.webp"
     },
     {
@@ -291,41 +307,21 @@
      "text": "tight schedule rule",
      "author": "196",
      "url": "https://lemmy.world/post/54702601",
-     "likes": 37,
+     "likes": 57,
      "image": "https://lemmy.world/pictrs/image/63c6e7c2-3565-423a-b5ad-b9f82ac19b73.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-     "author": "blueteamsec",
-     "url": "https://infosec.pub/post/55219734",
-     "likes": 6,
-     "image": "https://lemmy.world/pictrs/image/c7ccae61-c1d4-4c33-b03e-d3bd18903cf9.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Jerry",
-     "author": "Weirdcore",
-     "url": "https://piefed.social/c/weirdcore@sopuli.xyz/p/2628683/jerry",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/9c49108f-fa7b-413c-99ec-6e3de0ef0d58.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T05:22:33.642619+00:00",
+   "fetched_at": "2026-11-22T05:52:39.576119+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
     {
      "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you get when you cross a snowman with a vampire? Frostbite.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Why do seagulls fly over the ocean?\" \"Because if they flew over the bay, we'd call them bagels.\"",
      "source": "Dad joke"
     },
     {
-     "text": "I was just looking at my ceiling. Not sure if it\u2019s the best ceiling in the world, but it\u2019s definitely up there.",
+     "text": "Why did the miner get fired from his job? He took it for granite...",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of bagel can fly? A plain bagel.",
+     "text": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
      "source": "Dad joke"
     }
    ]
