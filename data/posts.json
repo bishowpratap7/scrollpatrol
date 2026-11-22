@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:54:42.646449+00:00",
+ "generated_at": "2026-11-22T14:54:57.190728+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T14:54:39.358955+00:00",
+   "fetched_at": "2026-11-22T14:54:53.349921+00:00",
    "stale": false,
    "items": [
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 615,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 2886,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
      "ups": 37,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 815,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3355,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2159,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,17 +114,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 124,
-     "sub": "r/memes"
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4205,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I just wanted to pet the kitty! T.T",
-     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
-     "url": "https://redd.it/1y24fiw",
-     "ups": 25,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 218,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 83,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
+     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
+     "url": "https://redd.it/1y2k2ym",
+     "ups": 41,
      "sub": "r/memes"
     },
     {
@@ -156,10 +149,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "Two memes, 1'm Stoned",
-     "image": "https://i.redd.it/vd7mmedae33i1.png",
-     "url": "https://redd.it/1y2gied",
-     "ups": 15,
+     "title": "Also I eat less in the game",
+     "image": "https://i.redd.it/vjk4iodh833i1.png",
+     "url": "https://redd.it/1y2fy8a",
+     "ups": 4377,
      "sub": "r/memes"
     },
     {
@@ -170,16 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "spiderman can't count to 8",
-     "image": "https://i.redd.it/vr0y20nyb13i1.png",
-     "url": "https://redd.it/1y288lp",
-     "ups": 538,
+     "title": "Seems Sony won this battle",
+     "image": "https://i.redd.it/h498kx8t023i1.png",
+     "url": "https://redd.it/1y2b5n1",
+     "ups": 4916,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Chaos and DND",
+     "image": "https://i.redd.it/ok5wukbso23i1.png",
+     "url": "https://redd.it/1y2duam",
+     "ups": 4,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T14:54:40.881912+00:00",
+   "fetched_at": "2026-11-22T14:54:56.005114+00:00",
    "stale": false,
    "items": [
     {
@@ -313,19 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T14:54:41.576948+00:00",
+   "fetched_at": "2026-11-22T14:54:56.568338+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
     {
      "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "When does a joke become a dad joke? When it becomes apparent.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do you call an old snowman? Water.",
      "source": "Dad joke"
     },
     {
-     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
+     "text": "I went to a Foo Fighters Concert once... It was Everlong...",
      "source": "Dad joke"
     },
     {
-     "text": "How do you make holy water? You boil the hell out of it.",
+     "text": "Why don't sharks eat clowns?  Because they taste funny.",
      "source": "Dad joke"
     }
    ]
