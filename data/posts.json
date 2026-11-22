@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:24:36.569598+00:00",
+ "generated_at": "2026-11-22T14:54:42.646449+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,50 +89,78 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T14:24:33.306888+00:00",
+   "fetched_at": "2026-11-22T14:54:39.358955+00:00",
    "stale": false,
    "items": [
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1411,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 615,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 310,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 37,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4205,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 815,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 607,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3355,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4086,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2159,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenYouGoogleRecursionItSuggestsYouToGoogleRecursion",
-     "image": "https://i.redd.it/5deu3zterr2i1.png",
-     "url": "https://redd.it/1y13imc",
-     "ups": 3834,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 288,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Capcom: Does nothing. Wins.",
+     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
+     "url": "https://redd.it/1y2138w",
+     "ups": 124,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I just wanted to pet the kitty! T.T",
+     "image": "https://i.redd.it/l0hlrgp3i03i1.gif",
+     "url": "https://redd.it/1y24fiw",
+     "ups": 25,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Cries in post-graduation (OC)",
+     "image": "https://i.redd.it/e7eb3g0i043i1.gif",
+     "url": "https://redd.it/1y2ioc1",
+     "ups": 27,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Two memes, 1'm Stoned",
+     "image": "https://i.redd.it/vd7mmedae33i1.png",
+     "url": "https://redd.it/1y2gied",
+     "ups": 15,
+     "sub": "r/memes"
     },
     {
      "title": "Why it there already",
@@ -142,59 +170,31 @@
      "sub": "r/memes"
     },
     {
-     "title": "Buying a used device be like",
-     "image": "https://i.redd.it/tpce0aex333i1.png",
-     "url": "https://redd.it/1y2fgki",
-     "ups": 24,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I work best under pressure (apparently) \ud83d\udc80",
-     "image": "https://i.redd.it/uu6vn80aq53i1.png",
-     "url": "https://redd.it/1y2o6bw",
-     "ups": 7,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 6971,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A good one? No, a very good one.",
-     "image": "https://i.redd.it/h2cj5b5omt2i1.png",
-     "url": "https://redd.it/1y1cuq5",
-     "ups": 1653,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Grand Theft Buddha",
-     "image": "https://i.redd.it/ene5fhqal53i1.png",
-     "url": "https://redd.it/1y2nol0",
-     "ups": 135,
+     "title": "spiderman can't count to 8",
+     "image": "https://i.redd.it/vr0y20nyb13i1.png",
+     "url": "https://redd.it/1y288lp",
+     "ups": 538,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T14:24:35.285799+00:00",
+   "fetched_at": "2026-11-22T14:54:40.881912+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "COP31 draft drops fossil fuels",
+     "text": "Carney says Canada is busy without U.S. deal",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
+     "text": "COP31 draft drops fossil fuels",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -216,41 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving pie rankings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Claude AI coding tools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
@@ -264,64 +232,104 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE immigration arrests",
+     "text": "AEW Collision in Green Bay",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/119816c4c072",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Theresa May urges accepting Brexit",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unusually warm late November weather",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Wave of software vulnerability disclosures",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russian warship explodes in Libya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army canceled chemical treatment contract",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Fear is the mind killer",
+     "text": "You do",
+     "author": "Wholesome",
+     "url": "https://piefed.blahaj.zone/c/wholesome@reddthat.com/p/1084798/you-do",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/9c135ef5-433c-4bc8-a810-50f654acb313.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Made to Last [FlorkOfCows]",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54718577",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/d0cd1d6d-1eb1-42b3-ab9b-47d5ec822793.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Death by jamaharon",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://piefed.world/c/tenforward/p/1549413/fear-is-the-mind-killer",
+     "url": "https://lemmy.zip/post/75468139",
      "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/95cacd21-5452-4fe5-9929-df1950a54257.jpeg"
+     "image": "https://lemmy.zip/pictrs/image/60d12ba0-d226-4390-ab18-a5dff287cb72.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Mind blowing",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/77034952",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/e6a4ddba-d710-4cc8-9af4-86bdf5ae1d3a.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I'm down with this",
-     "author": "Witchy Memes",
-     "url": "https://reddthat.com/post/77034799",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/0a27cc44-3423-4ae5-a27a-e3f48768738f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Who is in your family?",
-     "author": "WomensStuff",
-     "url": "https://reddthat.com/post/77034528",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/fe511c69-07bc-408f-a9b4-68ef8aee86ce.jpeg"
+     "text": "It does make one wonder don't it now...",
+     "author": "memes",
+     "url": "https://lemmy.ca/post/74210276",
+     "likes": 30,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T14:24:35.797092+00:00",
+   "fetched_at": "2026-11-22T14:54:41.576948+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why don't eggs tell jokes? They'd crack each other up",
+     "text": "When does a joke become a dad joke? When it becomes apparent.",
      "source": "Dad joke"
     },
     {
-     "text": "Parallel lines have so much in common. It\u2019s a shame they\u2019ll never meet.",
+     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer",
+     "text": "How do you make holy water? You boil the hell out of it.",
      "source": "Dad joke"
     }
    ]
