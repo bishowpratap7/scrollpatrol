@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:25:56.458839+00:00",
+ "generated_at": "2026-11-22T19:56:02.915681+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T19:25:52.502649+00:00",
+   "fetched_at": "2026-11-22T19:55:59.130026+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 2984,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 919,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "studyingFor2026USJobMarketLike",
-     "image": "https://i.redd.it/eeuhc8md613i1.png",
-     "url": "https://redd.it/1y27ju7",
-     "ups": 206,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 309,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 225,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 36,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 158,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,45 +135,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 919,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 136,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "AI helped plumbers and electricians?",
-     "image": "https://i.redd.it/ix486yrn863i1.png",
-     "url": "https://redd.it/1y2q64h",
-     "ups": 158,
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 574,
      "sub": "r/memes"
     },
     {
-     "title": "\"We can get through this!\" No.",
-     "image": "https://i.redd.it/e4lg195te13i1.gif",
-     "url": "https://redd.it/1y28l1w",
-     "ups": 13193,
+     "title": "how much are they getting paid",
+     "image": "https://i.redd.it/bpa6t4dyz13i1.png",
+     "url": "https://redd.it/1y2b2l8",
+     "ups": 117,
      "sub": "r/memes"
     },
     {
-     "title": "Newest scientifically accurate diagram of a baby hippo created by biologists!",
-     "image": "https://i.redd.it/2owy3p2d063i1.png",
-     "url": "https://redd.it/1y2p8lj",
-     "ups": 13,
+     "title": "Two memes, 1'm Stoned",
+     "image": "https://i.redd.it/vd7mmedae33i1.png",
+     "url": "https://redd.it/1y2gied",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 5560,
+     "title": "Why it there already",
+     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
+     "url": "https://redd.it/1y2h0u1",
+     "ups": 43,
      "sub": "r/memes"
     },
     {
@@ -170,18 +170,26 @@
      "sub": "r/memes"
     },
     {
-     "title": "Buying a used device be like",
-     "image": "https://i.redd.it/tpce0aex333i1.png",
-     "url": "https://redd.it/1y2fgki",
-     "ups": 26,
+     "title": "AI helped plumbers and electricians?",
+     "image": "https://i.redd.it/ix486yrn863i1.png",
+     "url": "https://redd.it/1y2q64h",
+     "ups": 158,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T19:25:55.236060+00:00",
+   "fetched_at": "2026-11-22T19:56:01.335236+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Virginia Foxx House race",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Change one letter, ruin a movie",
@@ -192,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE immigration arrests",
+     "text": "Carney jokes at Press Gallery dinner",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Virginia Foxx House race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Delta system outage delays flights",
+     "text": "Frivolous billionaire spending wishes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "ESPN analyst Tom Jackson dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0df89d5bec",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AEW Collision in Green Bay",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/119816c4c072",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Delta system outage delays flights",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "EU rejects COP31 climate deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
      "likes": 0,
      "image": ""
     },
@@ -271,69 +279,49 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "\ud83d\ude10\ud83d\ude10\ud83d\ude10",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54727784",
-     "likes": 27,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/ca10ecd5-9b29-459b-8217-edd2f827be64.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I put a bed inside a box so he would actually use the damn thing",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54727963",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/a2c7719b-7e8f-40ee-9bfb-6193f71c8215.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Home office cuddles",
      "author": "cats",
      "url": "https://lemmy.zip/post/75482236",
-     "likes": 15,
-     "image": "https://lemmy.zip/pictrs/image/09a3b561-1678-4cb2-a459-9a950df2d99a.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The marina security team sees all!",
-     "author": "cats",
-     "url": "https://lemmy.ca/post/74220406",
      "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/73ecbd0f-781b-47bb-bb77-e1143d84b566.jpeg"
+     "image": "https://lemmy.zip/pictrs/image/09a3b561-1678-4cb2-a459-9a950df2d99a.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "[OC] Wulfenite",
      "author": "Cool Rocks",
      "url": "https://lemmy.world/post/54727938",
-     "likes": 12,
+     "likes": 30,
      "image": "https://lemmy.world/pictrs/image/2e3e6370-2e9e-4feb-90ec-4196cfe651b3.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T19:25:55.855643+00:00",
+   "fetched_at": "2026-11-22T19:56:01.972017+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
      "text": "How do you organize a space party? You planet.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do bears have hairy coats? Fur protection.",
+     "text": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
+     "text": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
      "source": "Dad joke"
     }
    ]
