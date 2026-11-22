@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:26:46.168815+00:00",
+ "generated_at": "2026-11-22T22:56:51.501295+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T22:26:43.024797+00:00",
+   "fetched_at": "2026-11-22T22:56:48.607380+00:00",
    "stale": false,
    "items": [
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3133,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1560,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 305,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 440,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 38,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 225,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,25 +128,18 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "studyingFor2026USJobMarketLike",
-     "image": "https://i.redd.it/eeuhc8md613i1.png",
-     "url": "https://redd.it/1y27ju7",
-     "ups": 211,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 461,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 592,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2180,
-     "sub": "r/ProgrammerHumor"
+     "title": "Why it there already",
+     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
+     "url": "https://redd.it/1y2h0u1",
+     "ups": 46,
+     "sub": "r/memes"
     },
     {
      "title": "how much are they getting paid",
@@ -142,67 +149,60 @@
      "sub": "r/memes"
     },
     {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 6135,
+     "title": "Your entire day is now controlled by a delivery driver",
+     "image": "https://i.redd.it/mgt1e2nji83i1.png",
+     "url": "https://redd.it/1y30w2i",
+     "ups": 7,
      "sub": "r/memes"
     },
     {
-     "title": "Video games cause violence? Nope. They taught me economics",
-     "image": "https://i.redd.it/rquz3pti923i1.png",
-     "url": "https://redd.it/1y2c650",
-     "ups": 90,
+     "title": "Every single time at work",
+     "image": "https://i.redd.it/9ebyvww9f83i1.png",
+     "url": "https://redd.it/1y30h33",
+     "ups": 8,
      "sub": "r/memes"
     },
     {
-     "title": "Buying a used device be like",
-     "image": "https://i.redd.it/tpce0aex333i1.png",
-     "url": "https://redd.it/1y2fgki",
-     "ups": 29,
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 715,
      "sub": "r/memes"
     },
     {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 7236,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Maybe they are just bored",
-     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
-     "url": "https://redd.it/1y2t87a",
-     "ups": 69,
+     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
+     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
+     "url": "https://redd.it/1y2k2ym",
+     "ups": 54,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T22:26:44.949913+00:00",
+   "fetched_at": "2026-11-22T22:56:50.563230+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Molly Meldrum dies at 83",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70d65ee9ee85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Liquid Death soda-scented flushable wipes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a479878b0cb",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Tarik Skubal signs with Mets",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f3cdc55ee0bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Army canceled chemical treatment contract",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Carney jokes at Press Gallery dinner",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Delta system outage delays flights",
+     "text": "Army canceled chemical treatment contract",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Frivolous billionaire spending wishes",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
+     "text": "Over-the-top anime robot transformation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ac5eda229654",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping hits theaters",
+     "text": "ESPN analyst Tom Jackson dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0df89d5bec",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
+     "text": "Frivolous billionaire spending wishes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
      "likes": 0,
      "image": ""
     },
@@ -280,60 +280,48 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "me\ud83c\udf6airl",
-     "author": "me_irl",
-     "url": "https://lemmy.zip/post/75491338",
-     "likes": 18,
-     "image": "https://lemmy.zip/pictrs/image/2e095d1f-90ce-473c-8594-5a47fa211fc6.avif"
+     "text": "Dirty Talk",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70331436",
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/c946725d-1f51-4bc2-9531-e8a365b961dd.png"
     },
     {
      "kind": "Lemmy post",
      "text": "I am so smart! S-M-R-T!",
      "author": "Engineering Memes",
      "url": "https://lemmy.zip/post/75491346",
-     "likes": 18,
+     "likes": 62,
      "image": "https://lemmy.zip/pictrs/image/9540e1a3-7a5d-4824-854d-e9b8d693a68c.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Chat, is this true?",
-     "author": "Dogs",
-     "url": "https://lemmy.dbzer0.com/post/78815275",
-     "likes": 111,
-     "image": "https://lemmy.world/pictrs/image/6e93c109-784b-4dfd-ae88-e13ece5071fc.webp"
+     "text": "These people are sick",
+     "author": "Whatever",
+     "url": "https://quokk.au/c/whatever/p/1353466/these-people-are-sick",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/76751cd8-ab57-4e95-acd6-466515f23df7.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Do not Toot it!",
-     "author": "Antique Memes Roadshow",
-     "url": "https://lemmy.world/post/54732872",
-     "likes": 77,
-     "image": "https://lemmy.world/pictrs/image/333668eb-feb3-4ffe-9f9c-4d2c544b46a4.jpeg"
+     "text": "She sat alone in a boggy marsh...",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70331048",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/0c64c168-96f6-4bf6-8b47-c5ea4b4aeb22.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T22:26:45.483405+00:00",
+   "fetched_at": "2026-11-22T22:56:50.917072+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
@@ -341,11 +329,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "This is my step ladder. I never knew my real ladder.",
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do you call a fish wearing a bowtie? Sofishticated.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a bee that lives in America? A USB.",
+     "text": "Did you hear that David lost his ID in prague? Now we just have to call him Dav.",
      "source": "Dad joke"
     },
     {
