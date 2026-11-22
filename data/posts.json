@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:26:57.465501+00:00",
+ "generated_at": "2026-11-22T23:57:02.476478+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,139 +89,99 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T23:26:54.205168+00:00",
+   "fetched_at": "2026-11-22T23:57:00.075442+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3061,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 7009,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3389,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 40,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 599,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 634,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 18,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1561,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 2177,
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 184,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 922,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Capcom: Does nothing. Wins.",
+     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
+     "url": "https://redd.it/1y2138w",
+     "ups": 225,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 31,
+     "sub": "r/memes"
     },
     {
      "title": "\"We can get through this!\" No.",
      "image": "https://i.redd.it/e4lg195te13i1.gif",
      "url": "https://redd.it/1y28l1w",
-     "ups": 13828,
+     "ups": 14083,
      "sub": "r/memes"
     },
     {
      "title": "how much are they getting paid",
      "image": "https://i.redd.it/bpa6t4dyz13i1.png",
      "url": "https://redd.it/1y2b2l8",
-     "ups": 134,
+     "ups": 127,
+     "sub": "r/memes"
+    },
+    {
+     "title": "First day of an internship is always tough",
+     "image": "https://i.redd.it/0tjjqq4m193i1.png",
+     "url": "https://redd.it/1y338ec",
+     "ups": 22,
      "sub": "r/memes"
     },
     {
      "title": "AI helped plumbers and electricians?",
      "image": "https://i.redd.it/ix486yrn863i1.png",
      "url": "https://redd.it/1y2q64h",
-     "ups": 936,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Two memes, 1'm Stoned",
-     "image": "https://i.redd.it/vd7mmedae33i1.png",
-     "url": "https://redd.it/1y2gied",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 7236,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Newest scientifically accurate diagram of a baby hippo created by biologists!",
-     "image": "https://i.redd.it/2owy3p2d063i1.png",
-     "url": "https://redd.it/1y2p8lj",
-     "ups": 15,
+     "ups": 1148,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T23:26:56.071752+00:00",
+   "fetched_at": "2026-11-22T23:57:01.465238+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Change one letter, ruin a movie",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tarik Skubal signs with Mets",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f3cdc55ee0bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Army canceled chemical treatment contract",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Virginia Foxx House race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Liquid Death soda-scented flushable wipes",
@@ -232,33 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Molly Meldrum dies at 83",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70d65ee9ee85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "UK article on \"woke\" sandwich fillings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89180b24590d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Delta system outage delays flights",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Frivolous billionaire spending wishes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
@@ -272,18 +208,98 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
+     "text": "Change one letter, ruin a movie",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army canceled chemical treatment contract",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tarik Skubal signs with Mets",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f3cdc55ee0bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Molly Meldrum dies at 83",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70d65ee9ee85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Over-the-top anime robot transformation",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ac5eda229654",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK article on \"woke\" sandwich fillings",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89180b24590d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving dinner preparations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Van Hollen challenges Schumer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Virginia Foxx House race",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Trump hints Abdul El-Sayed\u2019s stroking-his-ego strategy may be working with \u2018Medicare for all\u2019 message",
+     "author": "News",
+     "url": "https://lemmy.world/post/54735624",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/1d6807b5-e6a2-4f33-b053-e1c768f4a02d.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Turding Point",
+     "author": "Whatever",
+     "url": "https://quokk.au/c/whatever/p/1353625/turding-point",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/7a1b9400-a92d-47ba-a409-8d08131db7aa.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "Who is in your family?",
      "author": "childfree",
      "url": "https://lemmy.world/post/54735293",
-     "likes": 31,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/8b12b14f-e9d7-4c37-a3df-84c015ad1029.jpeg"
     },
     {
@@ -291,65 +307,49 @@
      "text": "Dirty Talk",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70331436",
-     "likes": 85,
+     "likes": 127,
      "image": "https://lemmy.world/pictrs/image/c946725d-1f51-4bc2-9531-e8a365b961dd.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Trump hints Abdul El-Sayed\u2019s stroking-his-ego strategy may be working with \u2018Medicare for all\u2019 message",
-     "author": "News",
-     "url": "https://lemmy.world/post/54735624",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/1d6807b5-e6a2-4f33-b053-e1c768f4a02d.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "This teacher is correct",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54734478",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/30f3e9f8-bedf-48f7-8d6e-1584747b8a6b.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T23:26:56.835441+00:00",
+   "fetched_at": "2026-11-22T23:57:01.806213+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
+     "text": "Never Trust Someone With Graph Paper...\r\n\r\nThey're always plotting something.",
      "source": "Dad joke"
     },
     {
-     "text": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
+     "text": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
      "source": "Dad joke"
     },
     {
-     "text": "How do hens stay fit? They always egg-cercise!",
+     "text": "Where do cats write notes?\r\nScratch Paper!",
      "source": "Dad joke"
     }
    ]
