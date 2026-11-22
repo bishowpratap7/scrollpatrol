@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:23:47.597463+00:00",
+ "generated_at": "2026-11-22T10:53:53.072062+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-22T10:23:43.881091+00:00",
+   "fetched_at": "2026-11-22T10:53:49.943353+00:00",
    "stale": false,
    "items": [
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2148,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1741,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "studyingFor2026USJobMarketLike",
+     "image": "https://i.redd.it/eeuhc8md613i1.png",
+     "url": "https://redd.it/1y27ju7",
+     "ups": 148,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 35,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 167,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,94 +135,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 918,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 807,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 2717,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4209,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Cries in post-graduation (OC)",
-     "image": "https://i.redd.it/e7eb3g0i043i1.gif",
-     "url": "https://redd.it/1y2ioc1",
-     "ups": 18,
+     "title": "This will make a fine addition to my collection",
+     "image": "https://i.redd.it/futn7narh13i1.png",
+     "url": "https://redd.it/1y29031",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
-     "title": "\"We can get through this!\" No.",
-     "image": "https://i.redd.it/e4lg195te13i1.gif",
-     "url": "https://redd.it/1y28l1w",
-     "ups": 9779,
+     "title": "spiderman can't count to 8",
+     "image": "https://i.redd.it/vr0y20nyb13i1.png",
+     "url": "https://redd.it/1y288lp",
+     "ups": 490,
      "sub": "r/memes"
     },
     {
-     "title": "Things to say to your drug dealer",
-     "image": "https://i.redd.it/si8umfinv23i1.png",
-     "url": "https://redd.it/1y2ekty",
-     "ups": 59,
+     "title": "Supporting the hype from a distance",
+     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
+     "url": "https://redd.it/1y1tq36",
+     "ups": 6723,
      "sub": "r/memes"
     },
     {
-     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
-     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
-     "url": "https://redd.it/1y2k2ym",
-     "ups": 16,
+     "title": "Video games cause violence? Nope. They taught me economics",
+     "image": "https://i.redd.it/rquz3pti923i1.png",
+     "url": "https://redd.it/1y2c650",
+     "ups": 80,
      "sub": "r/memes"
     },
     {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 3830,
+     "title": "Why it there already",
+     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
+     "url": "https://redd.it/1y2h0u1",
+     "ups": 37,
      "sub": "r/memes"
     },
     {
-     "title": "Also I eat less in the game",
-     "image": "https://i.redd.it/vjk4iodh833i1.png",
-     "url": "https://redd.it/1y2fy8a",
-     "ups": 2278,
+     "title": "Two memes, 1'm Stoned",
+     "image": "https://i.redd.it/vd7mmedae33i1.png",
+     "url": "https://redd.it/1y2gied",
+     "ups": 12,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-22T10:23:45.853299+00:00",
+   "fetched_at": "2026-11-22T10:53:51.861444+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Theresa May urges accepting Brexit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "COP31 draft drops fossil fuels",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Theresa May urges accepting Brexit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +208,49 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ferrari's Formula 1 race struggles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/31da950b3805",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unusually warm late November weather",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "GTA VI's Jason and Lucia",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8130317be1ba",
      "likes": 0,
      "image": ""
     },
@@ -224,54 +264,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia China chip case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving pie rankings",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5316d959db9a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Boreen daily trivia game",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e7a4b5561eb",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Claude AI coding tools",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Washington Spirit vs. Kansas City Current",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/383f13f52c2d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump tells Europe to defund Ukraine",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/21afa186e569",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "ICE immigration arrests",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
@@ -279,27 +271,27 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "loadingartist",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54709625",
-     "likes": 55,
-     "image": "https://lemmy.world/pictrs/image/9a606c3e-86bf-4ed2-be15-cd76d96b760c.jpeg"
+     "kind": "Bluesky trend",
+     "text": "Gaza families' donation appeals",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a27ce676985",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Noise cancelling",
+     "text": "Can Someone Explain?",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54709498",
-     "likes": 59,
-     "image": "https://lemmy.world/pictrs/image/5403e658-4a6d-40a2-9d39-dcb80a15be4d.jpeg"
+     "url": "https://lemmy.world/post/54711590",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/6cc64f3c-68f5-45dd-b881-eef601cadf18.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Corrupt Politicians",
      "author": "Political Memes",
      "url": "https://sh.itjust.works/post/70301263",
-     "likes": 13,
+     "likes": 30,
      "image": "https://lemmy.world/pictrs/image/e1d73371-655e-4b07-8c95-fce17f00f01d.jpeg"
     },
     {
@@ -307,21 +299,29 @@
      "text": "Tipping is getting out of control",
      "author": "Catposting",
      "url": "https://lemmy.blahaj.zone/post/50791412",
-     "likes": 8,
+     "likes": 20,
      "image": "https://lemmy.world/pictrs/image/0dd2a6b9-7420-48d6-a860-517f0c45187e.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Inspired by a comment section in another post",
+     "author": "Political Memes",
+     "url": "https://piefed.social/c/politicalmemes@lemmy.world/p/2629232/inspired-by-a-comment-section-in-another-post",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/7471deaf-0dc0-41f4-bf0a-93bc28cc3410.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-22T10:23:46.529590+00:00",
+   "fetched_at": "2026-11-22T10:53:52.342695+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
@@ -329,27 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "How many bones are in the human hand? A handful of them.",
+     "text": "What does a female snake use for support? A co-Bra!",
      "source": "Dad joke"
     },
     {
-     "text": "It's only a murder of crows if there's probable caws.",
+     "text": "I knew i shouldn\u2019t have ate that seafood. Because now i\u2019m feeling a little\u2026 Eel",
      "source": "Dad joke"
     },
     {
-     "text": "What did the dog say to the two trees? Bark bark.",
+     "text": "What did the beaver say to the tree? It's been nice gnawing you.",
      "source": "Dad joke"
     }
    ]
