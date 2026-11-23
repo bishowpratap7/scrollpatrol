@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:32:01.757656+00:00",
+ "generated_at": "2026-11-23T19:02:10.278665+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T18:31:57.229465+00:00",
+   "fetched_at": "2026-11-23T19:02:05.925811+00:00",
    "stale": false,
    "items": [
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 558,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 313,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 18,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,32 +114,32 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4084,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4219,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "leadArtificialIntelligence",
-     "image": "https://i.redd.it/6xunxdq39h1i1.png",
-     "url": "https://redd.it/1xvp93r",
-     "ups": 30,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3408,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 56,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 37,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 638,
-     "sub": "r/ProgrammerHumor"
+     "title": "a long and dark journey",
+     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
+     "url": "https://redd.it/1y3oap2",
+     "ups": 6,
+     "sub": "r/memes"
     },
     {
      "title": "Guess who's back",
@@ -142,44 +149,37 @@
      "sub": "r/memes"
     },
     {
+     "title": "Can't finish a good book this soon",
+     "image": "https://i.redd.it/c22zzhhdzc3i1.png",
+     "url": "https://redd.it/1y3hewh",
+     "ups": 15,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Somehow, Jensen has returned.",
+     "image": "https://i.redd.it/1x3osa1esd3i1.png",
+     "url": "https://redd.it/1y3lama",
+     "ups": 20,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 907,
+     "sub": "r/memes"
+    },
+    {
      "title": "AI helped plumbers and electricians?",
      "image": "https://i.redd.it/ix486yrn863i1.png",
      "url": "https://redd.it/1y2q64h",
      "ups": 1738,
      "sub": "r/memes"
-    },
-    {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 116,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Your entire day is now controlled by a delivery driver",
-     "image": "https://i.redd.it/mgt1e2nji83i1.png",
-     "url": "https://redd.it/1y30w2i",
-     "ups": 483,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 54,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Now everything makes sense",
-     "image": "https://i.redd.it/5oxpylr4pd3i1.png",
-     "url": "https://redd.it/1y3kt32",
-     "ups": 46,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T18:32:00.077510+00:00",
+   "fetched_at": "2026-11-23T19:02:08.762302+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "SEC probes Nvidia accounting",
+     "text": "Trump says he protected Musk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/88e5e6f8a81a",
      "likes": 0,
      "image": ""
     },
@@ -208,33 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "DNC unveils 2028 debate plan",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7666813cd09",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Cyclops in Avengers: Doomsday footage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "NFL Week 11 games",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10bf76088faf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SEC probes Nvidia accounting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pope Leo praises cycling",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb3a56a172fa",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google adds AI across products",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Leak reveals Russian war dead",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3539ccc9f10c",
      "likes": 0,
      "image": ""
     },
@@ -271,69 +279,57 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Theresa May urges accepting Brexit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Oligarchy",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.nz/post/44122123",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/c23cc2a5-20d1-49e8-9a51-b3acf3aa2d31.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Alternative Facts",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70369690",
-     "likes": 31,
+     "likes": 78,
      "image": "https://lemmy.world/pictrs/image/75914fa2-2424-4500-aa31-58420b6214eb.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "The Truth",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70369212",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/f382f33f-db49-4575-9fb1-d92f9cf6c6d5.jpeg"
+     "text": "Iranian authorities flog singer who performed without hijab, lawyers say",
+     "author": "World News",
+     "url": "https://lemmy.ca/post/74266449",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/e71dee45-7d24-4311-8eaa-723da3ce8728.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "My (25M) galley slaves (23F, 26F, 22M, 28M, 28M) have mutinied",
-     "author": "Memes",
-     "url": "https://toast.ooo/post/17575729",
-     "likes": 108,
-     "image": "https://lemmy.world/pictrs/image/0ce78d1e-b258-4ac3-b465-1732f8112ae0.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Radicalized",
+     "text": "Comfortably Numb",
      "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70369365",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/0e228b7e-9446-45c8-8184-b70dfbd4605b.webp"
+     "url": "https://sh.itjust.works/post/70370307",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/11c701c5-6e5a-4ff4-9b82-7be75021dc10.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T18:32:00.842707+00:00",
+   "fetched_at": "2026-11-23T19:02:09.497991+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "I\u2019ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it\u2019s Hans free.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man walked in to a bar with some asphalt on his arm. He said \u201cTwo beers please, one for me and one for the road.\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "What is the difference between ignorance and apathy?\r\n\r\nI don't know and I don't care.",
+     "text": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
      "source": "Dad joke"
     },
     {
-     "text": "How do the trees get on the internet? They log on.",
+     "text": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
