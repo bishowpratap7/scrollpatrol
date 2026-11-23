@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:02:51.795548+00:00",
+ "generated_at": "2026-11-23T21:32:59.159592+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,84 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T21:02:48.280112+00:00",
+   "fetched_at": "2026-11-23T21:32:54.977261+00:00",
    "stale": false,
    "items": [
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 240,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1577,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 243,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 863,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 37,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3408,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 60,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 563,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 585,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2209,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4080,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 8986,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "What an incredible map, my friends",
-     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
-     "url": "https://redd.it/1y31ghw",
-     "ups": 21929,
+     "title": "Also I eat less in the game",
+     "image": "https://i.redd.it/vjk4iodh833i1.png",
+     "url": "https://redd.it/1y2fy8a",
+     "ups": 7748,
      "sub": "r/memes"
     },
     {
-     "title": "Discussions surrounding this one game...",
-     "image": "https://i.redd.it/1i38kxjc7b3i1.gif",
-     "url": "https://redd.it/1y3binq",
-     "ups": 821,
+     "title": "a long and dark journey",
+     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
+     "url": "https://redd.it/1y3oap2",
+     "ups": 8,
      "sub": "r/memes"
     },
     {
-     "title": "He returns at the turn",
-     "image": "https://i.redd.it/4chm0ub1qd3i1.png",
-     "url": "https://redd.it/1y3kxlw",
-     "ups": 94,
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 328,
      "sub": "r/memes"
     },
     {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
-     "ups": 25,
-     "sub": "r/memes"
-    },
-    {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 146,
+     "title": "Guess who's back",
+     "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
+     "url": "https://redd.it/1y3kve6",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
@@ -175,42 +168,25 @@
      "url": "https://redd.it/1y3ix5y",
      "ups": 66,
      "sub": "r/memes"
+    },
+    {
+     "title": "Logic. Pure market logic.",
+     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
+     "url": "https://redd.it/1y3o6y9",
+     "ups": 9,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T21:02:50.446084+00:00",
+   "fetched_at": "2026-11-23T21:32:57.694350+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Washington girls' sports sex exam law",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Nvidia rehires Huang",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "SEC probes Nvidia accounting",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google plans personalized AI TV channel",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
      "likes": 0,
      "image": ""
     },
@@ -224,9 +200,41 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "SEC probes Nvidia accounting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Washington girls' sports sex exam law",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AI sell-off overshadows Anthropic IPO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google plans personalized AI TV channel",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
      "likes": 0,
      "image": ""
     },
@@ -240,33 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cyclops in Avengers: Doomsday footage",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Doctor Who Day anniversary",
+     "text": "Pope Leo praises cycling",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c448680912",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Favorite first Magic set card",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb3a56a172fa",
      "likes": 0,
      "image": ""
     },
@@ -279,57 +271,61 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "I FINISHED MY MASTER\u2019S THESIS!! \ud83e\udd79\ud83c\udf89",
-     "author": "Trans Joy",
-     "url": "https://lemmy.zip/post/75546033",
-     "likes": 28,
-     "image": "https://lemmy.zip/pictrs/image/d9566b3b-af3b-405a-89f2-06fa5886e299.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Schumer vows to investigate circumstances around Jensen Huang\u2019s reinstatement",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54769517",
-     "likes": 37,
+     "kind": "Bluesky trend",
+     "text": "Ukraine claims Libya warship sinking",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "I love historically accurate video games. Edit: I agree that the editing could have been tighter to make the camera motions more fluid, but it gets the job done I'd say.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54769089",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/9f7fcc40-e9da-4ffb-a393-40554f0dffad.gif"
+     "text": "'This Is What a Rigged System Looks Like,' Says Van Hollen of Huang Reinstatement",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54771137",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/7dce674d-b444-44d6-9798-80a53b6af575.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him: It's metastasizing.",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54768790",
-     "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/0d047434-961c-41e5-84bd-3eaf75b1bad6.jpeg"
+     "text": "I FINISHED MY MASTER\u2019S THESIS!! \ud83e\udd79\ud83c\udf89",
+     "author": "Trans Joy",
+     "url": "https://lemmy.zip/post/75546033",
+     "likes": 68,
+     "image": "https://lemmy.zip/pictrs/image/d9566b3b-af3b-405a-89f2-06fa5886e299.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Small Talk",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70377654",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/083dbf1e-836a-41df-ba78-17ce5ad71e1d.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Cat question",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54770240",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/13ee7ce4-cea6-4235-be61-a2f6178bf883.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T21:02:51.097467+00:00",
+   "fetched_at": "2026-11-23T21:32:58.474203+00:00",
    "stale": false,
    "items": [
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Who did the wizard marry? His ghoul-friend",
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
      "source": "Dad joke"
     },
     {
-     "text": "Where was the Declaration of Independence signed?\r\n\r\nAt the bottom! ",
+     "text": "What did the ocean say to the beach? Thanks for all the sediment.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the drummer name her twin daughters? Anna One, Anna Two...",
+     "text": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
      "source": "Dad joke"
     }
    ]
