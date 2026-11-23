@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:58:56.315574+00:00",
+ "generated_at": "2026-11-23T07:29:01.603813+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T06:58:53.561644+00:00",
+   "fetched_at": "2026-11-23T07:28:58.781956+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3156,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 306,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 17,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 614,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "gta6ExitVI",
-     "image": "https://i.redd.it/ml81obe4883i1.png",
-     "url": "https://redd.it/1y2zkug",
-     "ups": 33,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 36,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5426,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "nowWeGotGtaSixForPlaystationFour",
      "image": "https://i.redd.it/xrt67cpkpa1i1.png",
      "url": "https://redd.it/1xuwq64",
-     "ups": 594,
+     "ups": 593,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Newest scientifically accurate diagram of a baby hippo created by biologists!",
-     "image": "https://i.redd.it/2owy3p2d063i1.png",
-     "url": "https://redd.it/1y2p8lj",
-     "ups": 14,
-     "sub": "r/memes"
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 846,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Every single time at work",
-     "image": "https://i.redd.it/9ebyvww9f83i1.png",
-     "url": "https://redd.it/1y30h33",
-     "ups": 63,
-     "sub": "r/memes"
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I work best under pressure (apparently) \ud83d\udc80",
-     "image": "https://i.redd.it/uu6vn80aq53i1.png",
-     "url": "https://redd.it/1y2o6bw",
-     "ups": 23,
-     "sub": "r/memes"
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4210,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Also I eat less in the game",
-     "image": "https://i.redd.it/vjk4iodh833i1.png",
-     "url": "https://redd.it/1y2fy8a",
-     "ups": 7178,
+     "title": "AI helped plumbers and electricians?",
+     "image": "https://i.redd.it/ix486yrn863i1.png",
+     "url": "https://redd.it/1y2q64h",
+     "ups": 1475,
      "sub": "r/memes"
     },
     {
@@ -170,16 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "My financial decisions need to be studied",
-     "image": "https://i.redd.it/kz8mqdafu93i1.png",
-     "url": "https://redd.it/1y36ijz",
-     "ups": 106,
+     "title": "Every single time at work",
+     "image": "https://i.redd.it/9ebyvww9f83i1.png",
+     "url": "https://redd.it/1y30h33",
+     "ups": 63,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Psychological damage",
+     "image": "https://i.redd.it/zl3tkjpbr93i1.png",
+     "url": "https://redd.it/1y3669u",
+     "ups": 2291,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I work best under pressure (apparently) \ud83d\udc80",
+     "image": "https://i.redd.it/uu6vn80aq53i1.png",
+     "url": "https://redd.it/1y2o6bw",
+     "ups": 23,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 28,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T06:58:55.251676+00:00",
+   "fetched_at": "2026-11-23T07:29:00.442128+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,14 @@
      "text": "Army plans Iowa lead detonation",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Theresa May urges accepting Brexit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
      "likes": 0,
      "image": ""
     },
@@ -208,30 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Molly Meldrum dies at 83",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70d65ee9ee85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Steps to a drunkard's grave meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f0d1fcbb6354",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -248,14 +232,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
@@ -264,101 +240,125 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Theresa May urges accepting Brexit",
+     "text": "Amodei's video games for jobless idea",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/14939c2688bd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Midterm election aftermath for democracy",
+     "text": "Google adds AI across products",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fad3d58b9108",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Claude AI coding tools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russian warship explodes in Libya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "EU rejects COP31 climate deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Shampoo bottle text",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54745723",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/9851a6d0-79c9-46f0-bd2b-2fa461358856.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Ex girlfriend wants another Jan 6th.",
      "author": "InsanePeopleFacebook",
      "url": "https://lemmy.world/post/54745200",
-     "likes": 14,
+     "likes": 37,
      "image": "https://lemmy.world/pictrs/image/9fdf34e8-5193-4f29-a7c9-9965658d8f53.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Daily bunny no.3511's seat has been taken",
-     "author": "Daily Bunnies",
-     "url": "https://lemmy.dbzer0.com/post/78831356",
-     "likes": 7,
-     "image": "https://lemmy.world/pictrs/image/e3c1bb0b-613b-4278-8f80-f197dd3a50dd.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Finally got to see Sandy after I was sick for like 3 weeks",
-     "author": "pics",
-     "url": "https://lemmy.world/post/54743973",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/b0174aa2-5d20-4342-a67c-192aaab98902.jpeg"
+     "text": "boobs",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmus.org/post/27112956",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/4a18357b-8168-4003-9e2e-9cfe01174ed2.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Qld government votes down laws to hold churches legally responsible for child abuse",
      "author": "Brisbane",
      "url": "https://aussie.zone/post/38693956",
-     "likes": 8,
+     "likes": 14,
      "image": "https://lemmy.world/pictrs/image/bb5fdaab-85f6-4c0a-9a59-2268d8e87f77.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T06:58:55.790675+00:00",
+   "fetched_at": "2026-11-23T07:29:01.033871+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Why do crabs never give to charity? Because they\u2019re shellfish.",
+     "text": "What do you call an old snowman? Water.",
      "source": "Dad joke"
     },
     {
-     "text": "What's the worst part about being a cross-eyed teacher?\r\n\r\nThey can't control their pupils.",
+     "text": "What do you call an elephant that doesn\u2019t matter? An irrelephant.",
      "source": "Dad joke"
     },
     {
-     "text": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
+     "text": "There\u2019s a new type of broom out, it\u2019s sweeping the nation.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
