@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:02:23.638034+00:00",
+ "generated_at": "2026-11-23T20:32:29.813947+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T20:02:18.753053+00:00",
+   "fetched_at": "2026-11-23T20:32:26.645461+00:00",
    "stale": false,
    "items": [
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1576,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "letItHuang",
+     "image": "https://i.redd.it/h3l1i3riid3i1.png",
+     "url": "https://redd.it/1y3jv3z",
+     "ups": 5976,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 243,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1758,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 645,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,59 +135,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 607,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 60,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 502,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5515,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Can't finish a good book this soon",
-     "image": "https://i.redd.it/c22zzhhdzc3i1.png",
-     "url": "https://redd.it/1y3hewh",
-     "ups": 17,
+     "title": "Guess what... RTX 6090 just got tested",
+     "image": "https://i.redd.it/aokcsgheoe3i1.png",
+     "url": "https://redd.it/1y3q2v9",
+     "ups": 38,
      "sub": "r/memes"
     },
     {
-     "title": "AI helped plumbers and electricians?",
-     "image": "https://i.redd.it/ix486yrn863i1.png",
-     "url": "https://redd.it/1y2q64h",
-     "ups": 1754,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 66,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Discussions surrounding this one game...",
-     "image": "https://i.redd.it/1i38kxjc7b3i1.gif",
-     "url": "https://redd.it/1y3binq",
-     "ups": 821,
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 21929,
      "sub": "r/memes"
     },
     {
@@ -170,87 +156,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
-     "image": "https://i.redd.it/vt1nyao6he3i1.png",
-     "url": "https://redd.it/1y3oz7d",
-     "ups": 13,
+     "title": "Steve from Gamer Nexus right now.",
+     "image": "https://i.redd.it/3ds7he5y4e3i1.gif",
+     "url": "https://redd.it/1y3n3hj",
+     "ups": 4,
+     "sub": "r/memes"
+    },
+    {
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 146,
+     "sub": "r/memes"
+    },
+    {
+     "title": "First day of an internship is always tough",
+     "image": "https://i.redd.it/0tjjqq4m193i1.png",
+     "url": "https://redd.it/1y338ec",
+     "ups": 905,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T20:02:21.152458+00:00",
+   "fetched_at": "2026-11-23T20:32:28.412649+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Google plans personalized AI TV channel",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Leak reveals Russian war dead",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3539ccc9f10c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Alice Huang espionage allegations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Nvidia rehires Huang",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Weather forecasts include lead plume",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Cyclops in Avengers: Doomsday footage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Doctor Who Day anniversary",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c448680912",
      "likes": 0,
      "image": ""
     },
@@ -264,72 +200,136 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Grand Theft Auto VI release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Theresa May urges accepting Brexit",
+     "text": "Google plans personalized AI TV channel",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump says he protected Musk",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/88e5e6f8a81a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Weather forecasts include lead plume",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Cyclops in Avengers: Doomsday footage",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Alice Huang espionage allegations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Marcus Olang's essay on AI writing",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4571cc4f69f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Schumer vows to back Israel aid",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d06009d512c3",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE arrests at Seattle airport",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I love historically accurate video games. Edit: I agree that the editing could have been tighter to make the camera motions more fluid, but it gets the job done I'd say.",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54769089",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/9f7fcc40-e9da-4ffb-a393-40554f0dffad.gif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him: It's metastasizing.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54768790",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/0d047434-961c-41e5-84bd-3eaf75b1bad6.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up a Bra, Riffing Off 2024 Assassination Attempt on President, After Nvidia Board Reinstates CEO",
      "author": "Technology",
      "url": "https://lemmy.world/post/54767641",
-     "likes": 41,
+     "likes": 77,
      "image": "https://lemmy.world/pictrs/image/d99b9517-bd8b-4830-9381-ff0522f84ead.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "damn",
-     "author": "memes",
-     "url": "https://lemmy.blahaj.zone/post/50851284",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/d07296d9-20e8-461d-add0-646577f3ca07.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "update rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50849777",
-     "likes": 86,
-     "image": "https://lemmy.world/pictrs/image/0532ea46-8697-496b-b5a3-a0213de94785.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Which is it?",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/77104728",
-     "likes": 66,
-     "image": "https://lemmy.world/pictrs/image/b54cd679-feb3-4791-81b5-4ffacb847b07.jpeg"
+     "text": "It's still unclear why he loves putin",
+     "author": "Political Memes",
+     "url": "https://sh.itjust.works/post/70374263",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/689094bb-42a4-4844-8e4d-a95205bc52ab.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T20:02:22.016195+00:00",
+   "fetched_at": "2026-11-23T20:32:29.106449+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
     {
      "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
@@ -337,19 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the m&m go to school? Because it wanted to be a Smartie!",
+     "text": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
      "source": "Dad joke"
     },
     {
-     "text": "What creature is smarter than a talking parrot? A spelling bee.",
+     "text": "What do you call a nervous javelin thrower? Shakespeare.",
      "source": "Dad joke"
     },
     {
-     "text": "It's difficult to say what my wife does, she sells sea shells by the sea shore.",
+     "text": "What do you call a snake who builds houses? A boa constructor!",
      "source": "Dad joke"
     }
    ]
