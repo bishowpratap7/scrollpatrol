@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:03:20.838774+00:00",
+ "generated_at": "2026-11-23T23:33:29.382933+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,23 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T23:03:16.566867+00:00",
+   "fetched_at": "2026-11-23T23:33:25.332833+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1463,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1755,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "letUsPortItToRust",
      "image": "https://i.redd.it/du0cabdm0e2i1.gif",
@@ -100,66 +114,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3408,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 863,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
      "title": "thanksWebSphere",
      "image": "https://i.redd.it/oern6i93ki2i1.png",
      "url": "https://redd.it/1y02ivk",
-     "ups": 463,
+     "ups": 462,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 582,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3405,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 8986,
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 35,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 291,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Also I eat less in the game",
-     "image": "https://i.redd.it/vjk4iodh833i1.png",
-     "url": "https://redd.it/1y2fy8a",
-     "ups": 7785,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
+     "title": "Guess who's back",
+     "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
+     "url": "https://redd.it/1y3kve6",
      "ups": 31,
      "sub": "r/memes"
     },
     {
-     "title": "Discussions surrounding this one game...",
-     "image": "https://i.redd.it/1i38kxjc7b3i1.gif",
-     "url": "https://redd.it/1y3binq",
-     "ups": 855,
+     "title": "Guess what... RTX 6090 just got tested",
+     "image": "https://i.redd.it/aokcsgheoe3i1.png",
+     "url": "https://redd.it/1y3q2v9",
+     "ups": 53,
+     "sub": "r/memes"
+    },
+    {
+     "title": "AI bros right now",
+     "image": "https://i.redd.it/qx8mq45pze3i1.png",
+     "url": "https://redd.it/1y3rt2c",
+     "ups": 25,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I live in the GTA so it's okay",
+     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
+     "url": "https://redd.it/1y3t7up",
+     "ups": 12,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He is inevitable",
+     "image": "https://i.redd.it/aqbtxjmpqd3i1.png",
+     "url": "https://redd.it/1y3l11a",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
@@ -168,25 +175,18 @@
      "url": "https://redd.it/1y3oz7d",
      "ups": 49,
      "sub": "r/memes"
-    },
-    {
-     "title": "Logic. Pure market logic.",
-     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
-     "url": "https://redd.it/1y3o6y9",
-     "ups": 19,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T23:03:19.390726+00:00",
+   "fetched_at": "2026-11-23T23:33:28.084045+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Google plans personalized AI TV channel",
+     "text": "Hegseth's former aide urges resignation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3658934191f1",
      "likes": 0,
      "image": ""
     },
@@ -200,22 +200,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alice Huang espionage allegations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Washington girls' sports sex exam law",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "SEC probes Nvidia accounting",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
@@ -224,9 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Weather forecasts include lead plume",
+     "text": "Google plans personalized AI TV channel",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Alice Huang espionage allegations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +232,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Weather forecasts include lead plume",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Thanksgiving dinner preparations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
@@ -248,80 +248,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Women's World Cup host vote",
+     "text": "Liverpool vs. Manchester United",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d51907d35453",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b51361c46965",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
+     "text": "House Ethics report on Gomez",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c432c6319ea4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Washington girls' sports sex exam law",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "This country really is fucked",
-     "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/70381002",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/a6ddbad8-6428-4bb4-8d13-16545dd69951.jpeg"
+     "text": "Dear Bed [heyokyay]",
+     "author": "Comic Strips",
+     "url": "https://feddit.org/post/38393168",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/ef9db875-8148-42a4-8c53-9824f5f9a1a2.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54773920",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/39881dc5-d6dd-4d87-a94e-b541cfa700a0.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Endangered species",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63768631",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/c4945968-82cc-405b-9fcc-83f3d79ac4c8.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "If only...",
      "author": "Political Memes",
      "url": "https://lemmy.world/post/54773759",
-     "likes": 12,
+     "likes": 37,
      "image": "https://lemmy.world/pictrs/image/fbd0a314-a943-42c7-ba0d-733a5632b254.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "A little bit late, but... \ud83d\ude05 a custom Haunted House build",
-     "author": "LEGO",
-     "url": "https://piefed.social/c/lego@piefed.social/p/2635370/a-little-bit-late-but-a-custom-haunted-house-build",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/a7979188-fda9-4635-91a5-308028123d69.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "A little bit late, but... \ud83d\ude05 a custom Haunted House build",
-     "author": "LEGO",
-     "url": "https://piefed.social/c/lego@lemmy.world/p/2635375/a-little-bit-late-but-a-custom-haunted-house-build",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/2dbf6b4c-d419-4929-8a67-8caa69e44212.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T23:03:20.208830+00:00",
+   "fetched_at": "2026-11-23T23:33:28.782808+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
@@ -329,11 +325,11 @@
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What did the calculator say to the student? You can count on me.",
      "source": "Dad joke"
     },
     {
-     "text": "What time did the man go to the dentist? Tooth hurt-y.",
+     "text": "Where do young cows eat lunch? In the calf-ateria.",
      "source": "Dad joke"
     },
     {
-     "text": "I was just looking at my ceiling. Not sure if it\u2019s the best ceiling in the world, but it\u2019s definitely up there.",
+     "text": "Past, present, and future walked into a bar.... It was tense.",
      "source": "Dad joke"
     }
    ]
