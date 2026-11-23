@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:02:35.781007+00:00",
+ "generated_at": "2026-11-23T21:02:51.795548+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,30 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T21:02:32.437826+00:00",
+   "fetched_at": "2026-11-23T21:02:48.280112+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 931,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 607,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 5346,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "weAllHaveThisAbility",
      "image": "https://i.redd.it/0t8l11pa053i1.png",
@@ -121,24 +100,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 243,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 502,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 37,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "a long and dark journey",
-     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
-     "url": "https://redd.it/1y3oap2",
-     "ups": 8,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 60,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 585,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4080,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 21929,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Discussions surrounding this one game...",
+     "image": "https://i.redd.it/1i38kxjc7b3i1.gif",
+     "url": "https://redd.it/1y3binq",
+     "ups": 821,
      "sub": "r/memes"
     },
     {
@@ -149,37 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "Guess what... RTX 6090 just got tested",
-     "image": "https://i.redd.it/aokcsgheoe3i1.png",
-     "url": "https://redd.it/1y3q2v9",
-     "ups": 38,
+     "title": "Jensen Huang Nov-23rd.",
+     "image": "https://i.redd.it/gapwccf3vd3i1.png",
+     "url": "https://redd.it/1y3lnyb",
+     "ups": 25,
      "sub": "r/memes"
     },
     {
-     "title": "What an incredible map, my friends",
-     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
-     "url": "https://redd.it/1y31ghw",
-     "ups": 21929,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 146,
      "sub": "r/memes"
     },
     {
-     "title": "Now everything makes sense",
-     "image": "https://i.redd.it/5oxpylr4pd3i1.png",
-     "url": "https://redd.it/1y3kt32",
-     "ups": 69,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Can't finish a good book this soon",
-     "image": "https://i.redd.it/c22zzhhdzc3i1.png",
-     "url": "https://redd.it/1y3hewh",
-     "ups": 17,
+     "title": "Back to back long weekends? You shouldn\u2019t have",
+     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
+     "url": "https://redd.it/1y3ix5y",
+     "ups": 66,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T21:02:34.233899+00:00",
+   "fetched_at": "2026-11-23T21:02:50.446084+00:00",
    "stale": false,
    "items": [
     {
@@ -313,27 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T21:02:34.886864+00:00",
+   "fetched_at": "2026-11-23T21:02:51.097467+00:00",
    "stale": false,
    "items": [
     {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
      "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Who did the wizard marry? His ghoul-friend",
      "source": "Dad joke"
     },
     {
-     "text": "What has a bed that you can\u2019t sleep in? A river.",
+     "text": "Where was the Declaration of Independence signed?\r\n\r\nAt the bottom! ",
      "source": "Dad joke"
     },
     {
-     "text": "How many bones are in the human hand? A handful of them.",
+     "text": "What did the drummer name her twin daughters? Anna One, Anna Two...",
      "source": "Dad joke"
     }
    ]
