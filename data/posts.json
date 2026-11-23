@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:58:06.927171+00:00",
+ "generated_at": "2026-11-23T04:28:11.960163+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T03:58:02.927385+00:00",
+   "fetched_at": "2026-11-23T04:28:09.657443+00:00",
    "stale": false,
    "items": [
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 552,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 459,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 17,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1562,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5401,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +107,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 597,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 307,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Your entire day is now controlled by a delivery driver",
-     "image": "https://i.redd.it/mgt1e2nji83i1.png",
-     "url": "https://redd.it/1y30w2i",
-     "ups": 283,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1763,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 459,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 627,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Newest scientifically accurate diagram of a baby hippo created by biologists!",
+     "image": "https://i.redd.it/2owy3p2d063i1.png",
+     "url": "https://redd.it/1y2p8lj",
+     "ups": 16,
      "sub": "r/memes"
     },
     {
-     "title": "Maybe they are just bored",
-     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
-     "url": "https://redd.it/1y2t87a",
-     "ups": 89,
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 802,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"We can get through this!\" No.",
+     "image": "https://i.redd.it/e4lg195te13i1.gif",
+     "url": "https://redd.it/1y28l1w",
+     "ups": 14513,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Capcom: Does nothing. Wins.",
+     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
+     "url": "https://redd.it/1y2138w",
+     "ups": 232,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 9973,
      "sub": "r/memes"
     },
     {
@@ -154,71 +175,18 @@
      "url": "https://redd.it/1y3669u",
      "ups": 896,
      "sub": "r/memes"
-    },
-    {
-     "title": "Also I eat less in the game",
-     "image": "https://i.redd.it/vjk4iodh833i1.png",
-     "url": "https://redd.it/1y2fy8a",
-     "ups": 7042,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 7327,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I work best under pressure (apparently) \ud83d\udc80",
-     "image": "https://i.redd.it/uu6vn80aq53i1.png",
-     "url": "https://redd.it/1y2o6bw",
-     "ups": 22,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T03:58:05.543806+00:00",
+   "fetched_at": "2026-11-23T04:28:10.694173+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Steps to a drunkard's grave meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f0d1fcbb6354",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Army plans Iowa lead detonation",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Molly Meldrum dies at 83",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70d65ee9ee85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Favorite first Magic set card",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
@@ -232,17 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Canadiens trade Michael Hage",
+     "text": "Steps to a drunkard's grave meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/182f202231c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f0d1fcbb6354",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +224,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "EU rejects COP31 climate deal",
+     "text": "NFL Week 11 games",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10bf76088faf",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Frivolous billionaire spending wishes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google adds AI across products",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Liquid Death soda-scented flushable wipes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a479878b0cb",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Russian warship explodes in Libya",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
@@ -280,60 +280,52 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "It\u2019s like a fire in my bones!",
+     "author": "Bone Hurting Juice",
+     "url": "https://lemmy.world/post/54741514",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/42d200a0-5faf-4110-9158-1e1ebea35bb5.png"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "Sea you in court",
      "author": "Comic Strips",
      "url": "https://lemmy.world/post/54740786",
-     "likes": 37,
+     "likes": 62,
      "image": "https://lemmy.world/pictrs/image/c3dc4577-cc22-4a7b-a900-394ec4fb708e.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
-     "author": "News",
-     "url": "https://lemmy.world/post/54740197",
-     "likes": 61,
-     "image": "https://lemmy.world/pictrs/image/39af1de1-7811-47a8-af83-24cc1b00a25c.jpeg"
+     "author": "Crimes of ICE",
+     "url": "https://infosec.pub/post/55260735",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/90a61c48-cbb9-422b-82e9-35305963e3df.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Abandoned Soviet Buran shuttles in Kazakhstan",
-     "author": "pics",
-     "url": "https://lemmy.world/post/54740352",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/1e33ac1b-c879-4f8b-82f9-07ad7ca7d8ae.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "White Toes!",
-     "author": "cats",
-     "url": "https://lemmy.world/post/54740889",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/23c71ab8-431c-4ddb-8ffc-adf1ccbf9e6d.jpeg"
+     "text": "Devils Panties 11/18/2026",
+     "author": "Comics",
+     "url": "https://lemy.lol/post/74575879",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/45f32909-14df-4b01-bed5-7f497aae9902.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T03:58:06.140176+00:00",
+   "fetched_at": "2026-11-23T04:28:11.197059+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "What time did the man go to the dentist? Tooth hurt-y.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why is the new Kindle screen textured to look like paper? So you feel write at home.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to be addicted to the hokey pokey, but I turned myself around.",
+     "text": "What do you get when you cross a rabbit with a water hose? Hare spray.",
      "source": "Dad joke"
     },
     {
-     "text": "You know that cemetery up the road? People are dying to get in there.",
+     "text": "The great thing about stationery shops is they're always in the same place...",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
