@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T04:28:11.960163+00:00",
+ "generated_at": "2026-11-23T04:58:17.366078+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,44 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T04:28:09.657443+00:00",
+   "fetched_at": "2026-11-23T04:58:14.681500+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5401,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "gta6ExitVI",
-     "image": "https://i.redd.it/ml81obe4883i1.png",
-     "url": "https://redd.it/1y2zkug",
-     "ups": 30,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 307,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1763,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 459,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "bugFixing",
      "image": "https://i.redd.it/m4g5ovj9te2i1.png",
@@ -135,24 +100,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Newest scientifically accurate diagram of a baby hippo created by biologists!",
-     "image": "https://i.redd.it/2owy3p2d063i1.png",
-     "url": "https://redd.it/1y2p8lj",
-     "ups": 16,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 552,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 169,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 17,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 302,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 597,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "And everyone believes it",
+     "image": "https://i.redd.it/83kiy2cdo03i1.png",
+     "url": "https://redd.it/1y259k1",
+     "ups": 995,
      "sub": "r/memes"
     },
     {
-     "title": "Grand Theft Buddha",
-     "image": "https://i.redd.it/ene5fhqal53i1.png",
-     "url": "https://redd.it/1y2nol0",
-     "ups": 802,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\"We can get through this!\" No.",
-     "image": "https://i.redd.it/e4lg195te13i1.gif",
-     "url": "https://redd.it/1y28l1w",
-     "ups": 14513,
+     "title": "Buying a used device be like",
+     "image": "https://i.redd.it/tpce0aex333i1.png",
+     "url": "https://redd.it/1y2fgki",
+     "ups": 26,
      "sub": "r/memes"
     },
     {
@@ -163,23 +156,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "What an incredible map, my friends",
-     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
-     "url": "https://redd.it/1y31ghw",
-     "ups": 9973,
+     "title": "Why it there already",
+     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
+     "url": "https://redd.it/1y2h0u1",
+     "ups": 50,
      "sub": "r/memes"
     },
     {
-     "title": "Psychological damage",
-     "image": "https://i.redd.it/zl3tkjpbr93i1.png",
-     "url": "https://redd.it/1y3669u",
-     "ups": 896,
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 802,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Maybe they are just bored",
+     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
+     "url": "https://redd.it/1y2t87a",
+     "ups": 89,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T04:28:10.694173+00:00",
+   "fetched_at": "2026-11-23T04:58:16.219960+00:00",
    "stale": false,
    "items": [
     {
@@ -200,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Favorite first Magic set card",
+     "text": "Trump urges Nvidia to rehire Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "NFL Week 11 games",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10bf76088faf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google adds AI across products",
+     "text": "Canadiens trade Michael Hage",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/182f202231c5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Liquid Death soda-scented flushable wipes",
+     "text": "Delta system outage delays flights",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a479878b0cb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
+     "text": "GTA VI's Jason and Lucia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8130317be1ba",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Virginia Foxx House race",
+     "text": "Trump reposts El-Sayed's TrumpCare pitch",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/33f0f89a9be1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Carney jokes at Press Gallery dinner",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "It\u2019s like a fire in my bones!",
      "author": "Bone Hurting Juice",
      "url": "https://lemmy.world/post/54741514",
-     "likes": 20,
+     "likes": 35,
      "image": "https://lemmy.world/pictrs/image/42d200a0-5faf-4110-9158-1e1ebea35bb5.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Sea you in court",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54740786",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/c3dc4577-cc22-4a7b-a900-394ec4fb708e.webp"
+     "text": "hydrochloric acid benifits",
+     "author": "Mildly Infuriating",
+     "url": "https://lemmy.ca/post/74240413",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/fa24909c-2607-4ea8-b5cc-5233f33139e3.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
      "author": "Crimes of ICE",
      "url": "https://infosec.pub/post/55260735",
-     "likes": 16,
+     "likes": 24,
      "image": "https://lemmy.world/pictrs/image/90a61c48-cbb9-422b-82e9-35305963e3df.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Devils Panties 11/18/2026",
-     "author": "Comics",
-     "url": "https://lemy.lol/post/74575879",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/45f32909-14df-4b01-bed5-7f497aae9902.png"
+     "text": "Sea you in court",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54740786",
+     "likes": 83,
+     "image": "https://lemmy.world/pictrs/image/c3dc4577-cc22-4a7b-a900-394ec4fb708e.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T04:28:11.197059+00:00",
+   "fetched_at": "2026-11-23T04:58:16.657335+00:00",
    "stale": false,
    "items": [
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Why is the new Kindle screen textured to look like paper? So you feel write at home.",
+     "text": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. \r\nHe also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. \r\nThis made him a super calloused fragile mystic hexed by halitosis.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you get when you cross a rabbit with a water hose? Hare spray.",
+     "text": "Where do you take someone who\u2019s been injured in a peek-a-boo accident? To the I.C.U.",
      "source": "Dad joke"
     },
     {
-     "text": "The great thing about stationery shops is they're always in the same place...",
+     "text": "Why do wizards clean their teeth three times a day? To prevent bat breath!",
      "source": "Dad joke"
     }
    ]
