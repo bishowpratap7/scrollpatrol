@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:32:29.813947+00:00",
+ "generated_at": "2026-11-23T21:02:35.781007+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T20:32:26.645461+00:00",
+   "fetched_at": "2026-11-23T21:02:32.437826+00:00",
    "stale": false,
    "items": [
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 931,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letItHuang",
-     "image": "https://i.redd.it/h3l1i3riid3i1.png",
-     "url": "https://redd.it/1y3jv3z",
-     "ups": 5976,
+     "title": "manWhyTheyGottaMakeGameDevThisHard",
+     "image": "https://i.redd.it/ui8dp412tf1i1.png",
+     "url": "https://redd.it/1xvic71",
+     "ups": 607,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 243,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1758,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 645,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 5346,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -133,6 +119,34 @@
      "url": "https://redd.it/1y2lttc",
      "ups": 240,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 502,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "a long and dark journey",
+     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
+     "url": "https://redd.it/1y3oap2",
+     "ups": 8,
+     "sub": "r/memes"
+    },
+    {
+     "title": "He returns at the turn",
+     "image": "https://i.redd.it/4chm0ub1qd3i1.png",
+     "url": "https://redd.it/1y3kxlw",
+     "ups": 94,
+     "sub": "r/memes"
     },
     {
      "title": "Guess what... RTX 6090 just got tested",
@@ -149,39 +163,33 @@
      "sub": "r/memes"
     },
     {
-     "title": "a long and dark journey",
-     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
-     "url": "https://redd.it/1y3oap2",
-     "ups": 8,
+     "title": "Now everything makes sense",
+     "image": "https://i.redd.it/5oxpylr4pd3i1.png",
+     "url": "https://redd.it/1y3kt32",
+     "ups": 69,
      "sub": "r/memes"
     },
     {
-     "title": "Steve from Gamer Nexus right now.",
-     "image": "https://i.redd.it/3ds7he5y4e3i1.gif",
-     "url": "https://redd.it/1y3n3hj",
-     "ups": 4,
-     "sub": "r/memes"
-    },
-    {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 146,
-     "sub": "r/memes"
-    },
-    {
-     "title": "First day of an internship is always tough",
-     "image": "https://i.redd.it/0tjjqq4m193i1.png",
-     "url": "https://redd.it/1y338ec",
-     "ups": 905,
+     "title": "Can't finish a good book this soon",
+     "image": "https://i.redd.it/c22zzhhdzc3i1.png",
+     "url": "https://redd.it/1y3hewh",
+     "ups": 17,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T20:32:28.412649+00:00",
+   "fetched_at": "2026-11-23T21:02:34.233899+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Washington girls' sports sex exam law",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Nvidia rehires Huang",
@@ -200,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Google plans personalized AI TV channel",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
@@ -216,9 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump says he protected Musk",
+     "text": "Alice Huang espionage allegations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/88e5e6f8a81a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
      "likes": 0,
      "image": ""
     },
@@ -240,42 +248,50 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Alice Huang espionage allegations",
+     "text": "Doctor Who Day anniversary",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c448680912",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Marcus Olang's essay on AI writing",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4571cc4f69f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Schumer vows to back Israel aid",
+     "text": "Trump says he protected Musk",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d06009d512c3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/88e5e6f8a81a",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
-     "likes": 0,
+     "kind": "Lemmy post",
+     "text": "I FINISHED MY MASTER\u2019S THESIS!! \ud83e\udd79\ud83c\udf89",
+     "author": "Trans Joy",
+     "url": "https://lemmy.zip/post/75546033",
+     "likes": 28,
+     "image": "https://lemmy.zip/pictrs/image/d9566b3b-af3b-405a-89f2-06fa5886e299.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Schumer vows to investigate circumstances around Jensen Huang\u2019s reinstatement",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54769517",
+     "likes": 37,
      "image": ""
     },
     {
@@ -283,7 +299,7 @@
      "text": "I love historically accurate video games. Edit: I agree that the editing could have been tighter to make the camera motions more fluid, but it gets the job done I'd say.",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54769089",
-     "likes": 17,
+     "likes": 32,
      "image": "https://lemmy.world/pictrs/image/9f7fcc40-e9da-4ffb-a393-40554f0dffad.gif"
     },
     {
@@ -291,29 +307,13 @@
      "text": "The Jensen Huang Scandal Is Getting Worse at the Exact Moment That Nvidia Rehired Him: It's metastasizing.",
      "author": "Technology",
      "url": "https://lemmy.world/post/54768790",
-     "likes": 21,
+     "likes": 49,
      "image": "https://lemmy.world/pictrs/image/0d047434-961c-41e5-84bd-3eaf75b1bad6.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up a Bra, Riffing Off 2024 Assassination Attempt on President, After Nvidia Board Reinstates CEO",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54767641",
-     "likes": 77,
-     "image": "https://lemmy.world/pictrs/image/d99b9517-bd8b-4830-9381-ff0522f84ead.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "It's still unclear why he loves putin",
-     "author": "Political Memes",
-     "url": "https://sh.itjust.works/post/70374263",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/689094bb-42a4-4844-8e4d-a95205bc52ab.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T20:32:29.106449+00:00",
+   "fetched_at": "2026-11-23T21:02:34.886864+00:00",
    "stale": false,
    "items": [
     {
@@ -321,7 +321,11 @@
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
+     "text": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a nervous javelin thrower? Shakespeare.",
+     "text": "What has a bed that you can\u2019t sleep in? A river.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a snake who builds houses? A boa constructor!",
+     "text": "How many bones are in the human hand? A handful of them.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
