@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:27:08.101770+00:00",
+ "generated_at": "2026-11-23T00:57:14.373797+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T00:27:05.017860+00:00",
+   "fetched_at": "2026-11-23T00:57:10.954278+00:00",
    "stale": false,
    "items": [
     {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4081,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 465,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 7009,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,52 +114,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 37,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 634,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 228,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 40,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nowWeGotGtaSixForPlaystationFour",
-     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
-     "url": "https://redd.it/1xuwq64",
-     "ups": 599,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3389,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 18,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Video games cause violence? Nope. They taught me economics",
-     "image": "https://i.redd.it/rquz3pti923i1.png",
-     "url": "https://redd.it/1y2c650",
-     "ups": 87,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Why it there already",
-     "image": "https://i.redd.it/t2xgkrhaj33i1.png",
-     "url": "https://redd.it/1y2h0u1",
-     "ups": 43,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Every single time at work",
-     "image": "https://i.redd.it/9ebyvww9f83i1.png",
-     "url": "https://redd.it/1y30h33",
-     "ups": 30,
+     "title": "Your entire day is now controlled by a delivery driver",
+     "image": "https://i.redd.it/mgt1e2nji83i1.png",
+     "url": "https://redd.it/1y30w2i",
+     "ups": 84,
      "sub": "r/memes"
     },
     {
@@ -163,46 +149,52 @@
      "sub": "r/memes"
     },
     {
-     "title": "First day of an internship is always tough",
-     "image": "https://i.redd.it/0tjjqq4m193i1.png",
-     "url": "https://redd.it/1y338ec",
-     "ups": 22,
+     "title": "Supporting the hype from a distance",
+     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
+     "url": "https://redd.it/1y1tq36",
+     "ups": 7275,
      "sub": "r/memes"
     },
     {
-     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
-     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
-     "url": "https://redd.it/1y2k2ym",
-     "ups": 64,
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 1860,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Video games cause violence? Nope. They taught me economics",
+     "image": "https://i.redd.it/rquz3pti923i1.png",
+     "url": "https://redd.it/1y2c650",
+     "ups": 87,
+     "sub": "r/memes"
+    },
+    {
+     "title": "AI helped plumbers and electricians?",
+     "image": "https://i.redd.it/ix486yrn863i1.png",
+     "url": "https://redd.it/1y2q64h",
+     "ups": 1148,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T00:27:06.409752+00:00",
+   "fetched_at": "2026-11-23T00:57:12.803461+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Favorite first Magic set card",
+     "text": "Nvidia China chip case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Liquid Death soda-scented flushable wipes",
+     "text": "Change one letter, ruin a movie",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a479878b0cb",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Virginia Foxx House race",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Change one letter, ruin a movie",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE arrests at Seattle airport",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
@@ -240,33 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia China chip case",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "GTA VI's Jason and Lucia",
+     "text": "Liquid Death soda-scented flushable wipes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8130317be1ba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a479878b0cb",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Las Vegas Grand Prix",
+     "text": "Over-the-top anime robot transformation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/50c8fc806b59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ac5eda229654",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
+     "text": "Russian warship explodes in Libya",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Turding Point",
      "author": "Whatever",
      "url": "https://quokk.au/c/whatever/p/1353625/turding-point",
-     "likes": 54,
+     "likes": 82,
      "image": "https://lemmy.world/pictrs/image/7a1b9400-a92d-47ba-a409-8d08131db7aa.webp"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Trump hints Abdul El-Sayed\u2019s stroking-his-ego strategy may be working with \u2018Medicare for all\u2019 message",
      "author": "News",
      "url": "https://lemmy.world/post/54735624",
-     "likes": 64,
+     "likes": 82,
      "image": "https://lemmy.world/pictrs/image/1d6807b5-e6a2-4f33-b053-e1c768f4a02d.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Feeling called out rule",
      "author": "196",
      "url": "https://lemmy.world/post/54736272",
-     "likes": 39,
+     "likes": 67,
      "image": "https://lemmy.world/pictrs/image/c1cdfbfc-13ad-4293-85e2-f1c513b50956.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Who is in your family?",
      "author": "childfree",
      "url": "https://lemmy.world/post/54735293",
-     "likes": 58,
+     "likes": 67,
      "image": "https://lemmy.world/pictrs/image/8b12b14f-e9d7-4c37-a3df-84c015ad1029.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T00:27:07.069148+00:00",
+   "fetched_at": "2026-11-23T00:57:13.407319+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
     {
      "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+     "text": "I saw a documentary on TV last night about how they put ships together.  It was rivetting.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the girl smear peanut butter on the road? To go with the traffic jam.",
+     "text": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
      "source": "Dad joke"
     },
     {
-     "text": "Don't trust atoms. They make up everything.",
+     "text": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
      "source": "Dad joke"
     }
    ]
