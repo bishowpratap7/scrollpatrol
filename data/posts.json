@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:00:13.534061+00:00",
+ "generated_at": "2026-11-23T12:30:19.859913+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,77 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T12:00:09.460397+00:00",
+   "fetched_at": "2026-11-23T12:30:16.175903+00:00",
    "stale": false,
    "items": [
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3287,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4211,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 555,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 925,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 16,
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 232,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "looksGoodToMeBro",
-     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
-     "url": "https://redd.it/1xv6wbp",
-     "ups": 165,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 309,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 476,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 4772,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 638,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Seems Sony won this battle",
-     "image": "https://i.redd.it/h498kx8t023i1.png",
-     "url": "https://redd.it/1y2b5n1",
-     "ups": 6958,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\"We can get through this!\" No.",
-     "image": "https://i.redd.it/e4lg195te13i1.gif",
-     "url": "https://redd.it/1y28l1w",
-     "ups": 14989,
-     "sub": "r/memes"
-    },
-    {
-     "title": "spiderman can't count to 8",
-     "image": "https://i.redd.it/vr0y20nyb13i1.png",
-     "url": "https://redd.it/1y288lp",
-     "ups": 607,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Maybe they are just bored",
-     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
-     "url": "https://redd.it/1y2t87a",
-     "ups": 137,
+     "title": "First day of an internship is always tough",
+     "image": "https://i.redd.it/0tjjqq4m193i1.png",
+     "url": "https://redd.it/1y338ec",
+     "ups": 639,
      "sub": "r/memes"
     },
     {
@@ -170,18 +149,47 @@
      "sub": "r/memes"
     },
     {
-     "title": "And everyone believes it",
-     "image": "https://i.redd.it/83kiy2cdo03i1.png",
-     "url": "https://redd.it/1y259k1",
-     "ups": 1029,
+     "title": "Every single time at work",
+     "image": "https://i.redd.it/9ebyvww9f83i1.png",
+     "url": "https://redd.it/1y30h33",
+     "ups": 89,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Your entire day is now controlled by a delivery driver",
+     "image": "https://i.redd.it/mgt1e2nji83i1.png",
+     "url": "https://redd.it/1y30w2i",
+     "ups": 428,
+     "sub": "r/memes"
+    },
+    {
+     "title": "My financial decisions need to be studied",
+     "image": "https://i.redd.it/kz8mqdafu93i1.png",
+     "url": "https://redd.it/1y36ijz",
+     "ups": 165,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 19180,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T12:00:11.713076+00:00",
+   "fetched_at": "2026-11-23T12:30:18.442544+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Doctor Who Day anniversary",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c448680912",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Theresa May urges accepting Brexit",
@@ -200,33 +208,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Amodei's video games for jobless idea",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/14939c2688bd",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Alice Huang espionage allegations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump urges Nvidia to rehire Huang",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Amodei's video games for jobless idea",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/14939c2688bd",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Steps to a drunkard's grave meme",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f0d1fcbb6354",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI patching likely behind outages",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Canadiens trade Michael Hage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/182f202231c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israel's military campaign in Gaza",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4212892e704",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Posting on Lemmy without getting dragged into a back-and-forth is so fun",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63739216",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/7f2e1be6-e391-4b4b-ab9e-422e815cd1fe.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Trump administration deported US citizen to Mexico, DoJ admits in court",
      "author": "News",
      "url": "https://lemmy.world/post/54751756",
-     "likes": 16,
+     "likes": 38,
      "image": "https://lemmy.world/pictrs/image/b724ba01-59b3-4ae6-a72d-1fa76410defa.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "23 November 1989",
-     "author": "Calvin and Hobbes",
-     "url": "https://sh.itjust.works/post/70352658",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/a31cc2ec-88b7-4784-9075-159dbdde7e5c.webp"
+     "text": "remember horp",
+     "author": "Funhole",
+     "url": "https://lemmy.sdf.org/post/62243806",
+     "likes": 7,
+     "image": "https://lemmy.world/pictrs/image/5fc21167-4564-44a1-b714-050efbc3f633.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "A Vtuber got threatened for GTA 6 after giving it a 4/10 for bad writing and talked about blacklisting. (Spoilers)",
-     "author": "Games",
-     "url": "https://lemmy.world/post/54750725",
-     "likes": 43,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Screech Superbly Seated in Sunshine",
-     "author": "Superbowl",
-     "url": "https://lemmy.world/post/54751171",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/1b946385-34fc-48a8-a851-dd1dcd430ad7.jpeg"
+     "text": "US army to blow up bomb-making chemicals despite safety concerns",
+     "author": "News",
+     "url": "https://lemmy.world/post/54752085",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/749e85b3-5a60-45e7-9efe-af7a02c71e41.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T12:00:12.343880+00:00",
+   "fetched_at": "2026-11-23T12:30:19.114023+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How are false teeth like stars? They come out at night!",
+     "text": "People are making apocalypse jokes like there\u2019s no tomorrow.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are graveyards so noisy? Because of all the coffin.",
+     "text": "What do you get when you cross a chicken with a skunk? A fowl smell!",
      "source": "Dad joke"
     },
     {
-     "text": "Why was Santa's little helper feeling depressed? Because he has low elf esteem.\n",
+     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
      "source": "Dad joke"
     }
    ]
