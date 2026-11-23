@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:01:41.686027+00:00",
+ "generated_at": "2026-11-23T17:31:48.188435+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,84 +89,70 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T17:01:37.583077+00:00",
+   "fetched_at": "2026-11-23T17:31:44.281264+00:00",
    "stale": false,
    "items": [
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 925,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 37,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 313,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 584,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3328,
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 138,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1454,
+     "title": "leadArtificialIntelligence",
+     "image": "https://i.redd.it/6xunxdq39h1i1.png",
+     "url": "https://redd.it/1xvp93r",
+     "ups": 30,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 235,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 56,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 456,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 638,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Maybe they are just bored",
-     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
-     "url": "https://redd.it/1y2t87a",
-     "ups": 143,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
-     "title": "Somehow, Jensen has returned.",
-     "image": "https://i.redd.it/1x3osa1esd3i1.png",
-     "url": "https://redd.it/1y3lama",
-     "ups": 13,
+     "title": "He is inevitable",
+     "image": "https://i.redd.it/aqbtxjmpqd3i1.png",
+     "url": "https://redd.it/1y3l11a",
+     "ups": 3,
      "sub": "r/memes"
     },
     {
-     "title": "\"We can get through this!\" No.",
-     "image": "https://i.redd.it/e4lg195te13i1.gif",
-     "url": "https://redd.it/1y28l1w",
-     "ups": 15143,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Grand Theft Buddha",
-     "image": "https://i.redd.it/ene5fhqal53i1.png",
-     "url": "https://redd.it/1y2nol0",
-     "ups": 894,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Now everything makes sense",
-     "image": "https://i.redd.it/5oxpylr4pd3i1.png",
-     "url": "https://redd.it/1y3kt32",
-     "ups": 15,
+     "title": "Also I eat less in the game",
+     "image": "https://i.redd.it/vjk4iodh833i1.png",
+     "url": "https://redd.it/1y2fy8a",
+     "ups": 7677,
      "sub": "r/memes"
     },
     {
@@ -175,11 +161,25 @@
      "url": "https://redd.it/1y3binq",
      "ups": 737,
      "sub": "r/memes"
+    },
+    {
+     "title": "He's BACK..",
+     "image": "https://i.redd.it/8eohwc8mvd3i1.png",
+     "url": "https://redd.it/1y3lr59",
+     "ups": 2,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"We can get through this!\" No.",
+     "image": "https://i.redd.it/e4lg195te13i1.gif",
+     "url": "https://redd.it/1y28l1w",
+     "ups": 15143,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T17:01:39.975053+00:00",
+   "fetched_at": "2026-11-23T17:31:46.278285+00:00",
    "stale": false,
    "items": [
     {
@@ -187,6 +187,62 @@
      "text": "Trump blames Democrats for selloff",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia rehires Huang",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Alice Huang espionage allegations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SEC probes Nvidia accounting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Avengers: Doomsday runtime confirmed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Weather forecasts include lead plume",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Doctor Who Day anniversary",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c448680912",
      "likes": 0,
      "image": ""
     },
@@ -216,140 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
+     "text": "Ukraine claims Libya warship sinking",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Alice Huang espionage allegations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Avengers: Doomsday runtime confirmed",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "SEC probes Nvidia accounting",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Cyclops in Avengers: Doomsday footage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae138716b3d1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "DNC unveils 2028 debate plan",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d7666813cd09",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia rehires Huang",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "High praise for Huang",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54762817",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/1a25e1b6-d850-4420-955c-0f31cf43503d.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "From sci-fi to straight up fantasy",
      "author": "Chevron 7",
      "url": "https://lemmy.world/post/54761695",
-     "likes": 22,
+     "likes": 58,
      "image": "https://lemmy.world/pictrs/image/84d5d14e-b72e-4558-a910-1f809e5ff004.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Amazon starts putting $5 delivery price hike warnings on packages in fight against NYC labor bill",
-     "author": "News",
-     "url": "https://lemmy.world/post/54761182",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/8bb319be-5f8b-4e54-ba0e-c0c30955f3e7.webp"
+     "text": "its true i was there :3",
+     "author": "lascivious lesbians",
+     "url": "https://lemmy.blahaj.zone/post/50845918",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/81c0d0b5-e636-44fb-a565-2c47e3c2ba33.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Elon Musk insists Nazi salute was actually him making \u201cD\u201d for \u201cDemocrat\u201d - The Beaverton",
-     "author": "The Onion and other satire w/ layers",
-     "url": "https://lemmy.ca/post/74260695",
-     "likes": 72,
-     "image": "https://lemmy.world/pictrs/image/b3c2dab4-e2bf-4af0-ab41-950a64c30a3d.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I\u2019m getting married this Saturday!! \ud83d\udc95\ud83d\udc8d",
-     "author": "Trans Joy",
-     "url": "https://lemmy.zip/post/75531485",
-     "likes": 91,
-     "image": "https://lemmy.zip/pictrs/image/5c8dcfa6-0eb3-41c9-97a3-77f0733636bc.avif"
+     "text": "Global efforts to control \u2018killer robots\u2019 blocked by US, Russia and Israel",
+     "author": "World News",
+     "url": "https://lemmy.nz/post/44120148",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/9c492a1a-ff58-4df1-baed-8969f07217e3.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T17:01:40.786796+00:00",
+   "fetched_at": "2026-11-23T17:31:46.929810+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you fix a damaged jack-o-lantern? You use a pumpkin patch.",
+     "text": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
      "source": "Dad joke"
     },
     {
-     "text": "Hear about the new restaurant called Karma? There\u2019s no menu: You get what you deserve.",
+     "text": "Why do we tell actors to \u201cbreak a leg?\u201d Because every play has a cast.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a magician who has lost their magic? Ian.",
+     "text": "Two peanuts were walking down the street. One was a salted",
      "source": "Dad joke"
     }
    ]
