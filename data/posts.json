@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T02:57:54.390108+00:00",
+ "generated_at": "2026-11-23T03:28:00.216037+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T02:57:51.373234+00:00",
+   "fetched_at": "2026-11-23T03:27:57.135147+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 226,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 630,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 465,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "devsAtMicrosoftRightNow",
      "image": "https://i.redd.it/2ybf8ceszc1i1.png",
      "url": "https://redd.it/1xv4nsz",
-     "ups": 4086,
+     "ups": 4078,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 37,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 924,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "cppythRusGoSharp",
      "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
      "url": "https://redd.it/1xvuqmq",
-     "ups": 306,
+     "ups": 307,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 225,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3135,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 627,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Grand Theft Buddha",
+     "image": "https://i.redd.it/ene5fhqal53i1.png",
+     "url": "https://redd.it/1y2nol0",
+     "ups": 786,
      "sub": "r/memes"
     },
     {
-     "title": "Also I eat less in the game",
-     "image": "https://i.redd.it/vjk4iodh833i1.png",
-     "url": "https://redd.it/1y2fy8a",
-     "ups": 6911,
+     "title": "Supporting the hype from a distance",
+     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
+     "url": "https://redd.it/1y1tq36",
+     "ups": 7303,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Video games cause violence? Nope. They taught me economics",
+     "image": "https://i.redd.it/rquz3pti923i1.png",
+     "url": "https://redd.it/1y2c650",
+     "ups": 88,
+     "sub": "r/memes"
+    },
+    {
+     "title": "\"We can get through this!\" No.",
+     "image": "https://i.redd.it/e4lg195te13i1.gif",
+     "url": "https://redd.it/1y28l1w",
+     "ups": 14309,
      "sub": "r/memes"
     },
     {
@@ -156,30 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Newest scientifically accurate diagram of a baby hippo created by biologists!",
-     "image": "https://i.redd.it/2owy3p2d063i1.png",
-     "url": "https://redd.it/1y2p8lj",
-     "ups": 14,
-     "sub": "r/memes"
-    },
-    {
-     "title": "First day of an internship is always tough",
-     "image": "https://i.redd.it/0tjjqq4m193i1.png",
-     "url": "https://redd.it/1y338ec",
-     "ups": 118,
-     "sub": "r/memes"
-    },
-    {
-     "title": "\"We can get through this!\" No.",
-     "image": "https://i.redd.it/e4lg195te13i1.gif",
-     "url": "https://redd.it/1y28l1w",
-     "ups": 14309,
+     "title": "spiderman can't count to 8",
+     "image": "https://i.redd.it/vr0y20nyb13i1.png",
+     "url": "https://redd.it/1y288lp",
+     "ups": 604,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T02:57:52.890390+00:00",
+   "fetched_at": "2026-11-23T03:27:58.736384+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Molly Meldrum dies at 83",
+     "text": "Steps to a drunkard's grave meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70d65ee9ee85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f0d1fcbb6354",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Change one letter, ruin a movie",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
      "likes": 0,
      "image": ""
     },
@@ -216,30 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Frivolous billionaire spending wishes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Steps to a drunkard's grave meme",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f0d1fcbb6354",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia China chip case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Canadiens trade Michael Hage",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/182f202231c5",
@@ -248,9 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Change one letter, ruin a movie",
+     "text": "Frivolous billionaire spending wishes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +248,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
+     "text": "AI patching likely behind outages",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Claude AI coding tools",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c9fa014a73a",
      "likes": 0,
      "image": ""
     },
@@ -279,61 +271,61 @@
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Turding Point",
-     "author": "Whatever",
-     "url": "https://quokk.au/c/whatever/p/1353625/turding-point",
-     "likes": 224,
-     "image": "https://lemmy.world/pictrs/image/7a1b9400-a92d-47ba-a409-8d08131db7aa.webp"
+     "kind": "Bluesky trend",
+     "text": "Van Hollen challenges Schumer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Trump hints Abdul El-Sayed\u2019s stroking-his-ego strategy may be working with \u2018Medicare for all\u2019 message",
+     "text": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
      "author": "News",
-     "url": "https://lemmy.world/post/54735624",
-     "likes": 147,
-     "image": "https://lemmy.world/pictrs/image/1d6807b5-e6a2-4f33-b053-e1c768f4a02d.jpeg"
+     "url": "https://lemmy.world/post/54740197",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/39af1de1-7811-47a8-af83-24cc1b00a25c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Feeling called out rule",
-     "author": "196",
-     "url": "https://lemmy.world/post/54736272",
-     "likes": 173,
-     "image": "https://lemmy.world/pictrs/image/c1cdfbfc-13ad-4293-85e2-f1c513b50956.jpeg"
+     "text": "Quite an experience to live in fear, isn't it? (Blade Runner, 1982)",
+     "author": "Movies",
+     "url": "https://piefed.social/c/movies@lemmy.world/p/2631681/quite-an-experience-to-live-in-fear-isn-t-it-blade-runner-1982",
+     "likes": 8,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Who is in your family?",
-     "author": "childfree",
-     "url": "https://lemmy.world/post/54735293",
-     "likes": 115,
-     "image": "https://lemmy.world/pictrs/image/8b12b14f-e9d7-4c37-a3df-84c015ad1029.jpeg"
+     "text": "Abandoned Soviet Buran shuttles in Kazakhstan",
+     "author": "pics",
+     "url": "https://lemmy.world/post/54740352",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/1e33ac1b-c879-4f8b-82f9-07ad7ca7d8ae.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "his final moments",
+     "author": "Lemmy Shitpost",
+     "url": "https://feddit.cl/post/14579986",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/5362ed56-8675-4f0b-a254-523e3230da99.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T02:57:53.601552+00:00",
+   "fetched_at": "2026-11-23T03:27:59.354379+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "How was the snow globe feeling after the storm? A little shaken.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I got fired from a florist, apparently I took too many leaves.",
      "source": "Dad joke"
     },
     {
-     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
+     "text": "I got a reversible jacket for Christmas, I can't wait to see how it turns out.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome",
+     "text": "Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
