@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:57:30.656353+00:00",
+ "generated_at": "2026-11-23T01:27:36.203495+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,57 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-23T00:57:27.231887+00:00",
+   "fetched_at": "2026-11-23T01:27:33.083822+00:00",
    "stale": false,
    "items": [
     {
-     "title": "gta6ExitVI",
-     "image": "https://i.redd.it/ml81obe4883i1.png",
-     "url": "https://redd.it/1y2zkug",
-     "ups": 14,
+     "title": "nowWeGotGtaSixForPlaystationFour",
+     "image": "https://i.redd.it/xrt67cpkpa1i1.png",
+     "url": "https://redd.it/1xuwq64",
+     "ups": 597,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 465,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4217,
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 190,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "newDevsBeLike",
      "image": "https://i.redd.it/why2eporof2i1.png",
      "url": "https://redd.it/1xzqgwe",
-     "ups": 2184,
+     "ups": 2183,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "looksGoodToMeBro",
+     "image": "https://i.redd.it/gk3tge2zkd1i1.png",
+     "url": "https://redd.it/1xv6wbp",
+     "ups": 165,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 38,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "oOfOnePrimeChecker",
      "image": "https://i.redd.it/dw8z1onwt73i1.png",
      "url": "https://redd.it/1y2xogr",
-     "ups": 2177,
+     "ups": 2812,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 57,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Your entire day is now controlled by a delivery driver",
-     "image": "https://i.redd.it/mgt1e2nji83i1.png",
-     "url": "https://redd.it/1y30w2i",
-     "ups": 84,
-     "sub": "r/memes"
     },
     {
      "title": "Buying a used device be like",
@@ -149,52 +142,59 @@
      "sub": "r/memes"
     },
     {
-     "title": "Every single time at work",
-     "image": "https://i.redd.it/9ebyvww9f83i1.png",
-     "url": "https://redd.it/1y30h33",
-     "ups": 30,
+     "title": "Seems Sony won this battle",
+     "image": "https://i.redd.it/h498kx8t023i1.png",
+     "url": "https://redd.it/1y2b5n1",
+     "ups": 6316,
      "sub": "r/memes"
     },
     {
-     "title": "Capcom: Does nothing. Wins.",
-     "image": "https://i.redd.it/8sb5bigzsz2i1.png",
-     "url": "https://redd.it/1y2138w",
-     "ups": 225,
+     "title": "And everyone believes it",
+     "image": "https://i.redd.it/83kiy2cdo03i1.png",
+     "url": "https://redd.it/1y259k1",
+     "ups": 968,
      "sub": "r/memes"
     },
     {
-     "title": "Supporting the hype from a distance",
-     "image": "https://i.redd.it/r9mpal3lxx2i1.gif",
-     "url": "https://redd.it/1y1tq36",
-     "ups": 7275,
+     "title": "spiderman can't count to 8",
+     "image": "https://i.redd.it/vr0y20nyb13i1.png",
+     "url": "https://redd.it/1y288lp",
+     "ups": 592,
      "sub": "r/memes"
     },
     {
-     "title": "AI helped plumbers and electricians?",
-     "image": "https://i.redd.it/ix486yrn863i1.png",
-     "url": "https://redd.it/1y2q64h",
-     "ups": 1148,
+     "title": "Maybe they are just bored",
+     "image": "https://i.redd.it/rgvcj45vw63i1.gif",
+     "url": "https://redd.it/1y2t87a",
+     "ups": 75,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Hollywood really said there's no such thing as a day off \ud83d\udc80",
+     "image": "https://i.redd.it/o6ka7v3uf43i1.png",
+     "url": "https://redd.it/1y2k2ym",
+     "ups": 64,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-23T00:57:29.250482+00:00",
+   "fetched_at": "2026-11-23T01:27:34.558307+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia China chip case",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Change one letter, ruin a movie",
+     "text": "Virginia Foxx House race",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/79984d66e536",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +208,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
+     "text": "Change one letter, ruin a movie",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
+     "text": "ESPN analyst Tom Jackson dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8f0df89d5bec",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving dinner preparations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia China chip case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
      "likes": 0,
      "image": ""
     },
@@ -232,49 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Molly Meldrum dies at 83",
+     "text": "Frivolous billionaire spending wishes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/70d65ee9ee85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a2c1b719410c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Favorite first Magic set card",
+     "text": "Delta system outage delays flights",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/402967c5c875",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Liquid Death soda-scented flushable wipes",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a479878b0cb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Over-the-top anime robot transformation",
+     "text": "Trump post on Somalis in Minnesota",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ac5eda229654",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Russian warship explodes in Libya",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Carney jokes at Press Gallery dinner",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044de87a310a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/45e12776c86b",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Turding Point",
      "author": "Whatever",
      "url": "https://quokk.au/c/whatever/p/1353625/turding-point",
-     "likes": 82,
+     "likes": 118,
      "image": "https://lemmy.world/pictrs/image/7a1b9400-a92d-47ba-a409-8d08131db7aa.webp"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Trump hints Abdul El-Sayed\u2019s stroking-his-ego strategy may be working with \u2018Medicare for all\u2019 message",
      "author": "News",
      "url": "https://lemmy.world/post/54735624",
-     "likes": 82,
+     "likes": 99,
      "image": "https://lemmy.world/pictrs/image/1d6807b5-e6a2-4f33-b053-e1c768f4a02d.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Feeling called out rule",
      "author": "196",
      "url": "https://lemmy.world/post/54736272",
-     "likes": 67,
+     "likes": 94,
      "image": "https://lemmy.world/pictrs/image/c1cdfbfc-13ad-4293-85e2-f1c513b50956.jpeg"
     },
     {
@@ -307,58 +307,58 @@
      "text": "Who is in your family?",
      "author": "childfree",
      "url": "https://lemmy.world/post/54735293",
-     "likes": 67,
+     "likes": 78,
      "image": "https://lemmy.world/pictrs/image/8b12b14f-e9d7-4c37-a3df-84c015ad1029.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-23T00:57:29.854012+00:00",
+   "fetched_at": "2026-11-23T01:27:35.494599+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
     {
      "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
+     "text": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
+     "text": "Which side of the chicken has more feathers? The outside.",
      "source": "Dad joke"
     },
     {
-     "text": "My boss told me to attach two pieces of wood together... I totally nailed it!",
+     "text": "A man walked in to a bar with some asphalt on his arm. He said \u201cTwo beers please, one for me and one for the road.\u201d",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
