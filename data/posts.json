@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:03:35.791990+00:00",
+ "generated_at": "2026-11-24T00:33:42.900869+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T00:03:32.148623+00:00",
+   "fetched_at": "2026-11-24T00:33:38.763109+00:00",
    "stale": false,
    "items": [
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 205,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 505,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3385,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4208,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 859,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,45 +121,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "manWhyTheyGottaMakeGameDevThisHard",
-     "image": "https://i.redd.it/ui8dp412tf1i1.png",
-     "url": "https://redd.it/1xvic71",
-     "ups": 608,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 930,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 649,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 307,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
-     "ups": 34,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 106,
-     "sub": "r/memes"
-    },
-    {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 40,
+     "title": "My financial decisions need to be studied",
+     "image": "https://i.redd.it/kz8mqdafu93i1.png",
+     "url": "https://redd.it/1y36ijz",
+     "ups": 196,
      "sub": "r/memes"
     },
     {
@@ -163,54 +149,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 816,
+     "title": "Also I eat less in the game",
+     "image": "https://i.redd.it/vjk4iodh833i1.png",
+     "url": "https://redd.it/1y2fy8a",
+     "ups": 7812,
      "sub": "r/memes"
     },
     {
-     "title": "Guess what... RTX 6090 just got tested",
-     "image": "https://i.redd.it/aokcsgheoe3i1.png",
-     "url": "https://redd.it/1y3q2v9",
-     "ups": 58,
+     "title": "and he got homework to do",
+     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
+     "url": "https://redd.it/1y3w8ww",
+     "ups": 5,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
+     "image": "https://i.redd.it/vt1nyao6he3i1.png",
+     "url": "https://redd.it/1y3oz7d",
+     "ups": 62,
+     "sub": "r/memes"
+    },
+    {
+     "title": "guess who's back",
+     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
+     "url": "https://redd.it/1y3uhc3",
+     "ups": 40,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T00:03:34.395503+00:00",
+   "fetched_at": "2026-11-24T00:33:41.489655+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Israel's military campaign in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4212892e704",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Nvidia rehires Huang",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/27cddaed38d4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google plans personalized AI TV channel",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "SEC probes Nvidia accounting",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +200,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Weather forecasts include lead plume",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Alice Huang espionage allegations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
@@ -232,9 +216,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Weather forecasts include lead plume",
+     "text": "SEC probes Nvidia accounting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine claims Libya warship sinking",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "November full supermoon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Apple TV renews Ted Lasso",
+     "text": "Favorite first Magic set card",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/61fc04969566",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "NFL Week 11 games",
+     "text": "Push to remove Trump from office",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10bf76088faf",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a31641fa636",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington girls' sports sex exam law",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "*Rule*phobic",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50859267",
-     "likes": 50,
+     "likes": 80,
      "image": "https://lemmy.world/pictrs/image/0cb4e443-8ecd-4507-8996-0a4cfceb043c.webp"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Endangered species",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63768631",
-     "likes": 52,
+     "likes": 97,
      "image": "https://lemmy.world/pictrs/image/c4945968-82cc-405b-9fcc-83f3d79ac4c8.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "State It Plainly: Trump Is Committing Treason",
      "author": "politics ",
      "url": "https://sh.itjust.works/post/70382746",
-     "likes": 27,
+     "likes": 62,
      "image": "https://lemmy.world/pictrs/image/9e87a71c-b884-4b0a-b87d-9fcee1aad514.webp"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Return to work",
      "author": "Work Reform",
      "url": "https://lemmy.zip/post/75552681",
-     "likes": 28,
+     "likes": 60,
      "image": "https://lemmy.zip/pictrs/image/1bbf569b-9a6e-4444-8096-8afb69ee63a3.avif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T00:03:35.168009+00:00",
+   "fetched_at": "2026-11-24T00:33:42.202761+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a duck that gets all A's? A wise quacker.",
+     "text": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
+     "text": "I tried to write a chemistry joke, but could never get a reaction.",
      "source": "Dad joke"
     },
     {
-     "text": "I\u2019ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it\u2019s Hans free.",
+     "text": "My pet mouse 'Elvis' died last night. He was caught in a trap..",
      "source": "Dad joke"
     }
    ]
