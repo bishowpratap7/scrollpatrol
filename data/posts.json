@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:34:36.950235+00:00",
+ "generated_at": "2026-11-24T04:04:42.999126+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T03:34:33.704452+00:00",
+   "fetched_at": "2026-11-24T04:04:39.446726+00:00",
    "stale": false,
    "items": [
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 564,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 38,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2226,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,27 +114,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1472,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 240,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 244,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
      "title": "oOfOnePrimeChecker",
      "image": "https://i.redd.it/dw8z1onwt73i1.png",
      "url": "https://redd.it/1y2xogr",
@@ -135,82 +121,80 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 39,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1760,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 929,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Back to back long weekends? You shouldn\u2019t have",
+     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
+     "url": "https://redd.it/1y3ix5y",
+     "ups": 124,
      "sub": "r/memes"
     },
     {
-     "title": "Your entire day is now controlled by a delivery driver",
-     "image": "https://i.redd.it/mgt1e2nji83i1.png",
-     "url": "https://redd.it/1y30w2i",
-     "ups": 496,
+     "title": "Jensen Huang Nov-23rd.",
+     "image": "https://i.redd.it/gapwccf3vd3i1.png",
+     "url": "https://redd.it/1y3lnyb",
+     "ups": 43,
      "sub": "r/memes"
     },
     {
-     "title": "Logic. Pure market logic.",
-     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
-     "url": "https://redd.it/1y3o6y9",
-     "ups": 53,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I live in the GTA so it's okay",
-     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
-     "url": "https://redd.it/1y3t7up",
+     "title": "a long and dark journey",
+     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
+     "url": "https://redd.it/1y3oap2",
      "ups": 13,
      "sub": "r/memes"
     },
     {
-     "title": "Obi Huang Jenobi \ud83e\uddd1\u200d\ud83d\udcbc",
-     "image": "https://i.redd.it/0rwl2f0g2e3i1.png",
-     "url": "https://redd.it/1y3mppl",
-     "ups": 12,
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 4473,
      "sub": "r/memes"
     },
     {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 645,
+     "title": "AI bros right now",
+     "image": "https://i.redd.it/qx8mq45pze3i1.png",
+     "url": "https://redd.it/1y3rt2c",
+     "ups": 43,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1151,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T03:34:35.468855+00:00",
+   "fetched_at": "2026-11-24T04:04:41.766345+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Alice Huang espionage allegations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "SEC probes Nvidia accounting",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Iowa Army detonation court case",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Personal boycotts",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +208,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Alice Huang espionage allegations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d4900f9c2d16",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames Democrats for selloff",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "SEC probes Nvidia accounting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Google plans personalized AI TV channel",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
@@ -232,25 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "LSU's future in the SEC",
+     "text": "Apple TV renews Ted Lasso",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fc9f3f32167",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/61fc04969566",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cyclops in Avengers: Doomsday footage",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
@@ -264,60 +264,64 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Washington girls' sports sex exam law",
+     "text": "Ukraine claims Libya warship sinking",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Teenager threatened with violent sexual assault after losing tennis match",
+     "author": "Australia",
+     "url": "https://lemmy.world/post/54780104",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/7d3cb69c-0aab-4f90-9518-05cb8a76051c.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "New York Bans Subscription And Post-Purchase Fees On Cars",
      "author": "Technology",
      "url": "https://feddit.online/c/technology@lemmy.world/p/2136225/new-york-bans-subscription-and-post-purchase-fees-on-cars",
-     "likes": 82,
+     "likes": 143,
      "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Got a good start on some Christmas gifts, spoons.",
-     "author": "Dull Men's Club",
-     "url": "https://lemmy.world/post/54779029",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/ae11f086-89b5-4a43-8fc6-78021b9b65c9.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mousetrap",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54778949",
-     "likes": 27,
-     "image": "https://lemmy.zip/pictrs/image/8c0c72f0-4342-41e3-b614-787d692d2a53.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "\u2018Come stay all day\u2019: US libraries see rise in visitors as patrons seek affordable resources",
      "author": "News",
      "url": "https://lemmy.world/post/54779906",
-     "likes": 12,
+     "likes": 30,
      "image": "https://lemmy.world/pictrs/image/d4410ccd-aedf-42f8-a33a-56f1d33ee55f.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Cameras Built to Catch Criminals Are Helping ICE Hunt Immigrants",
+     "author": "News",
+     "url": "https://lemmy.world/post/54780100",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/c929f191-1572-495d-8472-4051c1d9aec1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T03:34:36.347037+00:00",
+   "fetched_at": "2026-11-24T04:04:42.439552+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -325,40 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What do you get when you cross a bee and a sheep? A bah-humbug.\r\n",
+     "text": "Why did the worker get fired from the orange juice factory? Lack of concentration.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
+     "text": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
      "source": "Dad joke"
     },
     {
-     "text": "I saw a documentary on TV last night about how they put ships together.  It was rivetting.",
+     "text": "What do you call a magician who has lost their magic? Ian.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
