@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:06:57.778487+00:00",
+ "generated_at": "2026-11-24T13:37:02.157372+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,71 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T13:06:55.483255+00:00",
+   "fetched_at": "2026-11-24T13:36:59.609003+00:00",
    "stale": false,
    "items": [
     {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 77,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 561,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 334,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 339,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 651,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3420,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "recursion",
      "image": "https://i.redd.it/9c68q9667b2i1.png",
      "url": "https://redd.it/1xz7flz",
-     "ups": 932,
+     "ups": 942,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 41,
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3405,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 799,
-     "sub": "r/memes"
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1597,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
-     "image": "https://i.redd.it/vt1nyao6he3i1.png",
-     "url": "https://redd.it/1y3oz7d",
-     "ups": 207,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Guess who's back",
-     "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
-     "url": "https://redd.it/1y3kve6",
-     "ups": 72,
-     "sub": "r/memes"
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 9485,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "I live in the GTA so it's okay",
@@ -163,23 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "Logic. Pure market logic.",
-     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
-     "url": "https://redd.it/1y3o6y9",
-     "ups": 185,
+     "title": "First day of an internship is always tough",
+     "image": "https://i.redd.it/0tjjqq4m193i1.png",
+     "url": "https://redd.it/1y338ec",
+     "ups": 1036,
      "sub": "r/memes"
     },
     {
-     "title": "What an incredible map, my friends",
-     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
-     "url": "https://redd.it/1y31ghw",
-     "ups": 23849,
+     "title": "Let it Huang",
+     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
+     "url": "https://redd.it/1y3yk8f",
+     "ups": 34,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Back to back long weekends? You shouldn\u2019t have",
+     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
+     "url": "https://redd.it/1y3ix5y",
+     "ups": 157,
+     "sub": "r/memes"
+    },
+    {
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 5620,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Jensen Huang Nov-23rd.",
+     "image": "https://i.redd.it/gapwccf3vd3i1.png",
+     "url": "https://redd.it/1y3lnyb",
+     "ups": 55,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T13:06:56.471502+00:00",
+   "fetched_at": "2026-11-24T13:37:00.565667+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Jensen Huang discloses more affairs",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
      "likes": 0,
      "image": ""
     },
@@ -208,6 +200,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "SEC probes Nvidia accounting",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Iowa Army detonation court case",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
@@ -216,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -248,42 +232,74 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Marcus Olang's essay on AI writing",
+     "text": "Grand Theft Auto VI release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4571cc4f69f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Riemann hypothesis proof claimed",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Google adds AI across products",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Women's World Cup host vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d51907d35453",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE arrests at Seattle airport",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames Democrats for selloff",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "But the stockmarket is recovering so who cares /s",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63794243",
+     "likes": 68,
+     "image": "https://lemmy.world/pictrs/image/748eee8d-d0da-4d82-b807-a94f87a267c8.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Play dumb",
+     "author": "Comic Strips",
+     "url": "https://lemmy.ca/post/74300943",
+     "likes": 38,
+     "image": "https://lemmy.world/pictrs/image/bfedf5dc-3194-487c-854e-3e8d5240247c.png"
     },
     {
      "kind": "Lemmy post",
      "text": "extinction",
      "author": "Lemmy Shitpost",
      "url": "https://quokk.au/c/lemmyshitpost/p/1359878/extinction",
-     "likes": 35,
+     "likes": 89,
      "image": "https://lemmy.world/pictrs/image/72805f2d-993b-4dc8-b093-d7679e519e76.webp"
     },
     {
@@ -291,37 +307,25 @@
      "text": "Trump made up to $15m on Nvidia stock after Huang\u2019s return",
      "author": "politics ",
      "url": "https://lemmy.world/post/54793756",
-     "likes": 18,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/b9235624-7b1a-4a55-b1ba-dc4df2fabe5e.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Five women killed every hour by relatives in 2025, UN report finds",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54793524",
-     "likes": 15,
-     "image": "https://www.rte.ie/images/00216720-500.jpg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Swiped right on a man in his 70s on Tinder for this exact reason. Like how\u2019d you even end up here?",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54792685",
-     "likes": 57,
-     "image": "https://lemmy.world/pictrs/image/602e8247-aa5c-45ed-aee5-f30ec8afec9f.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T13:06:57.260139+00:00",
+   "fetched_at": "2026-11-24T13:37:01.511826+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Debugging: Removing the needles from the haystack.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I thought about going on an all-almond diet. But that's just nuts.",
+     "text": "Velcro\u2026 What a rip-off.",
      "source": "Dad joke"
     },
     {
-     "text": "How does a penguin build it\u2019s house? Igloos it together.",
+     "text": "I used to work for an origami company but they folded.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you teach a kid to climb stairs? There is a step by step guide.",
+     "text": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
      "source": "Dad joke"
     }
    ]
