@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:05:08.222583+00:00",
+ "generated_at": "2026-11-24T06:35:14.113006+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T06:05:04.712129+00:00",
+   "fetched_at": "2026-11-24T06:35:10.658602+00:00",
    "stale": false,
    "items": [
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1763,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 44,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 42,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 17,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2222,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3407,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,52 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 645,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3371,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5581,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1271,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I live in the GTA so it's okay",
-     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
-     "url": "https://redd.it/1y3t7up",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 974,
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 444,
      "sub": "r/memes"
     },
     {
@@ -163,54 +149,52 @@
      "sub": "r/memes"
     },
     {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
-     "ups": 48,
+     "title": "Guess who's back",
+     "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
+     "url": "https://redd.it/1y3kve6",
+     "ups": 57,
      "sub": "r/memes"
     },
     {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 49,
+     "title": "the game they really wanted",
+     "image": "https://i.redd.it/008cgcfe7g3i1.png",
+     "url": "https://redd.it/1y3xx2n",
+     "ups": 8,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
+     "image": "https://i.redd.it/vt1nyao6he3i1.png",
+     "url": "https://redd.it/1y3oz7d",
+     "ups": 135,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Your entire day is now controlled by a delivery driver",
+     "image": "https://i.redd.it/mgt1e2nji83i1.png",
+     "url": "https://redd.it/1y30w2i",
+     "ups": 508,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T06:05:07.001086+00:00",
+   "fetched_at": "2026-11-24T06:35:12.927336+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang discloses more affairs",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Iowa Army detonation court case",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "November full supermoon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Personal boycotts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google plans personalized AI TV channel",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ee838eef1813",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +208,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Personal boycotts",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "SEC probes Nvidia accounting",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
@@ -232,88 +224,96 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Leak reveals Russian war dead",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3539ccc9f10c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Google adds AI across products",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Favorite first Magic set card",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "November full supermoon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
+     "text": "Marcus Olang's essay on AI writing",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4571cc4f69f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "World Court rules in Rohingya genocide case",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bc14abe9d5f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Schumer vows to back Israel aid",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d06009d512c3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Anon makes an informed choice",
-     "author": "Greentext",
-     "url": "https://sh.itjust.works/post/70393361",
-     "likes": 59,
-     "image": "https://lemmy.world/pictrs/image/c111b43a-eb56-4a42-a11c-bb7b321d28cd.png"
+     "text": "GTA 6. [265]",
+     "author": "Mimi.",
+     "url": "https://discuss.tchncs.de/post/71364058",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/20f98a5e-0f22-4972-9092-4b4bf01eb98b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Thanks dad!",
-     "author": "NiceMemes",
-     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1088288/thanks-dad",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/6574517f-6d46-49a6-86c5-6300a688cdc5.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Amazon Forcing Drivers to Deliver Packages Coated in Propaganda Against Treating Them Better: \"It's greed.\"",
-     "author": "News",
-     "url": "https://lemmy.world/post/54784313",
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1088330/me-irl",
      "likes": 24,
-     "image": "https://lemmy.world/pictrs/image/405561ea-fdcb-429c-8c39-cbac634b618d.jpeg"
+     "image": "https://lemmy.world/pictrs/image/c676b556-da4d-4c45-9af5-e1f7d8744957.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "germany has officially adopted the UTC-498749:26 rulezone",
+     "text": "Protect those enamels rule",
      "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50869115",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/9bed5596-63b8-4835-bd12-0751f68b608b.webp"
+     "url": "https://lemmy.blahaj.zone/post/50870273",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/3734b8e7-839a-4bd3-9abb-d0ec9f08c13a.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "No promises",
+     "author": "General Memes & Private Chuckle",
+     "url": "https://piefed.blahaj.zone/c/Memes@lemmy.dbzer0.com/p/1088394/no-promises",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/3151405f-6970-4b9c-838e-8cdec88c4f92.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T06:05:07.714684+00:00",
+   "fetched_at": "2026-11-24T06:35:13.564589+00:00",
    "stale": false,
    "items": [
     {
@@ -321,7 +321,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
      "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
      "source": "Dad joke"
     },
     {
-     "text": "What\u2019s Forest Gump\u2019s Facebook password? 1forest1",
+     "text": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was ten scared of seven? Because seven ate nine.",
+     "text": "What did the grape do when he got stepped on? He let out a little wine.",
      "source": "Dad joke"
     }
    ]
