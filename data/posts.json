@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:06:08.897592+00:00",
+ "generated_at": "2026-11-24T10:36:15.747277+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,30 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T10:06:05.589846+00:00",
+   "fetched_at": "2026-11-24T10:36:11.152537+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 471,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 313,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "craigGentry",
      "image": "https://i.redd.it/3k5tbu41h72i1.png",
@@ -121,24 +100,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 67,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1757,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 495,
+     "title": "devsAtMicrosoftRightNow",
+     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
+     "url": "https://redd.it/1xv4nsz",
+     "ups": 4087,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "the game they really wanted",
-     "image": "https://i.redd.it/008cgcfe7g3i1.png",
-     "url": "https://redd.it/1y3xx2n",
-     "ups": 12,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1590,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1478,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 310,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "guess who's back",
+     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
+     "url": "https://redd.it/1y3uhc3",
+     "ups": 52,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 128,
+     "sub": "r/memes"
+    },
+    {
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1203,
      "sub": "r/memes"
     },
     {
@@ -149,37 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Idek what they want me to do besides already know the answer",
-     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
-     "url": "https://redd.it/1y438hr",
-     "ups": 44,
+     "title": "At least give them a few minutes gah damn",
+     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
+     "url": "https://redd.it/1y49df8",
+     "ups": 1,
      "sub": "r/memes"
     },
     {
-     "title": "Let it Huang",
-     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
-     "url": "https://redd.it/1y3yk8f",
-     "ups": 30,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
-     "image": "https://i.redd.it/vt1nyao6he3i1.png",
-     "url": "https://redd.it/1y3oz7d",
-     "ups": 184,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Somehow, Jensen has returned.",
-     "image": "https://i.redd.it/1x3osa1esd3i1.png",
-     "url": "https://redd.it/1y3lama",
-     "ups": 30,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 2088,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T10:06:07.713776+00:00",
+   "fetched_at": "2026-11-24T10:36:13.892467+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham rebuffs former prime ministers",
+     "text": "Grand Theft Auto VI release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Iowa Army detonation court case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine claims Libya warship sinking",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
@@ -216,41 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "SEC probes Nvidia accounting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "States sue SpaceX over Grok",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e15f2a19fe1a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google adds AI across products",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Washington girls' sports sex exam law",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
@@ -264,76 +240,100 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
+     "text": "Marcus Olang's essay on AI writing",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4571cc4f69f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Wave of software vulnerability disclosures",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b659c9e1d0a1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Women's World Cup host vote",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d51907d35453",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Burnham rebuffs former prime ministers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames Democrats for selloff",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Online \"debates\" in a nutshell",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63788253",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/4cf467f2-f182-4765-bb86-4ffa65ac1555.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "ich\ud83e\udd50iel",
+     "author": "ich_iel",
+     "url": "https://cake.kobel.fyi/c/ich_iel@feddit.org/p/286820/ichiel",
+     "likes": 4,
+     "image": "https://lemmy.world/pictrs/image/e540bf80-5288-486c-bab1-54ecdacd8af3.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "ich\u202eiel",
      "author": "ich_iel",
      "url": "https://sopuli.xyz/post/55016207",
-     "likes": 17,
+     "likes": 26,
      "image": "https://lemmy.world/pictrs/image/69fa869d-9fe2-4952-8440-b5e6f18a7e73.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Always iterating. \ud83e\udd17",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.zip/post/75571970",
-     "likes": 29,
-     "image": "https://lemmy.zip/pictrs/image/a7d0ce9d-7369-4c03-9a57-eff1c4d36519.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Is AI Conscious?",
-     "author": "Political Memes",
-     "url": "https://sh.itjust.works/post/70398859",
-     "likes": 108,
-     "image": "https://lemmy.world/pictrs/image/b28823a3-13f5-4057-a43d-6a861f4b398e.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "*You are startled awake by a sick drum solo.*",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75571631",
-     "likes": 40,
-     "image": "https://lemmy.zip/pictrs/image/d2430225-6156-48bc-9877-5c9b9e808909.avif"
+     "text": "Big Tech could face billions of dollars in fines under Australian internet safety bill",
+     "author": "Technology",
+     "url": "https://programming.dev/post/59841217",
+     "likes": 8,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T10:06:08.537706+00:00",
+   "fetched_at": "2026-11-24T10:36:15.030737+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
      "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
@@ -345,11 +345,11 @@
      "source": "Dad joke"
     },
     {
-     "text": "I asked a frenchman if he played video games. He said \"Wii\"",
+     "text": "The shovel was a ground-breaking invention.",
      "source": "Dad joke"
     },
     {
-     "text": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
+     "text": "Why did the chicken get a penalty? For fowl play.",
      "source": "Dad joke"
     }
    ]
