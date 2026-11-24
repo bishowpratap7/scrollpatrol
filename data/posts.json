@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:09:56.453096+00:00",
+ "generated_at": "2026-11-24T23:40:01.089569+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,64 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T23:09:52.908832+00:00",
+   "fetched_at": "2026-11-24T23:39:58.434516+00:00",
    "stale": false,
    "items": [
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 569,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 122,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5659,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 951,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 6048,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 555,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 343,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1755,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 268,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 393,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2237,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Let it Huang",
-     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
-     "url": "https://redd.it/1y3yk8f",
-     "ups": 31,
-     "sub": "r/memes"
-    },
-    {
-     "title": "At least give them a few minutes gah damn",
-     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
-     "url": "https://redd.it/1y49df8",
-     "ups": 17,
-     "sub": "r/memes"
     },
     {
      "title": "I know I'm a little bit late",
@@ -156,48 +142,46 @@
      "sub": "r/memes"
     },
     {
-     "title": "New leave just dropped",
-     "image": "https://i.redd.it/6w9efev11j3i1.png",
-     "url": "https://redd.it/1y48neo",
-     "ups": 19,
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 6031,
      "sub": "r/memes"
     },
     {
-     "title": "I think its time....",
-     "image": "https://i.redd.it/uh3r4ecbhj3i1.png",
-     "url": "https://redd.it/1y4a4cq",
-     "ups": 13,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1566,
      "sub": "r/memes"
     },
     {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 89,
+     "title": "Guess what... RTX 6090 just got tested",
+     "image": "https://i.redd.it/aokcsgheoe3i1.png",
+     "url": "https://redd.it/1y3q2v9",
+     "ups": 98,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 119,
+     "sub": "r/memes"
+    },
+    {
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 1137,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T23:09:54.969876+00:00",
+   "fetched_at": "2026-11-24T23:39:59.942385+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Evacuations urged before Iowa detonation",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74fc24a95fc1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Romney questions China AI chips",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "November full supermoon",
@@ -208,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "Trump pardons Thanksgiving turkeys",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25cca3a6e2c1",
      "likes": 0,
      "image": ""
     },
@@ -224,33 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang's \"tortured story\" remark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8fa91cab967",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Wrong Lord of the Rings quotes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tidal bans AI-generated music",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "\"I Know Your Age\" quiz",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army operation in Iowa raises lead fears",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74fc24a95fc1",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +232,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Kelsey Grammer's Beast first look",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/63aca864baa7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tidal bans AI-generated music",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Showing up to Thanksgiving dinner",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Cybersecurity breach reported at CIA",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump gives Giuliani Medal of Freedom",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22ffc27afd00",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Amazon Announces New Bond Villain Will Be Hellbent on Global Workers\u2019 Rights",
+     "author": "The Onion and other satire w/ layers",
+     "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1090177/amazon-announces-new-bond-villain-will-be-hellbent-on-global-workers-rights",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/9f84483b-f5ae-48ae-9541-8eacee51377e.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "\"Computer, create a program\"",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://discuss.tchncs.de/post/71399215",
-     "likes": 30,
+     "likes": 58,
      "image": "https://lemmy.world/pictrs/image/5d89ccf6-3de9-4d2a-b16d-903062d2d919.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Humboldt Park Coffee Shop Announces It\u2019s Permanently Closed After Fallout Over ICE Allegations",
+     "author": "Illinois",
+     "url": "https://quokk.au/c/illinois/p/1362149/humboldt-park-coffee-shop-announces-its-permanently-closed-after-fallout-over-ice-allegation",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/bee255ee-bd34-49e3-aca3-398a19af3701.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "\"Computer, create a program\"",
      "author": "memes",
      "url": "https://discuss.tchncs.de/post/71399221",
-     "likes": 26,
+     "likes": 44,
      "image": "https://lemmy.world/pictrs/image/7d7bc041-f4e9-4525-9c79-5f4f018bfd6c.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Sudoku in the terminal, with mouse support (bash)",
-     "author": "Linux",
-     "url": "https://lemmy.world/post/54813074",
-     "likes": 10,
-     "image": "https://gitlab.com/christosangel/tui-sudoku/-/raw/main/screenshots/tui-sudoku.gif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Another fluorite. I love this stone.",
-     "author": "MineralPorn : stunning stones !",
-     "url": "https://lemmy.world/post/54812636",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/a79bd2e9-9f90-4ece-bb02-542a1e371749.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T23:09:55.879614+00:00",
+   "fetched_at": "2026-11-24T23:40:00.527980+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I don't trust sushi, there's something fishy about it.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the chicken get a penalty? For fowl play.",
+     "text": "Why don't eggs tell jokes? They'd crack each other up",
      "source": "Dad joke"
     },
     {
-     "text": "A horse walks into a bar. The bar tender says \"Hey.\" The horse says \"Sure.\"",
+     "text": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
      "source": "Dad joke"
     }
    ]
