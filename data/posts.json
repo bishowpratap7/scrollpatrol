@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:05:21.082596+00:00",
+ "generated_at": "2026-11-24T07:05:34.352282+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T07:05:17.368116+00:00",
+   "fetched_at": "2026-11-24T07:05:31.066049+00:00",
    "stale": false,
    "items": [
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 244,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 249,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1763,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 59,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 560,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,18 +107,32 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 5714,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 140,
-     "sub": "r/memes"
+     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
+     "image": "https://i.redd.it/sqilz99j2i1i1.png",
+     "url": "https://redd.it/1xvsh3j",
+     "ups": 139,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 271,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1763,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "Guess who's back",
@@ -149,37 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "Somehow, Jensen has returned.",
-     "image": "https://i.redd.it/1x3osa1esd3i1.png",
-     "url": "https://redd.it/1y3lama",
-     "ups": 29,
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 23356,
      "sub": "r/memes"
     },
     {
-     "title": "Discussions surrounding this one game...",
-     "image": "https://i.redd.it/1i38kxjc7b3i1.gif",
-     "url": "https://redd.it/1y3binq",
-     "ups": 920,
+     "title": "I live in the GTA so it's okay",
+     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
+     "url": "https://redd.it/1y3t7up",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "idgaf Jason is my goat",
-     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
-     "url": "https://redd.it/1y3k6e8",
-     "ups": 4914,
+     "title": "Back to back long weekends? You shouldn\u2019t have",
+     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
+     "url": "https://redd.it/1y3ix5y",
+     "ups": 140,
      "sub": "r/memes"
     },
     {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
-     "ups": 48,
+     "title": "a long and dark journey",
+     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
+     "url": "https://redd.it/1y3oap2",
+     "ups": 15,
+     "sub": "r/memes"
+    },
+    {
+     "title": "AI bros right now",
+     "image": "https://i.redd.it/qx8mq45pze3i1.png",
+     "url": "https://redd.it/1y3rt2c",
+     "ups": 50,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T07:05:19.603057+00:00",
+   "fetched_at": "2026-11-24T07:05:33.126385+00:00",
    "stale": false,
    "items": [
     {
@@ -313,15 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T07:05:20.596665+00:00",
+   "fetched_at": "2026-11-24T07:05:33.981099+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "What is this movie about? It is about 2 hours long.",
+     "text": "Coffee has a tough time at my house, every morning it gets mugged.",
      "source": "Dad joke"
     },
     {
-     "text": "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.",
+     "text": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
      "source": "Dad joke"
     },
     {
-     "text": "What's blue and not very heavy?  Light blue.",
+     "text": "What is the leading cause of dry skin? Towels",
      "source": "Dad joke"
     }
    ]
