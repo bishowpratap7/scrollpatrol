@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:06:48.330373+00:00",
+ "generated_at": "2026-11-24T12:36:53.321251+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T12:06:46.586307+00:00",
+   "fetched_at": "2026-11-24T12:36:50.212385+00:00",
    "stale": false,
    "items": [
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 248,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 21,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3398,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 47,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3430,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,20 +128,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4207,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1755,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
      "title": "manWhyTheyGottaMakeGameDevThisHard",
      "image": "https://i.redd.it/ui8dp412tf1i1.png",
      "url": "https://redd.it/1xvic71",
@@ -128,24 +135,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1481,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
-     "ups": 55,
-     "sub": "r/memes"
-    },
-    {
      "title": "Idek what they want me to do besides already know the answer",
      "image": "https://i.redd.it/8dp0qyywgh3i1.png",
      "url": "https://redd.it/1y438hr",
      "ups": 53,
+     "sub": "r/memes"
+    },
+    {
+     "title": "At least give them a few minutes gah damn",
+     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
+     "url": "https://redd.it/1y49df8",
+     "ups": 5,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 159,
      "sub": "r/memes"
     },
     {
@@ -156,30 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1270,
+     "title": "Guess what... RTX 6090 just got tested",
+     "image": "https://i.redd.it/aokcsgheoe3i1.png",
+     "url": "https://redd.it/1y3q2v9",
+     "ups": 97,
      "sub": "r/memes"
     },
     {
-     "title": "Logic. Pure market logic.",
-     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
-     "url": "https://redd.it/1y3o6y9",
-     "ups": 185,
-     "sub": "r/memes"
-    },
-    {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1471,
+     "title": "guess who's back",
+     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
+     "url": "https://redd.it/1y3uhc3",
+     "ups": 57,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T12:06:47.523266+00:00",
+   "fetched_at": "2026-11-24T12:36:52.229848+00:00",
    "stale": false,
    "items": [
     {
@@ -200,17 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "November full supermoon",
+     "text": "Iowa Army detonation court case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Iowa Army detonation court case",
+     "text": "Grand Theft Auto VI release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +224,46 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "November full supermoon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Leak reveals Russian war dead",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3539ccc9f10c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving dinner preparations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Unusually warm late November weather",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Riemann hypothesis proof claimed",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fba11daf4901",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Burnham rebuffs former prime ministers",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
@@ -232,104 +272,60 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
+     "text": "Medicare for All and universal healthcare",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eecf5d7b03b0",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Swiped right on a man in his 70s on Tinder for this exact reason. Like how\u2019d you even end up here?",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54792685",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/602e8247-aa5c-45ed-aee5-f30ec8afec9f.jpeg"
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Cyclops in Avengers: Doomsday footage",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/322a7dc78c89",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "States sue SpaceX over Grok",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e15f2a19fe1a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Delayed Cancer Treatment. Missed Medication. How a Popular Insurance Plan\u2019s Use of Prior Authorization Hurt Patients.",
+     "author": "News",
+     "url": "https://lemmy.zip/post/75578989",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/e414088f-31d5-4601-a291-6133bc0b1ba4.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
      "author": "Technology",
      "url": "https://lemmy.zip/post/75576831",
-     "likes": 23,
+     "likes": 44,
      "image": "https://lemmy.world/pictrs/image/39a51e62-8d6b-4066-9fa2-3d459e7c8ba0.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Moondancer",
-     "author": "Superbowl",
-     "url": "https://lemmy.world/post/54791206",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/a1320327-3a14-41a6-b355-efea091df891.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I Used To Be A Real Piece Of Shit",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54790531",
-     "likes": 71,
-     "image": "https://lemmy.world/pictrs/image/c71fe80f-38e3-4c24-96e5-5d6a8a02f1db.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "SCIENCE",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/77139720",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/6b6679c5-61c4-45e5-9501-c922ae87a180.jpeg"
+     "text": "What are the advantages of using Arch Linux over a more easy-to-use distro?",
+     "author": "No Stupid Questions",
+     "url": "https://lemmy.blahaj.zone/post/50876973",
+     "likes": 7,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T12:06:47.969115+00:00",
+   "fetched_at": "2026-11-24T12:36:52.875862+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -337,19 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Leather is great for sneaking around because it's made of hide.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What kind of bagel can fly? A plain bagel.",
      "source": "Dad joke"
     },
     {
-     "text": "How come the stadium got hot after the game? Because all of the fans left.",
+     "text": "What was the pumpkin\u2019s favorite sport?\r\n\r\nSquash.",
      "source": "Dad joke"
     },
     {
-     "text": "I am so good at sleeping I can do it with my eyes closed!",
+     "text": "I\u2019m on a whiskey diet. I\u2019ve lost three days already.",
      "source": "Dad joke"
     }
    ]
