@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:08:34.144047+00:00",
+ "generated_at": "2026-11-24T18:38:41.097299+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,16 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T18:08:31.073628+00:00",
+   "fetched_at": "2026-11-24T18:38:38.315810+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 568,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "compilersHateThisOneTrick",
      "image": "https://i.redd.it/jmm944uup73i1.png",
@@ -100,59 +107,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 870,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 5979,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 44,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1759,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 315,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 651,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 262,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 9662,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 7,
+     "title": "guess who's back",
+     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
+     "url": "https://redd.it/1y3uhc3",
+     "ups": 59,
      "sub": "r/memes"
     },
     {
-     "title": "AI bros right now",
-     "image": "https://i.redd.it/qx8mq45pze3i1.png",
-     "url": "https://redd.it/1y3rt2c",
-     "ups": 75,
+     "title": "Let it Huang",
+     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
+     "url": "https://redd.it/1y3yk8f",
+     "ups": 34,
      "sub": "r/memes"
     },
     {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 299,
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1566,
      "sub": "r/memes"
     },
     {
@@ -163,30 +163,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 169,
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 5893,
      "sub": "r/memes"
     },
     {
-     "title": "What an incredible map, my friends",
-     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
-     "url": "https://redd.it/1y31ghw",
-     "ups": 24304,
+     "title": "Didn't lie after all",
+     "image": "https://i.redd.it/tnqtm90sil3i1.png",
+     "url": "https://redd.it/1y4jccx",
+     "ups": 106,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T18:08:32.564960+00:00",
+   "fetched_at": "2026-11-24T18:38:39.887975+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang discloses more affairs",
+     "text": "Jensen Huang's \"tortured story\" remark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8fa91cab967",
      "likes": 0,
      "image": ""
     },
@@ -200,25 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tidal bans AI-generated music",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Wrong Lord of the Rings quotes",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Close races in 2026 midterms",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bf32c2856c4",
      "likes": 0,
      "image": ""
     },
@@ -232,25 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "\"I Know Your Age\" quiz",
+     "text": "King tides threaten Bay Area flooding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
+     "text": "Most memorable TV theme songs",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Personal boycotts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6097c6439525",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +240,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Huang denies government role in return",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tidal bans AI-generated music",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Van Hollen challenges Schumer",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
@@ -272,84 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Most memorable TV theme songs",
+     "text": "Trump blames Democrats for selloff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6097c6439525",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Jenny, I got your number...",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70418798",
-     "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/c6ed6705-616f-4795-9c71-ebe36cd8ce92.jpeg"
+     "text": "Tidal Bans AI-Generated Music",
+     "author": "Technology",
+     "url": "https://feddit.online/c/technology@lemmy.world/p/2137906/tidal-bans-ai-generated-music",
+     "likes": 62,
+     "image": "https://lemmy.world/pictrs/image/6230ce01-f1e3-476e-9dec-ed4581304120.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "The New York Times warns photographers not to update Photoshop over AI features",
      "author": "Fuck AI",
      "url": "https://reddthat.com/post/77156829",
-     "likes": 27,
+     "likes": 66,
      "image": "https://lemmy.world/pictrs/image/d6be5411-7d1c-4292-a93f-cbdd8f94749b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Tuesdays",
+     "text": "Jenny, I got your number...",
      "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70419004",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/8a9dd27a-f13b-413e-aa03-85968db8e3fa.jpeg"
+     "url": "https://sh.itjust.works/post/70418798",
+     "likes": 80,
+     "image": "https://lemmy.world/pictrs/image/c6ed6705-616f-4795-9c71-ebe36cd8ce92.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Lunchtime",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70419006",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/5af5d929-1d9a-4a66-ab7c-ede7b3d30c4b.jpeg"
+     "text": "elon musk after democrats won the midterms",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.sdf.org/post/62300942",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/b6db8724-a3aa-4e61-88d5-8eaf685f5275.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T18:08:33.272815+00:00",
+   "fetched_at": "2026-11-24T18:38:40.316803+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
     {
      "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "It's difficult to say what my wife does, she sells sea shells by the sea shore.",
+     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
      "source": "Dad joke"
     },
     {
-     "text": "How many apples grow on a tree? All of them!",
+     "text": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.",
      "source": "Dad joke"
     },
     {
-     "text": "How does Darth Vader like his toast? On the dark side.",
+     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
      "source": "Dad joke"
     }
    ]
