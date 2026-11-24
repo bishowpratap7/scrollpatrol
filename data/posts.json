@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:04:55.718975+00:00",
+ "generated_at": "2026-11-24T05:35:02.310276+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,56 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T05:04:52.353789+00:00",
+   "fetched_at": "2026-11-24T05:34:58.308346+00:00",
    "stale": false,
    "items": [
     {
-     "title": "strategicManagementOfAirspaceRoutesAndTrajectories",
-     "image": "https://i.redd.it/sqilz99j2i1i1.png",
-     "url": "https://redd.it/1xvsh3j",
-     "ups": 135,
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4213,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 334,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1589,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 271,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3407,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 18,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 306,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "commentsInJson",
      "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
      "url": "https://redd.it/1y1rd5z",
-     "ups": 5563,
+     "ups": 5581,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 43,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 17,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "a long and dark journey",
+     "image": "https://i.redd.it/rvnxcjqqce3i1.gif",
+     "url": "https://redd.it/1y3oap2",
+     "ups": 13,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Let it Huang",
+     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
+     "url": "https://redd.it/1y3yk8f",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 4473,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Guess what... RTX 6090 just got tested",
+     "image": "https://i.redd.it/aokcsgheoe3i1.png",
+     "url": "https://redd.it/1y3q2v9",
+     "ups": 85,
      "sub": "r/memes"
     },
     {
@@ -149,37 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "I live in the GTA so it's okay",
-     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
-     "url": "https://redd.it/1y3t7up",
-     "ups": 14,
-     "sub": "r/memes"
-    },
-    {
-     "title": "AI helped plumbers and electricians?",
-     "image": "https://i.redd.it/ix486yrn863i1.png",
-     "url": "https://redd.it/1y2q64h",
-     "ups": 1816,
-     "sub": "r/memes"
-    },
-    {
-     "title": "and he got homework to do",
-     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
-     "url": "https://redd.it/1y3w8ww",
-     "ups": 4,
-     "sub": "r/memes"
-    },
-    {
-     "title": "idgaf Jason is my goat",
-     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
-     "url": "https://redd.it/1y3k6e8",
-     "ups": 4473,
+     "title": "Somehow, Jensen has returned.",
+     "image": "https://i.redd.it/1x3osa1esd3i1.png",
+     "url": "https://redd.it/1y3lama",
+     "ups": 28,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T05:04:54.598898+00:00",
+   "fetched_at": "2026-11-24T05:35:00.585589+00:00",
    "stale": false,
    "items": [
     {
@@ -200,6 +200,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Iowa Army detonation court case",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
@@ -208,25 +216,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
+     "text": "November full supermoon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump hosts dinner for meme coin holders",
+     "text": "NFL Week 11 games",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f546576c71b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10bf76088faf",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Favorite first Magic set card",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a7b6a6c402ab",
      "likes": 0,
      "image": ""
     },
@@ -240,66 +256,42 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Unusually warm late November weather",
+     "text": "King tides threaten Bay Area flooding",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/13dcaa82e2bd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google adds AI across products",
+     "text": "Washington girls' sports sex exam law",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Leak reveals Russian war dead",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3539ccc9f10c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Calls to release Epstein files",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00d4241b94de",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/48ab78c830ab",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Let's \ud83e\udef4\ud83c\udffb",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54783227",
-     "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/9aa04366-2c4e-4ee2-9b4f-845b1c4ea4a6.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Ladybird Browser alpha is released for Linux and Macos",
-     "author": "Open Source",
-     "url": "https://lemmy.ml/post/55675466",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/63b71393-cce4-461e-9a95-13d808514500.png"
+     "text": "Anon makes an informed choice",
+     "author": "Greentext",
+     "url": "https://sh.itjust.works/post/70393361",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/c111b43a-eb56-4a42-a11c-bb7b321d28cd.png"
     },
     {
      "kind": "Lemmy post",
      "text": "All these gun nuts and mass shootings in US, why there only one Luigi and 1000s of punk and chump cowards killing innocents in schools and grocery stores!?!",
      "author": "Showerthoughts",
      "url": "https://lemmy.world/post/54783230",
-     "likes": 7,
+     "likes": 31,
      "image": "https://lemmy.world/pictrs/image/acc35286-b933-4e18-99ab-d3e1489ebba1.jpeg"
     },
     {
@@ -307,25 +299,37 @@
      "text": "Protests in Chicago After Google Warns Schools About Disabling AI Feature",
      "author": "Technology",
      "url": "https://lemmy.world/post/54783226",
-     "likes": 9,
+     "likes": 28,
      "image": "https://lemmy.world/pictrs/image/0f232aec-8343-40a0-a0f2-f707569d4cbc.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "That time of year",
+     "author": "aww",
+     "url": "https://piefed.blahaj.zone/c/aww@lemmy.world/p/1088209/that-time-of-year",
+     "likes": 8,
+     "image": "https://lemmy.world/pictrs/image/3afb897c-8df0-4c7d-bb9c-178c45930f53.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T05:04:55.182203+00:00",
+   "fetched_at": "2026-11-24T05:35:01.375843+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What do you call a dad that has fallen through the ice? A Popsicle.",
+     "text": "I used to work for an origami company but they folded.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do pirates not know the alphabet? They always get stuck at \"C\".",
+     "text": "What do you call a fat psychic? A four-chin teller.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
+     "text": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
      "source": "Dad joke"
     }
    ]
