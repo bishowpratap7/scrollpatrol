@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:37:02.157372+00:00",
+ "generated_at": "2026-11-24T14:07:25.087700+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,107 +89,99 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T13:36:59.609003+00:00",
+   "fetched_at": "2026-11-24T14:07:21.130228+00:00",
    "stale": false,
    "items": [
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 561,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 592,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3420,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 49,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 942,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5609,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3405,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 255,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1597,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3442,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 9485,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 357,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I live in the GTA so it's okay",
-     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
-     "url": "https://redd.it/1y3t7up",
-     "ups": 22,
+     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
+     "image": "https://i.redd.it/vt1nyao6he3i1.png",
+     "url": "https://redd.it/1y3oz7d",
+     "ups": 235,
      "sub": "r/memes"
     },
     {
-     "title": "First day of an internship is always tough",
-     "image": "https://i.redd.it/0tjjqq4m193i1.png",
-     "url": "https://redd.it/1y338ec",
-     "ups": 1036,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Let it Huang",
-     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
-     "url": "https://redd.it/1y3yk8f",
-     "ups": 34,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 157,
-     "sub": "r/memes"
-    },
-    {
-     "title": "idgaf Jason is my goat",
-     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
-     "url": "https://redd.it/1y3k6e8",
-     "ups": 5620,
+     "title": "guess who's back",
+     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
+     "url": "https://redd.it/1y3uhc3",
+     "ups": 60,
      "sub": "r/memes"
     },
     {
      "title": "Jensen Huang Nov-23rd.",
      "image": "https://i.redd.it/gapwccf3vd3i1.png",
      "url": "https://redd.it/1y3lnyb",
-     "ups": 55,
+     "ups": 58,
+     "sub": "r/memes"
+    },
+    {
+     "title": "New leave just dropped",
+     "image": "https://i.redd.it/6w9efev11j3i1.png",
+     "url": "https://redd.it/1y48neo",
+     "ups": 6,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Back to back long weekends? You shouldn\u2019t have",
+     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
+     "url": "https://redd.it/1y3ix5y",
+     "ups": 165,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 4078,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T13:37:00.565667+00:00",
+   "fetched_at": "2026-11-24T14:07:23.748652+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang discloses more affairs",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Personal boycotts",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "SEC probes Nvidia accounting",
+     "text": "Jensen Huang discloses more affairs",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Trump blames Democrats for selloff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "November full supermoon",
+     "text": "SEC probes Nvidia accounting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +232,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
+     "text": "November full supermoon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google adds AI across products",
+     "text": "AI sell-off overshadows Anthropic IPO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Women's World Cup host vote",
+     "text": "FFXIV opens North America-Europe travel",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d51907d35453",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a8c175fa6466",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -283,37 +283,37 @@
      "text": "But the stockmarket is recovering so who cares /s",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63794243",
-     "likes": 68,
+     "likes": 158,
      "image": "https://lemmy.world/pictrs/image/748eee8d-d0da-4d82-b807-a94f87a267c8.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Play dumb",
-     "author": "Comic Strips",
-     "url": "https://lemmy.ca/post/74300943",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/bfedf5dc-3194-487c-854e-3e8d5240247c.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "extinction",
-     "author": "Lemmy Shitpost",
-     "url": "https://quokk.au/c/lemmyshitpost/p/1359878/extinction",
-     "likes": 89,
-     "image": "https://lemmy.world/pictrs/image/72805f2d-993b-4dc8-b093-d7679e519e76.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Trump made up to $15m on Nvidia stock after Huang\u2019s return",
+     "text": "Trump administration sued over \u2018selective removal\u2019 of Black history at the President\u2019s House",
      "author": "politics ",
-     "url": "https://lemmy.world/post/54793756",
-     "likes": 51,
-     "image": "https://lemmy.world/pictrs/image/b9235624-7b1a-4a55-b1ba-dc4df2fabe5e.jpeg"
+     "url": "https://lemmy.world/post/54795553",
+     "likes": 52,
+     "image": "https://lemmy.world/pictrs/image/7541a4b8-4f2b-49b6-93bf-121d0aae7ddf.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Time to wake up",
+     "author": "Catposting",
+     "url": "https://lemmy.blahaj.zone/post/50879181",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/fd34d22b-31a1-43a0-9f15-5284974f7afb.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "This could be rule",
+     "author": "196",
+     "url": "https://crazypeople.online/post/28005002",
+     "likes": 48,
+     "image": "https://lemmy.world/pictrs/image/d1d1d6d2-df51-43ed-9114-560d8db474ae.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T13:37:01.511826+00:00",
+   "fetched_at": "2026-11-24T14:07:24.475717+00:00",
    "stale": false,
    "items": [
     {
@@ -321,44 +321,44 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Velcro\u2026 What a rip-off.",
+     "text": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to work for an origami company but they folded.",
+     "text": "What kind of magic do cows believe in? MOODOO.",
      "source": "Dad joke"
     },
     {
-     "text": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
+     "text": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
