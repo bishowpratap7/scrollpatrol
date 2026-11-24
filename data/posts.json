@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:07:25.087700+00:00",
+ "generated_at": "2026-11-24T14:37:38.367246+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,70 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T14:07:21.130228+00:00",
+   "fetched_at": "2026-11-24T14:37:27.139971+00:00",
    "stale": false,
    "items": [
     {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 592,
+     "title": "nvidiaDanger",
+     "image": "https://i.redd.it/05828o6brj3i1.png",
+     "url": "https://redd.it/1y4b2w8",
+     "ups": 922,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 49,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3420,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5609,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 647,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 255,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 474,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3442,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1597,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 357,
+     "title": "ultimateMergeConflict",
+     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
+     "url": "https://redd.it/1xy3mhz",
+     "ups": 59,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
-     "image": "https://i.redd.it/vt1nyao6he3i1.png",
-     "url": "https://redd.it/1y3oz7d",
-     "ups": 235,
-     "sub": "r/memes"
-    },
-    {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 60,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
-     "ups": 58,
+     "title": "I live in the GTA so it's okay",
+     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
+     "url": "https://redd.it/1y3t7up",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
@@ -163,33 +149,39 @@
      "sub": "r/memes"
     },
     {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 165,
+     "title": "and he got homework to do",
+     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
+     "url": "https://redd.it/1y3w8ww",
+     "ups": 28,
      "sub": "r/memes"
     },
     {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 4078,
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1517,
+     "sub": "r/memes"
+    },
+    {
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 895,
+     "sub": "r/memes"
+    },
+    {
+     "title": "At least give them a few minutes gah damn",
+     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
+     "url": "https://redd.it/1y49df8",
+     "ups": 11,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T14:07:23.748652+00:00",
+   "fetched_at": "2026-11-24T14:37:28.344162+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Personal boycotts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Jensen Huang discloses more affairs",
@@ -200,17 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Iowa Army detonation court case",
+     "text": "Personal boycotts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
+     "text": "Pope Francis diary: devil encounters",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
      "likes": 0,
      "image": ""
     },
@@ -224,41 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Iowa Army detonation court case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "November full supermoon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI sell-off overshadows Anthropic IPO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FFXIV opens North America-Europe travel",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a8c175fa6466",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -272,6 +240,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "November full supermoon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "NFL Week 11 games",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/10bf76088faf",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames Democrats for selloff",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Trump calls Putin his friend",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
@@ -280,10 +280,26 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "The chinese need to be stopped.",
+     "author": "Lemmy Shitpost",
+     "url": "https://piefed.zip/c/lemmyshitpost@lemmy.world/p/2029086/the-chinese-need-to-be-stopped",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/325242f3-dfe2-4d24-b256-7d8acba6c011.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I knew it!",
+     "author": "Wholesome",
+     "url": "https://piefed.blahaj.zone/c/wholesome@reddthat.com/p/1088193/i-knew-it",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/5d18da5c-1429-42f6-b4d0-5269c38347f3.webp"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "But the stockmarket is recovering so who cares /s",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63794243",
-     "likes": 158,
+     "likes": 246,
      "image": "https://lemmy.world/pictrs/image/748eee8d-d0da-4d82-b807-a94f87a267c8.jpeg"
     },
     {
@@ -291,65 +307,49 @@
      "text": "Trump administration sued over \u2018selective removal\u2019 of Black history at the President\u2019s House",
      "author": "politics ",
      "url": "https://lemmy.world/post/54795553",
-     "likes": 52,
+     "likes": 87,
      "image": "https://lemmy.world/pictrs/image/7541a4b8-4f2b-49b6-93bf-121d0aae7ddf.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Time to wake up",
-     "author": "Catposting",
-     "url": "https://lemmy.blahaj.zone/post/50879181",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/fd34d22b-31a1-43a0-9f15-5284974f7afb.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "This could be rule",
-     "author": "196",
-     "url": "https://crazypeople.online/post/28005002",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/d1d1d6d2-df51-43ed-9114-560d8db474ae.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T14:07:24.475717+00:00",
+   "fetched_at": "2026-11-24T14:37:29.182652+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
     {
      "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
+     "text": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of magic do cows believe in? MOODOO.",
+     "text": "I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.",
      "source": "Dad joke"
     },
     {
-     "text": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
+     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
      "source": "Dad joke"
     }
    ]
