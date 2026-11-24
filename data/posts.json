@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:38:41.097299+00:00",
+ "generated_at": "2026-11-24T19:08:47.445488+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T18:38:38.315810+00:00",
+   "fetched_at": "2026-11-24T19:08:43.779229+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4215,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "javaForShell",
      "image": "https://i.redd.it/6bk18o8xmc2i1.png",
      "url": "https://redd.it/1xzc07i",
      "ups": 568,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 5979,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1759,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 651,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,31 +114,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 59,
-     "sub": "r/memes"
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 315,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Let it Huang",
-     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
-     "url": "https://redd.it/1y3yk8f",
-     "ups": 34,
-     "sub": "r/memes"
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 473,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1566,
-     "sub": "r/memes"
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 44,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "and he got homework to do",
-     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
-     "url": "https://redd.it/1y3w8ww",
-     "ups": 39,
+     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
+     "image": "https://i.redd.it/vt1nyao6he3i1.png",
+     "url": "https://redd.it/1y3oz7d",
+     "ups": 256,
      "sub": "r/memes"
     },
     {
@@ -167,6 +146,27 @@
      "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
      "url": "https://redd.it/1y3k6e8",
      "ups": 5893,
+     "sub": "r/memes"
+    },
+    {
+     "title": "guess who's back",
+     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
+     "url": "https://redd.it/1y3uhc3",
+     "ups": 59,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I think its time....",
+     "image": "https://i.redd.it/uh3r4ecbhj3i1.png",
+     "url": "https://redd.it/1y4a4cq",
+     "ups": 12,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Logic. Pure market logic.",
+     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
+     "url": "https://redd.it/1y3o6y9",
+     "ups": 235,
      "sub": "r/memes"
     },
     {
@@ -179,17 +179,9 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T18:38:39.887975+00:00",
+   "fetched_at": "2026-11-24T19:08:45.799868+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang's \"tortured story\" remark",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8fa91cab967",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Iowa Army detonation court case",
@@ -200,25 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Wrong Lord of the Rings quotes",
+     "text": "Jensen Huang's \"tortured story\" remark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8fa91cab967",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Francis diary: devil encounters",
+     "text": "Tidal bans AI-generated music",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "Trump blames Democrats for selloff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
      "likes": 0,
      "image": ""
     },
@@ -227,6 +219,14 @@
      "text": "Most memorable TV theme songs",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6097c6439525",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +248,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tidal bans AI-generated music",
+     "text": "Jensen Huang's daily therapy remark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f8f080de1922",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +264,101 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
+     "text": "Close races in 2026 midterms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bf32c2856c4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
+     "text": "Todd Blanche questioned on Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a0b3d738f3a9",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "meow rule",
+     "author": "196",
+     "url": "https://sh.itjust.works/post/70421546",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/ad92f630-cdcb-4443-a03c-951f6cb5f367.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Tidal Bans AI-Generated Music",
      "author": "Technology",
      "url": "https://feddit.online/c/technology@lemmy.world/p/2137906/tidal-bans-ai-generated-music",
-     "likes": 62,
+     "likes": 126,
      "image": "https://lemmy.world/pictrs/image/6230ce01-f1e3-476e-9dec-ed4581304120.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The New York Times warns photographers not to update Photoshop over AI features",
-     "author": "Fuck AI",
-     "url": "https://reddthat.com/post/77156829",
-     "likes": 66,
-     "image": "https://lemmy.world/pictrs/image/d6be5411-7d1c-4292-a93f-cbdd8f94749b.jpeg"
+     "text": "Vermonters vote to enshrine the right to unionize in their state constitution",
+     "author": "Work Reform",
+     "url": "https://lemmy.world/post/54805101",
+     "likes": 47,
+     "image": "https://lemmy.world/pictrs/image/d8759dec-7f3e-4ea7-9bab-3f317ae0bb1e.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Jenny, I got your number...",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70418798",
-     "likes": 80,
-     "image": "https://lemmy.world/pictrs/image/c6ed6705-616f-4795-9c71-ebe36cd8ce92.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "elon musk after democrats won the midterms",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.sdf.org/post/62300942",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/b6db8724-a3aa-4e61-88d5-8eaf685f5275.png"
+     "text": "AP investigation: The DEA allowed 1.4 million fentanyl pills to go unseized in major probe",
+     "author": "News",
+     "url": "https://lemmy.world/post/54805793",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/b3ee8eaf-4398-4883-8cb0-d7e8899a4412.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T18:38:40.316803+00:00",
+   "fetched_at": "2026-11-24T19:08:46.565683+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
+     "text": "My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.",
      "source": "Dad joke"
     },
     {
-     "text": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.",
+     "text": "How does a French skeleton say hello? Bone-jour.",
      "source": "Dad joke"
     },
     {
-     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
+     "text": "How do you get a baby alien to sleep?  You rocket.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
