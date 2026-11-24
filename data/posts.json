@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:37:47.864820+00:00",
+ "generated_at": "2026-11-24T16:07:53.402404+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T15:37:45.954510+00:00",
+   "fetched_at": "2026-11-24T16:07:49.774707+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 312,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 41,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 369,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "cacheRemembers",
      "image": "https://i.redd.it/q693dqo1il1i1.png",
@@ -100,10 +121,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 312,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 656,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,87 +135,82 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3411,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 60,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 552,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 4078,
+     "title": "Worst Platform",
+     "image": "https://i.redd.it/xdc8u59shk3i1.png",
+     "url": "https://redd.it/1y4e41h",
+     "ups": 1929,
      "sub": "r/memes"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1517,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jensen Huang Nov-23rd.",
-     "image": "https://i.redd.it/gapwccf3vd3i1.png",
-     "url": "https://redd.it/1y3lnyb",
-     "ups": 58,
-     "sub": "r/memes"
-    },
-    {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1341,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Idek what they want me to do besides already know the answer",
-     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
-     "url": "https://redd.it/1y438hr",
-     "ups": 63,
+     "title": "guess who's back",
+     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
+     "url": "https://redd.it/1y3uhc3",
+     "ups": 62,
      "sub": "r/memes"
     },
     {
      "title": "Guess who's back",
      "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
      "url": "https://redd.it/1y3kve6",
-     "ups": 69,
+     "ups": 74,
+     "sub": "r/memes"
+    },
+    {
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 5842,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 5095,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 263,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T15:37:46.966818+00:00",
+   "fetched_at": "2026-11-24T16:07:52.243426+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Jensen Huang discloses more affairs",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Iowa Army detonation court case",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c05e41c595d2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tidal bans AI-generated music",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Pope Francis diary: devil encounters",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US prepares new tariffs on China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42859965c058",
      "likes": 0,
      "image": ""
     },
@@ -216,41 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Jensen Huang discloses more affairs",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Michigan drops Trev Alberts hire",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/426dec81cab5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI release",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Close races in 2026 midterms",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2bf32c2856c4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Anthropic falls below IPO price",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "November full supermoon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pope Francis diary: devil encounters",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +264,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Trump gives Giuliani Medal of Freedom",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22ffc27afd00",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "ICE arrests at Seattle airport",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
@@ -271,94 +279,86 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Art class",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54799188",
+     "likes": 66,
+     "image": "https://lemmy.world/pictrs/image/9b591ece-895f-426a-836d-e00511ba3469.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Dookie cough shakes are how people died on the Oregon trail",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.today/post/63797864",
-     "likes": 74,
-     "image": "https://lemmy.world/pictrs/image/efa29012-f355-424b-94d8-ae809728aeb4.png"
+     "text": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
+     "author": "Fuck AI",
+     "url": "https://lemmy.nz/post/44149078",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/ab6882e8-75c8-4ef3-8142-4fb1cdd37a57.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Off the chain!",
      "author": "TenForward: Where Every Vulcan Knows Your Name",
      "url": "https://lemmy.world/post/54799025",
-     "likes": 20,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/5d0f26c1-8970-4f73-ac31-12dd0372cee2.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Art class",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54799188",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/9b591ece-895f-426a-836d-e00511ba3469.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Truly terrifying",
+     "text": "The work of the devil",
      "author": "memes",
-     "url": "https://reddthat.com/post/77148432",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/7d157f8f-e9cf-4a68-b448-3de2c52bd3de.webp"
+     "url": "https://lemmy.world/post/54799273",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/e8f39d45-9823-49cd-bd92-4682191c7006.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T15:37:47.410829+00:00",
+   "fetched_at": "2026-11-24T16:07:52.941104+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Someone asked me to name two structures that hold water. I said \"Well dam\"",
+     "text": "A bartender broke up with her boyfriend, but he kept asking her for another shot.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you know that protons have mass? I didn't even know they were catholic.",
+     "text": "My boss told me to attach two pieces of wood together... I totally nailed it!",
      "source": "Dad joke"
     },
     {
-     "text": "Why do you never see elephants hiding in trees? Because they're so good at it.",
+     "text": "What did the mountain climber name his son? Cliff.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
