@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:35:52.467590+00:00",
+ "generated_at": "2026-11-24T09:05:57.883018+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,44 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T08:35:48.970095+00:00",
+   "fetched_at": "2026-11-24T09:05:54.751279+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 338,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 255,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devsAtMicrosoftRightNow",
-     "image": "https://i.redd.it/2ybf8ceszc1i1.png",
-     "url": "https://redd.it/1xv4nsz",
-     "ups": 4082,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 593,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 469,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "newDevsBeLike",
      "image": "https://i.redd.it/why2eporof2i1.png",
@@ -135,17 +100,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 1394,
-     "sub": "r/memes"
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 861,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Let it Huang",
-     "image": "https://i.redd.it/5y5uz2p8cg3i1.png",
-     "url": "https://redd.it/1y3yk8f",
-     "ups": 31,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 5766,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4219,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 522,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Guess who's back",
+     "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
+     "url": "https://redd.it/1y3kve6",
+     "ups": 60,
      "sub": "r/memes"
     },
     {
@@ -156,53 +149,52 @@
      "sub": "r/memes"
     },
     {
-     "title": "Guess who's back",
-     "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
-     "url": "https://redd.it/1y3kve6",
-     "ups": 60,
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 112,
      "sub": "r/memes"
     },
     {
-     "title": "I live in the GTA so it's okay",
-     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
-     "url": "https://redd.it/1y3t7up",
-     "ups": 17,
+     "title": "Back to back long weekends? You shouldn\u2019t have",
+     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
+     "url": "https://redd.it/1y3ix5y",
+     "ups": 150,
      "sub": "r/memes"
     },
     {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 577,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1082,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 1394,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T08:35:51.129533+00:00",
+   "fetched_at": "2026-11-24T09:05:56.888480+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "SEC probes Nvidia accounting",
+     "text": "Jensen Huang discloses more affairs",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Theresa May urges accepting Brexit",
+     "text": "Grand Theft Auto VI release",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "November full supermoon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
      "likes": 0,
      "image": ""
     },
@@ -224,25 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang discloses more affairs",
+     "text": "SEC probes Nvidia accounting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Google adds AI across products",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +232,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "November full supermoon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Leak reveals Russian war dead",
+     "text": "US war with Iran",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3539ccc9f10c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ddb8a805b49a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames Democrats for selloff",
+     "text": "Thanksgiving dinner preparations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Change one letter, ruin a movie",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "EU rejects COP31 climate deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -283,53 +283,53 @@
      "text": "Is AI Conscious?",
      "author": "Political Memes",
      "url": "https://sh.itjust.works/post/70398859",
-     "likes": 23,
+     "likes": 59,
      "image": "https://lemmy.world/pictrs/image/b28823a3-13f5-4057-a43d-6a861f4b398e.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "My brain translates \"Red Alert\" to \"Enable Party Lighting\"",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54787163",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/c70f8d96-abe9-4e2d-a439-f65fb28d23a8.jpeg"
+     "text": "ich\ud83e\ude9a\ud83d\udddc\ufe0f\ud83d\udd29iel",
+     "author": "ich_iel",
+     "url": "https://discuss.tchncs.de/post/71367089",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/e83e2054-034f-4419-9cd2-1851e62137e3.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "What the hell Reddit?",
-     "author": "Reddit",
-     "url": "https://lemmy.world/post/54787334",
-     "likes": 14,
-     "image": "https://lemmy.world/pictrs/image/7dff3ffa-de8b-4ab5-a1b2-04b850729df0.jpeg"
+     "text": "Meow",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.today/post/63786046",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/401e4282-2100-4103-b624-cc55ad35e213.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "feeling cute cuddling my kitty",
-     "author": "Trans Joy",
-     "url": "https://lemmy.blahaj.zone/post/50872135",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/0ad366dd-ce40-46cb-bca1-a5b57ed3aae7.webp"
+     "text": "*You are startled awake by a sick drum solo.*",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/75571631",
+     "likes": 10,
+     "image": "https://lemmy.zip/pictrs/image/d2430225-6156-48bc-9877-5c9b9e808909.avif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T08:35:52.053355+00:00",
+   "fetched_at": "2026-11-24T09:05:57.538425+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
@@ -337,28 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you do on a remote island? Try and find the TV island it belongs to.",
+     "text": "I wanted to be a tailor but I didn't suit the job",
      "source": "Dad joke"
     },
     {
-     "text": "Coffee has a tough time at my house, every morning it gets mugged.",
+     "text": "Where do young cows eat lunch? In the calf-ateria.",
      "source": "Dad joke"
     },
     {
-     "text": "Can I watch the TV? Dad: Yes, but don\u2019t turn it on.",
+     "text": "Why did the octopus beat the shark in a fight? Because it was well armed.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
