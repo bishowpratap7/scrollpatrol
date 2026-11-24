@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:39:07.323657+00:00",
+ "generated_at": "2026-11-24T21:09:14.221014+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,50 +89,57 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T20:39:04.362657+00:00",
+   "fetched_at": "2026-11-24T21:09:10.060366+00:00",
    "stale": false,
    "items": [
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 944,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 85,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 477,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3463,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1754,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 9733,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ultimateMergeConflict",
-     "image": "https://i.redd.it/6zh9ngcxx12i1.png",
-     "url": "https://redd.it/1xy3mhz",
-     "ups": 58,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 6003,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 113,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1603,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 877,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1491,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 24454,
+     "sub": "r/memes"
     },
     {
      "title": "AI bros right now",
@@ -149,17 +156,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1503,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 5926,
      "sub": "r/memes"
     },
     {
-     "title": "At least give them a few minutes gah damn",
-     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
-     "url": "https://redd.it/1y49df8",
-     "ups": 14,
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 5944,
      "sub": "r/memes"
     },
     {
@@ -168,20 +175,21 @@
      "url": "https://redd.it/1y4fc42",
      "ups": 23,
      "sub": "r/memes"
-    },
-    {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 5926,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T20:39:05.915605+00:00",
+   "fetched_at": "2026-11-24T21:09:12.586667+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Cybersecurity breach reported at CIA",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Evacuations urged before Iowa detonation",
@@ -208,17 +216,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang's \"tortured story\" remark",
+     "text": "Jensen Huang's daily therapy remark",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8fa91cab967",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f8f080de1922",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang's daily therapy remark",
+     "text": "\"I Know Your Age\" quiz",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f8f080de1922",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Jensen Huang's \"tortured story\" remark",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d8fa91cab967",
      "likes": 0,
      "image": ""
     },
@@ -232,22 +248,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Personal boycotts",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Tidal bans AI-generated music",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Most memorable TV theme songs",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6097c6439525",
@@ -256,109 +256,109 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hegseth memo restricts Canada defense ties",
+     "text": "Personal boycotts",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc2e410ba42a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Francis diary: devil encounters",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to remove Trump from office",
+     "text": "FBI crime database reportedly hacked",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a31641fa636",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/906b49a87470",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Common myth on Cleopatra",
-     "author": "technically the truth",
-     "url": "https://piefed.zip/c/technicallythetruth@lemmy.world/p/2030008/common-myth-on-cleopatra",
-     "likes": 67,
-     "image": "https://lemmy.world/pictrs/image/0c0098ea-ee71-4289-837f-22cab6528137.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
-     "author": "News",
-     "url": "https://fedinsfw.app/c/news@lemmy.world/p/861684/the-army-rejected-a-cleaner-option-to-destroy-lead-laced-explosives-in-iowa",
-     "likes": 38,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Cheese lecture",
+     "text": "We postin' onions today??",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54807073",
-     "likes": 82,
-     "image": "https://lemmy.world/pictrs/image/15af8ff7-0a07-4e80-956d-b302c31517fc.jpeg"
+     "url": "https://thelemmy.club/post/59401628",
+     "likes": 48,
+     "image": "https://lemmy.world/pictrs/image/ba1dc255-de90-4ea6-8d51-136e8896c918.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "hmmm",
-     "author": "hmmm",
-     "url": "https://lemmy.world/post/54806903",
-     "likes": 92,
-     "image": "https://lemmy.world/pictrs/image/5a0c2fdb-4341-4f97-887d-6000403eef5c.jpeg"
+     "text": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54808667",
+     "likes": 37,
+     "image": "https://lemmy.world/pictrs/image/671a398b-41c7-47c6-a0c2-c1d1259f0a9c.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Tidal fully bans AI-generated music",
+     "author": "Fuck AI",
+     "url": "https://lemmy.ml/post/55700851",
+     "likes": 51,
+     "image": "https://lemmy.world/pictrs/image/af2f2a5b-1f8b-4009-8fff-289d9ea266b2.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "US judge permanently bars Trump from punishing rights groups who liaise with ICC | Middle East Eye",
+     "author": "politics ",
+     "url": "https://lemmy.ca/post/74317107",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/26ddc1cc-ae2a-4528-876f-d422efd0f0a8.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T20:39:06.559728+00:00",
+   "fetched_at": "2026-11-24T21:09:13.511639+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Where\u2019s the bin? Dad: I haven\u2019t been anywhere!",
+     "text": "I broke my finger at work today, on the other hand I'm completely fine.",
      "source": "Dad joke"
     },
     {
-     "text": "Why can't a bicycle stand on its own? It's two-tired.",
+     "text": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
      "source": "Dad joke"
     },
     {
-     "text": "What time did the man go to the dentist? Tooth hurt-y.",
+     "text": "My sea sickness comes in waves.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
