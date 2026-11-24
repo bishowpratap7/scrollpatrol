@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:08:03.193739+00:00",
+ "generated_at": "2026-11-24T17:08:19.897320+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,70 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T17:08:00.652868+00:00",
+   "fetched_at": "2026-11-24T17:08:16.098581+00:00",
    "stale": false,
    "items": [
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2234,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 9573,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 99,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 256,
+     "title": "cppythRusGoSharp",
+     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
+     "url": "https://redd.it/1xvuqmq",
+     "ups": 312,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1486,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 552,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 17,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1760,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1409,
-     "sub": "r/memes"
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 593,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Idek what they want me to do besides already know the answer",
-     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
-     "url": "https://redd.it/1y438hr",
-     "ups": 86,
-     "sub": "r/memes"
-    },
-    {
-     "title": "the game they really wanted",
-     "image": "https://i.redd.it/008cgcfe7g3i1.png",
-     "url": "https://redd.it/1y3xx2n",
-     "ups": 16,
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1552,
      "sub": "r/memes"
     },
     {
@@ -163,6 +149,13 @@
      "sub": "r/memes"
     },
     {
+     "title": "and he got homework to do",
+     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
+     "url": "https://redd.it/1y3w8ww",
+     "ups": 28,
+     "sub": "r/memes"
+    },
+    {
      "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
      "image": "https://i.redd.it/vt1nyao6he3i1.png",
      "url": "https://redd.it/1y3oz7d",
@@ -170,16 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Logic. Pure market logic.",
-     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
-     "url": "https://redd.it/1y3o6y9",
-     "ups": 225,
+     "title": "Jensen Huang Nov-23rd.",
+     "image": "https://i.redd.it/gapwccf3vd3i1.png",
+     "url": "https://redd.it/1y3lnyb",
+     "ups": 57,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Guess what... RTX 6090 just got tested",
+     "image": "https://i.redd.it/aokcsgheoe3i1.png",
+     "url": "https://redd.it/1y3q2v9",
+     "ups": 99,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T17:08:01.795334+00:00",
+   "fetched_at": "2026-11-24T17:08:18.406988+00:00",
    "stale": false,
    "items": [
     {
@@ -299,7 +299,7 @@
      "text": "Avengers: Goonsday or Something",
      "author": "Memes",
      "url": "https://piefed.world/c/memes/p/1553645/avengers-goonsday-or-something",
-     "likes": 33,
+     "likes": 34,
      "image": "https://lemmy.world/pictrs/image/7e9b65c9-a606-463c-9dda-02f2f6c3c059.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Any other penguin erectors out there to confirm this?",
      "author": "People Twitter",
      "url": "https://sh.itjust.works/post/70416805",
-     "likes": 26,
+     "likes": 27,
      "image": "https://lemmy.world/pictrs/image/9091d560-facb-44a2-9998-9b208f850e7c.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T17:08:02.400255+00:00",
+   "fetched_at": "2026-11-24T17:08:19.023504+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
     {
      "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "What did the calculator say to the student? You can count on me.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What\u2019s the advantage of living in Switzerland? Well, the flag is a big plus.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up.",
+     "text": "A Sandwich walks into a bar, the bartender says \u201cSorry, we don\u2019t serve food here\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "R.I.P. boiled water. You will be mist.",
+     "text": "Why did the knife dress up in a suit? Because it wanted to look sharp",
      "source": "Dad joke"
     }
    ]
