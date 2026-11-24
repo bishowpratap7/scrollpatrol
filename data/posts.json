@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:37:58.620002+00:00",
+ "generated_at": "2026-11-24T17:08:03.193739+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,16 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T16:37:55.633154+00:00",
+   "fetched_at": "2026-11-24T17:08:00.652868+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2234,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "fuckItWeBall",
      "image": "https://i.redd.it/olciohqbhf3i1.png",
@@ -100,10 +107,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 9573,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 256,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1486,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,38 +135,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5625,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppythRusGoSharp",
-     "image": "https://i.redd.it/1rgfpkd8oi1i1.png",
-     "url": "https://redd.it/1xvuqmq",
-     "ups": 312,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 593,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 171,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1409,
      "sub": "r/memes"
     },
     {
-     "title": "AI bros right now",
-     "image": "https://i.redd.it/qx8mq45pze3i1.png",
-     "url": "https://redd.it/1y3rt2c",
-     "ups": 63,
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 86,
+     "sub": "r/memes"
+    },
+    {
+     "title": "the game they really wanted",
+     "image": "https://i.redd.it/008cgcfe7g3i1.png",
+     "url": "https://redd.it/1y3xx2n",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 10,
      "sub": "r/memes"
     },
     {
@@ -156,37 +170,31 @@
      "sub": "r/memes"
     },
     {
-     "title": "Discussions surrounding this one game...",
-     "image": "https://i.redd.it/1i38kxjc7b3i1.gif",
-     "url": "https://redd.it/1y3binq",
-     "ups": 954,
-     "sub": "r/memes"
-    },
-    {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 985,
-     "sub": "r/memes"
-    },
-    {
-     "title": "At least give them a few minutes gah damn",
-     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
-     "url": "https://redd.it/1y49df8",
-     "ups": 13,
+     "title": "Logic. Pure market logic.",
+     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
+     "url": "https://redd.it/1y3o6y9",
+     "ups": 225,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T16:37:57.621400+00:00",
+   "fetched_at": "2026-11-24T17:08:01.795334+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Jensen Huang discloses more affairs",
+     "text": "Most memorable TV theme songs",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6097c6439525",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Wrong Lord of the Rings quotes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
      "likes": 0,
      "image": ""
     },
@@ -200,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump gives Giuliani Medal of Freedom",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22ffc27afd00",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Tidal bans AI-generated music",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
@@ -216,25 +216,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Most memorable TV theme songs",
+     "text": "\"I Know Your Age\" quiz",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6097c6439525",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "SEC probes Nvidia accounting",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Francis diary: devil encounters",
+     "text": "Jensen Huang discloses more affairs",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump gives Giuliani Medal of Freedom",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/22ffc27afd00",
      "likes": 0,
      "image": ""
     },
@@ -248,76 +256,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
+     "text": "Michigan drops Trev Alberts hire",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/426dec81cab5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cubs sign Trevor Rogers",
+     "text": "Trump blames Democrats for selloff",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a537cd785a2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8719602937e7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham's Downing Street influencer invite",
+     "text": "Data center ballot measures",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/751d5863b8f6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Home Sweet Home",
-     "author": "Programmer Humor",
-     "url": "https://lemmy.zip/post/75588219",
-     "likes": 57,
-     "image": "https://lemmy.zip/pictrs/image/faa4f7a5-9019-4b95-900c-23729b884fdf.avif"
+     "text": "Tidal fully bans AI-generated music",
+     "author": "PurchaseWithPurpose",
+     "url": "https://lemmy.world/post/54800794",
+     "likes": 68,
+     "image": "https://lemmy.world/pictrs/image/684d3673-709d-4b63-a107-f9f1f2b29c59.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
-     "author": "Fuck AI",
-     "url": "https://lemmy.nz/post/44149078",
-     "likes": 67,
-     "image": "https://lemmy.world/pictrs/image/ab6882e8-75c8-4ef3-8142-4fb1cdd37a57.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Many such cases!",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54800421",
+     "text": "The old ways [florkofcows]",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70415658",
      "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/34908296-9dac-481c-92b0-4e15fa031797.jpeg"
+     "image": "https://lemmy.world/pictrs/image/b6e378dc-e5fe-4656-9ef9-d9e8f00694bb.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Nvidia CEO Jensen Huang Reportedly Had at Least 4 Affairs",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54800356",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/4962f85a-5cb0-4c27-9f8d-f196c69c52de.jpeg"
+     "text": "Avengers: Goonsday or Something",
+     "author": "Memes",
+     "url": "https://piefed.world/c/memes/p/1553645/avengers-goonsday-or-something",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/7e9b65c9-a606-463c-9dda-02f2f6c3c059.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Any other penguin erectors out there to confirm this?",
+     "author": "People Twitter",
+     "url": "https://sh.itjust.works/post/70416805",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/9091d560-facb-44a2-9998-9b208f850e7c.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T16:37:58.133324+00:00",
+   "fetched_at": "2026-11-24T17:08:02.400255+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
@@ -325,40 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Past, present, and future walked into a bar.... It was tense.",
+     "text": "What did the calculator say to the student? You can count on me.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a snake who builds houses? A boa constructor!",
+     "text": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up.",
      "source": "Dad joke"
     },
     {
-     "text": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
+     "text": "R.I.P. boiled water. You will be mist.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
