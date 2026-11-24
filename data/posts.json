@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:05:57.883018+00:00",
+ "generated_at": "2026-11-24T09:36:03.420786+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-24T09:05:54.751279+00:00",
+   "fetched_at": "2026-11-24T09:35:59.951286+00:00",
    "stale": false,
    "items": [
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2223,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 310,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 861,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 5766,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cacheRemembers",
-     "image": "https://i.redd.it/q693dqo1il1i1.png",
-     "url": "https://redd.it/1xw4wit",
-     "ups": 4219,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 522,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 46,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,32 +114,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Guess who's back",
-     "image": "https://i.redd.it/f5cy5lnkpd3i1.png",
-     "url": "https://redd.it/1y3kve6",
-     "ups": 60,
-     "sub": "r/memes"
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 932,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 54,
-     "sub": "r/memes"
+     "title": "cacheRemembers",
+     "image": "https://i.redd.it/q693dqo1il1i1.png",
+     "url": "https://redd.it/1xw4wit",
+     "ups": 4210,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 112,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Back to back long weekends? You shouldn\u2019t have",
-     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
-     "url": "https://redd.it/1y3ix5y",
-     "ups": 150,
-     "sub": "r/memes"
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 561,
+     "sub": "r/ProgrammerHumor"
     },
     {
      "title": "No one man should have all that power",
@@ -170,16 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 1394,
+     "title": "I live in the GTA so it's okay",
+     "image": "https://i.redd.it/gfqyhp0l8f3i1.png",
+     "url": "https://redd.it/1y3t7up",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 30,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 23531,
+     "sub": "r/memes"
+    },
+    {
+     "title": "First day of an internship is always tough",
+     "image": "https://i.redd.it/0tjjqq4m193i1.png",
+     "url": "https://redd.it/1y338ec",
+     "ups": 1011,
+     "sub": "r/memes"
+    },
+    {
+     "title": "the game they really wanted",
+     "image": "https://i.redd.it/008cgcfe7g3i1.png",
+     "url": "https://redd.it/1y3xx2n",
+     "ups": 10,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-24T09:05:56.888480+00:00",
+   "fetched_at": "2026-11-24T09:36:02.160245+00:00",
    "stale": false,
    "items": [
     {
@@ -187,22 +187,6 @@
      "text": "Jensen Huang discloses more affairs",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/841ec884c9ac",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI release",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
@@ -216,9 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI release",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c26c56dc0236",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "SEC probes Nvidia accounting",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -232,33 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "November full supermoon",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US war with Iran",
+     "text": "Ukraine claims Libya warship sinking",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ddb8a805b49a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving dinner preparations",
+     "text": "Pope Leo praises cycling",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb3a56a172fa",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Change one letter, ruin a movie",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/645e79ca5148",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Burnham rebuffs former prime ministers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
      "likes": 0,
      "image": ""
     },
@@ -271,85 +279,77 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "Is AI Conscious?",
      "author": "Political Memes",
      "url": "https://sh.itjust.works/post/70398859",
-     "likes": 59,
+     "likes": 85,
      "image": "https://lemmy.world/pictrs/image/b28823a3-13f5-4057-a43d-6a861f4b398e.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "ich\ud83e\ude9a\ud83d\udddc\ufe0f\ud83d\udd29iel",
-     "author": "ich_iel",
-     "url": "https://discuss.tchncs.de/post/71367089",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/e83e2054-034f-4419-9cd2-1851e62137e3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Meow",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.today/post/63786046",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/401e4282-2100-4103-b624-cc55ad35e213.jpeg"
+     "text": "Not Admitting Ukraine to NATO in 2008 Was a Mistake, Germany's Merz Says",
+     "author": "Europe",
+     "url": "https://scribe.disroot.org/post/12641659",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/75ba34a4-fa92-485f-a263-be2e328be4e8.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "*You are startled awake by a sick drum solo.*",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.zip/post/75571631",
-     "likes": 10,
+     "likes": 23,
      "image": "https://lemmy.zip/pictrs/image/d2430225-6156-48bc-9877-5c9b9e808909.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Meow",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.today/post/63786046",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/401e4282-2100-4103-b624-cc55ad35e213.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-24T09:05:57.538425+00:00",
+   "fetched_at": "2026-11-24T09:36:02.957378+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
     {
      "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"We messed up the keming again guys.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I wanted to be a tailor but I didn't suit the job",
+     "text": "Hostess: Do you have a preference of where you sit?\r\nDad: Down.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do young cows eat lunch? In the calf-ateria.",
+     "text": "What was the pumpkin\u2019s favorite sport?\r\n\r\nSquash.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the octopus beat the shark in a fight? Because it was well armed.",
+     "text": "What do you give a sick lemon? Lemonaid.",
      "source": "Dad joke"
     }
    ]
