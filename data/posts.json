@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:45:49.619347+00:00",
+ "generated_at": "2026-11-25T22:15:56.384997+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T21:45:46.024011+00:00",
+   "fetched_at": "2026-11-25T22:15:52.281996+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 498,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 39,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1608,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5757,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "iWantMyBrowserToBeAMemoryHog",
-     "image": "https://i.redd.it/kc0caqlcym3i1.png",
-     "url": "https://redd.it/1y4qogs",
-     "ups": 472,
+     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
+     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
+     "url": "https://redd.it/1y59j8p",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,82 +107,126 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 419,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 129,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "diffVsCodeReviewNowadaysDotMD",
+     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
+     "url": "https://redd.it/1y56a13",
+     "ups": 107,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1522,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Human Resources Department, circa 2029",
+     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
+     "url": "https://redd.it/1y4jg6c",
+     "ups": 340,
+     "sub": "r/memes"
+    },
+    {
      "title": "the night before",
      "image": "https://i.redd.it/olfiwdddyn3i1.png",
      "url": "https://redd.it/1y4v00t",
-     "ups": 52,
-     "sub": "r/memes"
-    },
-    {
-     "title": "idgaf Jason is my goat",
-     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
-     "url": "https://redd.it/1y3k6e8",
-     "ups": 6401,
-     "sub": "r/memes"
-    },
-    {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1714,
+     "ups": 49,
      "sub": "r/memes"
     },
     {
      "title": "pls do not resist. this is for your own benefit.",
      "image": "https://i.redd.it/n8wxogc9xp3i1.gif",
      "url": "https://redd.it/1y5239n",
-     "ups": 15,
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 107,
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 6420,
      "sub": "r/memes"
     },
     {
-     "title": "Human Resources Department, circa 2029",
-     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
-     "url": "https://redd.it/1y4jg6c",
-     "ups": 333,
+     "title": "I know I'm a little bit late",
+     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
+     "url": "https://redd.it/1y4n1le",
+     "ups": 45,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 654,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T21:45:48.461061+00:00",
+   "fetched_at": "2026-11-25T22:15:54.716956+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Duran Duran's Andy Taylor dies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Avengers: Doomsday poster",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Hakeem Jeffries outlines House agenda",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ada010afdb58",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Showing up to Thanksgiving dinner",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Macy's parade turns 100",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Mike McCarthy's ice cream sandwich assistant",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/088e8265d639",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vance blames Obama for detonation",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3313a1bf22b",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +264,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
+     "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
      "likes": 0,
      "image": ""
     },
@@ -263,61 +279,49 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Gotta Inform the Uninformed",
-     "author": "Programmer Humor",
-     "url": "https://lemmy.zip/post/75661548",
-     "likes": 64,
-     "image": "https://lemmy.zip/pictrs/image/63b4a2ea-cf02-4bb8-a8b7-ccee4da039de.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Classic Rock",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70476816",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/3a53db29-1cc8-4ceb-a001-c42aa655ee6d.png"
-    },
-    {
      "kind": "Lemmy post",
      "text": "Been dealing with this at work lately.",
      "author": "Fuck AI",
      "url": "https://sh.itjust.works/post/70477587",
-     "likes": 18,
+     "likes": 62,
      "image": "https://lemmy.world/pictrs/image/1c56840b-060b-44a6-8331-fb671c895722.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda",
-     "author": "News",
-     "url": "https://lemmy.world/post/54848066",
-     "likes": 90,
-     "image": "https://api-prod.gothamist.com/images/362651/fill-318x212%7Cformat-webp%7Cwebpquality-80/"
+     "text": "Sweet, absolutely no downsides!",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54850654",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/de624d5c-c987-4c91-8929-9c73aebb69f1.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Somehow, I feel an overwhelming sense of security...",
+     "author": "Cats",
+     "url": "https://sopuli.xyz/post/55085156",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/9717ab1b-3202-43ca-a202-d366e4a0fb92.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Just a standard delivery from Ea-n\u0101\u1e63ir",
+     "author": "Really Shitty Copper",
+     "url": "https://nord.pub/c/reallyshittycopper@lemmy.world/p/574598/just-a-standard-delivery-from-ea-nasir",
+     "likes": 35,
+     "image": "https://lemmy.world/pictrs/image/fdddef37-2ff8-4f6c-a15b-73332919c878.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T21:45:48.868387+00:00",
+   "fetched_at": "2026-11-25T22:15:55.643035+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
@@ -329,36 +333,32 @@
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Atheism is a non-prophet organisation.",
+     "text": "I\u2019m reading a book on the history of glue \u2013 can\u2019t put it down.",
      "source": "Dad joke"
     },
     {
-     "text": "I knew a guy who collected candy canes, they were all in mint condition",
+     "text": "I used to be a banker, but I lost interest.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
+     "text": "Why does Superman get invited to dinners? Because he is a Supperhero.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
