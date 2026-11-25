@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:12:03.969610+00:00",
+ "generated_at": "2026-11-25T09:42:10.925837+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,7 +89,7 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T09:12:00.774302+00:00",
+   "fetched_at": "2026-11-25T09:42:07.128337+00:00",
    "stale": false,
    "items": [
     {
@@ -100,24 +100,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1510,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 19,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2246,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 881,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3500,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +128,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 560,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I know I'm a little bit late",
-     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
-     "url": "https://redd.it/1y4n1le",
-     "ups": 22,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 167,
      "sub": "r/memes"
     },
     {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 79,
+     "title": "Logic. Pure market logic.",
+     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
+     "url": "https://redd.it/1y3o6y9",
+     "ups": 282,
      "sub": "r/memes"
     },
     {
@@ -156,10 +156,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 293,
+     "title": "At least give them a few minutes gah damn",
+     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
+     "url": "https://redd.it/1y49df8",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "There isn't one but imagine...",
+     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
+     "url": "https://redd.it/1y51m9w",
+     "ups": 1,
      "sub": "r/memes"
     },
     {
@@ -168,18 +175,11 @@
      "url": "https://redd.it/1y4jg6c",
      "ups": 287,
      "sub": "r/memes"
-    },
-    {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 36,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T09:12:02.327425+00:00",
+   "fetched_at": "2026-11-25T09:42:09.686507+00:00",
    "stale": false,
    "items": [
     {
@@ -187,22 +187,6 @@
      "text": "UK energy price cap to rise",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia hiring first compliance officer",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham's UK-EU deal",
+     "text": "Day to end violence against women",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mario Kart World 1.9.0 update",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/df762a251ab3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ukraine claims Libya warship sinking",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
@@ -248,108 +240,116 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google plans personalized AI TV channel",
+     "text": "\"Not a security risk\" meme",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/565f55b40cdd",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pope Francis diary: devil encounters",
+     "text": "Aaron Rodgers benched against Broncos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US prepares new tariffs on China",
+     "text": "Trump floats Jensen Huang pardon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42859965c058",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "Neigh, just a nibble.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75625682",
-     "likes": 17,
-     "image": "https://lemmy.zip/pictrs/image/054edf65-4d58-431a-b8c6-0e9a61e74a7a.avif"
+     "kind": "Bluesky trend",
+     "text": "Cybersecurity breach reported at CIA",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "Evolution finds a rule.",
      "author": "196",
      "url": "https://lemmy.zip/post/75625603",
-     "likes": 26,
+     "likes": 53,
      "image": "https://lemmy.zip/pictrs/image/806e06b6-ee14-49c7-9441-023d3480aa39.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Neigh, just a nibble.",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/75625682",
+     "likes": 28,
+     "image": "https://lemmy.zip/pictrs/image/054edf65-4d58-431a-b8c6-0e9a61e74a7a.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "It could be cathartic.",
      "author": "Femcel Memes",
      "url": "https://lemmy.zip/post/75625905",
-     "likes": 10,
+     "likes": 19,
      "image": "https://lemmy.zip/pictrs/image/70aa1374-c6c6-4e17-a1af-03f3e61a6532.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Sorry, I'm feeling too good to waste it today.",
-     "author": "Antiwork",
-     "url": "https://lemmy.zip/post/75625199",
-     "likes": 39,
-     "image": "https://lemmy.zip/pictrs/image/d6f2bd5c-9a98-4991-8574-888e26ef25e2.avif"
+     "text": "Personally, I'd go with \"macarono\" \ud83e\udd37\ud83c\udffb",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.dbzer0.com/post/78924559",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/ec0509cc-53cb-42d5-8ca7-ab074e0f7807.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T09:12:03.255856+00:00",
+   "fetched_at": "2026-11-25T09:42:10.224818+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
     {
      "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging: Removing the needles from the haystack.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Parallel lines have so much in common. It\u2019s a shame they\u2019ll never meet.",
+     "text": "This is my step ladder. I never knew my real ladder.",
      "source": "Dad joke"
     },
     {
-     "text": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
+     "text": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
      "source": "Dad joke"
     },
     {
-     "text": "The invention of the wheel was what got things rolling",
+     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
      "source": "Dad joke"
     }
    ]
