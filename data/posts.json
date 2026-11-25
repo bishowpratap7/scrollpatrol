@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:12:45.022867+00:00",
+ "generated_at": "2026-11-25T12:42:52.256849+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T12:12:41.504371+00:00",
+   "fetched_at": "2026-11-25T12:42:48.535993+00:00",
    "stale": false,
    "items": [
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 342,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 19,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1513,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3502,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 488,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2251,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 613,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,72 +128,65 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 269,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 511,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 668,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 604,
+     "title": "the night before",
+     "image": "https://i.redd.it/olfiwdddyn3i1.png",
+     "url": "https://redd.it/1y4v00t",
+     "ups": 39,
      "sub": "r/memes"
     },
     {
-     "title": "Human Resources Department, circa 2029",
-     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
-     "url": "https://redd.it/1y4jg6c",
-     "ups": 309,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 7430,
      "sub": "r/memes"
     },
     {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 6,
+     "title": "and he got homework to do",
+     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
+     "url": "https://redd.it/1y3w8ww",
+     "ups": 166,
      "sub": "r/memes"
     },
     {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 326,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1703,
      "sub": "r/memes"
     },
     {
-     "title": "I know I'm a little bit late",
-     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
-     "url": "https://redd.it/1y4n1le",
-     "ups": 29,
+     "title": "I'LL SHOW MYSELF OUT",
+     "image": "https://i.redd.it/f8rk03gfmm3i1.png",
+     "url": "https://redd.it/1y4p1o5",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 84,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 226,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T12:12:43.596388+00:00",
+   "fetched_at": "2026-11-25T12:42:50.586822+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
+     "text": "Montreal airport pizza slice",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
      "likes": 0,
      "image": ""
     },
@@ -208,17 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK energy price cap to rise",
+     "text": "Nvidia hiring first compliance officer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump floats Jensen Huang pardon",
+     "text": "Day to end violence against women",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
      "likes": 0,
      "image": ""
     },
@@ -232,104 +232,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "UK energy price cap to rise",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Montreal airport pizza slice",
+     "text": "Kilmar Abrego Garcia case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia hiring first compliance officer",
+     "text": "\"I Know Your Age\" quiz",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "November full supermoon",
+     "text": "Ocarina of Time remake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Romney questions China AI chips",
+     "text": "Pentagon faults Canada's defense spending",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham's UK-EU deal",
+     "text": "Trump floats Jensen Huang pardon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "I hate misleading job postings",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.ml/post/55722326",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/8651d73b-3a19-4766-abe3-6ce7fefac73c.jpeg"
+     "text": "I hooked up with that guy in his 70s last night for anthropological reasons",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54830454",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/1a718b82-98b5-41e2-acfe-b8eac9c94ebd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "If I know one thing its that tyrants hate good questions \ud83d\ude02",
-     "author": "A Boring Dystopia",
-     "url": "https://mastodon.art/users/NickEast_IndieWriter/statuses/117676860336070467",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/54962d68-5313-4abe-a962-5b07ae08e8cb.jpeg"
+     "text": "ich\ud83d\udcf9\ud83d\udc26\ud83e\udd16iel",
+     "author": "ich_iel",
+     "url": "https://sh.itjust.works/post/70453352",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/b81039a2-288f-47db-9cda-d80ee47f1ee5.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I see this so often.  People wanting a job.  Forced to jump through hoops and still not hired",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54831297",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/937b5321-bdec-4008-9b51-ff3fab1016fa.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Watergate reporter Bob Woodward says Trump is \u2018much worse\u2019 than Nixon",
      "author": "politics ",
      "url": "https://lemmy.world/post/54829832",
-     "likes": 23,
+     "likes": 48,
      "image": "https://lemmy.world/pictrs/image/7856d6f1-7f08-4798-bd6d-b66bef719b90.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Why do rich people even want to do a job like being CEO? Why don't they just chill out and go travel or something?",
-     "author": "No Stupid Questions",
-     "url": "https://piefed.ca/c/nostupidquestions@lemmy.world/p/1090824/why-do-rich-people-even-want-to-do-a-job-like-being-ceo-why-don-t-they-just-chill-out-and-g",
-     "likes": 12,
-     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T12:12:44.338260+00:00",
+   "fetched_at": "2026-11-25T12:42:51.551276+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What's a ninja's favorite type of shoes? Sneakers!",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
      "source": "Dad joke"
     },
     {
-     "text": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
+     "text": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
      "source": "Dad joke"
     },
     {
-     "text": "I had a dream that I was a muffler last night. I woke up exhausted!",
+     "text": "My friend keeps telling me \"Cheer up. You aren't stuck in a deep hole in the ground, filled with water.\"\r\nI know he means well.",
      "source": "Dad joke"
     }
    ]
