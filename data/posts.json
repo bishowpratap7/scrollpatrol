@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:11:11.139090+00:00",
+ "generated_at": "2026-11-25T05:41:15.061396+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T05:11:08.279757+00:00",
+   "fetched_at": "2026-11-25T05:41:12.831867+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3492,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 666,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 599,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 268,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1509,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2246,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 342,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,24 +128,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 557,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3492,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonBrosDontMessAround",
-     "image": "https://i.redd.it/kxn016janu1i1.png",
-     "url": "https://redd.it/1xx85bl",
-     "ups": 1758,
-     "sub": "r/ProgrammerHumor"
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 1386,
+     "sub": "r/memes"
     },
     {
-     "title": "New leave just dropped",
-     "image": "https://i.redd.it/6w9efev11j3i1.png",
-     "url": "https://redd.it/1y48neo",
-     "ups": 23,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 78,
+     "sub": "r/memes"
+    },
+    {
+     "title": "and he got homework to do",
+     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
+     "url": "https://redd.it/1y3w8ww",
+     "ups": 97,
+     "sub": "r/memes"
+    },
+    {
+     "title": "the night before",
+     "image": "https://i.redd.it/olfiwdddyn3i1.png",
+     "url": "https://redd.it/1y4v00t",
+     "ups": 17,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1651,
      "sub": "r/memes"
     },
     {
@@ -147,39 +175,11 @@
      "url": "https://redd.it/1y4a4cq",
      "ups": 13,
      "sub": "r/memes"
-    },
-    {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 523,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Oooh what could have been",
-     "image": "https://i.redd.it/z6yh66ayho3i1.gif",
-     "url": "https://redd.it/1y4x5zo",
-     "ups": 1,
-     "sub": "r/memes"
-    },
-    {
-     "title": "What an incredible map, my friends",
-     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
-     "url": "https://redd.it/1y31ghw",
-     "ups": 24950,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Lisan al-Gaib Has Arrived",
-     "image": "https://i.redd.it/20d0amx77o3i1.png",
-     "url": "https://redd.it/1y4w00t",
-     "ups": 0,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T05:11:10.302180+00:00",
+   "fetched_at": "2026-11-25T05:41:14.435987+00:00",
    "stale": false,
    "items": [
     {
@@ -208,30 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia hiring first compliance officer",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Measles risk grows for adults",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89f3020c5157",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pentagon weighs loan to Trump Jr.-tied startup",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93523616323c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "November full supermoon",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
@@ -240,9 +216,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Mario Kart World 1.9.0 update",
+     "text": "Nvidia hiring first compliance officer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/df762a251ab3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kelsey Grammer's Beast first look",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/63aca864baa7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "LSU's future in the SEC",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fc9f3f32167",
      "likes": 0,
      "image": ""
     },
@@ -256,100 +264,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tidal bans AI-generated music",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "World Court rules in Rohingya genocide case",
+     "text": "Push to remove Trump from office",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bc14abe9d5f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a31641fa636",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "The American Dream",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54821111",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/90599ab3-f2e9-42c8-bc78-b7849ce3fb26.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Anon's mom watches TV",
      "author": "Greentext",
      "url": "https://sh.itjust.works/post/70439646",
-     "likes": 17,
+     "likes": 37,
      "image": "https://lemmy.world/pictrs/image/0f02e038-0281-4b90-9f27-12694932b551.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Utah asks to drop charges against Kalshi and its founders after Kalshi halts trading there",
-     "author": "News",
-     "url": "https://lemmy.world/post/54819380",
-     "likes": 30,
-     "image": "https://lemmy.world/pictrs/image/ad65374a-cb6f-4443-a99e-99bb98480890.jpeg"
+     "text": "Not right now buddy",
+     "author": "NiceMemes",
+     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1088290/not-right-now-buddy",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/5b5ffcc8-4ef7-4da0-93a4-5672bc56b563.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Happy electric blanket season to all who celebrate!",
-     "author": "cats",
-     "url": "https://lemmy.today/post/63828502",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/3a85b76c-ca15-4d09-8694-87c4dd0ea4a3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "After campaign trail feud, Trump says he\u2019ll meet with El-Sayed to discuss universal healthcare proposal",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54819066",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/a44f7c30-ae07-43d8-a145-4929fcead912.jpeg"
+     "text": "Microsoft\u2019s historic cloud outage exposed an engineering \u201cfog of war\u201d: Internal memos reveal a \u201cCode Red\u201d overhaul and ambitious one-hour recovery goals.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54820158",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/b462f242-a7fc-44b5-afc0-78425804e54e.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T05:11:10.859355+00:00",
+   "fetched_at": "2026-11-25T05:41:14.776556+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
     {
      "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "I\u2019m only familiar with 25 letters in the English language. I don\u2019t know why.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.",
      "source": "Dad joke"
     },
     {
-     "text": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+     "text": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement",
      "source": "Dad joke"
     },
     {
-     "text": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.",
+     "text": "Why was ten scared of seven? Because seven ate nine.",
      "source": "Dad joke"
     }
    ]
