@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:12:59.257551+00:00",
+ "generated_at": "2026-11-25T13:13:14.951917+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T13:12:55.154196+00:00",
+   "fetched_at": "2026-11-25T13:13:11.432838+00:00",
    "stale": false,
    "items": [
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 957,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 412,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 10190,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 572,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,58 +107,79 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 671,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5703,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 84,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3534,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "getsBetterEveryHourIRefresh",
+     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
+     "url": "https://redd.it/1y557cw",
+     "ups": 1106,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 212,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "New leave just dropped",
+     "image": "https://i.redd.it/6w9efev11j3i1.png",
+     "url": "https://redd.it/1y48neo",
+     "ups": 27,
      "sub": "r/memes"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1697,
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 1345,
      "sub": "r/memes"
     },
     {
-     "title": "Why is it always like this?",
-     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
-     "url": "https://redd.it/1y4t3xd",
-     "ups": 226,
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 326,
      "sub": "r/memes"
     },
     {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 7430,
+     "title": "I know I'm a little bit late",
+     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
+     "url": "https://redd.it/1y4n1le",
+     "ups": 29,
      "sub": "r/memes"
     },
     {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1703,
+     "title": "Organic chemistry",
+     "image": "https://i.redd.it/631fcwfezq3i1.png",
+     "url": "https://redd.it/1y55hsz",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 5977,
+     "title": "There isn't one but imagine...",
+     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
+     "url": "https://redd.it/1y51m9w",
+     "ups": 19,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T13:12:57.718747+00:00",
+   "fetched_at": "2026-11-25T13:13:12.908422+00:00",
    "stale": false,
    "items": [
     {
@@ -299,7 +299,7 @@
      "text": "Those kids will be very upset",
      "author": "Lemmy Shitpost",
      "url": "https://piefed.zip/c/lemmyshitpost@lemmy.world/p/2031722/those-kids-will-be-very-upset",
-     "likes": 33,
+     "likes": 34,
      "image": "https://lemmy.world/pictrs/image/6ee8c5d9-28f8-46f9-94ce-d86d9e382cc5.webp"
     },
     {
@@ -313,27 +313,23 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T13:12:58.577413+00:00",
+   "fetched_at": "2026-11-25T13:13:14.394824+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
     {
      "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "I wanted to be a tailor but I didn't suit the job",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.",
      "source": "Dad joke"
     },
     {
-     "text": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
+     "text": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
      "source": "Dad joke"
     },
     {
-     "text": "What biscuit does a short person like? Shortbread. ",
+     "text": "Ever wondered why bees hum? It's because they don't know the words.",
      "source": "Dad joke"
     }
    ]
