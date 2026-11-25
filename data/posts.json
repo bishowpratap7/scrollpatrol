@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:45:08.866699+00:00",
+ "generated_at": "2026-11-25T19:15:14.816175+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,23 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T18:45:04.609462+00:00",
+   "fetched_at": "2026-11-25T19:15:11.535770+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 269,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "compilersHateThisOneTrick",
      "image": "https://i.redd.it/jmm944uup73i1.png",
@@ -114,38 +100,73 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 675,
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 4819,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 610,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "yetAnotherJsonCommentsJoke",
      "image": "https://i.redd.it/ipspl4jtve3i1.png",
      "url": "https://redd.it/1y3r8ws",
-     "ups": 422,
+     "ups": 416,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3560,
+     "title": "diffVsCodeReviewNowadaysDotMD",
+     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
+     "url": "https://redd.it/1y56a13",
+     "ups": 74,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "idgaf Jason is my goat",
-     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
-     "url": "https://redd.it/1y3k6e8",
-     "ups": 6382,
+     "title": "getsBetterEveryHourIRefresh",
+     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
+     "url": "https://redd.it/1y557cw",
+     "ups": 4689,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Rolls vs. Breadsticks",
+     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
+     "url": "https://redd.it/1y59x6d",
+     "ups": 39,
      "sub": "r/memes"
     },
     {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 34,
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1710,
+     "sub": "r/memes"
+    },
+    {
+     "title": "the night before",
+     "image": "https://i.redd.it/olfiwdddyn3i1.png",
+     "url": "https://redd.it/1y4v00t",
+     "ups": 49,
+     "sub": "r/memes"
+    },
+    {
+     "title": "There isn't one but imagine...",
+     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
+     "url": "https://redd.it/1y51m9w",
+     "ups": 51,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 252,
      "sub": "r/memes"
     },
     {
@@ -154,39 +175,42 @@
      "url": "https://redd.it/1y3xrll",
      "ups": 7731,
      "sub": "r/memes"
-    },
-    {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1735,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 632,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I know I'm a little bit late",
-     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
-     "url": "https://redd.it/1y4n1le",
-     "ups": 44,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T18:45:07.106200+00:00",
+   "fetched_at": "2026-11-25T19:15:13.453033+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Steelers bench Aaron Rodgers",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Canned cranberry sauce",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ef94576cdfe",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Showing up to Thanksgiving dinner",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
@@ -200,25 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kilmar Abrego Garcia case",
+     "text": "FEMA hotline unanswered in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Max Balegde's Downing Street visit",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e9073e91a90",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
@@ -256,80 +272,52 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Poundland heads into administration",
+     "text": "Trump claims prices are falling",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9101c0dc9b81",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Army lead detonation in Iowa",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Can\u2019t wait!",
+     "author": "Political Memes",
+     "url": "https://lemmy.world/post/54843212",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/a36e8b6d-b4d0-48e6-a7f7-9175d70d9c3b.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "balding iphone rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50927151",
-     "likes": 30,
+     "likes": 45,
      "image": "https://lemmy.world/pictrs/image/427c4469-67d3-4416-b534-1961d2c8376f.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Friendly annual reminder for the US",
-     "author": "memes",
-     "url": "https://lemmy.world/post/54842006",
-     "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/f45aa673-2451-4ce2-800f-7276435fc516.jpeg"
+     "text": "me_irl",
+     "author": "me_irl",
+     "url": "https://reddthat.com/post/77211826",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/0876ef14-d4f0-4a23-9001-517a845d75a3.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "High quality H2O",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70466988",
-     "likes": 66,
-     "image": "https://lemmy.world/pictrs/image/83aad427-91fe-4703-abb2-785c3a1c3f4b.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "For the past week, I\u2019ve replaced Reddit with Lemmy\u2014again",
-     "author": "Fediverse",
-     "url": "https://lemmy.world/post/54841942",
-     "likes": 45,
-     "image": ""
+     "text": "Gelatinous Tube",
+     "author": "DnD Memes",
+     "url": "https://lemmy.sdf.org/post/62343654",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/fe36e4ea-215e-4777-9a6e-05fab7a4a8c5.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T18:45:08.038052+00:00",
+   "fetched_at": "2026-11-25T19:15:14.059939+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
      "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -337,28 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did Dracula lie in the wrong coffin? He made a grave mistake.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
+     "text": "Where do hamburgers go to dance? The meat-ball.",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+     "text": "What kind of magic do cows believe in? MOODOO.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
