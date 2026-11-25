@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:42:10.925837+00:00",
+ "generated_at": "2026-11-25T10:12:18.320593+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T09:42:07.128337+00:00",
+   "fetched_at": "2026-11-25T10:12:13.926182+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 41,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itsOverGuys",
+     "image": "https://i.redd.it/qx3boz9oap3i1.png",
+     "url": "https://redd.it/1y5021z",
+     "ups": 59,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 194,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "thanksWebSphere",
      "image": "https://i.redd.it/oern6i93ki2i1.png",
@@ -100,93 +121,88 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 19,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 268,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 411,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 4964,
+     "sub": "r/memes"
+    },
+    {
+     "title": "3 inches of separation",
+     "image": "https://i.redd.it/870ip86d3q3i1.png",
+     "url": "https://redd.it/1y52med",
      "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3500,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 261,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 560,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Why is it always like this?",
-     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
-     "url": "https://redd.it/1y4t3xd",
-     "ups": 167,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Logic. Pure market logic.",
-     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
-     "url": "https://redd.it/1y3o6y9",
-     "ups": 282,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Idek what they want me to do besides already know the answer",
-     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
-     "url": "https://redd.it/1y438hr",
-     "ups": 151,
      "sub": "r/memes"
     },
     {
      "title": "At least give them a few minutes gah damn",
      "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
      "url": "https://redd.it/1y49df8",
-     "ups": 17,
+     "ups": 18,
      "sub": "r/memes"
     },
     {
-     "title": "There isn't one but imagine...",
-     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
-     "url": "https://redd.it/1y51m9w",
-     "ups": 1,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1690,
      "sub": "r/memes"
     },
     {
-     "title": "Human Resources Department, circa 2029",
-     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
-     "url": "https://redd.it/1y4jg6c",
-     "ups": 287,
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 314,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 213,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T09:42:09.686507+00:00",
+   "fetched_at": "2026-11-25T10:12:16.492999+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Day to end violence against women",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "UK energy price cap to rise",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Influencers invited to Downing Street",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/704299cf7d1d",
      "likes": 0,
      "image": ""
     },
@@ -200,14 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -216,104 +224,96 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Wrong Lord of the Rings quotes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia scores",
+     "text": "Women's World Cup host vote",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d51907d35453",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "Google plans personalized AI TV channel",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "\"Not a security risk\" meme",
+     "text": "Kelsey Grammer's Beast first look",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/565f55b40cdd",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/63aca864baa7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers benched against Broncos",
+     "text": "November full supermoon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Victorian state election campaign",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc09e9de2aba",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump floats Jensen Huang pardon",
+     "text": "Trump calls Putin his friend",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Cybersecurity breach reported at CIA",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Evolution finds a rule.",
+     "text": "girls rule~",
      "author": "196",
-     "url": "https://lemmy.zip/post/75625603",
-     "likes": 53,
-     "image": "https://lemmy.zip/pictrs/image/806e06b6-ee14-49c7-9441-023d3480aa39.avif"
+     "url": "https://lemmy.blahaj.zone/post/50911795",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/c2cd1a41-480e-4d73-9c75-001e1fdece0c.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Neigh, just a nibble.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75625682",
-     "likes": 28,
-     "image": "https://lemmy.zip/pictrs/image/054edf65-4d58-431a-b8c6-0e9a61e74a7a.avif"
+     "text": "disgusting rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50911689",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/8b829842-4079-4df5-a30f-a7fd951774dd.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "It could be cathartic.",
+     "text": "[Alzward's Corner] The new game mod party",
+     "author": "Comic Strips",
+     "url": "https://piefed.social/c/comicstrips@lemmy.world/p/2640999/alzward-s-corner-the-new-game-mod-party",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/b3107444-eb5d-4efb-a02e-05cc3f7d10a7.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "pretty please?",
      "author": "Femcel Memes",
-     "url": "https://lemmy.zip/post/75625905",
-     "likes": 19,
-     "image": "https://lemmy.zip/pictrs/image/70aa1374-c6c6-4e17-a1af-03f3e61a6532.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Personally, I'd go with \"macarono\" \ud83e\udd37\ud83c\udffb",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.dbzer0.com/post/78924559",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/ec0509cc-53cb-42d5-8ca7-ab074e0f7807.webp"
+     "url": "https://lemmy.blahaj.zone/post/50911682",
+     "likes": 16,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T09:42:10.224818+00:00",
+   "fetched_at": "2026-11-25T10:12:17.384342+00:00",
    "stale": false,
    "items": [
     {
@@ -321,7 +321,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
@@ -329,36 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "This is my step ladder. I never knew my real ladder.",
+     "text": "Why was Santa's little helper feeling depressed? Because he has low elf esteem.\n",
      "source": "Dad joke"
     },
     {
-     "text": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
+     "text": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
      "source": "Dad joke"
     },
     {
-     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
+     "text": "What do you call a guy lying on your doorstep? Matt.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
