@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:13:14.951917+00:00",
+ "generated_at": "2026-11-25T13:43:20.964814+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T13:13:11.432838+00:00",
+   "fetched_at": "2026-11-25T13:43:17.406142+00:00",
    "stale": false,
    "items": [
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 572,
+     "title": "itsOverGuys",
+     "image": "https://i.redd.it/qx3boz9oap3i1.png",
+     "url": "https://redd.it/1y5021z",
+     "ups": 125,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3406,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 38,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,10 +114,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3534,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 212,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 212,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "New leave just dropped",
-     "image": "https://i.redd.it/6w9efev11j3i1.png",
-     "url": "https://redd.it/1y48neo",
-     "ups": 27,
-     "sub": "r/memes"
-    },
-    {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 1345,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 326,
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 5977,
      "sub": "r/memes"
     },
     {
@@ -163,30 +149,52 @@
      "sub": "r/memes"
     },
     {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 6,
-     "sub": "r/memes"
-    },
-    {
      "title": "There isn't one but imagine...",
      "image": "https://i.redd.it/20n2db3vrp3i1.gif",
      "url": "https://redd.it/1y51m9w",
      "ups": 19,
      "sub": "r/memes"
+    },
+    {
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 226,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 604,
+     "sub": "r/memes"
+    },
+    {
+     "title": "GTA economy 101",
+     "image": "https://i.redd.it/fguevv4seo3i1.png",
+     "url": "https://redd.it/1y4wv7a",
+     "ups": 9,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T13:13:12.908422+00:00",
+   "fetched_at": "2026-11-25T13:43:19.400598+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
+     "text": "Lead explosion in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "US prepares new tariffs on China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42859965c058",
      "likes": 0,
      "image": ""
     },
@@ -200,33 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Lead explosion in Iowa",
+     "text": "Steelers bench Aaron Rodgers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia hiring first compliance officer",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "UK energy price cap to rise",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +224,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Steelers bench Aaron Rodgers",
+     "text": "UK energy price cap to rise",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Day to end violence against women",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kilmar Abrego Garcia case",
+     "text": "Nvidia hiring first compliance officer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Delta system glitch delays flights",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e61f64a7ca63",
      "likes": 0,
      "image": ""
     },
@@ -279,53 +271,65 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "S-tier",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://piefed.world/c/tenforward/p/1555309/s-tier",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/3dae28df-6200-473d-b397-ddc1b17d1b1d.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "How dare you",
+     "author": "Memes",
+     "url": "https://reddthat.com/post/77197208",
+     "likes": 51,
+     "image": "https://lemmy.world/pictrs/image/182ebbf8-f910-4b10-b4d7-0bc95d9dd178.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "OpenProject wins contract as Jira replacement in German federal administration",
+     "author": "Technology",
+     "url": "https://sh.itjust.works/post/70454971",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/99e2f5dd-b62a-4089-9b0f-63025a51f41c.png"
+    },
+    {
      "kind": "Lemmy post",
      "text": "How long has it been?",
      "author": "Microblog Memes",
      "url": "https://piefed.zip/c/microblogmemes@lemmy.world/p/2031729/how-long-has-it-been",
-     "likes": 41,
+     "likes": 77,
      "image": "https://lemmy.world/pictrs/image/e0f1494e-69f1-481f-90a3-f23c6add360e.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Accurate caption",
-     "author": "cats",
-     "url": "https://piefed.zip/c/cat@lemmy.world/p/2031735/accurate-caption",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/e9b9865f-5142-477a-b40d-52b72666f858.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Those kids will be very upset",
-     "author": "Lemmy Shitpost",
-     "url": "https://piefed.zip/c/lemmyshitpost@lemmy.world/p/2031722/those-kids-will-be-very-upset",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/6ee8c5d9-28f8-46f9-94ce-d86d9e382cc5.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "You say tomato...",
-     "author": "Comic Strips",
-     "url": "https://lemmy.ca/post/74344108",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/730735e6-c21c-431a-9132-8d7803e82d76.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T13:13:14.394824+00:00",
+   "fetched_at": "2026-11-25T13:43:20.098373+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.",
+     "text": "Why is the ocean always blue? Because the shore never waves back.",
      "source": "Dad joke"
     },
     {
-     "text": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
+     "text": "A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.",
      "source": "Dad joke"
     },
     {
-     "text": "Ever wondered why bees hum? It's because they don't know the words.",
+     "text": "What do you call a dad that has fallen through the ice? A Popsicle.",
      "source": "Dad joke"
     }
    ]
