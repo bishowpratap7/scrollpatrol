@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T16:44:23.817206+00:00",
+ "generated_at": "2026-11-25T17:14:30.812547+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,50 +89,57 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T16:44:20.387790+00:00",
+   "fetched_at": "2026-11-25T17:14:26.609315+00:00",
    "stale": false,
    "items": [
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5716,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 574,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 10249,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 225,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 343,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
+     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
+     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
+     "url": "https://redd.it/1y59oah",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3507,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 875,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3402,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 160,
+     "sub": "r/memes"
     },
     {
      "title": "the night before",
@@ -149,44 +156,45 @@
      "sub": "r/memes"
     },
     {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 132,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1731,
      "sub": "r/memes"
     },
     {
-     "title": "Is lead really that bad though? (yes, yes it is)",
-     "image": "https://i.redd.it/1n9co209wr3i1.png",
-     "url": "https://redd.it/1y59fv3",
-     "ups": 496,
+     "title": "pls do not resist. this is for your own benefit.",
+     "image": "https://i.redd.it/n8wxogc9xp3i1.gif",
+     "url": "https://redd.it/1y5239n",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1704,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 337,
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 618,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T16:44:22.114590+00:00",
+   "fetched_at": "2026-11-25T17:14:29.231814+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
+     "text": "Army lead detonation in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kilmar Abrego Garcia case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
      "likes": 0,
      "image": ""
     },
@@ -200,25 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump to meet El-Sayed on Trumpcare",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f3abb1662a5d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Gillibrand backs Fetterman reelection",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/591f7ff711e5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "SoftBank shares fall in AI sell-off",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/84d5e7a4542e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +240,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Day to end violence against women",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
@@ -256,109 +264,101 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "PCE inflation hits three-year high",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/758148fa947c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Burnham's UK-EU deal",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Zeldin's Iowa detonation cleanup advice",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "That or Fedora. Sigh",
+     "author": "linuxmemes",
+     "url": "https://lemmy.zip/post/75646751",
+     "likes": 33,
+     "image": "https://lemmy.zip/pictrs/image/bb1d1b49-10de-4fe8-bbbd-c272af97ae4c.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "What political statement could you make this Thanksgiving to achieve this?",
+     "author": "Political Memes",
+     "url": "https://reddthat.com/post/77206560",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/caf45cf1-5752-4b32-ac8b-3d1f7fc69d92.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Gotta pay your way",
      "author": "Comic Strips",
      "url": "https://reddthat.com/post/77205971",
-     "likes": 24,
+     "likes": 53,
      "image": "https://lemmy.world/pictrs/image/ce258d01-69fb-450a-bb17-037b717ee8e7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "\u201cI\u2019m late for work\u2026 wait, nevermind\u201d",
-     "author": "cats",
-     "url": "https://lemmy.world/post/54837114",
-     "likes": 126,
-     "image": "https://lemmy.world/pictrs/image/deb2c6a1-ec7b-4053-8cd3-a14989185506.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mozilla is removing the ability to not use the Firefox Nova design starting in December",
-     "author": "Technology",
-     "url": "https://lemmy.zip/post/75644179",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/d72cc7f2-173e-417d-94fc-eb7c2421befc.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Sign found in Atlanta, Georgia",
-     "author": "Funny",
-     "url": "https://lemmy.world/post/54837666",
-     "likes": 61,
-     "image": "https://lemmy.world/pictrs/image/4ac28439-1c18-4cba-b141-60cbf83a62b0.jpeg"
+     "text": "US stocks fall further as fears over AI intensify",
+     "author": "Fuck AI",
+     "url": "https://reddthat.com/post/77207458",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/d0f9ea1f-5abc-47be-bd20-a40bea976033.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T16:44:22.862583+00:00",
+   "fetched_at": "2026-11-25T17:14:29.967178+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
     {
      "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "My boss told me to attach two pieces of wood together... I totally nailed it!",
+     "text": "What is the hardest part about sky diving? The ground.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call an alligator in a vest? An in-vest-igator!",
+     "text": "How many bones are in the human hand? A handful of them.",
      "source": "Dad joke"
     },
     {
-     "text": "I broke my finger at work today, on the other hand I'm completely fine.",
+     "text": "What did one wall say to the other wall? I'll meet you at the corner!",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
