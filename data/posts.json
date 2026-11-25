@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T00:10:06.929798+00:00",
+ "generated_at": "2026-11-25T00:40:11.866490+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,84 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T00:10:03.175869+00:00",
+   "fetched_at": "2026-11-25T00:40:09.095745+00:00",
    "stale": false,
    "items": [
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 1431,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5659,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 52,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 512,
+     "title": "pythonBrosDontMessAround",
+     "image": "https://i.redd.it/kxn016janu1i1.png",
+     "url": "https://redd.it/1xx85bl",
+     "ups": 1759,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 662,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3470,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 42,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 142,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 569,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3475,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "and he got homework to do",
-     "image": "https://i.redd.it/1n4agz0fuf3i1.png",
-     "url": "https://redd.it/1y3w8ww",
-     "ups": 74,
+     "title": "Back to back long weekends? You shouldn\u2019t have",
+     "image": "https://i.redd.it/sb306bmwbd3i1.gif",
+     "url": "https://redd.it/1y3ix5y",
+     "ups": 177,
      "sub": "r/memes"
     },
     {
-     "title": "guess who's back",
-     "image": "https://i.redd.it/0w29ha7xhf3i1.png",
-     "url": "https://redd.it/1y3uhc3",
-     "ups": 63,
+     "title": "Discussions surrounding this one game...",
+     "image": "https://i.redd.it/1i38kxjc7b3i1.gif",
+     "url": "https://redd.it/1y3binq",
+     "ups": 965,
+     "sub": "r/memes"
+    },
+    {
+     "title": "AI bros right now",
+     "image": "https://i.redd.it/qx8mq45pze3i1.png",
+     "url": "https://redd.it/1y3rt2c",
+     "ups": 81,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What an incredible map, my friends",
+     "image": "https://i.redd.it/tmcmm3v0n83i1.png",
+     "url": "https://redd.it/1y31ghw",
+     "ups": 24706,
+     "sub": "r/memes"
+    },
+    {
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 6072,
      "sub": "r/memes"
     },
     {
@@ -154,55 +175,18 @@
      "url": "https://redd.it/1y3yk8f",
      "ups": 34,
      "sub": "r/memes"
-    },
-    {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 218,
-     "sub": "r/memes"
-    },
-    {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 1171,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 48,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T00:10:05.298292+00:00",
+   "fetched_at": "2026-11-25T00:40:10.616807+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
      "text": "Planned lead detonation in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/74fc24a95fc1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump pardons Thanksgiving turkeys",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25cca3a6e2c1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tidal bans AI-generated music",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Wrong Lord of the Rings quotes",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
@@ -248,6 +224,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Wrong Lord of the Rings quotes",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Google plans personalized AI TV channel",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "\"I Know Your Age\" quiz",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
@@ -256,25 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Showing up to Thanksgiving dinner",
+     "text": "Pope Francis diary: devil encounters",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132768232448",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cybersecurity breach reported at CIA",
+     "text": "Tidal bans AI-generated music",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/181d242c7a2a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
+     "text": "ICE arrests at Seattle airport",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump pardons Thanksgiving turkeys",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25cca3a6e2c1",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Kilmar Abrego Garcia leaves the US, is self-deporting to Spain",
      "author": "News",
      "url": "https://lemmy.world/post/54814118",
-     "likes": 19,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/76a5300a-1101-4619-b4ef-c388b396c596.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Amazon Announces New Bond Villain Will Be Hellbent on Global Workers\u2019 Rights",
      "author": "The Onion and other satire w/ layers",
      "url": "https://piefed.ca/c/theonion@sh.itjust.works/p/1090177/amazon-announces-new-bond-villain-will-be-hellbent-on-global-workers-rights",
-     "likes": 64,
+     "likes": 86,
      "image": "https://lemmy.world/pictrs/image/9f84483b-f5ae-48ae-9541-8eacee51377e.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Humboldt Park Coffee Shop Announces It\u2019s Permanently Closed After Fallout Over ICE Allegations",
      "author": "Illinois",
      "url": "https://quokk.au/c/illinois/p/1362149/humboldt-park-coffee-shop-announces-its-permanently-closed-after-fallout-over-ice-allegation",
-     "likes": 28,
+     "likes": 37,
      "image": "https://lemmy.world/pictrs/image/bee255ee-bd34-49e3-aca3-398a19af3701.jpeg"
     },
     {
@@ -307,25 +307,25 @@
      "text": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
      "author": "Fuck AI",
      "url": "https://lemmy.world/post/54814338",
-     "likes": 11,
+     "likes": 16,
      "image": "https://lemmy.world/pictrs/image/aba4bdaf-80bc-48d1-ba63-039d59d6682b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T00:10:06.312978+00:00",
+   "fetched_at": "2026-11-25T00:40:11.278978+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The best time on a clock is 6:30--hands down.",
+     "text": "I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you make a hankie dance? Put a little boogie in it.",
+     "text": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
      "source": "Dad joke"
     },
     {
-     "text": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
+     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
      "source": "Dad joke"
     }
    ]
