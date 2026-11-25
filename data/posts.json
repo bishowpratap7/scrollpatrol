@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:44:37.107990+00:00",
+ "generated_at": "2026-11-25T18:14:45.806710+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,120 +89,128 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T17:44:33.669002+00:00",
+   "fetched_at": "2026-11-25T18:14:42.702631+00:00",
    "stale": false,
    "items": [
     {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 42,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 134,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "maybeAIprogrammingIsNotThatBadIdea",
-     "image": "https://i.redd.it/zb7mn2jucs3i1.png",
-     "url": "https://redd.it/1y5bsn3",
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
-     "ups": 0,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 487,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 610,
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2242,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 10296,
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 4420,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "GTA economy 101",
-     "image": "https://i.redd.it/fguevv4seo3i1.png",
-     "url": "https://redd.it/1y4wv7a",
-     "ups": 18,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1519,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "needToMergeButGitHubHasOtherIdeas",
+     "image": "https://i.redd.it/3oxeau797s3i1.png",
+     "url": "https://redd.it/1y5azz6",
+     "ups": 80,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "The 15 year olds porting GTA 6 to PC rn",
+     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
+     "url": "https://redd.it/1y53xaf",
+     "ups": 675,
      "sub": "r/memes"
     },
     {
-     "title": "I'LL SHOW MYSELF OUT",
-     "image": "https://i.redd.it/f8rk03gfmm3i1.png",
-     "url": "https://redd.it/1y4p1o5",
-     "ups": 18,
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 339,
      "sub": "r/memes"
     },
     {
-     "title": "There isn't one but imagine...",
-     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
-     "url": "https://redd.it/1y51m9w",
-     "ups": 40,
+     "title": "Organic chemistry",
+     "image": "https://i.redd.it/631fcwfezq3i1.png",
+     "url": "https://redd.it/1y55hsz",
+     "ups": 157,
      "sub": "r/memes"
     },
     {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 1381,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 252,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Back guy is the pole holding it up I guess",
+     "image": "https://i.redd.it/pr55efrejp3i1.png",
+     "url": "https://redd.it/1y50vr7",
+     "ups": 59,
      "sub": "r/memes"
     },
     {
      "title": "Is lead really that bad though? (yes, yes it is)",
      "image": "https://i.redd.it/1n9co209wr3i1.png",
      "url": "https://redd.it/1y59fv3",
-     "ups": 496,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 21,
+     "ups": 1893,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T17:44:35.885954+00:00",
+   "fetched_at": "2026-11-25T18:14:44.428990+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Army lead detonation in Iowa",
+     "text": "Day to end violence against women",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump claims prices are falling",
+     "text": "Showing up to Thanksgiving dinner",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Montreal airport pizza slice",
+     "text": "Poundland heads into administration",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9101c0dc9b81",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "AI water use compared to golf",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4262fbfdeb00",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +232,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Army lead detonation in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Nvidia hiring first compliance officer",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
@@ -232,88 +248,72 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
+     "text": "Trump claims prices are falling",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SoftBank shares fall in AI sell-off",
+     "text": "Montreal airport pizza slice",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/84d5e7a4542e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Steelers bench Aaron Rodgers",
+     "text": "Trump floats Jensen Huang pardon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "PCE inflation hits three-year high",
+     "text": "Todd Blanche's Justice Department",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/758148fa947c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b292b750e9d",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Max Balegde's Downing Street visit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e9073e91a90",
-     "likes": 0,
+     "kind": "Lemmy post",
+     "text": "For the past week, I\u2019ve replaced Reddit with Lemmy\u2014again",
+     "author": "Fediverse",
+     "url": "https://lemmy.world/post/54841942",
+     "likes": 26,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "ICE arrests at Seattle airport",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "High quality H2O",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70466988",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/83aad427-91fe-4703-abb2-785c3a1c3f4b.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "Boss makes a dollar, I make a dime...",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70466046",
-     "likes": 29,
+     "likes": 88,
      "image": "https://lemmy.world/pictrs/image/03a3e276-86e4-43dd-8ee3-678982aac54a.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Trump hates these photos",
-     "author": "Lemmy Shitpost",
-     "url": "https://discuss.online/post/48990189",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/5bcf39b6-ccd0-45b9-a50d-81d9cb0c23b2.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "That or Fedora. Sigh",
-     "author": "linuxmemes",
-     "url": "https://lemmy.zip/post/75646751",
-     "likes": 61,
-     "image": "https://lemmy.zip/pictrs/image/bb1d1b49-10de-4fe8-bbbd-c272af97ae4c.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "US stocks fall further as fears over AI intensify",
-     "author": "Fuck AI",
-     "url": "https://reddthat.com/post/77207458",
-     "likes": 44,
-     "image": "https://lemmy.world/pictrs/image/d0f9ea1f-5abc-47be-bd20-a40bea976033.jpeg"
+     "text": "I love my Mobielk",
+     "author": "196",
+     "url": "https://sh.itjust.works/post/70467077",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/74b51cda-a84d-4651-9ac0-fb901cd4a957.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T17:44:36.506862+00:00",
+   "fetched_at": "2026-11-25T18:14:45.122749+00:00",
    "stale": false,
    "items": [
     {
@@ -321,19 +321,7 @@
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "Why is the new Kindle screen textured to look like paper? So you feel write at home.",
+     "text": "ASCII silly question, get a silly ANSI.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\u201cHold on, I have something in my shoe\u201d  \u201cI\u2019m pretty sure it\u2019s a foot\u201d",
      "source": "Dad joke"
     },
     {
-     "text": "What do bees do after they are married? They go on a honeymoon.",
+     "text": "Why did the barber win the race? He took a short cut.",
      "source": "Dad joke"
     },
     {
-     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
+     "text": "They're making a movie about clocks. It's about time",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
