@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:41:15.061396+00:00",
+ "generated_at": "2026-11-25T06:11:18.861896+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T05:41:12.831867+00:00",
+   "fetched_at": "2026-11-25T06:11:16.610410+00:00",
    "stale": false,
    "items": [
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 666,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 487,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 268,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2246,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 41,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,52 +114,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5677,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 411,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3492,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 6079,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 1386,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 509,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Human Resources Department, circa 2029",
+     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
+     "url": "https://redd.it/1y4jg6c",
+     "ups": 277,
      "sub": "r/memes"
     },
     {
-     "title": "Why is it always like this?",
-     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
-     "url": "https://redd.it/1y4t3xd",
-     "ups": 78,
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 286,
      "sub": "r/memes"
     },
     {
      "title": "and he got homework to do",
      "image": "https://i.redd.it/1n4agz0fuf3i1.png",
      "url": "https://redd.it/1y3w8ww",
-     "ups": 97,
+     "ups": 108,
      "sub": "r/memes"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 17,
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 73,
      "sub": "r/memes"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1651,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 7132,
      "sub": "r/memes"
     },
     {
@@ -179,7 +179,7 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T05:41:14.435987+00:00",
+   "fetched_at": "2026-11-25T06:11:18.217154+00:00",
    "stale": false,
    "items": [
     {
@@ -192,25 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers benched against Broncos",
+     "text": "Wrong Lord of the Rings quotes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "\"I Know Your Age\" quiz",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "November full supermoon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Mario Kart World 1.9.0 update",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/df762a251ab3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kelsey Grammer's Beast first look",
+     "text": "Kilmar Abrego Garcia case",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/63aca864baa7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "November full supermoon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "LSU's future in the SEC",
+     "text": "Kelsey Grammer's Beast first look",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4fc9f3f32167",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/63aca864baa7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping's $225M debut",
+     "text": "Measles risk grows for adults",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89f3020c5157",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cybersecurity breach reported at CIA",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Push to remove Trump from office",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0a31641fa636",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Victorian state election campaign",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc09e9de2aba",
      "likes": 0,
      "image": ""
     },
@@ -283,49 +283,41 @@
      "text": "The American Dream",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/54821111",
-     "likes": 16,
+     "likes": 65,
      "image": "https://lemmy.world/pictrs/image/90599ab3-f2e9-42c8-bc78-b7849ce3fb26.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Anon's mom watches TV",
-     "author": "Greentext",
-     "url": "https://sh.itjust.works/post/70439646",
+     "text": "US Treasury CIO focuses on vibecoding Civ knock off rather than working on major cyber security breach",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.world/post/54821220",
      "likes": 37,
-     "image": "https://lemmy.world/pictrs/image/0f02e038-0281-4b90-9f27-12694932b551.jpeg"
+     "image": "https://lemmy.world/pictrs/image/0dcc6868-58ea-4367-a1d7-7cef61bd9a18.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Not right now buddy",
-     "author": "NiceMemes",
-     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1088290/not-right-now-buddy",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/5b5ffcc8-4ef7-4da0-93a4-5672bc56b563.jpeg"
+     "text": "We postin' onions today??",
+     "author": "Dad Jokes",
+     "url": "https://lemmy.zip/post/75620383",
+     "likes": 21,
+     "image": "https://lemmy.zip/api/v3/image_proxy?url=https%3A%2F%2Fthelemmy.club%2Fpictrs%2Fimage%2F1bf51b29-afe0-4f09-a300-7dc287172110.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Microsoft\u2019s historic cloud outage exposed an engineering \u201cfog of war\u201d: Internal memos reveal a \u201cCode Red\u201d overhaul and ambitious one-hour recovery goals.",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54820158",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/b462f242-a7fc-44b5-afc0-78425804e54e.jpeg"
+     "text": "Me_irl",
+     "author": "me_irl",
+     "url": "https://piefed.blahaj.zone/c/me_irl@lemmy.world/p/1088331/me-irl",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/d92646f0-fe0a-4123-bdc2-41b8bf4d064b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T05:41:14.776556+00:00",
+   "fetched_at": "2026-11-25T06:11:18.560564+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
@@ -333,7 +325,11 @@
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What do you get when you cross a bee and a sheep? A bah-humbug.\r\n",
      "source": "Dad joke"
     },
     {
-     "text": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement",
+     "text": "A magician was driving down the street and then he turned into a driveway.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was ten scared of seven? Because seven ate nine.",
+     "text": "\"Dad, I'm hungry.\" Hello, Hungry. I'm Dad.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
