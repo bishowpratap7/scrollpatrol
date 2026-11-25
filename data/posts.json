@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:13:27.660735+00:00",
+ "generated_at": "2026-11-25T14:43:35.581462+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T14:13:23.982473+00:00",
+   "fetched_at": "2026-11-25T14:43:32.751497+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1511,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "riemannHypothesisSolved",
      "image": "https://i.redd.it/7313n4ui5y2i1.png",
@@ -107,10 +100,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 263,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 212,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,31 +114,31 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 18,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 412,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 44,
-     "sub": "r/memes"
+     "title": "itsOverGuys",
+     "image": "https://i.redd.it/qx3boz9oap3i1.png",
+     "url": "https://redd.it/1y5021z",
+     "ups": 125,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I know I'm a little bit late",
-     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
-     "url": "https://redd.it/1y4n1le",
-     "ups": 33,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 237,
      "sub": "r/memes"
     },
     {
@@ -156,30 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "Back guy is the pole holding it up I guess",
-     "image": "https://i.redd.it/pr55efrejp3i1.png",
-     "url": "https://redd.it/1y50vr7",
-     "ups": 57,
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 1360,
      "sub": "r/memes"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1700,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 7506,
      "sub": "r/memes"
     },
     {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 333,
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 156,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The 15 year olds porting GTA 6 to PC rn",
+     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
+     "url": "https://redd.it/1y53xaf",
+     "ups": 255,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T14:13:25.903528+00:00",
+   "fetched_at": "2026-11-25T14:43:34.216218+00:00",
    "stale": false,
    "items": [
     {
@@ -200,25 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Steelers bench Aaron Rodgers",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +216,49 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Burnham's UK-EU deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Day to end violence against women",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Nvidia hiring first compliance officer",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "\"I Know Your Age\" quiz",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
      "likes": 0,
      "image": ""
     },
@@ -248,30 +272,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK energy price cap to rise",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Showing up to Thanksgiving dinner",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Cybersecurity breach reported at CIA",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
@@ -280,48 +280,60 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "Therapy",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54835388",
+     "likes": 44,
+     "image": "https://lemmy.world/pictrs/image/51d81b60-906f-41da-b851-550394566a5d.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I can relate",
+     "author": "Wholesome",
+     "url": "https://piefed.blahaj.zone/c/wholesome@reddthat.com/p/1088196/i-can-relate",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/06d9dd2c-547e-423f-8ae7-910e02b39471.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The Rule that always comes back",
+     "author": "Dad Jokes",
+     "url": "https://lemmy.world/post/54835461",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/8ddee68d-ec0a-4840-aff1-64b63f3ab933.webp"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "The Rule that always comes back",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50918030",
-     "likes": 28,
+     "likes": 50,
      "image": "https://lemmy.world/pictrs/image/3ae3fe92-fa44-4459-a2fc-d8b98c54ede0.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "basically, every single one of us",
-     "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/70456107",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/9cc62f84-62fb-41fd-b81e-ef3c72bf00d3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "S-tier",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://piefed.world/c/tenforward/p/1555309/s-tier",
-     "likes": 61,
-     "image": "https://lemmy.world/pictrs/image/3dae28df-6200-473d-b397-ddc1b17d1b1d.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "After student walkout, New York school district reverses forced trans outing policy",
-     "author": "Good News Everyone",
-     "url": "https://piefed.ca/c/goodnewseveryone@piefed.social/p/1091108/after-student-walkout-new-york-school-district-reverses-forced-trans-outing-policy",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/c7d0ba2c-ca33-4214-8892-07959072c589.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T14:13:27.064494+00:00",
+   "fetched_at": "2026-11-25T14:43:34.942726+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "When will the little snake arrive? I don't know but he won't be long...",
+     "text": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
      "source": "Dad joke"
     },
     {
-     "text": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, \u201csorry we don\u2019t serve spirits\u201d",
+     "text": "Where was the Declaration of Independence signed?\r\n\r\nAt the bottom! ",
      "source": "Dad joke"
     },
     {
-     "text": "How do locomotives know where they're going? Lots of training",
+     "text": "I invented a new word! Plagiarism!",
      "source": "Dad joke"
     }
    ]
