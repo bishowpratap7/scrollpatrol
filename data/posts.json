@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:15:01.870667+00:00",
+ "generated_at": "2026-11-25T18:45:08.866699+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T18:14:58.237102+00:00",
+   "fetched_at": "2026-11-25T18:45:04.609462+00:00",
    "stale": false,
    "items": [
     {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3402,
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 269,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 875,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
-     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
-     "url": "https://redd.it/1y59oah",
+     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
+     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
+     "url": "https://redd.it/1y59j8p",
      "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 675,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 422,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,20 +135,6 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1519,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 487,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
      "title": "idgaf Jason is my goat",
      "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
      "url": "https://redd.it/1y3k6e8",
@@ -142,67 +142,51 @@
      "sub": "r/memes"
     },
     {
-     "title": "Why is it always like this?",
-     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
-     "url": "https://redd.it/1y4t3xd",
-     "ups": 252,
+     "title": "Generational trauma",
+     "image": "https://i.redd.it/to3s6ten0r3i1.png",
+     "url": "https://redd.it/1y55mxg",
+     "ups": 34,
      "sub": "r/memes"
     },
     {
-     "title": "The 15 year olds porting GTA 6 to PC rn",
-     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
-     "url": "https://redd.it/1y53xaf",
-     "ups": 675,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 7731,
      "sub": "r/memes"
     },
     {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 339,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1735,
      "sub": "r/memes"
     },
     {
-     "title": "Idek what they want me to do besides already know the answer",
-     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
-     "url": "https://redd.it/1y438hr",
-     "ups": 156,
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 632,
      "sub": "r/memes"
     },
     {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 1386,
+     "title": "I know I'm a little bit late",
+     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
+     "url": "https://redd.it/1y4n1le",
+     "ups": 44,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T18:15:00.319316+00:00",
+   "fetched_at": "2026-11-25T18:45:07.106200+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
+     "text": "Canned cranberry sauce",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Showing up to Thanksgiving dinner",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Poundland heads into administration",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9101c0dc9b81",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ef94576cdfe",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Kilmar Abrego Garcia case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Max Balegde's Downing Street visit",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1e9073e91a90",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Army lead detonation in Iowa",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
      "likes": 0,
      "image": ""
     },
@@ -248,14 +232,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump claims prices are falling",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Montreal airport pizza slice",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
@@ -264,92 +240,116 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump floats Jensen Huang pardon",
+     "text": "Gordon Ramsay to host Top Gear",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c417388bd4d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Todd Blanche's Justice Department",
+     "text": "Day to end violence against women",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7b292b750e9d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Poundland heads into administration",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9101c0dc9b81",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army lead detonation in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Van Hollen challenges Schumer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "For the past week, I\u2019ve replaced Reddit with Lemmy\u2014again",
-     "author": "Fediverse",
-     "url": "https://lemmy.world/post/54841942",
-     "likes": 26,
-     "image": ""
+     "text": "balding iphone rule",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50927151",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/427c4469-67d3-4416-b534-1961d2c8376f.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Friendly annual reminder for the US",
+     "author": "memes",
+     "url": "https://lemmy.world/post/54842006",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/f45aa673-2451-4ce2-800f-7276435fc516.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "High quality H2O",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70466988",
-     "likes": 30,
+     "likes": 66,
      "image": "https://lemmy.world/pictrs/image/83aad427-91fe-4703-abb2-785c3a1c3f4b.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Boss makes a dollar, I make a dime...",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70466046",
-     "likes": 88,
-     "image": "https://lemmy.world/pictrs/image/03a3e276-86e4-43dd-8ee3-678982aac54a.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I love my Mobielk",
-     "author": "196",
-     "url": "https://sh.itjust.works/post/70467077",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/74b51cda-a84d-4651-9ac0-fb901cd4a957.jpeg"
+     "text": "For the past week, I\u2019ve replaced Reddit with Lemmy\u2014again",
+     "author": "Fediverse",
+     "url": "https://lemmy.world/post/54841942",
+     "likes": 45,
+     "image": ""
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T18:15:01.010543+00:00",
+   "fetched_at": "2026-11-25T18:45:08.038052+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
     {
      "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
+     "text": "Why did Dracula lie in the wrong coffin? He made a grave mistake.",
      "source": "Dad joke"
     },
     {
-     "text": "Who did the wizard marry? His ghoul-friend",
+     "text": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
      "source": "Dad joke"
     },
     {
-     "text": "Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.",
+     "text": "What kind of dinosaur loves to sleep? A stega-snore-us.",
      "source": "Dad joke"
     }
    ]
