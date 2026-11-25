@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:15:43.399239+00:00",
+ "generated_at": "2026-11-25T21:45:49.619347+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T21:15:39.838753+00:00",
+   "fetched_at": "2026-11-25T21:45:46.024011+00:00",
    "stale": false,
    "items": [
     {
-     "title": "getsBetterEveryHourIRefresh",
-     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
-     "url": "https://redd.it/1y557cw",
-     "ups": 5437,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 498,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 59,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 39,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 266,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1608,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5757,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 472,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,52 +135,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3591,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 129,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Human Resources Department, circa 2029",
-     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
-     "url": "https://redd.it/1y4jg6c",
-     "ups": 333,
+     "title": "the night before",
+     "image": "https://i.redd.it/olfiwdddyn3i1.png",
+     "url": "https://redd.it/1y4v00t",
+     "ups": 52,
      "sub": "r/memes"
     },
     {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 9773,
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 6401,
      "sub": "r/memes"
     },
     {
-     "title": "I am referring to a specific piece of media, and there is a 99% that it's not the one in your head.",
-     "image": "https://i.redd.it/ruv3ztwp6t3i1.png",
-     "url": "https://redd.it/1y5g7pu",
-     "ups": 7,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA economy 101",
-     "image": "https://i.redd.it/fguevv4seo3i1.png",
-     "url": "https://redd.it/1y4wv7a",
-     "ups": 21,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 182,
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1714,
      "sub": "r/memes"
     },
     {
@@ -175,11 +161,25 @@
      "url": "https://redd.it/1y5239n",
      "ups": 15,
      "sub": "r/memes"
+    },
+    {
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 107,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Human Resources Department, circa 2029",
+     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
+     "url": "https://redd.it/1y4jg6c",
+     "ups": 333,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T21:15:41.821527+00:00",
+   "fetched_at": "2026-11-25T21:45:48.461061+00:00",
    "stale": false,
    "items": [
     {
@@ -192,17 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Showing up to Thanksgiving dinner",
+     "text": "Mike McCarthy's ice cream sandwich assistant",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/088e8265d639",
      "likes": 0,
      "image": ""
     },
@@ -216,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
+     "text": "Vance blames Obama for detonation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers benched against Broncos",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3313a1bf22b",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +224,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers criticizes Mike McCarthy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Huang reinstated as Nvidia CEO",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -256,17 +264,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Joyce Carol Oates on trans literature",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7057d98ce4f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump floats Jensen Huang pardon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "Gotta Inform the Uninformed",
      "author": "Programmer Humor",
      "url": "https://lemmy.zip/post/75661548",
-     "likes": 24,
+     "likes": 64,
      "image": "https://lemmy.zip/pictrs/image/63b4a2ea-cf02-4bb8-a8b7-ccee4da039de.avif"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Classic Rock",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70476816",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/3a53db29-1cc8-4ceb-a001-c42aa655ee6d.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Been dealing with this at work lately.",
+     "author": "Fuck AI",
+     "url": "https://sh.itjust.works/post/70477587",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/1c56840b-060b-44a6-8331-fb671c895722.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Judge upholds NYC rent freeze, marking win for Mamdani and his affordability agenda",
      "author": "News",
      "url": "https://lemmy.world/post/54848066",
-     "likes": 57,
+     "likes": 90,
      "image": "https://api-prod.gothamist.com/images/362651/fill-318x212%7Cformat-webp%7Cwebpquality-80/"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "\"Fine, we'll do it ourselves\"",
-     "author": "Memes",
-     "url": "https://toast.ooo/post/17647637",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/8a5aa725-723c-4b07-bc58-5aae37e08563.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I'm so excited",
-     "author": "Antique Memes Roadshow",
-     "url": "https://lemmy.world/post/54847975",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/cab7659b-538d-4a7c-9000-ffc4851162ef.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T21:15:42.606615+00:00",
+   "fetched_at": "2026-11-25T21:45:48.868387+00:00",
    "stale": false,
    "items": [
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
+     "text": "Atheism is a non-prophet organisation.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was ten scared of seven? Because seven ate nine.",
+     "text": "I knew a guy who collected candy canes, they were all in mint condition",
      "source": "Dad joke"
     },
     {
-     "text": "I saw an ad in a shop window, \"Television for sale, $1, volume stuck on full\", I thought, \"I can't turn that down\".",
+     "text": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
      "source": "Dad joke"
     }
    ]
