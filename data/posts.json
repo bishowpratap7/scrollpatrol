@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:16:09.518495+00:00",
+ "generated_at": "2026-11-25T23:16:26.156428+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T23:16:05.611596+00:00",
+   "fetched_at": "2026-11-25T23:16:22.622159+00:00",
    "stale": false,
    "items": [
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 56,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 344,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 269,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 5379,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 573,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 679,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,17 +114,59 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5766,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 114,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1603,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 272,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I am referring to a specific piece of media, and there is a 99% that it's not the one in your head.",
+     "image": "https://i.redd.it/ruv3ztwp6t3i1.png",
+     "url": "https://redd.it/1y5g7pu",
+     "ups": 10,
+     "sub": "r/memes"
+    },
+    {
+     "title": "GTA economy 101",
+     "image": "https://i.redd.it/fguevv4seo3i1.png",
+     "url": "https://redd.it/1y4wv7a",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 654,
+     "sub": "r/memes"
+    },
+    {
+     "title": "LLMs run on matrix multiplication themselves lol",
+     "image": "https://i.redd.it/3bhfjft0er3i1.png",
+     "url": "https://redd.it/1y57329",
+     "ups": 98,
+     "sub": "r/memes"
+    },
+    {
+     "title": "the night before",
+     "image": "https://i.redd.it/olfiwdddyn3i1.png",
+     "url": "https://redd.it/1y4v00t",
+     "ups": 49,
      "sub": "r/memes"
     },
     {
@@ -147,39 +175,11 @@
      "url": "https://redd.it/1y4o5k3",
      "ups": 10411,
      "sub": "r/memes"
-    },
-    {
-     "title": "The 15 year olds porting GTA 6 to PC rn",
-     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
-     "url": "https://redd.it/1y53xaf",
-     "ups": 1036,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 39,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Rolls vs. Breadsticks",
-     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
-     "url": "https://redd.it/1y59x6d",
-     "ups": 65,
-     "sub": "r/memes"
-    },
-    {
-     "title": "There isn't one but imagine...",
-     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
-     "url": "https://redd.it/1y51m9w",
-     "ups": 74,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T23:16:08.072934+00:00",
+   "fetched_at": "2026-11-25T23:16:24.920117+00:00",
    "stale": false,
    "items": [
     {
@@ -291,7 +291,7 @@
      "text": "Outcry as Trump admin unveils auto-enroll gambit for seniors: 'Fight them tooth and nail'",
      "author": "politics ",
      "url": "https://sh.itjust.works/post/70480707",
-     "likes": 15,
+     "likes": 16,
      "image": "https://lemmy.world/pictrs/image/68593c17-e6bd-4596-a694-7b61e6c7ac7b.jpeg"
     },
     {
@@ -313,27 +313,19 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T23:16:08.737677+00:00",
+   "fetched_at": "2026-11-25T23:16:25.605818+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
-     "source": "Programming joke"
-    },
     {
      "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
@@ -341,15 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "It's only a murder of crows if there's probable caws.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
      "source": "Dad joke"
     },
     {
-     "text": "What type of music do balloons hate? Pop music!",
+     "text": "What did the ocean say to the shore? Nothing, it just waved.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.",
+     "text": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
      "source": "Dad joke"
     }
    ]
