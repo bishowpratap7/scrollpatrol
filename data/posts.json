@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:14:45.806710+00:00",
+ "generated_at": "2026-11-25T18:15:01.870667+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T18:14:42.702631+00:00",
+   "fetched_at": "2026-11-25T18:14:58.237102+00:00",
    "stale": false,
    "items": [
     {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
+     "title": "cppAndItsVectorBooleans",
+     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
+     "url": "https://redd.it/1xxfw9i",
+     "ups": 3402,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 875,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
+     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
+     "url": "https://redd.it/1y59oah",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 487,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
-     "image": "https://i.redd.it/oc8vke7eel3i1.png",
-     "url": "https://redd.it/1y4ipsn",
-     "ups": 2242,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 4420,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3560,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,11 +128,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "needToMergeButGitHubHasOtherIdeas",
-     "image": "https://i.redd.it/3oxeau797s3i1.png",
-     "url": "https://redd.it/1y5azz6",
-     "ups": 80,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 487,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 6382,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 252,
+     "sub": "r/memes"
     },
     {
      "title": "The 15 year olds porting GTA 6 to PC rn",
@@ -149,37 +163,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 157,
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 156,
      "sub": "r/memes"
     },
     {
-     "title": "Why is it always like this?",
-     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
-     "url": "https://redd.it/1y4t3xd",
-     "ups": 252,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Back guy is the pole holding it up I guess",
-     "image": "https://i.redd.it/pr55efrejp3i1.png",
-     "url": "https://redd.it/1y50vr7",
-     "ups": 59,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Is lead really that bad though? (yes, yes it is)",
-     "image": "https://i.redd.it/1n9co209wr3i1.png",
-     "url": "https://redd.it/1y59fv3",
-     "ups": 1893,
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 1386,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T18:14:44.428990+00:00",
+   "fetched_at": "2026-11-25T18:15:00.319316+00:00",
    "stale": false,
    "items": [
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T18:14:45.122749+00:00",
+   "fetched_at": "2026-11-25T18:15:01.010543+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\u201cHold on, I have something in my shoe\u201d  \u201cI\u2019m pretty sure it\u2019s a foot\u201d",
+     "text": "I accidentally drank a bottle of invisible ink. Now I\u2019m in hospital, waiting to be seen.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the barber win the race? He took a short cut.",
+     "text": "Who did the wizard marry? His ghoul-friend",
      "source": "Dad joke"
     },
     {
-     "text": "They're making a movie about clocks. It's about time",
+     "text": "Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.",
      "source": "Dad joke"
     }
    ]
