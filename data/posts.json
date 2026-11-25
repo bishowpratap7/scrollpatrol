@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:12:18.320593+00:00",
+ "generated_at": "2026-11-25T10:42:24.889390+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,23 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T10:12:13.926182+00:00",
+   "fetched_at": "2026-11-25T10:42:21.305390+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3500,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1603,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "craigGentry",
      "image": "https://i.redd.it/3k5tbu41h72i1.png",
@@ -100,73 +114,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itsOverGuys",
-     "image": "https://i.redd.it/qx3boz9oap3i1.png",
-     "url": "https://redd.it/1y5021z",
-     "ups": 59,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 604,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 194,
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 121,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 491,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 560,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 268,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 411,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 4964,
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 601,
      "sub": "r/memes"
     },
     {
-     "title": "3 inches of separation",
-     "image": "https://i.redd.it/870ip86d3q3i1.png",
-     "url": "https://redd.it/1y52med",
-     "ups": 0,
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 80,
      "sub": "r/memes"
     },
     {
-     "title": "At least give them a few minutes gah damn",
-     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
-     "url": "https://redd.it/1y49df8",
-     "ups": 18,
-     "sub": "r/memes"
-    },
-    {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1690,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The unholy trinity of adulthood",
-     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
-     "url": "https://redd.it/1y4llo5",
-     "ups": 314,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 7366,
      "sub": "r/memes"
     },
     {
@@ -175,18 +161,32 @@
      "url": "https://redd.it/1y4t3xd",
      "ups": 213,
      "sub": "r/memes"
+    },
+    {
+     "title": "GTA economy 101",
+     "image": "https://i.redd.it/fguevv4seo3i1.png",
+     "url": "https://redd.it/1y4wv7a",
+     "ups": 5,
+     "sub": "r/memes"
+    },
+    {
+     "title": "What is bro doing.",
+     "image": "https://i.redd.it/f99cwl907q3i1.gif",
+     "url": "https://redd.it/1y52xae",
+     "ups": 0,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T10:12:16.492999+00:00",
+   "fetched_at": "2026-11-25T10:42:23.361061+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
+     "text": "Army plans lead detonation in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army plans lead detonation in Iowa",
+     "text": "Day to end violence against women",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
      "likes": 0,
      "image": ""
     },
@@ -224,74 +224,74 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Wrong Lord of the Rings quotes",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Women's World Cup host vote",
+     "text": "Nvidia hiring first compliance officer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d51907d35453",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Google plans personalized AI TV channel",
+     "text": "Measles risk grows for adults",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/797701326264",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89f3020c5157",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kelsey Grammer's Beast first look",
+     "text": "\"I Know Your Age\" quiz",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/63aca864baa7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0d57d329c950",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "November full supermoon",
+     "text": "Showing up to Thanksgiving dinner",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Victorian state election campaign",
+     "text": "Ukraine claims Libya warship sinking",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fc09e9de2aba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Israeli strikes in Gaza",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "girls rule~",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50911795",
-     "likes": 23,
-     "image": "https://lemmy.world/pictrs/image/c2cd1a41-480e-4d73-9c75-001e1fdece0c.webp"
+     "text": "Big, if true.",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/75628291",
+     "likes": 20,
+     "image": "https://lemmy.zip/pictrs/image/6d402549-3df0-4076-ab82-c3f212a3475b.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "disgusting rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/50911689",
-     "likes": 21,
+     "likes": 41,
      "image": "https://lemmy.world/pictrs/image/8b829842-4079-4df5-a30f-a7fd951774dd.webp"
     },
     {
@@ -299,29 +299,25 @@
      "text": "[Alzward's Corner] The new game mod party",
      "author": "Comic Strips",
      "url": "https://piefed.social/c/comicstrips@lemmy.world/p/2640999/alzward-s-corner-the-new-game-mod-party",
-     "likes": 15,
+     "likes": 31,
      "image": "https://lemmy.world/pictrs/image/b3107444-eb5d-4efb-a02e-05cc3f7d10a7.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "pretty please?",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.blahaj.zone/post/50911682",
-     "likes": 16,
-     "image": ""
+     "text": "girls rule~",
+     "author": "196",
+     "url": "https://lemmy.blahaj.zone/post/50911795",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/c2cd1a41-480e-4d73-9c75-001e1fdece0c.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T10:12:17.384342+00:00",
+   "fetched_at": "2026-11-25T10:42:23.922369+00:00",
    "stale": false,
    "items": [
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
@@ -329,27 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Why was Santa's little helper feeling depressed? Because he has low elf esteem.\n",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you get a baby alien to sleep?  You rocket.",
      "source": "Dad joke"
     },
     {
-     "text": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
+     "text": "Just read a few facts about frogs. They were ribbiting.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a guy lying on your doorstep? Matt.",
+     "text": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
      "source": "Dad joke"
     }
    ]
