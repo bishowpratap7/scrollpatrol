@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:15:28.562193+00:00",
+ "generated_at": "2026-11-25T20:45:37.013168+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T20:15:24.606578+00:00",
+   "fetched_at": "2026-11-25T20:45:32.210785+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 513,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 24,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 52,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 572,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 956,
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 264,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +114,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3583,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1519,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Human Resources Department, circa 2029",
-     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
-     "url": "https://redd.it/1y4jg6c",
-     "ups": 333,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5746,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 883,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 642,
      "sub": "r/memes"
     },
     {
-     "title": "LLMs run on matrix multiplication themselves lol",
-     "image": "https://i.redd.it/3bhfjft0er3i1.png",
-     "url": "https://redd.it/1y57329",
-     "ups": 88,
+     "title": "There isn't one but imagine...",
+     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
+     "url": "https://redd.it/1y51m9w",
+     "ups": 54,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 107,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The 15 year olds porting GTA 6 to PC rn",
+     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
+     "url": "https://redd.it/1y53xaf",
+     "ups": 870,
      "sub": "r/memes"
     },
     {
@@ -156,101 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 7825,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 182,
-     "sub": "r/memes"
-    },
-    {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 1391,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 256,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T20:15:27.098377+00:00",
+   "fetched_at": "2026-11-25T20:45:34.607868+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers benched against Broncos",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers criticizes Mike McCarthy",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Steven Universe actor comes out",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "AI water use compared to golf",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4262fbfdeb00",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Showing up to Thanksgiving dinner",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump to meet El-Sayed on Trumpcare",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f3abb1662a5d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Israeli strikes in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Canned cranberry sauce",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1ef94576cdfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +200,41 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers benched against Broncos",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "FEMA hotline unanswered in Iowa",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers criticizes Mike McCarthy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
      "likes": 0,
      "image": ""
     },
@@ -279,77 +247,109 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Vance blames Obama for detonation",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3313a1bf22b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Steven Universe actor comes out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Montreal airport pizza slice",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "I'm so excited",
+     "author": "Antique Memes Roadshow",
+     "url": "https://lemmy.world/post/54847975",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/cab7659b-538d-4a7c-9000-ffc4851162ef.png"
+    },
+    {
      "kind": "Lemmy post",
      "text": "Shop Shop Shop [Savage Chickens]",
      "author": "Comic Strips",
      "url": "https://lemmy.world/post/54845460",
-     "likes": 82,
+     "likes": 135,
      "image": "https://lemmy.world/pictrs/image/98de673f-a618-4dd2-96b1-7b93d98273cb.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "I can\u2019t rule it out",
-     "author": "196",
-     "url": "https://lemmy.world/post/54845658",
-     "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/e4148ffa-e6a8-459e-a658-270ee2d9a594.jpeg"
+     "text": "'Call Your Senators Now': Action Urged as Poll Shows Dem Voters Prefer Van Hollen Over Schumer by 21 Points",
+     "author": "Pravda News!",
+     "url": "https://news.abolish.capital/post/95381",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/3e68da06-1e26-4513-9aea-9c6dfbc67bc0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Donald Trump Jr under investigation over \u2018suspiciously well-timed\u2019 investments",
-     "author": "Politics",
-     "url": "https://sh.itjust.works/post/70470694",
-     "likes": 56,
-     "image": "https://lemmy.world/pictrs/image/8a95b011-8d52-4bf6-a201-9a4c8f7bfbc7.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Trump administration approves Elon Musk\u2019s plan for datacenters in space",
-     "author": "News",
-     "url": "https://lemmy.world/post/54845464",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/a584d8a0-a234-49c0-a04d-8a2decd7b183.jpeg"
+     "text": "'Harrowing' Amnesty Report Shows Israel's Genocidal Assault Has Devastated Women and Girls in Gaza | Common Dreams",
+     "author": "World News",
+     "url": "https://lemmy.ml/post/55740420",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/9513320f-7c13-4387-aebb-2b77196d083b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T20:15:27.823840+00:00",
+   "fetched_at": "2026-11-25T20:45:35.218500+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The generation of random numbers is too important to be left to chance.",
+     "source": "Programming joke"
+    },
     {
      "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, \u201csorry we don\u2019t serve spirits\u201d",
+     "text": "What has three letters and starts with gas? A Car.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+     "text": "Why did the banana go to the doctor? He was not \"peeling\" well.",
      "source": "Dad joke"
     },
     {
-     "text": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
+     "text": "I won an argument with a weather forecaster once. His logic was cloudy...",
      "source": "Dad joke"
     }
    ]
