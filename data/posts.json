@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:15:56.384997+00:00",
+ "generated_at": "2026-11-25T22:46:02.815010+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,7 +89,7 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T22:15:52.281996+00:00",
+   "fetched_at": "2026-11-25T22:45:59.025345+00:00",
    "stale": false,
    "items": [
     {
@@ -100,31 +100,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 347,
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 5130,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 419,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2262,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 129,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "diffVsCodeReviewNowadaysDotMD",
-     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
-     "url": "https://redd.it/1y56a13",
-     "ups": 107,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1608,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,51 +128,58 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Human Resources Department, circa 2029",
-     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
-     "url": "https://redd.it/1y4jg6c",
-     "ups": 340,
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Rolls vs. Breadsticks",
+     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
+     "url": "https://redd.it/1y59x6d",
+     "ups": 65,
      "sub": "r/memes"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 49,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 261,
      "sub": "r/memes"
     },
     {
-     "title": "pls do not resist. this is for your own benefit.",
-     "image": "https://i.redd.it/n8wxogc9xp3i1.gif",
-     "url": "https://redd.it/1y5239n",
-     "ups": 17,
+     "title": "priorities",
+     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
+     "url": "https://redd.it/1y5j931",
+     "ups": 79,
      "sub": "r/memes"
     },
     {
-     "title": "idgaf Jason is my goat",
-     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
-     "url": "https://redd.it/1y3k6e8",
-     "ups": 6420,
+     "title": "Back guy is the pole holding it up I guess",
+     "image": "https://i.redd.it/pr55efrejp3i1.png",
+     "url": "https://redd.it/1y50vr7",
+     "ups": 71,
      "sub": "r/memes"
     },
     {
-     "title": "I know I'm a little bit late",
-     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
-     "url": "https://redd.it/1y4n1le",
-     "ups": 45,
+     "title": "I am referring to a specific piece of media, and there is a 99% that it's not the one in your head.",
+     "image": "https://i.redd.it/ruv3ztwp6t3i1.png",
+     "url": "https://redd.it/1y5g7pu",
+     "ups": 10,
      "sub": "r/memes"
     },
     {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 654,
+     "title": "LLMs run on matrix multiplication themselves lol",
+     "image": "https://i.redd.it/3bhfjft0er3i1.png",
+     "url": "https://redd.it/1y57329",
+     "ups": 98,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T22:15:54.716956+00:00",
+   "fetched_at": "2026-11-25T22:46:01.467191+00:00",
    "stale": false,
    "items": [
     {
@@ -195,22 +195,6 @@
      "text": "New Avengers: Doomsday poster",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hakeem Jeffries outlines House agenda",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ada010afdb58",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Showing up to Thanksgiving dinner",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +216,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Aaron Rodgers criticizes Mike McCarthy",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "FEMA hotline unanswered in Iowa",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
@@ -240,17 +232,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
+     "text": "AI water use compared to golf",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4262fbfdeb00",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers criticizes Mike McCarthy",
+     "text": "Steven Universe actor comes out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Mike McCarthy's ice cream sandwich assistant",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/088e8265d639",
      "likes": 0,
      "image": ""
     },
@@ -264,92 +264,92 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Steven Universe actor comes out",
+     "text": "Gordon Ramsay to host Top Gear",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c417388bd4d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Been dealing with this at work lately.",
-     "author": "Fuck AI",
-     "url": "https://sh.itjust.works/post/70477587",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/1c56840b-060b-44a6-8331-fb671c895722.jpeg"
+     "text": "Thanksgiving with family",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70478679",
+     "likes": 68,
+     "image": "https://lemmy.world/pictrs/image/7f99be1d-d3ab-44f3-9268-b0c51cfb10d2.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Sweet, absolutely no downsides!",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54850654",
-     "likes": 23,
+     "likes": 50,
      "image": "https://lemmy.world/pictrs/image/de624d5c-c987-4c91-8929-9c73aebb69f1.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Somehow, I feel an overwhelming sense of security...",
-     "author": "Cats",
-     "url": "https://sopuli.xyz/post/55085156",
-     "likes": 22,
-     "image": "https://lemmy.world/pictrs/image/9717ab1b-3202-43ca-a202-d366e4a0fb92.jpeg"
+     "text": "Dresses are fun \ud83d\ude0a",
+     "author": "Trans Joy",
+     "url": "https://lemmy.zip/post/75665136",
+     "likes": 13,
+     "image": "https://lemmy.zip/pictrs/image/8c5d626d-fd0f-4b57-aa27-280c3c513f8b.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Just a standard delivery from Ea-n\u0101\u1e63ir",
-     "author": "Really Shitty Copper",
-     "url": "https://nord.pub/c/reallyshittycopper@lemmy.world/p/574598/just-a-standard-delivery-from-ea-nasir",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/fdddef37-2ff8-4f6c-a15b-73332919c878.jpeg"
+     "text": "The best deal. Beautiful deal.",
+     "author": "Political Memes",
+     "url": "https://lemmy.dbzer0.com/post/78951163",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/e20481dc-40d1-42e3-8cf3-bad2207f03c6.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T22:15:55.643035+00:00",
+   "fetched_at": "2026-11-25T22:46:02.022129+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "I\u2019m reading a book on the history of glue \u2013 can\u2019t put it down.",
+     "text": "This is my step ladder. I never knew my real ladder.",
      "source": "Dad joke"
     },
     {
-     "text": "I used to be a banker, but I lost interest.",
+     "text": "\"I'll call you later.\" Don't call me later, call me Dad.",
      "source": "Dad joke"
     },
     {
-     "text": "Why does Superman get invited to dinners? Because he is a Supperhero.",
+     "text": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
      "source": "Dad joke"
     }
    ]
