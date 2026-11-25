@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T19:15:14.816175+00:00",
+ "generated_at": "2026-11-25T19:45:21.033385+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T19:15:11.535770+00:00",
+   "fetched_at": "2026-11-25T19:45:17.529531+00:00",
    "stale": false,
    "items": [
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 342,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 4819,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 572,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 610,
+     "title": "nothingIsMorePermanentThanATemporaryFix",
+     "image": "https://i.redd.it/unfdlds1sr3i1.png",
+     "url": "https://redd.it/1y58vju",
+     "ups": 568,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 416,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 231,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 58,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,63 +135,56 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "getsBetterEveryHourIRefresh",
-     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
-     "url": "https://redd.it/1y557cw",
-     "ups": 4689,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Rolls vs. Breadsticks",
-     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
-     "url": "https://redd.it/1y59x6d",
-     "ups": 39,
+     "title": "No one man should have all that power",
+     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
+     "url": "https://redd.it/1y3lgox",
+     "ups": 1735,
      "sub": "r/memes"
     },
     {
-     "title": "We can do whatever we want!",
-     "image": "https://i.redd.it/2qrinvo11e3i1.png",
-     "url": "https://redd.it/1y3mint",
-     "ups": 1710,
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 98,
      "sub": "r/memes"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 49,
+     "title": "Generational trauma",
+     "image": "https://i.redd.it/to3s6ten0r3i1.png",
+     "url": "https://redd.it/1y55mxg",
+     "ups": 34,
      "sub": "r/memes"
     },
     {
-     "title": "There isn't one but imagine...",
-     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
-     "url": "https://redd.it/1y51m9w",
-     "ups": 51,
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 339,
      "sub": "r/memes"
     },
     {
-     "title": "Why is it always like this?",
-     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
-     "url": "https://redd.it/1y4t3xd",
-     "ups": 252,
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 156,
      "sub": "r/memes"
     },
     {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 7731,
+     "title": "I know I'm a little bit late",
+     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
+     "url": "https://redd.it/1y4n1le",
+     "ups": 44,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T19:15:13.453033+00:00",
+   "fetched_at": "2026-11-25T19:45:19.507073+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Steelers bench Aaron Rodgers",
+     "text": "Aaron Rodgers criticizes Mike McCarthy",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
      "likes": 0,
@@ -200,6 +200,38 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Steven Universe actor comes out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides threaten Bay Area flooding",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israeli strikes in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Vance blames Obama for detonation",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b3313a1bf22b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -208,17 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Showing up to Thanksgiving dinner",
+     "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "AI water use compared to golf",
+     "text": "Aaron Rodgers benched against Broncos",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4262fbfdeb00",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Montreal airport pizza slice",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
      "likes": 0,
      "image": ""
     },
@@ -239,93 +279,57 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Nvidia hiring first compliance officer",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Montreal airport pizza slice",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Gordon Ramsay to host Top Gear",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c417388bd4d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump claims prices are falling",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Donald Trump Jr under investigation over \u2018suspiciously well-timed\u2019 investments",
+     "author": "Politics",
+     "url": "https://sh.itjust.works/post/70470694",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/8a95b011-8d52-4bf6-a201-9a4c8f7bfbc7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Can\u2019t wait!",
-     "author": "Political Memes",
-     "url": "https://lemmy.world/post/54843212",
-     "likes": 39,
-     "image": "https://lemmy.world/pictrs/image/a36e8b6d-b4d0-48e6-a7f7-9175d70d9c3b.jpeg"
+     "text": "Shop Shop Shop [Savage Chickens]",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54845460",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/98de673f-a618-4dd2-96b1-7b93d98273cb.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "balding iphone rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/50927151",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/427c4469-67d3-4416-b534-1961d2c8376f.webp"
+     "text": "Trump administration approves Elon Musk\u2019s plan for datacenters in space",
+     "author": "News",
+     "url": "https://lemmy.world/post/54845464",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/a584d8a0-a234-49c0-a04d-8a2decd7b183.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "me_irl",
-     "author": "me_irl",
-     "url": "https://reddthat.com/post/77211826",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/0876ef14-d4f0-4a23-9001-517a845d75a3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Gelatinous Tube",
-     "author": "DnD Memes",
-     "url": "https://lemmy.sdf.org/post/62343654",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/fe36e4ea-215e-4777-9a6e-05fab7a4a8c5.png"
+     "text": "Study Reveals Trans Youth Rarely Regret Hormone Therapy",
+     "author": "politics ",
+     "url": "https://quokk.au/c/politics/p/1365742/study-reveals-trans-youth-rarely-regret-hormone-therapy",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/e8269272-e30e-4f11-b8fe-506783974b6b.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T19:15:14.059939+00:00",
+   "fetched_at": "2026-11-25T19:45:20.251038+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.",
+     "text": "The rotation of earth really makes my day.",
      "source": "Dad joke"
     },
     {
-     "text": "Where do hamburgers go to dance? The meat-ball.",
+     "text": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of magic do cows believe in? MOODOO.",
+     "text": "We all know where the Big Apple is but does anyone know where the Minneapolis?",
      "source": "Dad joke"
     }
    ]
