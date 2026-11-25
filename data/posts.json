@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:13:43.442709+00:00",
+ "generated_at": "2026-11-25T15:43:51.460964+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,84 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T15:13:39.105925+00:00",
+   "fetched_at": "2026-11-25T15:43:47.826088+00:00",
    "stale": false,
    "items": [
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 21,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 507,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 267,
+     "title": "diffVsCodeReviewNowadaysDotMD",
+     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
+     "url": "https://redd.it/1y56a13",
+     "ups": 38,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 569,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 10249,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
-     "image": "https://i.redd.it/oc8vke7eel3i1.png",
-     "url": "https://redd.it/1y4ipsn",
-     "ups": 2188,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 875,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 671,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 416,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 70,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "No one man should have all that power",
-     "image": "https://i.redd.it/a0hggr0ptd3i1.png",
-     "url": "https://redd.it/1y3lgox",
-     "ups": 1717,
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 1360,
      "sub": "r/memes"
     },
     {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 10,
+     "title": "GTA economy 101",
+     "image": "https://i.redd.it/fguevv4seo3i1.png",
+     "url": "https://redd.it/1y4wv7a",
+     "ups": 16,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The 15 year olds porting GTA 6 to PC rn",
+     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
+     "url": "https://redd.it/1y53xaf",
+     "ups": 255,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We can do whatever we want!",
+     "image": "https://i.redd.it/2qrinvo11e3i1.png",
+     "url": "https://redd.it/1y3mint",
+     "ups": 1700,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I know I'm a little bit late",
+     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
+     "url": "https://redd.it/1y4n1le",
+     "ups": 33,
      "sub": "r/memes"
     },
     {
@@ -154,50 +175,13 @@
      "url": "https://redd.it/1y4jg6c",
      "ups": 322,
      "sub": "r/memes"
-    },
-    {
-     "title": "LLMs run on matrix multiplication themselves lol",
-     "image": "https://i.redd.it/3bhfjft0er3i1.png",
-     "url": "https://redd.it/1y57329",
-     "ups": 23,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Idek what they want me to do besides already know the answer",
-     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
-     "url": "https://redd.it/1y438hr",
-     "ups": 156,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Back guy is the pole holding it up I guess",
-     "image": "https://i.redd.it/pr55efrejp3i1.png",
-     "url": "https://redd.it/1y50vr7",
-     "ups": 57,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T15:13:41.870269+00:00",
+   "fetched_at": "2026-11-25T15:43:50.109444+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Gillibrand backs Fetterman reelection",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/591f7ff711e5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "King tides threaten Bay Area flooding",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Montreal airport pizza slice",
@@ -208,17 +192,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
+     "text": "Emergency unfolds in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls Putin his friend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -240,6 +232,30 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Trump pardons Thanksgiving turkeys",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/25cca3a6e2c1",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Day to end violence against women",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Measles risk grows for adults",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/89f3020c5157",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "SoftBank shares fall in AI sell-off",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/84d5e7a4542e",
@@ -248,84 +264,76 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Gillibrand backs Fetterman reelection",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/591f7ff711e5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Kilmar Abrego Garcia case",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "\u201cI\u2019m late for work\u2026 wait, nevermind\u201d",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54837114",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/deb2c6a1-ec7b-4053-8cd3-a14989185506.jpeg"
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "New York bans talking AI stuffed animals and dolls for five years",
+     "author": "Technology",
+     "url": "https://lemmy.sdf.org/post/62334501",
+     "likes": 50,
+     "image": "https://lemmy.world/pictrs/image/ce11c1b8-5ecf-4330-ab4c-daf4a40cbff3.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Workers' rights",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63848346",
-     "likes": 35,
+     "likes": 107,
      "image": "https://lemmy.world/pictrs/image/07bc2bf5-155a-44c3-a64b-9d348221a727.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Therapy",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54835388",
-     "likes": 89,
-     "image": "https://lemmy.world/pictrs/image/51d81b60-906f-41da-b851-550394566a5d.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Facebook is dumb but also these are mortifying to read.",
-     "author": "Memes",
-     "url": "https://toast.ooo/post/17635673",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/ae2e233f-8253-49fa-aa2b-e1d4524ada0f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I have gone full slop",
-     "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/70458178",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/9d6112de-6111-47ef-92c9-407a0aad058b.jpeg"
+     "text": "Trump ordered to reveal who is paying up to $100k for early access to posts",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54836869",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/63bda718-0a05-43ce-92ef-626561e5d8b8.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T15:13:42.571618+00:00",
+   "fetched_at": "2026-11-25T15:43:50.765256+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
     {
      "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What is a vampire's favorite fruit? A blood orange.",
+     "text": "Is there a hole in your shoe? No\u2026 Then how\u2019d you get your foot in it?",
      "source": "Dad joke"
     },
     {
-     "text": "What did the Buffalo say to his little boy when he dropped him off at school? Bison.",
+     "text": "I cut my finger chopping cheese, but I think that I may have grater problems.",
      "source": "Dad joke"
     },
     {
-     "text": "What happens when you anger a brain surgeon? They will give you a piece of your mind.",
+     "text": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
      "source": "Dad joke"
     }
    ]
