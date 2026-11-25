@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:11:27.185010+00:00",
+ "generated_at": "2026-11-25T07:41:31.422284+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T07:11:24.595516+00:00",
+   "fetched_at": "2026-11-25T07:41:28.737627+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3515,
+     "title": "jobMarketRightNow",
+     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
+     "url": "https://redd.it/1y200xx",
+     "ups": 558,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 179,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 205,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 122,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itsOverGuys",
+     "image": "https://i.redd.it/qx3boz9oap3i1.png",
+     "url": "https://redd.it/1y5021z",
+     "ups": 15,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,66 +135,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 572,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 38,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 958,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "cppAndItsVectorBooleans",
-     "image": "https://i.redd.it/yhsn3dobhw1i1.png",
-     "url": "https://redd.it/1xxfw9i",
-     "ups": 3400,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I'LL SHOW MYSELF OUT",
-     "image": "https://i.redd.it/f8rk03gfmm3i1.png",
-     "url": "https://redd.it/1y4p1o5",
-     "ups": 22,
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 2323,
      "sub": "r/memes"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 27,
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 559,
      "sub": "r/memes"
     },
     {
-     "title": "I know I'm a little bit late",
-     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
-     "url": "https://redd.it/1y4n1le",
-     "ups": 17,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Logic. Pure market logic.",
-     "image": "https://i.redd.it/sc5g4ea5ce3i1.gif",
-     "url": "https://redd.it/1y3o6y9",
-     "ups": 278,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Yes, thats your grandfather the one who didn\u2019t buy the dip in Nvidia back in 2026",
-     "image": "https://i.redd.it/vt1nyao6he3i1.png",
-     "url": "https://redd.it/1y3oz7d",
-     "ups": 279,
+     "title": "At least give them a few minutes gah damn",
+     "image": "https://i.redd.it/iaihu6dp8j3i1.gif",
+     "url": "https://redd.it/1y49df8",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
@@ -175,21 +161,27 @@
      "url": "https://redd.it/1y3k6e8",
      "ups": 6229,
      "sub": "r/memes"
+    },
+    {
+     "title": "Idek what they want me to do besides already know the answer",
+     "image": "https://i.redd.it/8dp0qyywgh3i1.png",
+     "url": "https://redd.it/1y438hr",
+     "ups": 150,
+     "sub": "r/memes"
+    },
+    {
+     "title": "New leave just dropped",
+     "image": "https://i.redd.it/6w9efev11j3i1.png",
+     "url": "https://redd.it/1y48neo",
+     "ups": 18,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T07:11:26.560651+00:00",
+   "fetched_at": "2026-11-25T07:41:30.813475+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Planned lead detonation in Iowa",
@@ -208,17 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
@@ -232,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Wrong Lord of the Rings quotes",
+     "text": "Marcus Olang's essay on AI writing",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4571cc4f69f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Sunrise on the Reaping's $225M debut",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
      "likes": 0,
      "image": ""
     },
@@ -248,84 +248,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Most memorable TV theme songs",
+     "text": "Wrong Lord of the Rings quotes",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6097c6439525",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3b4d0185088d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers benched against Broncos",
+     "text": "Anthropic falls below IPO price",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1554fa217489",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c88fc56c85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump floats Jensen Huang pardon",
+     "text": "Ukraine claims Libya warship sinking",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israeli strikes in Gaza",
+     "text": "Burnham rebuffs former prime ministers",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Making it look like an accident",
+     "author": "archeology",
+     "url": "https://sopuli.xyz/post/55054875",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/944dc608-1d85-4245-955a-d6aa75aec551.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "German Oven",
+     "author": "I'm going to Hell for this",
+     "url": "https://sopuli.xyz/post/55055122",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/568dd843-c781-43c8-9646-d6676ee1fbd5.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Windscribe CEO tells Canadian Senate he will move the VPN abroad unless Bill C-22 changes",
+     "author": "privacy",
+     "url": "https://piefed.ca/c/privacy@lemmy.ca/p/1090632/windscribe-ceo-tells-canadian-senate-he-will-move-the-vpn-abroad-unless-bill-c-22-changes",
+     "likes": 7,
+     "image": "https://lemmy.world/pictrs/image/721f7614-9ddf-43d5-8155-ed61f8cb1227.png"
     },
     {
      "kind": "Lemmy post",
      "text": "What is normativity",
      "author": "Are The Straights OK?",
      "url": "https://lemmy.blahaj.zone/post/50907613",
-     "likes": 44,
+     "likes": 61,
      "image": "https://lemmy.world/pictrs/image/4ea028b8-cf57-41ee-ac55-d216bc5163b7.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "The American Dream",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54821111",
-     "likes": 163,
-     "image": "https://lemmy.world/pictrs/image/90599ab3-f2e9-42c8-bc78-b7849ce3fb26.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Biiiiiii-rule",
-     "author": "196",
-     "url": "https://lemmy.world/post/54821735",
-     "likes": 34,
-     "image": "https://lemmy.world/pictrs/image/67880152-8198-4994-a033-eb33f55430f0.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "US Treasury CIO focuses on vibecoding Civ knock off rather than working on major cyber security breach",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54821220",
-     "likes": 89,
-     "image": "https://lemmy.world/pictrs/image/0dcc6868-58ea-4367-a1d7-7cef61bd9a18.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T07:11:26.928133+00:00",
+   "fetched_at": "2026-11-25T07:41:31.142982+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you find Will Smith in the snow?  Look for fresh prints.",
+     "text": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
      "source": "Dad joke"
     },
     {
-     "text": "I was thinking about moving to Moscow but there is no point Russian into things.",
+     "text": "The word queue is ironic. It's just q with a bunch of silent letters waiting in line.",
      "source": "Dad joke"
     },
     {
-     "text": "I gave all my dead batteries away today, free of charge.",
+     "text": "Without geometry life is pointless.",
      "source": "Dad joke"
     }
    ]
