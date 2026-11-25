@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:16:26.156428+00:00",
+ "generated_at": "2026-11-25T23:46:42.776452+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-25T23:16:22.622159+00:00",
+   "fetched_at": "2026-11-25T23:46:28.600777+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 344,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 679,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 958,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "checkYourPrivilege",
      "image": "https://i.redd.it/f51w859wak2i1.png",
      "url": "https://redd.it/1y0827m",
      "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 145,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
+     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
+     "url": "https://redd.it/1y59j8p",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 500,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 513,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,31 +135,10 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 272,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "I am referring to a specific piece of media, and there is a 99% that it's not the one in your head.",
-     "image": "https://i.redd.it/ruv3ztwp6t3i1.png",
-     "url": "https://redd.it/1y5g7pu",
-     "ups": 10,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA economy 101",
-     "image": "https://i.redd.it/fguevv4seo3i1.png",
-     "url": "https://redd.it/1y4wv7a",
-     "ups": 22,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 654,
+     "title": "Is lead really that bad though? (yes, yes it is)",
+     "image": "https://i.redd.it/1n9co209wr3i1.png",
+     "url": "https://redd.it/1y59fv3",
+     "ups": 3165,
      "sub": "r/memes"
     },
     {
@@ -163,38 +149,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 49,
+     "title": "Organic chemistry",
+     "image": "https://i.redd.it/631fcwfezq3i1.png",
+     "url": "https://redd.it/1y55hsz",
+     "ups": 203,
      "sub": "r/memes"
     },
     {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 10411,
+     "title": "Back guy is the pole holding it up I guess",
+     "image": "https://i.redd.it/pr55efrejp3i1.png",
+     "url": "https://redd.it/1y50vr7",
+     "ups": 71,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 352,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Every single time.",
+     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
+     "url": "https://redd.it/1y4499t",
+     "ups": 654,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-25T23:16:24.920117+00:00",
+   "fetched_at": "2026-11-25T23:46:30.942938+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
+     "text": "Describe a film without its name",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "New Avengers: Doomsday poster",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Huang reinstated as Nvidia CEO",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FEMA hotline unanswered in Iowa",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Macy's parade turns 100",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
      "likes": 0,
      "image": ""
     },
@@ -240,116 +216,140 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
+     "text": "Macy's parade turns 100",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Pentagon weighs loan to Trump Jr.-tied startup",
+     "text": "FEMA hotline unanswered in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/93523616323c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Montreal airport pizza slice",
+     "text": "Huang reinstated as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/285c9b7ee7ee",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Steven Universe actor comes out",
+     "text": "Denny's restores Jensen Huang plaque",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b482762f84b3",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers criticizes Mike McCarthy",
+     "text": "Abrego Garcia leaves for Spain",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7e2d7960b8d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Avengers: Doomsday poster",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Hakeem Jeffries outlines House agenda",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ada010afdb58",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Thanksgiving with family",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70478679",
-     "likes": 112,
-     "image": "https://lemmy.world/pictrs/image/7f99be1d-d3ab-44f3-9268-b0c51cfb10d2.png"
+     "text": "Never quite heard it described like that before",
+     "author": "Atheist Memes",
+     "url": "https://lemmy.world/post/54853007",
+     "likes": 39,
+     "image": "https://lemmy.world/pictrs/image/e4e0517a-d0c2-4aac-b122-c31d20635143.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Outcry as Trump admin unveils auto-enroll gambit for seniors: 'Fight them tooth and nail'",
-     "author": "politics ",
-     "url": "https://sh.itjust.works/post/70480707",
-     "likes": 16,
-     "image": "https://lemmy.world/pictrs/image/68593c17-e6bd-4596-a694-7b61e6c7ac7b.jpeg"
+     "text": "Getting to the \"Finding Out\" part of fafo",
+     "author": "Leopards Ate My Face",
+     "url": "https://lemmy.dbzer0.com/post/78954288",
+     "likes": 29,
+     "image": "https://lemmy.world/pictrs/image/36d31d43-e9c7-4c19-8ad1-8257230dea79.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "It's Fundamental",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70479405",
-     "likes": 35,
-     "image": "https://lemmy.world/pictrs/image/988bcf06-28ff-49b6-92a2-55998bf575ab.png"
+     "text": "Miez is back home! Good news and not so good news.",
+     "author": "cats",
+     "url": "https://sh.itjust.works/post/70480739",
+     "likes": 45,
+     "image": "https://lemmy.world/pictrs/image/4ef330f2-4024-4786-a1e6-d77044a2ca56.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Dresses are fun \ud83d\ude0a",
-     "author": "Trans Joy",
-     "url": "https://lemmy.zip/post/75665136",
-     "likes": 34,
-     "image": "https://lemmy.zip/pictrs/image/8c5d626d-fd0f-4b57-aa27-280c3c513f8b.avif"
+     "text": "Yet another reason to love Mel and Sue \ud83e\udd70",
+     "author": "Curated Tumblr",
+     "url": "https://lemmy.dbzer0.com/post/78954034",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/3eedcc69-d1f7-4184-984c-ababb4ac5110.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-25T23:16:25.605818+00:00",
+   "fetched_at": "2026-11-25T23:46:42.279048+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
+     "text": "What creature is smarter than a talking parrot? A spelling bee.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the ocean say to the shore? Nothing, it just waved.",
+     "text": "To be Frank, I'd have to change my name.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+     "text": "Man, I really love my furniture... me and my recliner go way back.",
      "source": "Dad joke"
     }
    ]
