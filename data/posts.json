@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:18:26.076346+00:00",
+ "generated_at": "2026-11-26T06:48:32.395728+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,23 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T06:18:22.794894+00:00",
+   "fetched_at": "2026-11-26T06:48:28.785943+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "diffVsCodeReviewNowadaysDotMD",
-     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
-     "url": "https://redd.it/1y56a13",
-     "ups": 166,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 158,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "javaForShell",
      "image": "https://i.redd.it/6bk18o8xmc2i1.png",
@@ -114,79 +100,93 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 20,
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 271,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iWantMyBrowserToBeAMemoryHog",
-     "image": "https://i.redd.it/kc0caqlcym3i1.png",
-     "url": "https://redd.it/1y4qogs",
-     "ups": 522,
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 5919,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
+     "title": "nothingIsMorePermanentThanATemporaryFix",
+     "image": "https://i.redd.it/unfdlds1sr3i1.png",
+     "url": "https://redd.it/1y58vju",
+     "ups": 962,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "idgaf Jason is my goat",
-     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
-     "url": "https://redd.it/1y3k6e8",
-     "ups": 6453,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 40,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 951,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 12670,
      "sub": "r/memes"
     },
     {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 44,
+     "title": "LLMs run on matrix multiplication themselves lol",
+     "image": "https://i.redd.it/3bhfjft0er3i1.png",
+     "url": "https://redd.it/1y57329",
+     "ups": 138,
      "sub": "r/memes"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 53,
+     "title": "Is lead really that bad though? (yes, yes it is)",
+     "image": "https://i.redd.it/1n9co209wr3i1.png",
+     "url": "https://redd.it/1y59fv3",
+     "ups": 4590,
      "sub": "r/memes"
     },
     {
-     "title": "I don't know if i should be posting this here",
-     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
-     "url": "https://redd.it/1y4fc42",
-     "ups": 118,
+     "title": "Back guy is the pole holding it up I guess",
+     "image": "https://i.redd.it/pr55efrejp3i1.png",
+     "url": "https://redd.it/1y50vr7",
+     "ups": 94,
      "sub": "r/memes"
     },
     {
-     "title": "GTA economy 101",
-     "image": "https://i.redd.it/fguevv4seo3i1.png",
-     "url": "https://redd.it/1y4wv7a",
-     "ups": 26,
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 269,
      "sub": "r/memes"
     },
     {
-     "title": "There isn't one but imagine...",
-     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
-     "url": "https://redd.it/1y51m9w",
-     "ups": 99,
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 373,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T06:18:24.814899+00:00",
+   "fetched_at": "2026-11-26T06:48:30.802355+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Victorian Coalition plans sewage privatization",
+     "text": "Duran Duran's Andy Taylor dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/874f9208652c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
      "likes": 0,
      "image": ""
     },
@@ -200,22 +200,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duran Duran's Andy Taylor dies",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Describe a film without its name",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
@@ -224,41 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump blames election for stocks",
+     "text": "Victorian Coalition plans sewage privatization",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/874f9208652c",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "New Avengers: Doomsday poster",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Denny's restores Jensen Huang plaque",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "November full supermoon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "PCE inflation hits three-year high",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/758148fa947c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -272,52 +232,96 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia scores",
+     "text": "Aaron Rodgers criticizes Mike McCarthy",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9440cbe8793e",
      "likes": 0,
      "image": ""
     },
     {
-     "kind": "Lemmy post",
-     "text": "you got your hopes up didn't you",
-     "author": "Comic Strips",
-     "url": "https://lemmy.blahaj.zone/post/50947028",
-     "likes": 44,
-     "image": "https://lemmy.world/pictrs/image/f75d4cbf-e5f2-4a53-94f9-613b666e20e5.webp"
+     "kind": "Bluesky trend",
+     "text": "FCC approves SpaceX Starmind satellites",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Poundland heads into administration",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9101c0dc9b81",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides flood West Coast",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump floats Jensen Huang pardon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner calls Putin political grandmaster",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8836a527c4ea",
+     "likes": 0,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
      "text": "btw don't get a big TV it's a spy",
      "author": "memes",
      "url": "https://lemmy.blahaj.zone/post/50947270",
-     "likes": 20,
+     "likes": 52,
      "image": "https://lemmy.world/pictrs/image/9778001b-0cad-4d04-9279-860ec4a172c1.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "This is a collection of preserved UI style guides a.k.a. interface guidelines from various companies, starting from the early 1980s and continuing to today.",
-     "author": "Technology",
-     "url": "https://lemmy.ca/post/74378558",
-     "likes": 37,
-     "image": "https://lemmy.world/pictrs/image/2727a11c-549a-4428-848e-4260213324c2.png"
+     "text": "you got your hopes up didn't you",
+     "author": "Comic Strips",
+     "url": "https://lemmy.blahaj.zone/post/50947028",
+     "likes": 77,
+     "image": "https://lemmy.world/pictrs/image/f75d4cbf-e5f2-4a53-94f9-613b666e20e5.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Sitting thoughtful",
-     "author": "aww",
-     "url": "https://piefed.blahaj.zone/c/aww@lemmy.world/p/1088245/sitting-thoughtful",
-     "likes": 17,
-     "image": "https://lemmy.world/pictrs/image/82d75ca0-60c2-4704-9d5a-7a6668bd4392.jpeg"
+     "text": "Japan's data centre boom faces growing revolt from urban residents",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54862480",
+     "likes": 9,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "How often do you avoid things?",
+     "author": "Autism",
+     "url": "https://piefed.blahaj.zone/c/autism@lemmy.world/p/1088392/how-often-do-you-avoid-things",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/1411b68e-2327-4cfd-87c5-3848600eb641.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T06:18:25.442768+00:00",
+   "fetched_at": "2026-11-26T06:48:31.787375+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Why do cows wear bells? Because their horns don't work.",
+     "text": "Why did the miner get fired from his job? He took it for granite...",
      "source": "Dad joke"
     },
     {
-     "text": "Where do bees go to the bathroom?  The BP station.",
+     "text": "Cosmetic surgery used to be such a taboo subject.\r\nNow you can talk about Botox and nobody raises an eyebrow.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the piece of bread say to the knife? Butter me up.",
+     "text": "A book just fell on my head. I only have my shelf to blame.",
      "source": "Dad joke"
     }
    ]
