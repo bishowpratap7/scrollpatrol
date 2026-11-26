@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:52:06.925706+00:00",
+ "generated_at": "2026-11-26T20:22:12.023040+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T19:52:03.116235+00:00",
+   "fetched_at": "2026-11-26T20:22:09.063952+00:00",
    "stale": false,
    "items": [
     {
-     "title": "gitPushOriginPlssssMakeNoMistakes",
-     "image": "https://i.redd.it/gz8jpsum3y3i1.png",
-     "url": "https://redd.it/1y5zctl",
-     "ups": 2661,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 23,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 439,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 296,
+     "title": "nonAIMeme",
+     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
+     "url": "https://redd.it/1y5ywa5",
+     "ups": 1203,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 6208,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3594,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,53 +128,76 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Gotcha haha",
-     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
-     "url": "https://redd.it/1y5kudv",
-     "ups": 5289,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 680,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 2,
      "sub": "r/memes"
     },
     {
-     "title": "Back guy is the pole holding it up I guess",
-     "image": "https://i.redd.it/pr55efrejp3i1.png",
-     "url": "https://redd.it/1y50vr7",
-     "ups": 101,
+     "title": "priorities",
+     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
+     "url": "https://redd.it/1y5j931",
+     "ups": 1720,
      "sub": "r/memes"
     },
     {
-     "title": "I am referring to a specific piece of media, and there is a 99% that it's not the one in your head.",
-     "image": "https://i.redd.it/ruv3ztwp6t3i1.png",
-     "url": "https://redd.it/1y5g7pu",
-     "ups": 51,
+     "title": "It's contagious.",
+     "image": "https://i.redd.it/8azpp9xroy3i1.png",
+     "url": "https://redd.it/1y61np3",
+     "ups": 23,
      "sub": "r/memes"
     },
     {
-     "title": "Big back about to get bigger",
-     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
-     "url": "https://redd.it/1y603gc",
-     "ups": 40,
+     "title": "daily reminder",
+     "image": "https://i.redd.it/2l2weqc6904i1.png",
+     "url": "https://redd.it/1y693lx",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "LLMs run on matrix multiplication themselves lol",
-     "image": "https://i.redd.it/3bhfjft0er3i1.png",
-     "url": "https://redd.it/1y57329",
-     "ups": 206,
+     "title": "There isn't one but imagine...",
+     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
+     "url": "https://redd.it/1y51m9w",
+     "ups": 144,
      "sub": "r/memes"
     },
     {
-     "title": "I want a Mega Man X anime series, but it will probably never happen \ud83d\udc94",
-     "image": "https://i.redd.it/wh04k7xfmw3i1.gif",
-     "url": "https://redd.it/1y5ugwc",
-     "ups": 49,
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 1618,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T19:52:05.801111+00:00",
+   "fetched_at": "2026-11-26T20:22:10.665240+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Tornado warning in Hampton Roads",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f36a20a105e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israeli strikes in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Birthday twin spectrum prompt",
@@ -200,17 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
+     "text": "Wu-Tang Clan Thanksgiving halftime show",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2ce0cc6a9894",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "UK net migration falls to 77,000",
+     "text": "Lions vs. Bears",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2957908391e1",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1327f6eb42a2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Macy's parade postponed to Saturday",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Musk pledges kids SpaceX shares",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/326815c478fb",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Trump calls GDP revision fake",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Pentagon faults Canada's defense spending",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/82eb7540f0e0",
      "likes": 0,
      "image": ""
     },
@@ -283,57 +283,53 @@
      "text": "Every time",
      "author": "People Twitter",
      "url": "https://sh.itjust.works/post/70522348",
-     "likes": 30,
+     "likes": 74,
      "image": "https://lemmy.world/pictrs/image/af44a090-c510-4915-b69a-191a6b402b38.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Since I'm from the EU, I don't have a Thanksgiving Star Trek meme ready for you. But at least I can provide Garak and Shran shenanigans. Happy holidays!",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://lemmy.world/post/54883980",
-     "likes": 55,
-     "image": "https://lemmy.world/pictrs/image/2161eee5-5849-43d5-a098-80396d7f9cd7.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "postrule ruleveal",
-     "author": "196",
-     "url": "https://piefed.blahaj.zone/c/onehundredninetysix@lemmy.blahaj.zone/p/1102386/postrule-ruleveal",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/e395f8cd-f9b3-4e8b-ac5b-e035c153bcc4.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Stg it's hard to drive in this game",
+     "text": "they yearn for the (flooded) mines",
      "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54883527",
-     "likes": 42,
-     "image": "https://lemmy.world/pictrs/image/4c22795a-874a-4cf0-a33a-55d2fbbebfa8.jpeg"
+     "url": "https://sh.itjust.works/post/70523029",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/5006a467-fcf9-4f50-b830-47c7c3ee19ae.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "All true",
+     "author": "Political Memes",
+     "url": "https://reddthat.com/post/77271680",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/222a268f-fd3b-4fc0-b4bf-bd36be7066a1.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Steven Universe star comes out as trans",
+     "author": "LGBTQ+",
+     "url": "https://lemmy.blahaj.zone/post/50970980",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/56d9f446-afbd-46ac-8cf9-977f246fef72.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T19:52:06.421021+00:00",
+   "fetched_at": "2026-11-26T20:22:11.607869+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
@@ -341,24 +337,28 @@
      "source": "Programming joke"
     },
     {
-     "text": "Our wedding was so beautiful, even the cake was in tiers.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "When do doctors get angry? When they run out of patients.",
      "source": "Dad joke"
     },
     {
-     "text": "Two parrots are sitting on a perch. One turns to the other and asks, \"do you smell fish?\"",
+     "text": "People are making apocalypse jokes like there\u2019s no tomorrow.",
      "source": "Dad joke"
     },
     {
-     "text": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
+     "text": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
