@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:51:39.918241+00:00",
+ "generated_at": "2026-11-26T19:21:46.200844+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,56 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T18:51:34.764294+00:00",
+   "fetched_at": "2026-11-26T19:21:42.999922+00:00",
    "stale": false,
    "items": [
     {
-     "title": "hardenAttackSurfaces",
-     "image": "https://i.redd.it/w7bks3y9p82i1.png",
-     "url": "https://redd.it/1xywped",
-     "ups": 345,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3594,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 1236,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 490,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 436,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 627,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "stopDoingGitHubDesktop",
      "image": "https://i.redd.it/21cddl6p282i1.png",
      "url": "https://redd.it/1xytdwd",
-     "ups": 1600,
+     "ups": 1607,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3706,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 6208,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 952,
-     "sub": "r/ProgrammerHumor"
+     "title": "I am referring to a specific piece of media, and there is a 99% that it's not the one in your head.",
+     "image": "https://i.redd.it/ruv3ztwp6t3i1.png",
+     "url": "https://redd.it/1y5g7pu",
+     "ups": 51,
+     "sub": "r/memes"
     },
     {
-     "title": "iWantMyBrowserToBeAMemoryHog",
-     "image": "https://i.redd.it/kc0caqlcym3i1.png",
-     "url": "https://redd.it/1y4qogs",
-     "ups": 553,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "LLMs run on matrix multiplication themselves lol",
-     "image": "https://i.redd.it/3bhfjft0er3i1.png",
-     "url": "https://redd.it/1y57329",
-     "ups": 206,
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 14615,
      "sub": "r/memes"
     },
     {
@@ -149,17 +156,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "Why is it always like this?",
-     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
-     "url": "https://redd.it/1y4t3xd",
-     "ups": 290,
-     "sub": "r/memes"
-    },
-    {
-     "title": "There isn't one but imagine...",
-     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
-     "url": "https://redd.it/1y51m9w",
-     "ups": 140,
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 5289,
      "sub": "r/memes"
     },
     {
@@ -170,23 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Is lead really that bad though? (yes, yes it is)",
-     "image": "https://i.redd.it/1n9co209wr3i1.png",
-     "url": "https://redd.it/1y59fv3",
-     "ups": 5499,
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 398,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T18:51:38.502880+00:00",
+   "fetched_at": "2026-11-26T19:21:44.817641+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Birthday twin spectrum prompt",
+     "text": "Musk pledges kids SpaceX shares",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/326815c478fb",
      "likes": 0,
      "image": ""
     },
@@ -200,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
+     "text": "Birthday twin spectrum prompt",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
      "likes": 0,
      "image": ""
     },
@@ -224,14 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vance blames Obama for detonation",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -240,125 +232,133 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
+     "text": "UK net migration falls to 77,000",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2957908391e1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Musk pledges kids SpaceX shares",
+     "text": "Thanksgiving storm threatens travel",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/326815c478fb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "New Avengers: Doomsday poster",
+     "text": "Nvidia chip exports to China",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Burnham's UK-EU deal",
+     "text": "Macy's parade postponed to Saturday",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kushner praises Putin's restraint",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump blames election for stocks",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Sound financial advice",
+     "text": "Actual authors are having their work pulled for suspected AI use based on the recommendation of \"AI detector\" software...that uses AI to screen for AI.",
+     "author": "Fuck AI",
+     "url": "https://lemmy.world/post/54882899",
+     "likes": 50,
+     "image": "https://lemmy.world/pictrs/image/4f3c39d4-09ab-4219-9692-fe1b259a0c1d.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "We shall carry the torch for those that could not.",
      "author": "childfree",
-     "url": "https://lemmy.world/post/54881903",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/d28b2411-f0ce-4bb2-a75d-e0c258911e30.png"
+     "url": "https://lemmy.world/post/54883206",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/afcb520f-6b73-4053-8e3f-3d8672e2c1a7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Ukraine Achieves World First by Downing Jet-Powered Drone With Combat Laser",
-     "author": "Ukraine",
-     "url": "https://ani.social/post/39945232",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/4e886718-dbdc-47c3-ae8a-0d4fc8d4eb92.png"
+     "text": "Since I'm from the EU, I don't have a Thanksgiving Star Trek meme ready for you. But at least I can provide Garak and Shran shenanigans. Happy holidays!",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.world/post/54883980",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/2161eee5-5849-43d5-a098-80396d7f9cd7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Steam unterst\u00fctzt ab sofort Wero als Zahlungsmethode",
-     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
-     "url": "https://feddit.org/post/38505628",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/56588865-ff14-4c67-bdd5-69195b2efd38.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "CNN\u2019s \u2018Ultra-Progressive\u2019 Label Would Fit Most Americans",
-     "author": "politics ",
-     "url": "https://lemmy.dbzer0.com/post/78987699",
-     "likes": 43,
-     "image": "https://lemmy.world/pictrs/image/02059a79-6fcd-47b8-b97f-40f672ab8009.jpeg"
+     "text": "Stg it's hard to drive in this game",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54883527",
+     "likes": 20,
+     "image": "https://lemmy.world/pictrs/image/4c22795a-874a-4cf0-a33a-55d2fbbebfa8.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T18:51:39.154462+00:00",
+   "fetched_at": "2026-11-26T19:21:45.500330+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. \r\nHe also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. \r\nThis made him a super calloused fragile mystic hexed by halitosis.",
+     "text": "Have you heard about corduroy pillows?  They're making headlines!",
      "source": "Dad joke"
     },
     {
-     "text": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+     "text": "Q: What did the spaghetti say to the other spaghetti?\r\nA: Pasta la vista, baby!",
      "source": "Dad joke"
     },
     {
-     "text": "A man walks into a bar and orders helicopter flavor chips. The barman replies \u201csorry mate we only do plain\u201d",
+     "text": "Hear about the new restaurant called Karma? There\u2019s no menu: You get what you deserve.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
