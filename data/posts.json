@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:22:44.407738+00:00",
+ "generated_at": "2026-11-26T23:52:49.683430+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T23:22:40.863221+00:00",
+   "fetched_at": "2026-11-26T23:52:46.292762+00:00",
    "stale": false,
    "items": [
     {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 6781,
+     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
+     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
+     "url": "https://redd.it/1y59j8p",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1521,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 347,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 1344,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5871,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "diffVsCodeReviewNowadaysDotMD",
-     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
-     "url": "https://redd.it/1y56a13",
-     "ups": 201,
+     "title": "semiJoinHasCommitmentIssues",
+     "image": "https://i.redd.it/im1qh0ihzx3i1.png",
+     "url": "https://redd.it/1y5yyvz",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,17 +121,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Gotcha haha",
-     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
-     "url": "https://redd.it/1y5kudv",
-     "ups": 6153,
-     "sub": "r/memes"
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 458,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I saw my life flash before my eyes.",
-     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
-     "url": "https://redd.it/1y60uy9",
-     "ups": 297,
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 6781,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
+     "image": "https://i.redd.it/knymlb56604i1.png",
+     "url": "https://redd.it/1y68p2z",
+     "ups": 7,
      "sub": "r/memes"
     },
     {
@@ -156,32 +149,47 @@
      "sub": "r/memes"
     },
     {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 7,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The 15 year olds porting GTA 6 to PC rn",
-     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
-     "url": "https://redd.it/1y53xaf",
-     "ups": 4261,
-     "sub": "r/memes"
-    },
-    {
      "title": "Nightmares of my childhood",
      "image": "https://i.redd.it/cdma2fw6c04i1.gif",
      "url": "https://redd.it/1y69hmj",
      "ups": 31,
      "sub": "r/memes"
+    },
+    {
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 1973,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's contagious.",
+     "image": "https://i.redd.it/8azpp9xroy3i1.png",
+     "url": "https://redd.it/1y61np3",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "daily reminder",
+     "image": "https://i.redd.it/2l2weqc6904i1.png",
+     "url": "https://redd.it/1y693lx",
+     "ups": 22,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T23:22:42.962112+00:00",
+   "fetched_at": "2026-11-26T23:52:48.426542+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Victoria votes in state election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
@@ -200,17 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
+     "text": "Musk pledges kids SpaceX shares",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/326815c478fb",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
+     "text": "Thanksgiving storm knocks out power",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Katie Miller car seat claim",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +240,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -248,108 +256,100 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Macy's parade postponed to Saturday",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Steven Universe actor comes out",
+     "text": "Israeli strikes in Gaza",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Calls to release Epstein files",
+     "text": "Van Hollen challenges Schumer",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00d4241b94de",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Vance blames Obama for detonation",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "What your favorite Thanksgiving dish says about you: A guide [Tommy Siegel]",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54892090",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/885b6a25-9a7a-490c-8925-3dcffdecb33d.png"
+     "text": "Stephen Miller's 'unlawful policy' banned as judge halts 'continually' breaking law",
+     "author": "politics ",
+     "url": "https://sh.itjust.works/post/70531089",
+     "likes": 44,
+     "image": "https://lemmy.world/pictrs/image/aeeace3c-ba37-4efc-a9af-48283cf8f81a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "El sistema de distribuci\u00f3n de gatos [Spanish/Espa\u00f1ol]",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70528821",
-     "likes": 41,
-     "image": "https://lemmy.world/pictrs/image/6f15293f-37c3-4ea4-8140-6be8ce5642de.jpeg"
+     "text": "Sunset in my village in Sudan [OC]",
+     "author": "pics",
+     "url": "https://sh.itjust.works/post/70531674",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/86b6e812-3ac0-44b9-8007-5638cd0aa25c.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "It's the honorable thing to do",
-     "author": "TenForward: Where Every Vulcan Knows Your Name",
-     "url": "https://piefed.world/c/tenforward/p/1558372/it-s-the-honorable-thing-to-do",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/50a81586-043d-4641-96d9-c25a4e94d8c9.jpeg"
+     "text": "Kids playing football in my village in Sudan [OC]",
+     "author": "pics",
+     "url": "https://sh.itjust.works/post/70531504",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/c695cf16-3b51-4b2b-93a6-f4f9d7cfb7a0.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "attraction rule",
+     "text": "violent and graphic ruletent",
      "author": "196",
-     "url": "https://lemmy.ml/post/55784941",
-     "likes": 5,
-     "image": "https://lemmy.world/pictrs/image/820857f1-56ac-4e32-a131-ae672333fb54.png"
+     "url": "https://lemmy.ca/post/74413742",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/d267681a-6ebd-4da0-aa3a-eb89e82ea6f9.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T23:22:43.928929+00:00",
+   "fetched_at": "2026-11-26T23:52:49.289578+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a careful wolf? Aware wolf.",
+     "text": "I started a new business making yachts in my attic this year...the sails are going through the roof",
      "source": "Dad joke"
     },
     {
-     "text": "I used to be addicted to soap, but I'm clean now.",
+     "text": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a fly without wings? A walk.",
+     "text": "Why did the octopus beat the shark in a fight? Because it was well armed.",
      "source": "Dad joke"
     }
    ]
