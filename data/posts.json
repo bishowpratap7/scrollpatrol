@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:19:26.349472+00:00",
+ "generated_at": "2026-11-26T09:49:31.898415+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T09:19:23.624114+00:00",
+   "fetched_at": "2026-11-26T09:49:29.211619+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3653,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 323,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 6182,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 272,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,45 +107,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iWantMyBrowserToBeAMemoryHog",
-     "image": "https://i.redd.it/kc0caqlcym3i1.png",
-     "url": "https://redd.it/1y4qogs",
-     "ups": 538,
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 323,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 273,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1606,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Rolls vs. Breadsticks",
-     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
-     "url": "https://redd.it/1y59x6d",
-     "ups": 331,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 438,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "The 15 year olds porting GTA 6 to PC rn",
+     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
+     "url": "https://redd.it/1y53xaf",
+     "ups": 2486,
      "sub": "r/memes"
     },
     {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 56,
+     "title": "finally beat gta6. it was good while it lasted",
+     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
+     "url": "https://redd.it/1y3xkt1",
+     "ups": 1445,
      "sub": "r/memes"
     },
     {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 253,
+     "title": "LLMs run on matrix multiplication themselves lol",
+     "image": "https://i.redd.it/3bhfjft0er3i1.png",
+     "url": "https://redd.it/1y57329",
+     "ups": 148,
      "sub": "r/memes"
     },
     {
-     "title": "Every single time.",
-     "image": "https://i.redd.it/0a5ceshgqh3i1.gif",
-     "url": "https://redd.it/1y4499t",
-     "ups": 694,
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 1424,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The unholy trinity of adulthood",
+     "image": "https://i.redd.it/3w0ym9pdyl3i1.png",
+     "url": "https://redd.it/1y4llo5",
+     "ups": 376,
      "sub": "r/memes"
     },
     {
@@ -168,18 +175,11 @@
      "url": "https://redd.it/1y4n1le",
      "ups": 54,
      "sub": "r/memes"
-    },
-    {
-     "title": "pls do not resist. this is for your own benefit.",
-     "image": "https://i.redd.it/n8wxogc9xp3i1.gif",
-     "url": "https://redd.it/1y5239n",
-     "ups": 18,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T09:19:25.143346+00:00",
+   "fetched_at": "2026-11-26T09:49:30.635255+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duran Duran's Andy Taylor dies",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +208,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Describe a film without its name",
+     "text": "Duran Duran's Andy Taylor dies",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "SoftBank shares fall in AI sell-off",
+     "text": "Israeli strikes in Gaza",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/84d5e7a4542e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FEMA hotline unanswered in Iowa",
+     "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "UK energy price cap to rise",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
      "likes": 0,
      "image": ""
     },
@@ -248,88 +256,80 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
+     "text": "World tops 2C for six straight days",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/892aad2d4d59",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Trump floats Jensen Huang pardon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia scores",
+     "text": "Blade Runner 2099 series premiere",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40b3fbb40d6b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "i Rule",
-     "author": "196",
-     "url": "https://quokk.au/c/onehundredninetysix/p/1367865/i-rule",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/7e7eef7b-3a8d-4e98-9af3-8d842779f5f6.jpeg"
+     "text": "ich\ud83d\udca3\ud83e\udd5biel",
+     "author": "ich_iel",
+     "url": "https://lemmy.world/post/54866238",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/f6a18f84-72bc-4d92-b15f-2f48ccb60c3e.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Don't miss it!",
+     "author": "Memes",
+     "url": "https://lemmy.ml/post/55759778",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/37afe473-8136-453d-b65c-e99ccfea78df.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "ich\ud83c\udde9\ud83c\uddea\ud83d\udcfb\ud83d\ude97iel",
+     "author": "ich_iel",
+     "url": "https://feddit.org/post/38488888",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/50add942-951e-4970-8439-271743564d74.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "forgetn't",
      "author": "Femcel Memes",
      "url": "https://lemmy.world/post/54865508",
-     "likes": 18,
+     "likes": 36,
      "image": "https://lemmy.world/pictrs/image/08e9c79f-7280-4323-bc84-9d8868db678f.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "It's chaos in Washington",
-     "author": "Critical Analysis",
-     "url": "https://lemmy.today/post/63889063",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/116bf8f9-0b22-47ed-815c-868461a49b08.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Miniskirt supremacy",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63888354",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/f6ddec7b-741d-4b7b-b92e-c1b1c0a64368.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T09:19:25.660243+00:00",
+   "fetched_at": "2026-11-26T09:49:31.182660+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I used to work in a shoe recycling shop. It was sole destroying.",
+     "text": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
      "source": "Dad joke"
     },
     {
-     "text": "What did the 0 say to the 8? Nice belt.",
+     "text": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
      "source": "Dad joke"
     },
     {
-     "text": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
+     "text": "What do you call an Argentinian with a rubber toe? Roberto",
      "source": "Dad joke"
     }
    ]
