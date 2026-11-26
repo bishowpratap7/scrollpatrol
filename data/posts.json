@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T01:17:01.748744+00:00",
+ "generated_at": "2026-11-26T01:47:08.115686+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T01:16:58.313623+00:00",
+   "fetched_at": "2026-11-26T01:47:04.197144+00:00",
    "stale": false,
    "items": [
     {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 578,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 6155,
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 618,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,25 +107,39 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1522,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 674,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 852,
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 154,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "iWantMyBrowserToBeAMemoryHog",
-     "image": "https://i.redd.it/kc0caqlcym3i1.png",
-     "url": "https://redd.it/1y4qogs",
-     "ups": 508,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 425,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 347,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "idgaf Jason is my goat",
+     "image": "https://i.redd.it/b7pcimpmkd3i1.gif",
+     "url": "https://redd.it/1y3k6e8",
+     "ups": 6436,
+     "sub": "r/memes"
     },
     {
      "title": "Back guy is the pole holding it up I guess",
@@ -142,44 +149,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 427,
+     "title": "Is lead really that bad though? (yes, yes it is)",
+     "image": "https://i.redd.it/1n9co209wr3i1.png",
+     "url": "https://redd.it/1y59fv3",
+     "ups": 3559,
      "sub": "r/memes"
     },
     {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 48,
+     "title": "Rolls vs. Breadsticks",
+     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
+     "url": "https://redd.it/1y59x6d",
+     "ups": 81,
      "sub": "r/memes"
     },
     {
-     "title": "How Deepseek looks at me...",
-     "image": "https://i.redd.it/8idtxydq3u3i1.png",
-     "url": "https://redd.it/1y5kll9",
-     "ups": 0,
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 111,
      "sub": "r/memes"
     },
     {
-     "title": "the night before",
-     "image": "https://i.redd.it/olfiwdddyn3i1.png",
-     "url": "https://redd.it/1y4v00t",
-     "ups": 48,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I know I'm a little bit late",
-     "image": "https://i.redd.it/wl9wv6pd8m3i1.png",
-     "url": "https://redd.it/1y4n1le",
-     "ups": 44,
+     "title": "There isn't one but imagine...",
+     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
+     "url": "https://redd.it/1y51m9w",
+     "ups": 76,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T01:17:00.566890+00:00",
+   "fetched_at": "2026-11-26T01:47:06.419919+00:00",
    "stale": false,
    "items": [
     {
@@ -208,17 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Duran Duran's Andy Taylor dies",
+     "text": "Huang reinstated as Nvidia CEO",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +232,33 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Duran Duran's Andy Taylor dies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers reportedly out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Canned cranberry sauce",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Huang reinstated as Nvidia CEO",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4c6959ba363f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls Putin his friend",
+     "text": "Steven Universe actor comes out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Never quite heard it described like that before",
      "author": "Atheist Memes",
      "url": "https://lemmy.world/post/54853007",
-     "likes": 162,
+     "likes": 201,
      "image": "https://lemmy.world/pictrs/image/e4e0517a-d0c2-4aac-b122-c31d20635143.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "attraction rule",
      "author": "196",
      "url": "https://lemmy.ml/post/55746199",
-     "likes": 78,
+     "likes": 90,
      "image": "https://lemmy.world/pictrs/image/6cd577f1-8d94-4f7b-b2e0-0c521c902068.webp"
     },
     {
@@ -299,7 +299,7 @@
      "text": "[SEND HELP] I need shoes, how can I do?",
      "author": "Ask Lemmy",
      "url": "https://jlai.lu/post/46667076",
-     "likes": 74,
+     "likes": 90,
      "image": "https://lemmy.world/pictrs/image/6f2ab351-f6e4-4d4e-b19b-703aabbfff7a.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "Yet another reason to love Mel and Sue \ud83e\udd70",
      "author": "Curated Tumblr",
      "url": "https://lemmy.dbzer0.com/post/78954034",
-     "likes": 89,
+     "likes": 109,
      "image": "https://lemmy.world/pictrs/image/3eedcc69-d1f7-4184-984c-ababb4ac5110.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T01:17:01.066902+00:00",
+   "fetched_at": "2026-11-26T01:47:07.324773+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "What do you call a pig that knows karate? A pork chop!",
+     "text": "Why do we tell actors to \u201cbreak a leg?\u201d Because every play has a cast.",
      "source": "Dad joke"
     },
     {
-     "text": "Animal Fact #25: Most bobcats are not named bob.",
+     "text": "Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.",
      "source": "Dad joke"
     },
     {
-     "text": "Which is the fastest growing city in the world? Dublin'",
+     "text": "What do you call a troublesome Canadian high schooler? A poutine.",
      "source": "Dad joke"
     }
    ]
