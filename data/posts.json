@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:18:51.396765+00:00",
+ "generated_at": "2026-11-26T08:48:57.944134+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T08:18:48.072607+00:00",
+   "fetched_at": "2026-11-26T08:48:54.170908+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3640,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 673,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5802,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 495,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 276,
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,46 +121,18 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3552,
+     "title": "hardenAttackSurfaces",
+     "image": "https://i.redd.it/w7bks3y9p82i1.png",
+     "url": "https://redd.it/1xywped",
+     "ups": 348,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 57,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 432,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pls do not resist. this is for your own benefit.",
-     "image": "https://i.redd.it/n8wxogc9xp3i1.gif",
-     "url": "https://redd.it/1y5239n",
-     "ups": 18,
-     "sub": "r/memes"
-    },
-    {
-     "title": "GTA economy 101",
-     "image": "https://i.redd.it/fguevv4seo3i1.png",
-     "url": "https://redd.it/1y4wv7a",
-     "ups": 32,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Rolls vs. Breadsticks",
-     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
-     "url": "https://redd.it/1y59x6d",
-     "ups": 331,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Maximize shareholder value at any cost",
-     "image": "https://i.redd.it/2u147tc66g3i1.gif",
-     "url": "https://redd.it/1y3xrll",
-     "ups": 8377,
-     "sub": "r/memes"
     },
     {
      "title": "The past few days have been draining",
@@ -170,42 +142,46 @@
      "sub": "r/memes"
     },
     {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 1445,
+     "title": "Back guy is the pole holding it up I guess",
+     "image": "https://i.redd.it/pr55efrejp3i1.png",
+     "url": "https://redd.it/1y50vr7",
+     "ups": 95,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I don't know if i should be posting this here",
+     "image": "https://i.redd.it/4dexc9u4rk3i1.png",
+     "url": "https://redd.it/1y4fc42",
+     "ups": 113,
+     "sub": "r/memes"
+    },
+    {
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 370,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 278,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 1424,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T08:18:50.078052+00:00",
+   "fetched_at": "2026-11-26T08:48:56.859373+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Describe a film without its name",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Burnham's UK-EU deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
@@ -216,17 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FEMA hotline unanswered in Iowa",
+     "text": "Boreen daily trivia scores",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Duran Duran's Andy Taylor dies",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
      "likes": 0,
      "image": ""
     },
@@ -240,9 +208,41 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Burnham's UK-EU deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Duran Duran's Andy Taylor dies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "UK energy price cap to rise",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/0db48c069b2f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "FEMA hotline unanswered in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "World tops 2C for six straight days",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/892aad2d4d59",
      "likes": 0,
      "image": ""
     },
@@ -256,76 +256,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Macy's parade turns 100",
+     "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Victorian Coalition plans sewage privatization",
+     "text": "Describe a film without its name",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/874f9208652c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Steven Universe actor comes out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ed444592f746",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "i Rule",
+     "author": "196",
+     "url": "https://quokk.au/c/onehundredninetysix/p/1367865/i-rule",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/7e7eef7b-3a8d-4e98-9af3-8d842779f5f6.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Miniskirt supremacy",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63888354",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/f6ddec7b-741d-4b7b-b92e-c1b1c0a64368.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "forget",
      "author": "Memes",
      "url": "https://lemmy.ml/post/55758287",
-     "likes": 24,
+     "likes": 39,
      "image": "https://lemmy.world/pictrs/image/ae7ffa57-06e7-4ebb-9411-9b92edba5dbd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "GTA 6 Publisher Furious as Reverse Engineers Get It Running on PC: It's happening whether Rockstar Games likes it or not.",
-     "author": "Technology",
-     "url": "https://lemmy.world/post/54863494",
-     "likes": 64,
-     "image": "https://lemmy.world/pictrs/image/d4e84dde-7dea-4776-b342-56c1a3e5bc73.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "laying in the sun",
-     "author": "cats",
-     "url": "https://lemmy.blahaj.zone/post/50949220",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/76ff3c99-ddb0-44d8-9c61-6edbfce99c29.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Heroic will also integrate Steam",
-     "author": "Linux Gaming",
-     "url": "https://piefed.social/c/linux_gaming@lemmy.world/p/2645174/heroic-will-also-integratesteam",
-     "likes": 36,
-     "image": "https://lemmy.world/pictrs/image/40670276-a0bc-43da-883a-d4c8b3098947.webp"
+     "text": "Britons turn against Nigel Farage in record numbers, new poll shows",
+     "author": "UK Politics",
+     "url": "https://feddit.uk/post/58945632",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/6a775978-d6e8-4f9c-95c7-01e16df64ea5.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T08:18:50.766036+00:00",
+   "fetched_at": "2026-11-26T08:48:57.348553+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A Sandwich walks into a bar, the bartender says \u201cSorry, we don\u2019t serve food here\u201d",
+     "text": "Why did the burglar hang his mugshot on the wall? To prove that he was framed!",
      "source": "Dad joke"
     },
     {
-     "text": "What's the difference between a seal and a sea lion?\r\nAn ion! ",
+     "text": "Why did the coffee file a police report? It got mugged.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the knife dress up in a suit? Because it wanted to look sharp",
+     "text": "So, I heard this pun about cows, but it\u2019s kinda offensive so I won\u2019t say it. I don\u2019t want there to be any beef between us. ",
      "source": "Dad joke"
     }
    ]
