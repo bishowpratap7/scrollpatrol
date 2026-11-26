@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T05:18:12.778864+00:00",
+ "generated_at": "2026-11-26T05:48:19.970268+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,42 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T05:18:09.228407+00:00",
+   "fetched_at": "2026-11-26T05:48:15.922759+00:00",
    "stale": false,
    "items": [
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 878,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 430,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 951,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 55,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1601,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 516,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 500,
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2491,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,10 +121,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 271,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "It's not marriage, stop sabotaging yourselves",
+     "image": "https://i.redd.it/uybghfj05v3i1.png",
+     "url": "https://redd.it/1y5oyq9",
+     "ups": 0,
+     "sub": "r/memes"
+    },
+    {
+     "title": "There isn't one but imagine...",
+     "image": "https://i.redd.it/20n2db3vrp3i1.gif",
+     "url": "https://redd.it/1y51m9w",
+     "ups": 88,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Rolls vs. Breadsticks",
+     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
+     "url": "https://redd.it/1y59x6d",
+     "ups": 192,
+     "sub": "r/memes"
+    },
+    {
      "title": "finally beat gta6. it was good while it lasted",
      "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
      "url": "https://redd.it/1y3xkt1",
      "ups": 1421,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Why is it always like this?",
+     "image": "https://i.redd.it/cwl4lj1rhn3i1.png",
+     "url": "https://redd.it/1y4t3xd",
+     "ups": 271,
      "sub": "r/memes"
     },
     {
@@ -147,94 +175,18 @@
      "url": "https://redd.it/1y50vr7",
      "ups": 88,
      "sub": "r/memes"
-    },
-    {
-     "title": "pls do not resist. this is for your own benefit.",
-     "image": "https://i.redd.it/n8wxogc9xp3i1.gif",
-     "url": "https://redd.it/1y5239n",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 58,
-     "sub": "r/memes"
-    },
-    {
-     "title": "LLMs run on matrix multiplication themselves lol",
-     "image": "https://i.redd.it/3bhfjft0er3i1.png",
-     "url": "https://redd.it/1y57329",
-     "ups": 127,
-     "sub": "r/memes"
-    },
-    {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 12116,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T05:18:11.394966+00:00",
+   "fetched_at": "2026-11-26T05:48:18.405804+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Victorian Coalition plans sewage privatization",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/874f9208652c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "New Avengers: Doomsday poster",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FEMA hotline unanswered in Iowa",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Canned cranberry sauce",
+     "text": "Thanksgiving Day celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Mike McCarthy's ice cream sandwich assistant",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/088e8265d639",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +216,65 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump floats Jensen Huang pardon",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia chip exports to China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Duran Duran's Andy Taylor dies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "FCC approves SpaceX Starmind satellites",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Avengers: Doomsday poster",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "King tides flood West Coast",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "FEMA hotline unanswered in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ABC licenses FCC court case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/be1eb0de476a",
      "likes": 0,
      "image": ""
     },
@@ -283,53 +283,57 @@
      "text": "This is Colby-Jack doing his best to catch the fly (pic by Matt Brown)",
      "author": "cats",
      "url": "https://lemmy.world/post/54859533",
-     "likes": 39,
+     "likes": 74,
      "image": "https://lemmy.world/pictrs/image/fb10bb99-e38f-4be3-9cb3-b4f343683b16.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "DOJ Again Admits To Lying As Yet Another Trump Revenge Prosecution Starts To Fall Apart",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54859066",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/03e19b9b-e026-4123-9f11-73260d5befa2.png"
+     "text": "God i hope this is true",
+     "author": "General Memes & Private Chuckle",
+     "url": "https://piefed.blahaj.zone/c/Memes@lemmy.dbzer0.com/p/1088413/god-i-hope-this-is-true",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/d260baea-97e6-4ebe-899f-2622b6ec72fc.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Imposter syndrome",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63880239",
-     "likes": 77,
-     "image": "https://lemmy.world/pictrs/image/f77474ea-1e3e-4ec9-98bd-be25e702e82e.jpeg"
+     "text": "Anon was slapped",
+     "author": "Greentext",
+     "url": "https://sh.itjust.works/post/70492950",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/d7925ad7-0c06-4d19-b955-3d62f8371907.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "*loudly chews food*",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.today/post/63880244",
-     "likes": 62,
-     "image": "https://lemmy.world/pictrs/image/f42cd623-da33-49e0-a424-3dbdb295622e.jpeg"
+     "text": "ich iel",
+     "author": "ich_iel",
+     "url": "https://lemmy.blahaj.zone/post/50946642",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/ef84f726-d730-41d1-b35d-b1e54a08560d.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T05:18:12.169758+00:00",
+   "fetched_at": "2026-11-26T05:48:19.066650+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What do you call a monkey in a mine field? A babooooom!\n",
+     "text": "If at first you don't succeed, sky diving is not for you!",
      "source": "Dad joke"
     },
     {
-     "text": "Where do young cows eat lunch? In the calf-ateria.",
+     "text": "My son is studying to be a surgeon, I just hope he makes the cut.",
      "source": "Dad joke"
     },
     {
-     "text": "What\u2019s E.T. short for? He\u2019s only got little legs.",
+     "text": "Where do rabbits go after they get married? On a bunny-moon.",
      "source": "Dad joke"
     }
    ]
