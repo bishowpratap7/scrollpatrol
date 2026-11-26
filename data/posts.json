@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T03:17:28.868057+00:00",
+ "generated_at": "2026-11-26T03:47:35.299835+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,30 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T03:17:25.325750+00:00",
+   "fetched_at": "2026-11-26T03:47:31.745658+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 253,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2467,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2264,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "iWantMyBrowserToBeAMemoryHog",
      "image": "https://i.redd.it/kc0caqlcym3i1.png",
@@ -100,101 +121,72 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 57,
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 571,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "getsBetterEveryHourIRefresh",
-     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
-     "url": "https://redd.it/1y557cw",
-     "ups": 6579,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1520,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "jobMarketRightNow",
-     "image": "https://i.redd.it/xgtpa27mkz2i1.png",
-     "url": "https://redd.it/1y200xx",
-     "ups": 577,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "craigGentry",
-     "image": "https://i.redd.it/3k5tbu41h72i1.png",
-     "url": "https://redd.it/1xyq526",
-     "ups": 42,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Rolls vs. Breadsticks",
-     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
-     "url": "https://redd.it/1y59x6d",
-     "ups": 127,
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 193,
      "sub": "r/memes"
     },
     {
-     "title": "Is lead really that bad though? (yes, yes it is)",
-     "image": "https://i.redd.it/1n9co209wr3i1.png",
-     "url": "https://redd.it/1y59fv3",
-     "ups": 3914,
+     "title": "I am referring to a specific piece of media, and there is a 99% that it's not the one in your head.",
+     "image": "https://i.redd.it/ruv3ztwp6t3i1.png",
+     "url": "https://redd.it/1y5g7pu",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
-     "title": "It's not marriage, stop sabotaging yourselves",
-     "image": "https://i.redd.it/uybghfj05v3i1.png",
-     "url": "https://redd.it/1y5oyq9",
-     "ups": 0,
+     "title": "Maximize shareholder value at any cost",
+     "image": "https://i.redd.it/2u147tc66g3i1.gif",
+     "url": "https://redd.it/1y3xrll",
+     "ups": 8106,
      "sub": "r/memes"
     },
     {
-     "title": "How Deepseek looks at me...",
-     "image": "https://i.redd.it/8idtxydq3u3i1.png",
-     "url": "https://redd.it/1y5kll9",
-     "ups": 0,
+     "title": "Human Resources Department, circa 2029",
+     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
+     "url": "https://redd.it/1y4jg6c",
+     "ups": 343,
      "sub": "r/memes"
     },
     {
-     "title": "finally beat gta6. it was good while it lasted",
-     "image": "https://i.redd.it/wz0lv1gh4g3i1.png",
-     "url": "https://redd.it/1y3xkt1",
-     "ups": 1415,
+     "title": "GTA economy 101",
+     "image": "https://i.redd.it/fguevv4seo3i1.png",
+     "url": "https://redd.it/1y4wv7a",
+     "ups": 20,
      "sub": "r/memes"
     },
     {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 48,
+     "title": "pls do not resist. this is for your own benefit.",
+     "image": "https://i.redd.it/n8wxogc9xp3i1.gif",
+     "url": "https://redd.it/1y5239n",
+     "ups": 19,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T03:17:27.593905+00:00",
+   "fetched_at": "2026-11-26T03:47:34.025126+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "U2 halftime show",
+     "text": "Describe a film without its name",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/99151c35a319",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
      "likes": 0,
      "image": ""
     },
@@ -208,6 +200,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "FEMA hotline unanswered in Iowa",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
@@ -216,9 +216,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Christian Watson's thigh injury",
+     "text": "Thanksgiving Day celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/568a069b94f0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Avengers: Doomsday poster",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "FCC approves SpaceX Starmind satellites",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner praises Putin's restraint",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -240,14 +264,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump floats Jensen Huang pardon",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Duran Duran's Andy Taylor dies",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/73ecbcfa356a",
@@ -256,100 +272,84 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
+     "text": "Trump floats Jensen Huang pardon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Describe a film without its name",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Kushner praises Putin's restraint",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Never quite heard it described like that before",
-     "author": "Atheist Memes",
-     "url": "https://lemmy.world/post/54853007",
-     "likes": 306,
-     "image": "https://lemmy.world/pictrs/image/e4e0517a-d0c2-4aac-b122-c31d20635143.jpeg"
+     "text": "That's its natural state",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.zip/post/75676100",
+     "likes": 26,
+     "image": "https://lemmy.zip/pictrs/image/4d53c080-416d-44ac-acd5-f2ac48f3edf3.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "[SEND HELP] I need shoes, how can I do?",
-     "author": "Ask Lemmy",
-     "url": "https://jlai.lu/post/46667076",
-     "likes": 126,
-     "image": "https://lemmy.world/pictrs/image/6f2ab351-f6e4-4d4e-b19b-703aabbfff7a.jpeg"
+     "text": "Barely a winter anymore",
+     "author": "memes",
+     "url": "https://lemmy.world/post/54857180",
+     "likes": 54,
+     "image": "https://lemmy.world/pictrs/image/f2d00c3c-23e3-4206-b2b3-758212e39485.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Yet another reason to love Mel and Sue \ud83e\udd70",
-     "author": "Curated Tumblr",
-     "url": "https://lemmy.dbzer0.com/post/78954034",
-     "likes": 168,
-     "image": "https://lemmy.world/pictrs/image/3eedcc69-d1f7-4184-984c-ababb4ac5110.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Just need to meditate harder!",
+     "text": "The gang commits treason, again",
      "author": "Political Memes",
-     "url": "https://lemmy.dbzer0.com/post/78954595",
-     "likes": 136,
-     "image": "https://lemmy.world/pictrs/image/ca398935-2613-4d64-967b-cea99286ab5d.webp"
+     "url": "https://piefed.ca/c/politicalmemes@lemmy.world/p/1092320/the-gang-commits-treason-again",
+     "likes": 30,
+     "image": "https://lemmy.world/pictrs/image/54d5d396-7dc4-4b8a-8628-5440459c3961.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Cat.",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70488006",
+     "likes": 49,
+     "image": "https://lemmy.world/pictrs/image/75770560-d386-40dd-b965-d03137b9e125.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T03:17:28.343238+00:00",
+   "fetched_at": "2026-11-26T03:47:34.806510+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "It's been months since I bought the book \"how to scam people online\". It still hasn't turned up.",
+     "text": "What did the fish say when it swam into a wall? Damn!",
      "source": "Dad joke"
     },
     {
-     "text": "What is the difference between ignorance and apathy?\r\n\r\nI don't know and I don't care.",
+     "text": "What do you call a boomerang that won't come back? A stick.",
      "source": "Dad joke"
     },
     {
-     "text": "I wanted to be a tailor but I didn't suit the job",
+     "text": "What did the piece of bread say to the knife? Butter me up.",
      "source": "Dad joke"
     }
    ]
