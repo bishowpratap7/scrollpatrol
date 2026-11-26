@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:20:51.861921+00:00",
+ "generated_at": "2026-11-26T15:50:58.064034+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,70 +89,56 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T15:20:48.823407+00:00",
+   "fetched_at": "2026-11-26T15:50:54.540837+00:00",
    "stale": false,
    "items": [
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 960,
+     "title": "nothingIsMorePermanentThanATemporaryFix",
+     "image": "https://i.redd.it/unfdlds1sr3i1.png",
+     "url": "https://redd.it/1y58vju",
+     "ups": 1196,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 677,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3689,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 6539,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 22,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1517,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "GTA economy 101",
-     "image": "https://i.redd.it/fguevv4seo3i1.png",
-     "url": "https://redd.it/1y4wv7a",
-     "ups": 34,
-     "sub": "r/memes"
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 10801,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "The 15 year olds porting GTA 6 to PC rn",
-     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
-     "url": "https://redd.it/1y53xaf",
-     "ups": 3604,
-     "sub": "r/memes"
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 558,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "It's contagious.",
-     "image": "https://i.redd.it/8azpp9xroy3i1.png",
-     "url": "https://redd.it/1y61np3",
-     "ups": 3,
+     "title": "craigGentry",
+     "image": "https://i.redd.it/3k5tbu41h72i1.png",
+     "url": "https://redd.it/1xyq526",
+     "ups": 37,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 887,
      "sub": "r/memes"
     },
     {
@@ -163,23 +149,37 @@
      "sub": "r/memes"
     },
     {
+     "title": "Human Resources Department, circa 2029",
+     "image": "https://i.redd.it/1p6ko0pjjl3i1.png",
+     "url": "https://redd.it/1y4jg6c",
+     "ups": 346,
+     "sub": "r/memes"
+    },
+    {
+     "title": "It's contagious.",
+     "image": "https://i.redd.it/8azpp9xroy3i1.png",
+     "url": "https://redd.it/1y61np3",
+     "ups": 3,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Organic chemistry",
+     "image": "https://i.redd.it/631fcwfezq3i1.png",
+     "url": "https://redd.it/1y55hsz",
+     "ups": 266,
+     "sub": "r/memes"
+    },
+    {
      "title": "the night before",
      "image": "https://i.redd.it/olfiwdddyn3i1.png",
      "url": "https://redd.it/1y4v00t",
      "ups": 58,
      "sub": "r/memes"
-    },
-    {
-     "title": "Generational trauma",
-     "image": "https://i.redd.it/to3s6ten0r3i1.png",
-     "url": "https://redd.it/1y55mxg",
-     "ups": 69,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T15:20:50.649454+00:00",
+   "fetched_at": "2026-11-26T15:50:56.699857+00:00",
    "stale": false,
    "items": [
     {
@@ -192,9 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Kushner praises Putin's restraint",
+     "text": "B.C. removes SOGI 123 from schools",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fee00ef0bf10",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Macy's parade postponed to Saturday",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
@@ -203,22 +211,6 @@
      "text": "UK net migration falls to 77,000",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2957908391e1",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "New Avengers: Doomsday poster",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
      "likes": 0,
      "image": ""
     },
@@ -240,25 +232,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jason Arday plagiarism claims",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e9b7e4c3b92a",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving storm threatens travel",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "New Avengers: Doomsday poster",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia chip exports to China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Kushner praises Putin's restraint",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/217cfc46ba79",
      "likes": 0,
      "image": ""
     },
@@ -271,61 +279,57 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
-     "text": "No Starlink, no problem, part deux: Ukrainian student invents autopilot system for UAV that works without GPS, receives \"The future of Ukraine\" presidential award",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54875524",
+     "text": "Seasoning",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70511950",
      "likes": 49,
-     "image": "https://lemmy.world/pictrs/image/f4d9655b-1df7-4d40-ae80-44716e2c8836.png"
+     "image": "https://lemmy.world/pictrs/image/beb51e59-5adb-40ad-a2e4-01c6f827e7c8.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Mamdani wins against landlords in New York rent freeze lawsuit: \u2018Housing is not a luxury\u2019",
-     "author": "politics ",
-     "url": "https://lemmy.world/post/54875731",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/c5cd479f-0f77-4e2c-bd1f-fda0e1b4e515.jpeg"
+     "text": "I have to do it in stages",
+     "author": "ADHD memes",
+     "url": "https://lemmy.world/post/54876559",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/a91a64a2-05c5-4e33-b95d-c016fab7f2bd.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The source",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54874870",
-     "likes": 79,
-     "image": "https://lemmy.world/pictrs/image/c921adce-af24-4051-82cc-8b86af5e8b9c.jpeg"
+     "text": "Time for turkey!",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54876245",
+     "likes": 46,
+     "image": "https://lemmy.world/pictrs/image/64ddc19f-1323-4269-b74a-489b4e6df05b.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Dew it",
-     "author": "memes",
-     "url": "https://lemmy.world/post/54875067",
-     "likes": 61,
-     "image": "https://lemmy.world/pictrs/image/3b6aa625-12c5-424e-856e-9dc7b241cca1.jpeg"
+     "text": "Get stuffed",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.dbzer0.com/post/78982503",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/e484e6c1-278f-4760-bef4-080851b28a50.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T15:20:51.142759+00:00",
+   "fetched_at": "2026-11-26T15:50:57.300004+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "What is bread's favorite number?  Leaven.",
+     "text": "People are making apocalypse jokes like there\u2019s no tomorrow.",
      "source": "Dad joke"
     },
     {
-     "text": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
+     "text": "My wife told me to rub the herbs on the meat for better flavor. That's sage advice.",
      "source": "Dad joke"
     },
     {
-     "text": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
+     "text": "What do you call someone with no nose? Nobody knows.",
      "source": "Dad joke"
     }
    ]
