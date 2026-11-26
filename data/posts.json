@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:22:12.023040+00:00",
+ "generated_at": "2026-11-26T20:52:16.911719+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,37 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-26T20:22:09.063952+00:00",
+   "fetched_at": "2026-11-26T20:52:14.374358+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 277,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "getsBetterEveryHourIRefresh",
+     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
+     "url": "https://redd.it/1y557cw",
+     "ups": 8085,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 6686,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1607,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
      "image": "https://i.redd.it/mihtmnz2fs2i1.png",
@@ -107,59 +135,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nonAIMeme",
-     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
-     "url": "https://redd.it/1y5ywa5",
-     "ups": 1203,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3594,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1526,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 680,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 2,
+     "title": "Big back about to get bigger",
+     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
+     "url": "https://redd.it/1y603gc",
+     "ups": 45,
      "sub": "r/memes"
     },
     {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 1720,
+     "title": "Possessive Thanksgiving",
+     "image": "https://i.redd.it/gjk4xo5q804i1.png",
+     "url": "https://redd.it/1y691dv",
+     "ups": 0,
      "sub": "r/memes"
     },
     {
-     "title": "It's contagious.",
-     "image": "https://i.redd.it/8azpp9xroy3i1.png",
-     "url": "https://redd.it/1y61np3",
-     "ups": 23,
+     "title": "I want a Mega Man X anime series, but it will probably never happen \ud83d\udc94",
+     "image": "https://i.redd.it/wh04k7xfmw3i1.gif",
+     "url": "https://redd.it/1y5ugwc",
+     "ups": 52,
      "sub": "r/memes"
     },
     {
-     "title": "daily reminder",
-     "image": "https://i.redd.it/2l2weqc6904i1.png",
-     "url": "https://redd.it/1y693lx",
-     "ups": 17,
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 5787,
+     "sub": "r/memes"
+    },
+    {
+     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
+     "image": "https://i.redd.it/knymlb56604i1.png",
+     "url": "https://redd.it/1y68p2z",
+     "ups": 4,
      "sub": "r/memes"
     },
     {
@@ -168,36 +175,13 @@
      "url": "https://redd.it/1y51m9w",
      "ups": 144,
      "sub": "r/memes"
-    },
-    {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 1618,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-26T20:22:10.665240+00:00",
+   "fetched_at": "2026-11-26T20:52:15.950424+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Tornado warning in Hampton Roads",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f36a20a105e",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Israeli strikes in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Birthday twin spectrum prompt",
@@ -216,25 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "FCC approves SpaceX Starmind satellites",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Wu-Tang Clan Thanksgiving halftime show",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2ce0cc6a9894",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Describe a film without its name",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
      "likes": 0,
      "image": ""
     },
@@ -248,25 +224,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
+     "text": "UK net migration falls to 77,000",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2957908391e1",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
+     "text": "Describe a film without its name",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Vance blames Obama for detonation",
+     "text": "Thanksgiving storm threatens travel",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers reportedly out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia chip exports to China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tornado warning in Hampton Roads",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f36a20a105e",
      "likes": 0,
      "image": ""
     },
@@ -280,52 +280,60 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "Every time",
-     "author": "People Twitter",
-     "url": "https://sh.itjust.works/post/70522348",
-     "likes": 74,
-     "image": "https://lemmy.world/pictrs/image/af44a090-c510-4915-b69a-191a6b402b38.png"
+     "text": "When life gives you lemons",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70524083",
+     "likes": 25,
+     "image": "https://lemmy.world/pictrs/image/75bdc807-9029-468d-af45-75b98c305fe5.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "they yearn for the (flooded) mines",
-     "author": "Lemmy Shitpost",
-     "url": "https://sh.itjust.works/post/70523029",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/5006a467-fcf9-4f50-b830-47c7c3ee19ae.jpeg"
+     "text": "how many reps bro?",
+     "author": "4chan",
+     "url": "https://sh.itjust.works/post/70524364",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/481eceff-956f-451a-9ab5-d44004bb1a26.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "All true",
      "author": "Political Memes",
      "url": "https://reddthat.com/post/77271680",
-     "likes": 20,
+     "likes": 54,
      "image": "https://lemmy.world/pictrs/image/222a268f-fd3b-4fc0-b4bf-bd36be7066a1.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Steven Universe star comes out as trans",
-     "author": "LGBTQ+",
-     "url": "https://lemmy.blahaj.zone/post/50970980",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/56d9f446-afbd-46ac-8cf9-977f246fef72.jpeg"
+     "text": "Thanksgiving reminder: Food goes in the disposal. Hair and flesh go in the trash.",
+     "author": "Futurama ",
+     "url": "https://lemmy.world/post/54886981",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/7f7b0e66-0030-4606-aa07-f2610df4cb88.gif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-26T20:22:11.607869+00:00",
+   "fetched_at": "2026-11-26T20:52:16.451505+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "When do doctors get angry? When they run out of patients.",
+     "text": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.",
      "source": "Dad joke"
     },
     {
-     "text": "People are making apocalypse jokes like there\u2019s no tomorrow.",
+     "text": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the cookie cry?\r\nBecause his mother was a wafer so long",
+     "text": "Two muffins were sitting in an oven, and the first looks over to the second, and says, \u201cman, it\u2019s really hot in here\u201d. The second looks over at the first with a surprised look, and answers, \u201cWHOA, a talking muffin!\u201d",
      "source": "Dad joke"
     }
    ]
