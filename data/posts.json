@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:23:58.950111+00:00",
+ "generated_at": "2026-11-27T04:54:04.798046+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,35 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T04:23:55.932421+00:00",
+   "fetched_at": "2026-11-27T04:54:01.953787+00:00",
    "stale": false,
    "items": [
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 274,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1602,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 673,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 960,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,110 +128,65 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
-     "ups": 0,
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 177,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 6852,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 11120,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 1361,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 1843,
+     "title": "Big back about to get bigger",
+     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
+     "url": "https://redd.it/1y603gc",
+     "ups": 58,
      "sub": "r/memes"
     },
     {
-     "title": "Gotcha haha",
-     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
-     "url": "https://redd.it/1y5kudv",
-     "ups": 6626,
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 2636,
      "sub": "r/memes"
     },
     {
-     "title": "I fear the toilet might be dying after that.",
-     "image": "https://i.redd.it/00wcoigpk24i1.png",
-     "url": "https://redd.it/1y6ig6n",
-     "ups": 10,
+     "title": "I saw my life flash before my eyes.",
+     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
+     "url": "https://redd.it/1y60uy9",
+     "ups": 344,
      "sub": "r/memes"
     },
     {
-     "title": "The 15 year olds porting GTA 6 to PC rn",
-     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
-     "url": "https://redd.it/1y53xaf",
-     "ups": 4405,
+     "title": "LLMs run on matrix multiplication themselves lol",
+     "image": "https://i.redd.it/3bhfjft0er3i1.png",
+     "url": "https://redd.it/1y57329",
+     "ups": 215,
      "sub": "r/memes"
     },
     {
-     "title": "I mean... It's only a matter of time right?",
-     "image": "https://i.redd.it/qz9c7p9g914i1.png",
-     "url": "https://redd.it/1y6dh1d",
-     "ups": 1327,
+     "title": "what would you say?",
+     "image": "https://i.redd.it/9cds18k5504i1.gif",
+     "url": "https://redd.it/1y68kkb",
+     "ups": 135,
      "sub": "r/memes"
     },
     {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 14,
+     "title": "Nightmares of my childhood",
+     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
+     "url": "https://redd.it/1y69hmj",
+     "ups": 53,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T04:23:57.636845+00:00",
+   "fetched_at": "2026-11-27T04:54:03.599128+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -224,49 +200,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Victoria votes in state election",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Musk pledges kids SpaceX shares",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/326815c478fb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "EU leaders debate next budget",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8561abd9ba19",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Eagles vs. Cowboys",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3f47821090",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
@@ -279,77 +231,125 @@
      "image": ""
     },
     {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving storm knocks out power",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Joe Milton plays quarterback for Eagles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Original characters as nameless NPCs",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/465ccea03082",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Ocarina of Time remake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Zelenskyy's Thanksgiving message to America",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbc9d6c56b0d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE arrests at Seattle airport",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f4960492985c",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Good night, everyone",
+     "author": "Opossums",
+     "url": "https://lemmy.world/post/54899055",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/6de93227-d511-43ba-824f-736fc5d4fe24.jpeg"
+    },
+    {
      "kind": "Lemmy post",
      "text": "Really makes you think",
      "author": "Lemmy Shitpost",
      "url": "https://piefed.social/c/lemmyshitpost@lemmy.world/p/2648505/really-makes-you-think",
-     "likes": 32,
+     "likes": 51,
      "image": "https://lemmy.world/pictrs/image/10d1040a-0c07-4bc1-9dcb-126605875e7c.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "braised lamb leg, mashed potatoes and gravy, sprouts with pancetta and bleu cheese",
+     "author": "Cooking ",
+     "url": "https://lemmy.world/post/54899461",
+     "likes": 4,
+     "image": "https://lemmy.world/pictrs/image/1f20c0ee-5d21-4c50-9012-09c7cb5c6fb9.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Solo thanksgiving plate \ud83e\udd83",
      "author": "Cooking ",
      "url": "https://lemmy.today/post/63931852",
-     "likes": 15,
+     "likes": 26,
      "image": "https://lemmy.world/pictrs/image/0653d301-4e7f-494a-ac6b-b015e150e36b.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Have You Ever Seen the Rain?",
-     "author": "History Memes",
-     "url": "https://lemmy.world/post/54897166",
-     "likes": 95,
-     "image": "https://lemmy.world/pictrs/image/5c291164-b496-4035-807d-fb4ef85d8469.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Iranian Singer Receives 74 Lashes for Performing Without a Hijab on YouTube",
-     "author": "World News",
-     "url": "https://lemmy.world/post/54897734",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/d7db1f09-10e0-47e2-a80a-41bc8f8a2250.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T04:23:58.245534+00:00",
+   "fetched_at": "2026-11-27T04:54:04.079290+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why was the shirt happy to hang around the tank top? Because it was armless",
+     "text": "How many seconds are in a year?\r\n12.\r\nJanuary 2nd, February 2nd, March 2nd, April 2nd.... etc",
      "source": "Dad joke"
     },
     {
-     "text": "Have you heard about the owl sanctuary job opening? It\u2019s all night shifts but they\u2019re all a hoot over there.",
+     "text": "What did the green grape say to the purple grape?\r\nBREATH!!",
      "source": "Dad joke"
     },
     {
-     "text": "Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.",
+     "text": "Where do you learn to make banana splits? At sundae school.",
      "source": "Dad joke"
     }
    ]
