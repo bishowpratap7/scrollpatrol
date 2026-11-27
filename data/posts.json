@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T10:25:53.523771+00:00",
+ "generated_at": "2026-11-27T10:55:59.418655+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,56 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T10:25:50.533522+00:00",
+   "fetched_at": "2026-11-27T10:55:56.177751+00:00",
    "stale": false,
    "items": [
     {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 480,
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 180,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3803,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
+     "title": "blameTheUserNotTheSystem",
+     "image": "https://i.redd.it/5cyouxadmz3i1.png",
+     "url": "https://redd.it/1y663go",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "semiJoinHasCommitmentIssues",
-     "image": "https://i.redd.it/im1qh0ihzx3i1.png",
-     "url": "https://redd.it/1y5yyvz",
+     "title": "aiProductivity",
+     "image": "https://i.redd.it/zclx20rsh34i1.png",
+     "url": "https://redd.it/1y6lqcs",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5900,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1520,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 6249,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 673,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "How far they have fallen. I miss the old days",
-     "image": "https://i.redd.it/j8v39t4ak14i1.png",
-     "url": "https://redd.it/1y6enun",
-     "ups": 741,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 315,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 6875,
+     "sub": "r/memes"
+    },
+    {
+     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
+     "image": "https://i.redd.it/knymlb56604i1.png",
+     "url": "https://redd.it/1y68p2z",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
@@ -149,6 +156,13 @@
      "sub": "r/memes"
     },
     {
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 3110,
+     "sub": "r/memes"
+    },
+    {
      "title": "I fear the toilet might be dying after that.",
      "image": "https://i.redd.it/00wcoigpk24i1.png",
      "url": "https://redd.it/1y6ig6n",
@@ -156,30 +170,16 @@
      "sub": "r/memes"
     },
     {
-     "title": "Sometimes I do wonder if it is like that",
-     "image": "https://i.redd.it/vxtti7kw324i1.png",
-     "url": "https://redd.it/1y6gr3g",
-     "ups": 52,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I have a constant stalker everywhere I go",
-     "image": "https://i.redd.it/mghjb0oe024i1.png",
-     "url": "https://redd.it/1y6gdnz",
-     "ups": 6,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jason, my boiyah",
-     "image": "https://i.redd.it/gbdvxxrds14i1.png",
-     "url": "https://redd.it/1y6fk6s",
-     "ups": 47,
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 16278,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T10:25:52.495269+00:00",
+   "fetched_at": "2026-11-27T10:55:58.158730+00:00",
    "stale": false,
    "items": [
     {
@@ -187,14 +187,6 @@
      "text": "Thanksgiving Day celebrations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
@@ -208,49 +200,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Victoria votes in state election",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
+     "text": "Israeli strikes in Gaza",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Blade Runner 2099 series premiere",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40b3fbb40d6b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
+     "text": "Original characters as nameless NPCs",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Describe a film without its name",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Fuel tanker fire near Cairo",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d2bccb85cb2e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/465ccea03082",
      "likes": 0,
      "image": ""
     },
@@ -264,26 +240,66 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Elon Musk's government subsidies",
+     "text": "Joe Milton plays quarterback for Eagles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "COP31 climate talks collapse",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b39544e1c3db",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Birthday twin spectrum prompt",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Katie Miller car seat claim",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Burnham's UK-EU deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Bus. [266]",
+     "author": "Mimi.",
+     "url": "https://discuss.tchncs.de/post/71523080",
+     "likes": 26,
+     "image": "https://lemmy.world/pictrs/image/3a063606-3b5d-4ee9-a2a0-59928f377682.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "\"NEINhorn\": Hamburger Carlsen Verlag verklagt OpenAI",
+     "author": "DACH - Deutschsprachige Community f\u00fcr Deutschland, \u00d6sterreich, Schweiz",
+     "url": "https://feddit.org/post/38532366",
+     "likes": 12,
+     "image": "https://lemmy.world/pictrs/image/0051bd7c-7a6b-402c-9048-c08af71b7236.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Too Late! \ud83d\udd25",
      "author": "Memes",
      "url": "https://lemmy.dbzer0.com/post/79017599",
-     "likes": 11,
+     "likes": 27,
      "image": "https://lemmy.world/pictrs/image/4b0bcfff-17ac-433f-8137-9af8687b41fe.webp"
     },
     {
@@ -291,33 +307,17 @@
      "text": "A new study has found that the largest U.S. data centers use four times as much power as Los Angeles",
      "author": "Fuck AI",
      "url": "https://lemmy.world/post/54907736",
-     "likes": 11,
+     "likes": 19,
      "image": "https://lemmy.world/pictrs/image/e4f2cefb-06a7-4ae7-8722-42f863a91c0c.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Toilatte",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75745156",
-     "likes": 44,
-     "image": "https://lemmy.zip/pictrs/image/efccb893-1cc8-43b3-b071-14ec66c9b4c6.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Bus. [266]",
-     "author": "Mimi.",
-     "url": "https://discuss.tchncs.de/post/71523080",
-     "likes": 9,
-     "image": "https://lemmy.world/pictrs/image/3a063606-3b5d-4ee9-a2a0-59928f377682.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T10:25:52.873607+00:00",
+   "fetched_at": "2026-11-27T10:55:58.834107+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "What type of music do balloons hate? Pop music!",
+     "text": "The rotation of earth really makes my day.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a girl between two posts? Annette.",
+     "text": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. \r\nHe also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. \r\nThis made him a super calloused fragile mystic hexed by halitosis.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the banana go to the doctor? He was not \"peeling\" well.",
+     "text": "Why was the robot angry? Because someone kept pressing his buttons!",
      "source": "Dad joke"
     }
    ]
