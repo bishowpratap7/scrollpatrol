@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:29:10.268688+00:00",
+ "generated_at": "2026-11-27T23:59:16.439183+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T23:29:05.448139+00:00",
+   "fetched_at": "2026-11-27T23:59:13.146368+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 22,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "rewriteItInRustTitanicEdition",
      "image": "https://i.redd.it/rhdgtrw8574i1.png",
      "url": "https://redd.it/1y70278",
      "ups": 748,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 602,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "doesPEqualNp",
+     "image": "https://i.redd.it/2ypi9rxyw74i1.png",
+     "url": "https://redd.it/1y73qx9",
+     "ups": 372,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
+     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
+     "url": "https://redd.it/1y59oah",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "aiProductivity",
+     "image": "https://i.redd.it/zclx20rsh34i1.png",
+     "url": "https://redd.it/1y6lqcs",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,24 +135,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 7137,
-     "sub": "r/ProgrammerHumor"
+     "title": "Screwed the pooch",
+     "image": "https://i.redd.it/1z293322s74i1.png",
+     "url": "https://redd.it/1y7348f",
+     "ups": 12,
+     "sub": "r/memes"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 520,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "A fairly common question I see from outsiders in these two communities.",
-     "image": "https://i.redd.it/l33xo9pzr14i1.png",
-     "url": "https://redd.it/1y6fpea",
-     "ups": 96,
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 7375,
      "sub": "r/memes"
     },
     {
@@ -149,6 +156,13 @@
      "sub": "r/memes"
     },
     {
+     "title": "I saw my life flash before my eyes.",
+     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
+     "url": "https://redd.it/1y60uy9",
+     "ups": 425,
+     "sub": "r/memes"
+    },
+    {
      "title": "I have a constant stalker everywhere I go",
      "image": "https://i.redd.it/mghjb0oe024i1.png",
      "url": "https://redd.it/1y6gdnz",
@@ -156,32 +170,34 @@
      "sub": "r/memes"
     },
     {
-     "title": "I fear I've made peak...",
-     "image": "https://i.redd.it/if146z0w834i1.png",
-     "url": "https://redd.it/1y6kuv7",
-     "ups": 349,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Kindred of my car.",
-     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
-     "url": "https://redd.it/1y6u3ho",
-     "ups": 997,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Stay strong my PC brothers. Dino has us covered until GTA6 drops",
-     "image": "https://i.redd.it/4qlkv039j74i1.png",
-     "url": "https://redd.it/1y71xlo",
-     "ups": 11,
+     "title": "Sometimes I do wonder if it is like that",
+     "image": "https://i.redd.it/vxtti7kw324i1.png",
+     "url": "https://redd.it/1y6gr3g",
+     "ups": 60,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T23:29:08.979851+00:00",
+   "fetched_at": "2026-11-27T23:59:15.242876+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Israeli strikes in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Victoria votes in state election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Most famous person you're related to",
@@ -200,33 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Banned Nvidia chips reported in Shanghai",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Aaron Rodgers reportedly out",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Hackers breach Air Force cloud platform",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Jazz Chisholm nears Blue Jays deal",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/664ff8513ae0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Israeli strikes in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
@@ -240,22 +240,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "McCarthy's ice cream sandwich interview",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eef6f042a249",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Banned Nvidia chips reported in Shanghai",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Birthday twin spectrum prompt",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
@@ -264,9 +248,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
+     "text": "David Fincher weighs retirement",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae9b89f2fb37",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "World tops 2C for six straight days",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/892aad2d4d59",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Hackers breach Air Force cloud platform",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
@@ -280,10 +280,26 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "Graffiti",
+     "author": "Microblog Memes",
+     "url": "https://lemmy.today/post/63976080",
+     "likes": 64,
+     "image": "https://lemmy.world/pictrs/image/6898851a-1ed3-4bbe-99a6-6b8bfb2b61da.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Los Angeles schools block Google\u2019s AI features, consider dropping tech giant\u2019s products",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54933917",
+     "likes": 41,
+     "image": "https://lemmy.world/pictrs/image/55ac55f7-b414-423b-9eb0-e633009062c9.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "J.K Rowling to rewrite all of Harry Potter books in Rust",
      "author": "Lemmy Shitpost",
      "url": "https://feddit.online/c/lemmyshitpost@lemmy.world/p/2146871/j-k-rowling-to-rewrite-all-of-harry-potter-books-in-rust",
-     "likes": 44,
+     "likes": 82,
      "image": "https://lemmy.world/pictrs/image/99c04f90-c482-47a5-89ac-fd3928a33366.jpeg"
     },
     {
@@ -291,41 +307,29 @@
      "text": "No Refunds",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54932521",
-     "likes": 45,
+     "likes": 76,
      "image": "https://lemmy.world/pictrs/image/900cbd77-0e16-4fe6-8cc3-33b22ff69613.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Already way ahead of any boycotts cause I\u2019m broke and wasn\u2019t buying anyway",
-     "author": "Microblog Memes",
-     "url": "https://lemmy.world/post/54930994",
-     "likes": 188,
-     "image": "https://lemmy.world/pictrs/image/58ac05dd-8aef-4a1a-a2ba-ad5269486538.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "i continue to griefpost (rule)",
-     "author": "196",
-     "url": "https://lemmy.world/post/54932535",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/2a5830ef-8bb3-45a0-92f7-830ec9aff3c8.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T23:29:09.502679+00:00",
+   "fetched_at": "2026-11-27T23:59:15.951609+00:00",
    "stale": false,
    "items": [
     {
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
      "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+     "text": "What's the difference between a seal and a sea lion?\r\nAn ion! ",
      "source": "Dad joke"
     },
     {
-     "text": "This is my step ladder. I never knew my real ladder.",
+     "text": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
      "source": "Dad joke"
     },
     {
-     "text": "I was going to learn how to juggle, but I didn't have the balls.",
+     "text": "I used to work in a shoe recycling shop. It was sole destroying.",
      "source": "Dad joke"
     }
    ]
