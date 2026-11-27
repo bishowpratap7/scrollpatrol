@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T05:24:26.724888+00:00",
+ "generated_at": "2026-11-27T05:54:32.660698+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T05:24:23.373621+00:00",
+   "fetched_at": "2026-11-27T05:54:29.425186+00:00",
    "stale": false,
    "items": [
     {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 6236,
+     "title": "technicallyCorrect",
+     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
+     "url": "https://redd.it/1y5vntt",
+     "ups": 1053,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "diffVsCodeReviewNowadaysDotMD",
-     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
-     "url": "https://redd.it/1y56a13",
-     "ups": 210,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 11151,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 526,
+     "title": "nothingIsMorePermanentThanATemporaryFix",
+     "image": "https://i.redd.it/unfdlds1sr3i1.png",
+     "url": "https://redd.it/1y58vju",
+     "ups": 1383,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2260,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 877,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2629,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "blameTheUserNotTheSystem",
-     "image": "https://i.redd.it/5cyouxadmz3i1.png",
-     "url": "https://redd.it/1y663go",
-     "ups": 0,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 275,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 15760,
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 2636,
      "sub": "r/memes"
     },
     {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 1843,
+     "title": "Big back about to get bigger",
+     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
+     "url": "https://redd.it/1y603gc",
+     "ups": 58,
      "sub": "r/memes"
     },
     {
@@ -156,17 +156,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 14,
-     "sub": "r/memes"
-    },
-    {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 427,
+     "title": "priorities",
+     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
+     "url": "https://redd.it/1y5j931",
+     "ups": 1843,
      "sub": "r/memes"
     },
     {
@@ -175,21 +168,20 @@
      "url": "https://redd.it/1y5tgtv",
      "ups": 6720,
      "sub": "r/memes"
+    },
+    {
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 15760,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T05:24:25.486702+00:00",
+   "fetched_at": "2026-11-27T05:54:31.438968+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Original characters as nameless NPCs",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/465ccea03082",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
@@ -208,6 +200,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Zelenskyy's Thanksgiving message to America",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbc9d6c56b0d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -216,25 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Birthday twin spectrum prompt",
+     "text": "Original characters as nameless NPCs",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/465ccea03082",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
+     "text": "Canned cranberry sauce",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4754b557e1be",
      "likes": 0,
      "image": ""
     },
@@ -248,33 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving storm knocks out power",
+     "text": "GTA VI's Jason and Lucia",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8130317be1ba",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "New Avengers: Doomsday poster",
+     "text": "November full supermoon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Fox News and American decline",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9af36f07571d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Poilievre says NDP not for workers",
+     "text": "Katie Miller car seat claim",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a3b64f1cc0e5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israeli strikes in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
@@ -283,73 +283,73 @@
      "text": "Evil but I get it",
      "author": "Trans Memes",
      "url": "https://sh.itjust.works/post/70541645",
-     "likes": 8,
+     "likes": 36,
      "image": "https://lemmy.world/pictrs/image/1fae03f9-c293-465a-b2ba-a8c20fc2089f.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Thanksgiving with dad",
-     "author": "Dad Jokes",
-     "url": "https://lemmy.world/post/54899703",
-     "likes": 10,
-     "image": "https://lemmy.world/pictrs/image/079fd797-54d6-4a92-ac47-7b9d17c58108.png"
+     "text": "happy buy nothing day to those who celebrate",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.uhhoh.com/post/16613572",
+     "likes": 24,
+     "image": "https://lemmy.world/pictrs/image/ce4297ed-298e-4031-8954-1d3d45863017.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "braised lamb leg, mashed potatoes and gravy, sprouts with pancetta and bleu cheese",
-     "author": "Cooking ",
-     "url": "https://lemmy.world/post/54899461",
+     "text": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+     "author": "World News",
+     "url": "https://lemy.lol/post/74749255",
      "likes": 13,
-     "image": "https://lemmy.world/pictrs/image/1f20c0ee-5d21-4c50-9012-09c7cb5c6fb9.jpeg"
+     "image": "https://lemmy.world/pictrs/image/259a9271-055c-42e9-834f-3b257cbd2206.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Good night, everyone",
-     "author": "Opossums",
-     "url": "https://lemmy.world/post/54899055",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/6de93227-d511-43ba-824f-736fc5d4fe24.jpeg"
+     "text": "Take-Two wipes out 3,007 GTA 6 PC port repos from GitHub in massive DMCA crackdown \u2014 as AI tools fuel wave of unofficial builds. It seems that progress is only accelerating\u2026",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54900537",
+     "likes": 13,
+     "image": "https://lemmy.world/pictrs/image/d7b1716f-f5d3-46b8-b43a-b9675df2c3a6.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T05:24:25.908764+00:00",
+   "fetched_at": "2026-11-27T05:54:31.889575+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear the news? FedEx and UPS are merging. They\u2019re going to go by the name Fed-Up from now on.",
+     "text": "I was going to get a brain transplant, but I changed my mind",
      "source": "Dad joke"
     },
     {
-     "text": "What is this movie about? It is about 2 hours long.",
+     "text": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call a fish with no eyes? A fsh.",
+     "text": "What's brown and sticky? A stick.",
      "source": "Dad joke"
     }
    ]
