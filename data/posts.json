@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:53:18.701185+00:00",
+ "generated_at": "2026-11-27T01:23:24.687182+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,84 +89,63 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T00:53:15.633796+00:00",
+   "fetched_at": "2026-11-27T01:23:21.570877+00:00",
    "stale": false,
    "items": [
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3610,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 6781,
+     "title": "nonAIMeme",
+     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
+     "url": "https://redd.it/1y5ywa5",
+     "ups": 1537,
      "sub": "r/ProgrammerHumor"
     },
     {
      "title": "yetAnotherJsonCommentsJoke",
      "image": "https://i.redd.it/ipspl4jtve3i1.png",
      "url": "https://redd.it/1y3r8ws",
-     "ups": 444,
+     "ups": 449,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "recursion",
-     "image": "https://i.redd.it/9c68q9667b2i1.png",
-     "url": "https://redd.it/1xz7flz",
-     "ups": 962,
+     "title": "bugFixing",
+     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
+     "url": "https://redd.it/1xzlxtv",
+     "ups": 670,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 629,
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 6228,
+     "title": "checkYourPrivilege",
+     "image": "https://i.redd.it/f51w859wak2i1.png",
+     "url": "https://redd.it/1y0827m",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "LLMs run on matrix multiplication themselves lol",
-     "image": "https://i.redd.it/3bhfjft0er3i1.png",
-     "url": "https://redd.it/1y57329",
-     "ups": 215,
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2619,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Organic chemistry",
+     "image": "https://i.redd.it/631fcwfezq3i1.png",
+     "url": "https://redd.it/1y55hsz",
+     "ups": 279,
      "sub": "r/memes"
     },
     {
-     "title": "Nightmares of my childhood",
-     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
-     "url": "https://redd.it/1y69hmj",
-     "ups": 33,
-     "sub": "r/memes"
-    },
-    {
-     "title": "daily reminder",
-     "image": "https://i.redd.it/2l2weqc6904i1.png",
-     "url": "https://redd.it/1y693lx",
-     "ups": 28,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Rolls vs. Breadsticks",
-     "image": "https://i.redd.it/ijfa7zsrzr3i1.png",
-     "url": "https://redd.it/1y59x6d",
-     "ups": 541,
-     "sub": "r/memes"
-    },
-    {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 2215,
+     "title": "It's contagious.",
+     "image": "https://i.redd.it/8azpp9xroy3i1.png",
+     "url": "https://redd.it/1y61np3",
+     "ups": 21,
      "sub": "r/memes"
     },
     {
@@ -175,26 +154,63 @@
      "url": "https://redd.it/1y60uy9",
      "ups": 303,
      "sub": "r/memes"
+    },
+    {
+     "title": "priorities",
+     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
+     "url": "https://redd.it/1y5j931",
+     "ups": 1793,
+     "sub": "r/memes"
+    },
+    {
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 15346,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 295,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T00:53:17.270282+00:00",
+   "fetched_at": "2026-11-27T01:23:23.292248+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Joe Milton plays quarterback for Eagles",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving storm knocks out power",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Victoria votes in state election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving Day celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
      "likes": 0,
      "image": ""
     },
@@ -208,25 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Macy's parade postponed to Saturday",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
      "likes": 0,
      "image": ""
     },
@@ -240,41 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Van Hollen challenges Schumer",
+     "text": "Katie Miller car seat claim",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides flood West Coast",
+     "text": "Describe a film without its name",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Jacob Geller's allegations response",
+     "text": "Trump calls GDP revision fake",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/281e86b7f00c",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Data center ballot measures",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a56eadca42c5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Gracias Giving",
      "author": "memes",
      "url": "https://lemmy.world/post/54892784",
-     "likes": 94,
+     "likes": 126,
      "image": "https://lemmy.world/pictrs/image/28c1c5c7-5ab2-4ae8-8f67-4f7e7c004e3f.png"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Sunset in my village in Sudan [OC]",
      "author": "pics",
      "url": "https://sh.itjust.works/post/70531674",
-     "likes": 79,
+     "likes": 96,
      "image": "https://lemmy.world/pictrs/image/86b6e812-3ac0-44b9-8007-5638cd0aa25c.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Stephen Miller's 'unlawful policy' banned as judge halts 'continually' breaking law",
      "author": "politics ",
      "url": "https://sh.itjust.works/post/70531089",
-     "likes": 96,
+     "likes": 117,
      "image": "https://lemmy.world/pictrs/image/aeeace3c-ba37-4efc-a9af-48283cf8f81a.jpeg"
     },
     {
@@ -307,25 +307,17 @@
      "text": "legitimacy",
      "author": "Trans Memes",
      "url": "https://lemmy.ml/post/55785454",
-     "likes": 45,
+     "likes": 58,
      "image": "https://lemmy.world/pictrs/image/82383fc2-3ee5-4c50-9977-92cbeb4265d8.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T00:53:17.883359+00:00",
+   "fetched_at": "2026-11-27T01:23:23.995893+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
@@ -333,32 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "What\u2019s the advantage of living in Switzerland? Well, the flag is a big plus.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How does a scientist freshen their breath? With experi-mints!",
      "source": "Dad joke"
     },
     {
-     "text": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
+     "text": "I thought about going on an all-almond diet. But that's just nuts.",
      "source": "Dad joke"
     },
     {
-     "text": "Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.",
+     "text": "I tried to milk a cow today, but was unsuccessful. Udder failure.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
