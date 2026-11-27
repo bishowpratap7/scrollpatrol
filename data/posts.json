@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T13:26:36.344684+00:00",
+ "generated_at": "2026-11-27T13:56:42.544608+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,120 +89,104 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T13:26:28.212415+00:00",
+   "fetched_at": "2026-11-27T13:56:38.976396+00:00",
    "stale": false,
    "items": [
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1606,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 1452,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5915,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "blameTheUserNotTheSystem",
-     "image": "https://i.redd.it/5cyouxadmz3i1.png",
-     "url": "https://redd.it/1y663go",
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 283,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 57,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3650,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 460,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I have a constant stalker everywhere I go",
-     "image": "https://i.redd.it/mghjb0oe024i1.png",
-     "url": "https://redd.it/1y6gdnz",
-     "ups": 6,
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2652,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 11353,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyCorrect",
+     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
+     "url": "https://redd.it/1y5vntt",
+     "ups": 1153,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "A fairly common question I see from outsiders in these two communities.",
+     "image": "https://i.redd.it/l33xo9pzr14i1.png",
+     "url": "https://redd.it/1y6fpea",
+     "ups": 57,
      "sub": "r/memes"
     },
     {
-     "title": "daily reminder",
-     "image": "https://i.redd.it/2l2weqc6904i1.png",
-     "url": "https://redd.it/1y693lx",
-     "ups": 43,
+     "title": "The past few days have been draining",
+     "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
+     "url": "https://redd.it/1y5tgtv",
+     "ups": 7254,
      "sub": "r/memes"
     },
     {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 512,
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 3212,
      "sub": "r/memes"
     },
     {
-     "title": "It's contagious.",
-     "image": "https://i.redd.it/8azpp9xroy3i1.png",
-     "url": "https://redd.it/1y61np3",
-     "ups": 25,
+     "title": "I mean... It's only a matter of time right?",
+     "image": "https://i.redd.it/qz9c7p9g914i1.png",
+     "url": "https://redd.it/1y6dh1d",
+     "ups": 1753,
      "sub": "r/memes"
     },
     {
-     "title": "Is lead really that bad though? (yes, yes it is)",
-     "image": "https://i.redd.it/1n9co209wr3i1.png",
-     "url": "https://redd.it/1y59fv3",
-     "ups": 5799,
+     "title": "I fear I've made peak...",
+     "image": "https://i.redd.it/if146z0w834i1.png",
+     "url": "https://redd.it/1y6kuv7",
+     "ups": 186,
      "sub": "r/memes"
     },
     {
-     "title": "I saw my life flash before my eyes.",
-     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
-     "url": "https://redd.it/1y60uy9",
-     "ups": 381,
+     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
+     "image": "https://i.redd.it/knymlb56604i1.png",
+     "url": "https://redd.it/1y68p2z",
+     "ups": 28,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T13:26:35.184072+00:00",
+   "fetched_at": "2026-11-27T13:56:41.396204+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Influencers' Downing Street visit",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b282d7055856",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -216,49 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Thanksgiving Day celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "St. Louis airport divorce ad feud",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58aec23e9044",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving storm knocks out power",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Eagles vs. Cowboys",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3f47821090",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Blade Runner 2099 series premiere",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40b3fbb40d6b",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
      "likes": 0,
      "image": ""
     },
@@ -272,84 +216,140 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump calls GDP revision fake",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving storm knocks out power",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia chip exports to China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Birthday twin spectrum prompt",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "November full supermoon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Tomlin segment bumps Goo Goo Dolls",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/467a1dbb3ce4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Burnham's UK-EU deal",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9978857c5efa",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Calls to release Epstein files",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00d4241b94de",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Don't Question Anything. This Is The Future.",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54913732",
-     "likes": 21,
-     "image": "https://lemmy.world/pictrs/image/3cbfaf31-7302-4e14-aedc-e3ce558d820c.jpeg"
+     "text": "Such an inspiration",
+     "author": "Memes",
+     "url": "https://reddthat.com/post/77311376",
+     "likes": 48,
+     "image": "https://lemmy.world/pictrs/image/cdf25b7f-5b23-4021-a044-41da52903feb.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Hard to buy for",
+     "text": "Discount Psychology",
      "author": "Comic Strips",
-     "url": "https://lemmy.ca/post/74438068",
-     "likes": 45,
-     "image": "https://lemmy.world/pictrs/image/d1874816-ec61-4f39-92a7-903254d5a776.png"
+     "url": "https://sh.itjust.works/post/70560568",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/6db5ea63-c867-49ab-ad7c-bb9e87da6fd8.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Jengaleven",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54911656",
-     "likes": 98,
-     "image": "https://lemmy.world/pictrs/image/965a6b0b-d3f5-4f5d-ab75-2263c38bc7ac.png"
+     "text": "LoadingArtist - Find the spider :)",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54914479",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/aa946b14-4bea-4690-93d9-7f1621c0f714.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Ubisoft developers reportedly have to justify not using generative AI when pitching new games",
-     "author": "PC Gaming",
-     "url": "https://lemmy.ca/post/74438472",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/b0c05e49-173f-48ce-82a7-2f1e56697e39.png"
+     "text": "Factual statement",
+     "author": "Political Memes",
+     "url": "https://reddthat.com/post/77312390",
+     "likes": 19,
+     "image": "https://reddthat.com/pictrs/image/82bb2c0c-ec1e-47af-bdde-e6bac6ed60f6.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T13:26:35.759073+00:00",
+   "fetched_at": "2026-11-27T13:56:41.898109+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
     {
      "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Why did the tomato blush? Because it saw the salad dressing.",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Two peanuts were walking down the street. One was a salted",
      "source": "Dad joke"
     },
     {
-     "text": "I used to work for an origami company but they folded.",
+     "text": "My boss told me to attach two pieces of wood together... I totally nailed it!",
      "source": "Dad joke"
     },
     {
-     "text": "I wouldn't buy anything with velcro. It's a total rip-off.",
+     "text": "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.",
      "source": "Dad joke"
     }
    ]
