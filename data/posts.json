@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:57:23.601344+00:00",
+ "generated_at": "2026-11-27T16:27:29.169048+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,120 +89,104 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T15:57:20.609025+00:00",
+   "fetched_at": "2026-11-27T16:27:25.712118+00:00",
    "stale": false,
    "items": [
     {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 7034,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
-     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
-     "url": "https://redd.it/1y16m3c",
-     "ups": 21,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3828,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 496,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
+     "title": "blameTheUserNotTheSystem",
+     "image": "https://i.redd.it/5cyouxadmz3i1.png",
+     "url": "https://redd.it/1y663go",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 331,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 273,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 1919,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2655,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 56,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1520,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 533,
      "sub": "r/memes"
     },
     {
-     "title": "A fairly common question I see from outsiders in these two communities.",
-     "image": "https://i.redd.it/l33xo9pzr14i1.png",
-     "url": "https://redd.it/1y6fpea",
-     "ups": 57,
+     "title": "Jason, my boiyah",
+     "image": "https://i.redd.it/gbdvxxrds14i1.png",
+     "url": "https://redd.it/1y6fk6s",
+     "ups": 60,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We are all trying to find the guys who did this!",
+     "image": "https://i.redd.it/clmk05znq04i1.png",
+     "url": "https://redd.it/1y6bar0",
+     "ups": 341,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Nightmares of my childhood",
+     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
+     "url": "https://redd.it/1y69hmj",
+     "ups": 122,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Is lead really that bad though? (yes, yes it is)",
+     "image": "https://i.redd.it/1n9co209wr3i1.png",
+     "url": "https://redd.it/1y59fv3",
+     "ups": 5821,
      "sub": "r/memes"
     },
     {
      "title": "The past few days have been draining",
      "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
      "url": "https://redd.it/1y5tgtv",
-     "ups": 7380,
-     "sub": "r/memes"
-    },
-    {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 3324,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Teachers reviewing essays now be like",
-     "image": "https://i.redd.it/22uslplsy34i1.png",
-     "url": "https://redd.it/1y6nc0y",
-     "ups": 61,
-     "sub": "r/memes"
-    },
-    {
-     "title": "How far they have fallen. I miss the old days",
-     "image": "https://i.redd.it/j8v39t4ak14i1.png",
-     "url": "https://redd.it/1y6enun",
-     "ups": 1126,
+     "ups": 7467,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T15:57:22.703217+00:00",
+   "fetched_at": "2026-11-27T16:27:27.983448+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Influencers' Downing Street visit",
+     "text": "Katie Miller car seat claim",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b282d7055856",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Cybersecurity breach reported at CIA",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Silksong Sea of Sorrow release date",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/83c4fcfd81e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
      "likes": 0,
      "image": ""
     },
@@ -216,25 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Macy's parade postponed to Saturday",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
@@ -248,9 +224,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides flood West Coast",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Silksong Sea of Sorrow release date",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/83c4fcfd81e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia chip exports to China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
@@ -264,9 +256,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Zelenskyy's Thanksgiving message to America",
+     "text": "Birthday twin spectrum prompt",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbc9d6c56b0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Quebec oath to the King",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bb7164615f0f",
      "likes": 0,
      "image": ""
     },
@@ -280,60 +280,48 @@
     },
     {
      "kind": "Lemmy post",
+     "text": "Lightly crumbruled",
+     "author": "196",
+     "url": "https://crazypeople.online/post/28134201",
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/66817378-50d7-4a67-a2b9-a1667ab89f66.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Red Note Jazz is AI slop",
+     "author": "Fuck AI",
+     "url": "https://startrek.website/post/47350545",
+     "likes": 27,
+     "image": "https://lemmy.world/pictrs/image/9d58a837-8cc8-40b9-a6db-d463e1ff372d.png"
+    },
+    {
+     "kind": "Lemmy post",
      "text": "Canada\u2019s Parliament receives petition to oust Trump\u2019s envoy",
      "author": "Canada",
      "url": "https://lemmy.ca/post/74445777",
-     "likes": 18,
+     "likes": 40,
      "image": "https://lemmy.world/pictrs/image/09410ba5-927b-4390-9e95-5c88aa1a6765.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "#610 (2020-04-22)",
-     "author": "Extra Ordinary Comics",
-     "url": "https://discuss.online/post/49083593",
-     "likes": 18,
-     "image": "https://lemmy.world/pictrs/image/16dea52b-2599-43c0-ac44-3070ab6c9275.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "2026-11-27 #4",
-     "author": "The Far Side",
-     "url": "https://discuss.online/post/49083598",
-     "likes": 15,
-     "image": "https://lemmy.world/pictrs/image/1a365c9f-6b7a-46ae-8c5b-cc3f3c590fb1.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "2023-02-25",
-     "author": "Cyanide & Happiness",
-     "url": "https://discuss.online/post/49083591",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/2a8af7f6-2634-40c8-967a-4853b1cba015.png"
+     "text": "this is so fucked up \ud83d\ude14",
+     "author": "Femcel Memes",
+     "url": "https://lemmy.blahaj.zone/post/51004640",
+     "likes": 31,
+     "image": "https://lemmy.world/pictrs/image/789a8c5a-1fe5-4a35-a544-d5c384173aed.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T15:57:23.206388+00:00",
+   "fetched_at": "2026-11-27T16:27:28.776647+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
@@ -341,24 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
      "source": "Dad joke"
     },
     {
-     "text": "What type of music do balloons hate? Pop music!",
+     "text": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
      "source": "Dad joke"
     },
     {
-     "text": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
+     "text": "Coffee has a tough time at my house, every morning it gets mugged.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "All suspects are trending until proven funny.",
-  "meme_stash": "Evidence bags full of memes. Again.",
-  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
-  "interrogation": "Under the lamp, every joke talks."
+  "most_wanted": "Booked for excessive virality. No bail.",
+  "meme_stash": "Contraband humor, seized hourly.",
+  "elsewhere": "Witness reports from across the social streets.",
+  "interrogation": "We asked the jokes nicely. They confessed."
  }
 }
