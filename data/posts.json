@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T10:25:35.675413+00:00",
+ "generated_at": "2026-11-27T10:25:53.523771+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,21 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T10:25:29.929479+00:00",
+   "fetched_at": "2026-11-27T10:25:50.533522+00:00",
    "stale": false,
    "items": [
     {
-     "title": "getsBetterEveryHourIRefresh",
-     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
-     "url": "https://redd.it/1y557cw",
-     "ups": 8523,
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 480,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3803,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,67 +114,25 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 501,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
+     "title": "semiJoinHasCommitmentIssues",
+     "image": "https://i.redd.it/im1qh0ihzx3i1.png",
+     "url": "https://redd.it/1y5yyvz",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 281,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5900,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 315,
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 6249,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 21,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Big back about to get bigger",
-     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
-     "url": "https://redd.it/1y603gc",
-     "ups": 61,
-     "sub": "r/memes"
-    },
-    {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 3110,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The past few days have been draining",
-     "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
-     "url": "https://redd.it/1y5tgtv",
-     "ups": 7153,
-     "sub": "r/memes"
-    },
-    {
-     "title": "what would you say?",
-     "image": "https://i.redd.it/9cds18k5504i1.gif",
-     "url": "https://redd.it/1y68kkb",
-     "ups": 247,
-     "sub": "r/memes"
     },
     {
      "title": "How far they have fallen. I miss the old days",
@@ -175,11 +140,46 @@
      "url": "https://redd.it/1y6enun",
      "ups": 741,
      "sub": "r/memes"
+    },
+    {
+     "title": "daily reminder",
+     "image": "https://i.redd.it/2l2weqc6904i1.png",
+     "url": "https://redd.it/1y693lx",
+     "ups": 42,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I fear the toilet might be dying after that.",
+     "image": "https://i.redd.it/00wcoigpk24i1.png",
+     "url": "https://redd.it/1y6ig6n",
+     "ups": 6,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Sometimes I do wonder if it is like that",
+     "image": "https://i.redd.it/vxtti7kw324i1.png",
+     "url": "https://redd.it/1y6gr3g",
+     "ups": 52,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I have a constant stalker everywhere I go",
+     "image": "https://i.redd.it/mghjb0oe024i1.png",
+     "url": "https://redd.it/1y6gdnz",
+     "ups": 6,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Jason, my boiyah",
+     "image": "https://i.redd.it/gbdvxxrds14i1.png",
+     "url": "https://redd.it/1y6fk6s",
+     "ups": 47,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T10:25:34.443503+00:00",
+   "fetched_at": "2026-11-27T10:25:52.495269+00:00",
    "stale": false,
    "items": [
     {
@@ -313,43 +313,43 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T10:25:34.935356+00:00",
+   "fetched_at": "2026-11-27T10:25:52.873607+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+     "text": "What type of music do balloons hate? Pop music!",
      "source": "Dad joke"
     },
     {
-     "text": "How does a dyslexic poet write? Inverse.",
+     "text": "What do you call a girl between two posts? Annette.",
      "source": "Dad joke"
     },
     {
-     "text": "Why couldn't the lifeguard save the hippie? He was too far out, man.",
+     "text": "Why did the banana go to the doctor? He was not \"peeling\" well.",
      "source": "Dad joke"
     }
    ]
