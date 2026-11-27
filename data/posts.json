@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:26:49.419531+00:00",
+ "generated_at": "2026-11-27T14:56:56.881861+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,84 +89,70 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T14:26:45.563483+00:00",
+   "fetched_at": "2026-11-27T14:56:52.616564+00:00",
    "stale": false,
    "items": [
     {
-     "title": "versionControl",
-     "image": "https://i.redd.it/8oyh0yrg144i1.png",
-     "url": "https://redd.it/1y6nka4",
-     "ups": 530,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 954,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 57,
+     "title": "whenTheBottomSheetAndTheBugReportBothNeedToExpand",
+     "image": "https://i.redd.it/m4xn2pgrm34i1.png",
+     "url": "https://redd.it/1y6m8ms",
+     "ups": 9,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 671,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 460,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2255,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 877,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
+     "title": "nonAIMeme",
+     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
+     "url": "https://redd.it/1y5ywa5",
+     "ups": 1859,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
+     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
+     "url": "https://redd.it/1y59j8p",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5915,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "what would you say?",
-     "image": "https://i.redd.it/9cds18k5504i1.gif",
-     "url": "https://redd.it/1y68kkb",
-     "ups": 382,
+     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
+     "image": "https://i.redd.it/knymlb56604i1.png",
+     "url": "https://redd.it/1y68p2z",
+     "ups": 35,
      "sub": "r/memes"
     },
     {
-     "title": "I mean... It's only a matter of time right?",
-     "image": "https://i.redd.it/qz9c7p9g914i1.png",
-     "url": "https://redd.it/1y6dh1d",
-     "ups": 1836,
+     "title": "Jason, my boiyah",
+     "image": "https://i.redd.it/gbdvxxrds14i1.png",
+     "url": "https://redd.it/1y6fk6s",
+     "ups": 54,
      "sub": "r/memes"
     },
     {
-     "title": "Nightmares of my childhood",
-     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
-     "url": "https://redd.it/1y69hmj",
-     "ups": 103,
-     "sub": "r/memes"
-    },
-    {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 1919,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Sometimes I do wonder if it is like that",
-     "image": "https://i.redd.it/vxtti7kw324i1.png",
-     "url": "https://redd.it/1y6gr3g",
-     "ups": 55,
+     "title": "I fear the toilet might be dying after that.",
+     "image": "https://i.redd.it/00wcoigpk24i1.png",
+     "url": "https://redd.it/1y6ig6n",
+     "ups": 11,
      "sub": "r/memes"
     },
     {
@@ -175,26 +161,40 @@
      "url": "https://redd.it/1y6gdnz",
      "ups": 6,
      "sub": "r/memes"
+    },
+    {
+     "title": "I fear I've made peak...",
+     "image": "https://i.redd.it/if146z0w834i1.png",
+     "url": "https://redd.it/1y6kuv7",
+     "ups": 229,
+     "sub": "r/memes"
+    },
+    {
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 3324,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T14:26:47.986910+00:00",
+   "fetched_at": "2026-11-27T14:56:55.546579+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Elon Musk's government subsidies",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "New York Times on Democratic spending plans",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f8232ad211d7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Elon Musk's government subsidies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
      "likes": 0,
      "image": ""
     },
@@ -208,22 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving storm knocks out power",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -232,17 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia scores",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ocarina of Time remake",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +232,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tomlin segment bumps Goo Goo Dolls",
+     "text": "Thanksgiving storm knocks out power",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/467a1dbb3ce4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Bird photography",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Macy's parade postponed to Saturday",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "November full supermoon",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Medicare for All and universal healthcare",
+     "text": "Katie Miller car seat claim",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eecf5d7b03b0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
      "likes": 0,
      "image": ""
     },
@@ -283,45 +283,53 @@
      "text": "That and getting up votes",
      "author": "Lemmy Shitpost",
      "url": "https://piefed.social/c/lemmyshitpost@lemmy.world/p/2650190/that-and-getting-up-votes",
-     "likes": 27,
+     "likes": 103,
      "image": "https://lemmy.world/pictrs/image/1c94b532-68c4-4fd6-b982-a1ee6c241370.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Factual statement",
-     "author": "Political Memes",
-     "url": "https://reddthat.com/post/77312390",
-     "likes": 65,
-     "image": "https://reddthat.com/pictrs/image/82bb2c0c-ec1e-47af-bdde-e6bac6ed60f6.jpeg"
+     "text": "Piss posting, pt. 2",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.zip/post/75757491",
+     "likes": 25,
+     "image": "https://lemmy.zip/pictrs/image/5c4ac44e-6051-4a51-8539-4c3c99dfa3df.avif"
     },
     {
      "kind": "Lemmy post",
      "text": "'Completely walled off' Trump Cabinet members hiding on military bases in droves: CNN",
      "author": "politics ",
      "url": "https://lemmy.world/post/54915741",
-     "likes": 30,
+     "likes": 56,
      "image": "https://lemmy.world/pictrs/image/e8ed5764-12e6-4fed-a153-75157ef489dc.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Such an inspiration",
-     "author": "Memes",
-     "url": "https://reddthat.com/post/77311376",
-     "likes": 103,
-     "image": "https://lemmy.world/pictrs/image/cdf25b7f-5b23-4021-a044-41da52903feb.jpeg"
+     "text": "The Hole",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70561857",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/e5d4b3fc-a9f1-4c4e-bd94-4a489c05e961.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T14:26:48.488662+00:00",
+   "fetched_at": "2026-11-27T14:56:55.973586+00:00",
    "stale": false,
    "items": [
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
+     "text": "How are false teeth like stars? They come out at night!",
      "source": "Dad joke"
     },
     {
-     "text": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+     "text": "How many South Americans does it take to change a lightbulb? A Brazilian",
      "source": "Dad joke"
     },
     {
-     "text": "How many tickles does it take to tickle an octopus? Ten-tickles!",
+     "text": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
      "source": "Dad joke"
     }
    ]
