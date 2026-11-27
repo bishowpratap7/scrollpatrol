@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:27:18.398647+00:00",
+ "generated_at": "2026-11-27T15:57:23.601344+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,37 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T15:27:15.330428+00:00",
+   "fetched_at": "2026-11-27T15:57:20.609025+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 7034,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 21,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3828,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 496,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
      "image": "https://i.redd.it/ivyre6s2xr3i1.png",
@@ -100,52 +128,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "aiProductivity",
-     "image": "https://i.redd.it/zclx20rsh34i1.png",
-     "url": "https://redd.it/1y6lqcs",
-     "ups": 0,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 331,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 1476,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 881,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3649,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "ninetyNineBottlesofBugs",
-     "image": "https://i.redd.it/dtrsows5ek2i1.png",
-     "url": "https://redd.it/1y08eoq",
-     "ups": 624,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 3324,
+     "title": "priorities",
+     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
+     "url": "https://redd.it/1y5j931",
+     "ups": 1919,
      "sub": "r/memes"
     },
     {
-     "title": "what would you say?",
-     "image": "https://i.redd.it/9cds18k5504i1.gif",
-     "url": "https://redd.it/1y68kkb",
-     "ups": 382,
+     "title": "A fairly common question I see from outsiders in these two communities.",
+     "image": "https://i.redd.it/l33xo9pzr14i1.png",
+     "url": "https://redd.it/1y6fpea",
+     "ups": 57,
      "sub": "r/memes"
     },
     {
@@ -156,45 +156,37 @@
      "sub": "r/memes"
     },
     {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 35,
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 3324,
      "sub": "r/memes"
     },
     {
-     "title": "Gotcha haha",
-     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
-     "url": "https://redd.it/1y5kudv",
-     "ups": 7020,
+     "title": "Teachers reviewing essays now be like",
+     "image": "https://i.redd.it/22uslplsy34i1.png",
+     "url": "https://redd.it/1y6nc0y",
+     "ups": 61,
      "sub": "r/memes"
     },
     {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 1919,
+     "title": "How far they have fallen. I miss the old days",
+     "image": "https://i.redd.it/j8v39t4ak14i1.png",
+     "url": "https://redd.it/1y6enun",
+     "ups": 1126,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T15:27:17.460695+00:00",
+   "fetched_at": "2026-11-27T15:57:22.703217+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
+     "text": "Influencers' Downing Street visit",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b282d7055856",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Silksong Sea of Sorrow release date",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/83c4fcfd81e4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Thanksgiving Day celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
      "likes": 0,
      "image": ""
     },
@@ -224,6 +224,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Nvidia chip exports to China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -232,112 +240,104 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Day to end violence against women",
+     "text": "Thanksgiving storm knocks out power",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
+     "text": "King tides flood West Coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
+     "text": "Joe Milton plays quarterback for Eagles",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Musk pledges kids SpaceX shares",
+     "text": "Zelenskyy's Thanksgiving message to America",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/326815c478fb",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bbc9d6c56b0d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "New York Times on Democratic spending plans",
+     "text": "Vance blames Obama for detonation",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f8232ad211d7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Influencers' Downing Street visit",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b282d7055856",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "That and getting up votes",
-     "author": "Lemmy Shitpost",
-     "url": "https://piefed.social/c/lemmyshitpost@lemmy.world/p/2650190/that-and-getting-up-votes",
-     "likes": 205,
-     "image": "https://lemmy.world/pictrs/image/1c94b532-68c4-4fd6-b982-a1ee6c241370.jpeg"
+     "text": "Canada\u2019s Parliament receives petition to oust Trump\u2019s envoy",
+     "author": "Canada",
+     "url": "https://lemmy.ca/post/74445777",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/09410ba5-927b-4390-9e95-5c88aa1a6765.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "What AI dependence does to a mf",
-     "author": "Fuck AI",
-     "url": "https://lemmy.world/post/54917618",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/7022d1c2-ee10-4c8b-b07e-dab3b6c59848.png"
+     "text": "#610 (2020-04-22)",
+     "author": "Extra Ordinary Comics",
+     "url": "https://discuss.online/post/49083593",
+     "likes": 18,
+     "image": "https://lemmy.world/pictrs/image/16dea52b-2599-43c0-ac44-3070ab6c9275.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Piss posting, pt. 2",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.zip/post/75757491",
-     "likes": 50,
-     "image": "https://lemmy.zip/pictrs/image/5c4ac44e-6051-4a51-8539-4c3c99dfa3df.avif"
+     "text": "2026-11-27 #4",
+     "author": "The Far Side",
+     "url": "https://discuss.online/post/49083598",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/1a365c9f-6b7a-46ae-8c5b-cc3f3c590fb1.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "The Hole",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70561857",
-     "likes": 58,
-     "image": "https://lemmy.world/pictrs/image/e5d4b3fc-a9f1-4c4e-bd94-4a489c05e961.jpeg"
+     "text": "2023-02-25",
+     "author": "Cyanide & Happiness",
+     "url": "https://discuss.online/post/49083591",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/2a8af7f6-2634-40c8-967a-4853b1cba015.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T15:27:18.043454+00:00",
+   "fetched_at": "2026-11-27T15:57:23.206388+00:00",
    "stale": false,
    "items": [
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "ASCII silly question, get a silly ANSI.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
@@ -345,11 +345,11 @@
      "source": "Dad joke"
     },
     {
-     "text": "I had a dream that I was a muffler last night. I woke up exhausted!",
+     "text": "What type of music do balloons hate? Pop music!",
      "source": "Dad joke"
     },
     {
-     "text": "You can't trust a ladder. It will always let you down",
+     "text": "\"Hey, dad, did you get a haircut?\" \"No, I got them all cut.\"",
      "source": "Dad joke"
     }
    ]
