@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T02:23:36.265788+00:00",
+ "generated_at": "2026-11-27T02:53:41.664668+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,63 +89,77 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T02:23:33.682968+00:00",
+   "fetched_at": "2026-11-27T02:53:39.287018+00:00",
    "stale": false,
    "items": [
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5885,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 276,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thanksWebSphere",
-     "image": "https://i.redd.it/oern6i93ki2i1.png",
-     "url": "https://redd.it/1y02ivk",
-     "ups": 501,
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 573,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "nothingIsMorePermanentThanATemporaryFix",
-     "image": "https://i.redd.it/unfdlds1sr3i1.png",
-     "url": "https://redd.it/1y58vju",
-     "ups": 1354,
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 25,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 574,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 309,
+     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
+     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
+     "url": "https://redd.it/1y0qxvd",
+     "ups": 516,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stopDoingGitHubDesktop",
-     "image": "https://i.redd.it/21cddl6p282i1.png",
-     "url": "https://redd.it/1xytdwd",
-     "ups": 1601,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "It's contagious.",
-     "image": "https://i.redd.it/8azpp9xroy3i1.png",
-     "url": "https://redd.it/1y61np3",
-     "ups": 24,
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 366,
      "sub": "r/memes"
     },
     {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 12,
+     "title": "8 RAM is too much right?",
+     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
+     "url": "https://redd.it/1y4o5k3",
+     "ups": 15565,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The 15 year olds porting GTA 6 to PC rn",
+     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
+     "url": "https://redd.it/1y53xaf",
+     "ups": 4357,
+     "sub": "r/memes"
+    },
+    {
+     "title": "How far they have fallen. I miss the old days",
+     "image": "https://i.redd.it/j8v39t4ak14i1.png",
+     "url": "https://redd.it/1y6enun",
+     "ups": 55,
      "sub": "r/memes"
     },
     {
@@ -156,40 +170,18 @@
      "sub": "r/memes"
     },
     {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 366,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I have a constant stalker everywhere I go",
-     "image": "https://i.redd.it/mghjb0oe024i1.png",
-     "url": "https://redd.it/1y6gdnz",
-     "ups": 3,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A fairly common question I see from outsiders in these two communities.",
-     "image": "https://i.redd.it/l33xo9pzr14i1.png",
-     "url": "https://redd.it/1y6fpea",
-     "ups": 15,
+     "title": "I saw my life flash before my eyes.",
+     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
+     "url": "https://redd.it/1y60uy9",
+     "ups": 321,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T02:23:34.909334+00:00",
+   "fetched_at": "2026-11-27T02:53:40.522292+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
@@ -216,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Tom Brady's on-air scream",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c4f798cecd9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -232,17 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cowboys throwback uniforms",
+     "text": "Victoria votes in state election",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a363dcd99d26",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Eagles vs. Cowboys",
+     "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3f47821090",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
      "likes": 0,
      "image": ""
     },
@@ -256,25 +240,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia reinstates Jensen Huang",
+     "text": "Fuel tanker fire near Cairo",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d2bccb85cb2e",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Joe Milton plays quarterback for Eagles",
+     "text": "Cowboys throwback uniforms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a363dcd99d26",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Israeli strikes in Gaza",
+     "text": "SoftBank shares fall in AI sell-off",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/84d5e7a4542e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Trump calls GDP revision fake",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d33946f6ef05",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Van Hollen challenges Schumer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Gracias Giving",
      "author": "memes",
      "url": "https://lemmy.world/post/54892784",
-     "likes": 198,
+     "likes": 226,
      "image": "https://lemmy.world/pictrs/image/28c1c5c7-5ab2-4ae8-8f67-4f7e7c004e3f.png"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Sunset in my village in Sudan [OC]",
      "author": "pics",
      "url": "https://sh.itjust.works/post/70531674",
-     "likes": 149,
+     "likes": 168,
      "image": "https://lemmy.world/pictrs/image/86b6e812-3ac0-44b9-8007-5638cd0aa25c.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Stephen Miller's 'unlawful policy' banned as judge halts 'continually' breaking law",
      "author": "politics ",
      "url": "https://sh.itjust.works/post/70531089",
-     "likes": 155,
+     "likes": 179,
      "image": "https://lemmy.world/pictrs/image/aeeace3c-ba37-4efc-a9af-48283cf8f81a.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "legitimacy",
      "author": "Trans Memes",
      "url": "https://lemmy.ml/post/55785454",
-     "likes": 81,
+     "likes": 94,
      "image": "https://lemmy.world/pictrs/image/82383fc2-3ee5-4c50-9977-92cbeb4265d8.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T02:23:35.579937+00:00",
+   "fetched_at": "2026-11-27T02:53:40.940362+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads \u201cSmall medium at large.\u201d",
+     "text": "What time did the man go to the dentist? Tooth hurt-y.",
      "source": "Dad joke"
     },
     {
-     "text": "A book just fell on my head. I only have my shelf to blame.",
+     "text": "How do you make Lady Gaga cry? Poker face. ",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+     "text": "What is a vampire's favorite fruit? A blood orange.",
      "source": "Dad joke"
     }
    ]
