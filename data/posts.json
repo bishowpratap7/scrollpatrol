@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:27:49.060676+00:00",
+ "generated_at": "2026-11-27T18:57:54.001042+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,28 +89,42 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T18:27:46.793135+00:00",
+   "fetched_at": "2026-11-27T18:57:50.961094+00:00",
    "stale": false,
    "items": [
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 286,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 56,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 504,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 458,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3844,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3664,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 11466,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "toShellOrNotToShell",
+     "image": "https://i.redd.it/b9vil1p6t44i1.png",
+     "url": "https://redd.it/1y6q0yt",
+     "ups": 674,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -121,65 +135,51 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "devAndProject",
-     "image": "https://i.redd.it/6necvnddcp3i1.png",
-     "url": "https://redd.it/1y507pk",
-     "ups": 7054,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "How far they have fallen. I miss the old days",
-     "image": "https://i.redd.it/j8v39t4ak14i1.png",
-     "url": "https://redd.it/1y6enun",
-     "ups": 1464,
+     "title": "Nightmares of my childhood",
+     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
+     "url": "https://redd.it/1y69hmj",
+     "ups": 126,
      "sub": "r/memes"
     },
     {
-     "title": "Kindred of my car.",
-     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
-     "url": "https://redd.it/1y6u3ho",
-     "ups": 534,
+     "title": "Is lead really that bad though? (yes, yes it is)",
+     "image": "https://i.redd.it/1n9co209wr3i1.png",
+     "url": "https://redd.it/1y59fv3",
+     "ups": 5835,
      "sub": "r/memes"
     },
     {
-     "title": "daily reminder",
-     "image": "https://i.redd.it/2l2weqc6904i1.png",
-     "url": "https://redd.it/1y693lx",
-     "ups": 47,
+     "title": "PT Cruiser",
+     "image": "https://i.redd.it/15fx59hjk64i1.png",
+     "url": "https://redd.it/1y6x7ea",
+     "ups": 46,
      "sub": "r/memes"
     },
     {
-     "title": "I mean... It's only a matter of time right?",
-     "image": "https://i.redd.it/qz9c7p9g914i1.png",
-     "url": "https://redd.it/1y6dh1d",
-     "ups": 1957,
+     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
+     "image": "https://i.redd.it/knymlb56604i1.png",
+     "url": "https://redd.it/1y68p2z",
+     "ups": 36,
      "sub": "r/memes"
     },
     {
-     "title": "I saw my life flash before my eyes.",
-     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
-     "url": "https://redd.it/1y60uy9",
-     "ups": 419,
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 548,
      "sub": "r/memes"
     },
     {
-     "title": "Gotcha haha",
-     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
-     "url": "https://redd.it/1y5kudv",
-     "ups": 7201,
+     "title": "what would you say?",
+     "image": "https://i.redd.it/9cds18k5504i1.gif",
+     "url": "https://redd.it/1y68kkb",
+     "ups": 525,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T18:27:48.079649+00:00",
+   "fetched_at": "2026-11-27T18:57:53.053012+00:00",
    "stale": false,
    "items": [
     {
@@ -187,22 +187,6 @@
      "text": "Most famous person you're related to",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/947b3bbc998c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
      "likes": 0,
      "image": ""
     },
@@ -216,33 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Thanksgiving Day celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving storm knocks out power",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Nvidia reinstates Jensen Huang",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -256,9 +224,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "World tops 2C for six straight days",
+     "text": "Quebec oath to the King",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/892aad2d4d59",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bb7164615f0f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Blade Runner 2099 series premiere",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40b3fbb40d6b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Boreen daily trivia scores",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers reportedly out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Day to end violence against women",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c25fd7eded56",
      "likes": 0,
      "image": ""
     },
@@ -280,76 +280,76 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "Pepsi is one of the closest things we have to a real life mega corporation",
-     "author": "Memes",
-     "url": "https://toast.ooo/post/17707890",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/03abe3cc-233e-4088-86a9-6bce96d867af.jpeg"
+     "text": "Ralph has a lot of opinions today. They mostly involve scritches",
+     "author": "cats",
+     "url": "https://lemmy.ca/post/74452216",
+     "likes": 46,
+     "image": "https://lemmy.world/pictrs/image/03d6d02c-762b-4a2c-bdd9-b70de1639b52.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "papers",
-     "author": "Lemmy Shitpost",
-     "url": "https://quokk.au/c/lemmyshitpost/p/1373456/papers",
-     "likes": 142,
-     "image": "https://lemmy.world/pictrs/image/b620f1ec-d445-418e-bd66-646cf9dc9928.webp"
+     "text": "I was wondering how useful it was carrying a geiger counter around with me all the time.",
+     "author": "Dad Jokes",
+     "url": "https://sh.itjust.works/post/70572892",
+     "likes": 21,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Needful Things",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70570403",
-     "likes": 81,
-     "image": "https://lemmy.world/pictrs/image/ae17bf03-b9d2-456f-81cb-41cf7e6506ae.jpeg"
+     "text": "Taliban bans women's names on official documents in province",
+     "author": "Not The Onion",
+     "url": "https://thebrainbin.org/m/nottheonion@lemmy.world/t/2063344",
+     "likes": 31,
+     "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "Pay No Attention to the Mystery $300 Million Trump Is Now Using for D.C. Renovations!",
-     "author": "Fauxmoi",
-     "url": "https://lemmy.zip/post/75767866",
-     "likes": 26,
-     "image": "https://lemmy.world/pictrs/image/e2c2b82d-5d50-4822-917a-b2a25f83e173.jpeg"
+     "text": "Come to Quark's! Quark's is fun! Come right now! Don't walk, run!",
+     "author": "TenForward: Where Every Vulcan Knows Your Name",
+     "url": "https://lemmy.world/post/54925176",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/4977c222-d3ee-4904-996d-88bd0e610f79.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T18:27:48.642428+00:00",
+   "fetched_at": "2026-11-27T18:57:53.628366+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
      "source": "Programming joke"
     },
     {
-     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Why are snake races so exciting? They're always neck and neck.",
+     "text": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
      "source": "Dad joke"
     },
     {
-     "text": "Do you know where you can get chicken broth in bulk? The stock market.",
+     "text": "What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.",
      "source": "Dad joke"
     },
     {
-     "text": "What is red and smells like blue paint?\r\nRed paint!",
+     "text": "Why was the picture sent to prison? It was framed.",
      "source": "Dad joke"
     }
    ]
