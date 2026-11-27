@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:27:29.169048+00:00",
+ "generated_at": "2026-11-27T16:57:34.184328+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,44 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T16:27:25.712118+00:00",
+   "fetched_at": "2026-11-27T16:57:31.117157+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "blameTheUserNotTheSystem",
-     "image": "https://i.redd.it/5cyouxadmz3i1.png",
-     "url": "https://redd.it/1y663go",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 273,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
-     "image": "https://i.redd.it/oc8vke7eel3i1.png",
-     "url": "https://redd.it/1y4ipsn",
-     "ups": 2655,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "letUsPortItToRust",
-     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
-     "url": "https://redd.it/1xzhnms",
-     "ups": 56,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "justYourNormalJavaDeveloper",
      "image": "https://i.redd.it/c06objophe2i1.gif",
@@ -135,38 +100,66 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 533,
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1602,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 186,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyCorrect",
+     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
+     "url": "https://redd.it/1y5vntt",
+     "ups": 1169,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 6265,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 881,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Kindred of my car.",
+     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
+     "url": "https://redd.it/1y6u3ho",
+     "ups": 331,
      "sub": "r/memes"
     },
     {
-     "title": "Jason, my boiyah",
-     "image": "https://i.redd.it/gbdvxxrds14i1.png",
-     "url": "https://redd.it/1y6fk6s",
-     "ups": 60,
+     "title": "I saw my life flash before my eyes.",
+     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
+     "url": "https://redd.it/1y60uy9",
+     "ups": 410,
      "sub": "r/memes"
     },
     {
-     "title": "We are all trying to find the guys who did this!",
-     "image": "https://i.redd.it/clmk05znq04i1.png",
-     "url": "https://redd.it/1y6bar0",
-     "ups": 341,
+     "title": "I fear I've made peak...",
+     "image": "https://i.redd.it/if146z0w834i1.png",
+     "url": "https://redd.it/1y6kuv7",
+     "ups": 258,
      "sub": "r/memes"
     },
     {
-     "title": "Nightmares of my childhood",
-     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
-     "url": "https://redd.it/1y69hmj",
-     "ups": 122,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Is lead really that bad though? (yes, yes it is)",
-     "image": "https://i.redd.it/1n9co209wr3i1.png",
-     "url": "https://redd.it/1y59fv3",
-     "ups": 5821,
+     "title": "Big back about to get bigger",
+     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
+     "url": "https://redd.it/1y603gc",
+     "ups": 63,
      "sub": "r/memes"
     },
     {
@@ -175,18 +168,25 @@
      "url": "https://redd.it/1y5tgtv",
      "ups": 7467,
      "sub": "r/memes"
+    },
+    {
+     "title": "Is lead really that bad though? (yes, yes it is)",
+     "image": "https://i.redd.it/1n9co209wr3i1.png",
+     "url": "https://redd.it/1y59fv3",
+     "ups": 5821,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T16:27:27.983448+00:00",
+   "fetched_at": "2026-11-27T16:57:33.225384+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
+     "text": "Cybersecurity breach reported at CIA",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
      "likes": 0,
      "image": ""
     },
@@ -200,25 +200,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cybersecurity breach reported at CIA",
+     "text": "Silksong Sea of Sorrow release date",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/83c4fcfd81e4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
+     "text": "Katie Miller car seat claim",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving storm knocks out power",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
      "likes": 0,
      "image": ""
     },
@@ -232,25 +224,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Silksong Sea of Sorrow release date",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/83c4fcfd81e4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia chip exports to China",
+     "text": "Eagles vs. Cowboys",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3f47821090",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Joe Milton plays quarterback for Eagles",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Blade Runner 2099 series premiere",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40b3fbb40d6b",
      "likes": 0,
      "image": ""
     },
@@ -264,6 +264,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Elon Musk's government subsidies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Quebec oath to the King",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bb7164615f0f",
@@ -271,57 +279,53 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Vance blames Obama for detonation",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "baby shoes for sale!",
+     "author": "Memes",
+     "url": "https://toast.ooo/post/17704863",
+     "likes": 40,
+     "image": "https://lemmy.world/pictrs/image/4ab6ddb6-d996-4b84-8d3b-c6ab14ea34dd.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Man allegedly trapped Waymo vehicles with cones, threw eggs at them in Denver",
+     "author": "Fuck AI",
+     "url": "https://piefed.social/c/fuck_ai@lemmy.world/p/2650690/man-allegedly-trapped-waymo-vehicles-with-cones-threw-eggs-at-them-in-denver",
+     "likes": 50,
+     "image": "https://lemmy.world/pictrs/image/bb91a1ef-caac-430c-9627-317146aab578.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Where\u2019s my free market?",
+     "author": "Political Memes",
+     "url": "https://sopuli.xyz/post/55163670",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/5ce102ea-bd29-4443-bb45-35a1e6b289e7.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Lightly crumbruled",
      "author": "196",
      "url": "https://crazypeople.online/post/28134201",
-     "likes": 43,
+     "likes": 66,
      "image": "https://lemmy.world/pictrs/image/66817378-50d7-4a67-a2b9-a1667ab89f66.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Red Note Jazz is AI slop",
-     "author": "Fuck AI",
-     "url": "https://startrek.website/post/47350545",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/9d58a837-8cc8-40b9-a6db-d463e1ff372d.png"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Canada\u2019s Parliament receives petition to oust Trump\u2019s envoy",
-     "author": "Canada",
-     "url": "https://lemmy.ca/post/74445777",
-     "likes": 40,
-     "image": "https://lemmy.world/pictrs/image/09410ba5-927b-4390-9e95-5c88aa1a6765.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "this is so fucked up \ud83d\ude14",
-     "author": "Femcel Memes",
-     "url": "https://lemmy.blahaj.zone/post/51004640",
-     "likes": 31,
-     "image": "https://lemmy.world/pictrs/image/789a8c5a-1fe5-4a35-a544-d5c384173aed.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T16:27:28.776647+00:00",
+   "fetched_at": "2026-11-27T16:57:33.770866+00:00",
    "stale": false,
    "items": [
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
@@ -329,27 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
+     "text": "I just wrote a book on reverse psychology. Do not read it!",
      "source": "Dad joke"
     },
     {
-     "text": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
+     "text": "What is the hardest part about sky diving? The ground.",
      "source": "Dad joke"
     },
     {
-     "text": "Coffee has a tough time at my house, every morning it gets mugged.",
+     "text": "Why don't eggs tell jokes? They'd crack each other up",
      "source": "Dad joke"
     }
    ]
