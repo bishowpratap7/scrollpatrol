@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:28:56.967707+00:00",
+ "generated_at": "2026-11-27T22:59:02.797864+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,49 +89,49 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T22:28:53.579876+00:00",
+   "fetched_at": "2026-11-27T22:58:59.561802+00:00",
    "stale": false,
    "items": [
     {
-     "title": "technicallyCorrect",
-     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
-     "url": "https://redd.it/1y5vntt",
-     "ups": 1221,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 11572,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 275,
+     "title": "riemannHypothesisSolved",
+     "image": "https://i.redd.it/7313n4ui5y2i1.png",
+     "url": "https://redd.it/1y1udm4",
+     "ups": 3680,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
+     "title": "semiJoinHasCommitmentIssues",
+     "image": "https://i.redd.it/im1qh0ihzx3i1.png",
+     "url": "https://redd.it/1y5yyvz",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3852,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 462,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
+     "title": "getsBetterEveryHourIRefresh",
+     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
+     "url": "https://redd.it/1y557cw",
+     "ups": 8672,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 876,
+     "title": "nonAIMeme",
+     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
+     "url": "https://redd.it/1y5ywa5",
+     "ups": 1964,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -142,24 +142,31 @@
      "sub": "r/memes"
     },
     {
-     "title": "How far they have fallen. I miss the old days",
-     "image": "https://i.redd.it/j8v39t4ak14i1.png",
-     "url": "https://redd.it/1y6enun",
-     "ups": 1699,
+     "title": "I fear the toilet might be dying after that.",
+     "image": "https://i.redd.it/00wcoigpk24i1.png",
+     "url": "https://redd.it/1y6ig6n",
+     "ups": 17,
      "sub": "r/memes"
     },
     {
-     "title": "daily reminder",
-     "image": "https://i.redd.it/2l2weqc6904i1.png",
-     "url": "https://redd.it/1y693lx",
-     "ups": 52,
+     "title": "I fear I've made peak...",
+     "image": "https://i.redd.it/if146z0w834i1.png",
+     "url": "https://redd.it/1y6kuv7",
+     "ups": 349,
      "sub": "r/memes"
     },
     {
-     "title": "Is lead really that bad though? (yes, yes it is)",
-     "image": "https://i.redd.it/1n9co209wr3i1.png",
-     "url": "https://redd.it/1y59fv3",
-     "ups": 5869,
+     "title": "Stay strong my PC brothers. Dino has us covered until GTA6 drops",
+     "image": "https://i.redd.it/4qlkv039j74i1.png",
+     "url": "https://redd.it/1y71xlo",
+     "ups": 11,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 559,
      "sub": "r/memes"
     },
     {
@@ -168,25 +175,18 @@
      "url": "https://redd.it/1y73il2",
      "ups": 49,
      "sub": "r/memes"
-    },
-    {
-     "title": "I have a constant stalker everywhere I go",
-     "image": "https://i.redd.it/mghjb0oe024i1.png",
-     "url": "https://redd.it/1y6gdnz",
-     "ups": 12,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T22:28:55.649535+00:00",
+   "fetched_at": "2026-11-27T22:59:01.599448+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
      "likes": 0,
      "image": ""
     },
@@ -200,14 +200,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hackers breach Air Force cloud platform",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
@@ -216,17 +208,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Banned Nvidia chips reported in Shanghai",
+     "text": "Hackers breach Air Force cloud platform",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Van Hollen challenges Schumer",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5510cca87eba",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +248,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia reinstates Jensen Huang",
+     "text": "Blade Runner 2099 series premiere",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40b3fbb40d6b",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Birthday twin spectrum prompt",
+     "text": "Sunrise on the Reaping's $225M debut",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Victoria votes in state election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
@@ -271,65 +279,61 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Trump officials move onto military bases",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/45c49ee4b7a3",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "Already way ahead of any boycotts cause I\u2019m broke and wasn\u2019t buying anyway",
      "author": "Microblog Memes",
      "url": "https://lemmy.world/post/54930994",
-     "likes": 86,
+     "likes": 138,
      "image": "https://lemmy.world/pictrs/image/58ac05dd-8aef-4a1a-a2ba-ad5269486538.png"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "No Refunds",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54932521",
+     "likes": 21,
+     "image": "https://lemmy.world/pictrs/image/900cbd77-0e16-4fe6-8cc3-33b22ff69613.png"
     },
     {
      "kind": "Lemmy post",
      "text": "Every. Year.",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.world/post/54930983",
-     "likes": 73,
+     "likes": 120,
      "image": "https://lemmy.world/pictrs/image/2dedd7fb-421c-4f8f-b3a5-bca9aedaa8be.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Why?",
-     "author": "Lemmy Shitpost",
-     "url": "https://piefed.social/c/lemmyshitpost@lemmy.world/p/2651763/why",
-     "likes": 164,
-     "image": "https://lemmy.world/pictrs/image/01644bcd-f04b-48fe-acd2-81a8415f82ed.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "I Am Thankful",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54930988",
-     "likes": 46,
-     "image": "https://lemmy.world/pictrs/image/a25518bf-e661-4de9-b0cb-2d8b4c6c6bf5.jpeg"
+     "text": "there is one more entity here to see you",
+     "author": "Weirdcore",
+     "url": "https://piefed.social/c/weirdcore@sopuli.xyz/p/2651944/there-is-one-more-entity-here-to-see-you",
+     "likes": 23,
+     "image": "https://lemmy.world/pictrs/image/3ce8dfa8-3086-4ae0-b31f-e6b79a22e792.gif"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T22:28:56.191298+00:00",
+   "fetched_at": "2026-11-27T22:59:02.257876+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
@@ -337,19 +341,15 @@
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "It was so cold yesterday my computer froze. My own fault though, I left too many windows open.",
+     "text": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. \r\nHe also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. \r\nThis made him a super calloused fragile mystic hexed by halitosis.",
      "source": "Dad joke"
     },
     {
-     "text": "Toasters were the first form of pop-up notifications.",
+     "text": "Why do cows not have toes? They lactose!",
      "source": "Dad joke"
     },
     {
-     "text": "You can't trust a ladder. It will always let you down",
+     "text": "What do you call a cow on a trampoline? A milk shake!",
      "source": "Dad joke"
     }
    ]
