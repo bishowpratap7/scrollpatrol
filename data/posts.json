@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T01:23:24.687182+00:00",
+ "generated_at": "2026-11-27T01:53:30.638565+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T01:23:21.570877+00:00",
+   "fetched_at": "2026-11-27T01:53:27.584576+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "nonAIMeme",
-     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
-     "url": "https://redd.it/1y5ywa5",
-     "ups": 1537,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "yetAnotherJsonCommentsJoke",
      "image": "https://i.redd.it/ipspl4jtve3i1.png",
@@ -107,24 +100,17 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 670,
+     "title": "technicallyCorrect",
+     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
+     "url": "https://redd.it/1y5vntt",
+     "ups": 980,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "checkYourPrivilege",
-     "image": "https://i.redd.it/f51w859wak2i1.png",
-     "url": "https://redd.it/1y0827m",
-     "ups": 0,
+     "title": "fuckItWeBall",
+     "image": "https://i.redd.it/olciohqbhf3i1.png",
+     "url": "https://redd.it/1y3ug0u",
+     "ups": 173,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,66 +121,80 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Organic chemistry",
-     "image": "https://i.redd.it/631fcwfezq3i1.png",
-     "url": "https://redd.it/1y55hsz",
-     "ups": 279,
+     "title": "diffVsCodeReviewNowadaysDotMD",
+     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
+     "url": "https://redd.it/1y56a13",
+     "ups": 204,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "gitPushOriginPlssssMakeNoMistakes",
+     "image": "https://i.redd.it/gz8jpsum3y3i1.png",
+     "url": "https://redd.it/1y5zctl",
+     "ups": 3838,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "The past few days have been draining",
+     "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
+     "url": "https://redd.it/1y5tgtv",
+     "ups": 6340,
      "sub": "r/memes"
     },
     {
-     "title": "It's contagious.",
-     "image": "https://i.redd.it/8azpp9xroy3i1.png",
-     "url": "https://redd.it/1y61np3",
-     "ups": 21,
+     "title": "Is lead really that bad though? (yes, yes it is)",
+     "image": "https://i.redd.it/1n9co209wr3i1.png",
+     "url": "https://redd.it/1y59fv3",
+     "ups": 5649,
      "sub": "r/memes"
     },
     {
-     "title": "I saw my life flash before my eyes.",
-     "image": "https://i.redd.it/w30ibmn0iy3i1.png",
-     "url": "https://redd.it/1y60uy9",
-     "ups": 303,
+     "title": "I mean... It's only a matter of time right?",
+     "image": "https://i.redd.it/qz9c7p9g914i1.png",
+     "url": "https://redd.it/1y6dh1d",
+     "ups": 539,
      "sub": "r/memes"
     },
     {
-     "title": "priorities",
-     "image": "https://i.redd.it/ubfan6cbtt3i1.png",
-     "url": "https://redd.it/1y5j931",
-     "ups": 1793,
+     "title": "We are all trying to find the guys who did this!",
+     "image": "https://i.redd.it/clmk05znq04i1.png",
+     "url": "https://redd.it/1y6bar0",
+     "ups": 131,
      "sub": "r/memes"
     },
     {
-     "title": "8 RAM is too much right?",
-     "image": "https://i.redd.it/ovc68r44gm3i1.gif",
-     "url": "https://redd.it/1y4o5k3",
-     "ups": 15346,
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 6353,
      "sub": "r/memes"
     },
     {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 295,
+     "title": "daily reminder",
+     "image": "https://i.redd.it/2l2weqc6904i1.png",
+     "url": "https://redd.it/1y693lx",
+     "ups": 28,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T01:23:23.292248+00:00",
+   "fetched_at": "2026-11-27T01:53:29.225975+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Joe Milton plays quarterback for Eagles",
+     "text": "Eagles vs. Cowboys inactives",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3f47821090",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving storm knocks out power",
+     "text": "Cowboys throwback uniforms",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a363dcd99d26",
      "likes": 0,
      "image": ""
     },
@@ -208,57 +208,17 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Joe Milton plays quarterback for Eagles",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e0a028913939",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Birthday twin spectrum prompt",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Musk pledges kids SpaceX shares",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/326815c478fb",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Describe a film without its name",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2727efa61393",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +232,49 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Cybersecurity breach reported at CIA",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Macy's parade postponed to Saturday",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Birthday twin spectrum prompt",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia chip exports to China",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Katie Miller car seat claim",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers reportedly out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Gracias Giving",
      "author": "memes",
      "url": "https://lemmy.world/post/54892784",
-     "likes": 126,
+     "likes": 167,
      "image": "https://lemmy.world/pictrs/image/28c1c5c7-5ab2-4ae8-8f67-4f7e7c004e3f.png"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Sunset in my village in Sudan [OC]",
      "author": "pics",
      "url": "https://sh.itjust.works/post/70531674",
-     "likes": 96,
+     "likes": 128,
      "image": "https://lemmy.world/pictrs/image/86b6e812-3ac0-44b9-8007-5638cd0aa25c.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Stephen Miller's 'unlawful policy' banned as judge halts 'continually' breaking law",
      "author": "politics ",
      "url": "https://sh.itjust.works/post/70531089",
-     "likes": 117,
+     "likes": 136,
      "image": "https://lemmy.world/pictrs/image/aeeace3c-ba37-4efc-a9af-48283cf8f81a.jpeg"
     },
     {
@@ -307,49 +307,49 @@
      "text": "legitimacy",
      "author": "Trans Memes",
      "url": "https://lemmy.ml/post/55785454",
-     "likes": 58,
+     "likes": 70,
      "image": "https://lemmy.world/pictrs/image/82383fc2-3ee5-4c50-9977-92cbeb4265d8.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T01:23:23.995893+00:00",
+   "fetched_at": "2026-11-27T01:53:29.888444+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging: Removing the needles from the haystack.",
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "How does a scientist freshen their breath? With experi-mints!",
+     "text": "We all know where the Big Apple is but does anyone know where the Minneapolis?",
      "source": "Dad joke"
     },
     {
-     "text": "I thought about going on an all-almond diet. But that's just nuts.",
+     "text": "How do you make a hankie dance? Put a little boogie in it.",
      "source": "Dad joke"
     },
     {
-     "text": "I tried to milk a cow today, but was unsuccessful. Udder failure.",
+     "text": "What has three letters and starts with gas? A Car.",
      "source": "Dad joke"
     }
    ]
