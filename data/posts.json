@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:28:08.388513+00:00",
+ "generated_at": "2026-11-27T20:28:22.657829+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T20:28:05.285549+00:00",
+   "fetched_at": "2026-11-27T20:28:18.897451+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "toShellOrNotToShell",
-     "image": "https://i.redd.it/b9vil1p6t44i1.png",
-     "url": "https://redd.it/1y6q0yt",
-     "ups": 781,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "nonAIMeme",
-     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
-     "url": "https://redd.it/1y5ywa5",
-     "ups": 1943,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "aiProductivity",
      "image": "https://i.redd.it/zclx20rsh34i1.png",
      "url": "https://redd.it/1y6lqcs",
      "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 7081,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "diffVsCodeReviewNowadaysDotMD",
+     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
+     "url": "https://redd.it/1y56a13",
+     "ups": 223,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,24 +121,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenTheBottomSheetAndTheBugReportBothNeedToExpand",
-     "image": "https://i.redd.it/m4xn2pgrm34i1.png",
-     "url": "https://redd.it/1y6m8ms",
-     "ups": 8,
+     "title": "stateOfCodeReview",
+     "image": "https://i.redd.it/m2pln0y0s64i1.png",
+     "url": "https://redd.it/1y6y8wg",
+     "ups": 78,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stock market is a scam",
-     "image": "https://i.redd.it/9h0ytlkhk74i1.png",
-     "url": "https://redd.it/1y72474",
-     "ups": 1,
-     "sub": "r/memes"
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 878,
+     "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 3668,
+     "title": "Nightmares of my childhood",
+     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
+     "url": "https://redd.it/1y69hmj",
+     "ups": 136,
      "sub": "r/memes"
     },
     {
@@ -156,17 +149,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "what would you say?",
-     "image": "https://i.redd.it/9cds18k5504i1.gif",
-     "url": "https://redd.it/1y68kkb",
-     "ups": 601,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I fear the toilet might be dying after that.",
-     "image": "https://i.redd.it/00wcoigpk24i1.png",
-     "url": "https://redd.it/1y6ig6n",
-     "ups": 15,
+     "title": "Big back about to get bigger",
+     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
+     "url": "https://redd.it/1y603gc",
+     "ups": 65,
      "sub": "r/memes"
     },
     {
@@ -175,11 +161,25 @@
      "url": "https://redd.it/1y6x7ea",
      "ups": 113,
      "sub": "r/memes"
+    },
+    {
+     "title": "Kindred of my car.",
+     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
+     "url": "https://redd.it/1y6u3ho",
+     "ups": 773,
+     "sub": "r/memes"
+    },
+    {
+     "title": "what would you say?",
+     "image": "https://i.redd.it/9cds18k5504i1.gif",
+     "url": "https://redd.it/1y68kkb",
+     "ups": 601,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T20:28:07.351113+00:00",
+   "fetched_at": "2026-11-27T20:28:20.951648+00:00",
    "stale": false,
    "items": [
     {
@@ -283,7 +283,7 @@
      "text": "They're dead inside, does that count as one?",
      "author": "People Twitter",
      "url": "https://sh.itjust.works/post/70576337",
-     "likes": 30,
+     "likes": 31,
      "image": "https://lemmy.world/pictrs/image/2b90e9f5-93f2-4e22-9530-68a7f86f8858.png"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Lost Art [PizzaCake]",
      "author": "Comic Strips",
      "url": "https://lemmy.blahaj.zone/post/51011732",
-     "likes": 166,
+     "likes": 167,
      "image": "https://lemmy.world/pictrs/image/6fa56ed8-d211-48ed-a22a-3c2b277e7caa.webp"
     },
     {
@@ -313,19 +313,15 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T20:28:07.977760+00:00",
+   "fetched_at": "2026-11-27T20:28:21.865695+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +329,27 @@
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Sore throats are a pain in the neck!",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.\r\n\r\nSo, I got a job at a travel agency.  Now, I know I'll be going places.",
      "source": "Dad joke"
     },
     {
-     "text": "I asked a frenchman if he played video games. He said \"Wii\"",
+     "text": "You know what they say about cliffhangers...",
      "source": "Dad joke"
     },
     {
-     "text": "When is a door not a door? When it's ajar.",
+     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
      "source": "Dad joke"
     }
    ]
