@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:27:40.067721+00:00",
+ "generated_at": "2026-11-27T17:57:44.922328+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,71 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T17:27:36.218668+00:00",
+   "fetched_at": "2026-11-27T17:57:41.890015+00:00",
    "stale": false,
    "items": [
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 522,
+     "title": "letUsPortItToRust",
+     "image": "https://i.redd.it/du0cabdm0e2i1.gif",
+     "url": "https://redd.it/1xzhnms",
+     "ups": 56,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "riemannHypothesisSolved",
-     "image": "https://i.redd.it/7313n4ui5y2i1.png",
-     "url": "https://redd.it/1y1udm4",
-     "ups": 3664,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 329,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 504,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5924,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 574,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 276,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "oOfOnePrimeChecker",
-     "image": "https://i.redd.it/dw8z1onwt73i1.png",
-     "url": "https://redd.it/1y2xogr",
-     "ups": 6270,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 497,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 458,
+     "title": "stateOfCodeReview",
+     "image": "https://i.redd.it/m2pln0y0s64i1.png",
+     "url": "https://redd.it/1y6y8wg",
+     "ups": 7,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 533,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Big back about to get bigger",
-     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
-     "url": "https://redd.it/1y603gc",
-     "ups": 63,
-     "sub": "r/memes"
-    },
-    {
-     "title": "I fear the toilet might be dying after that.",
-     "image": "https://i.redd.it/00wcoigpk24i1.png",
-     "url": "https://redd.it/1y6ig6n",
-     "ups": 9,
-     "sub": "r/memes"
     },
     {
      "title": "Sometimes I do wonder if it is like that",
@@ -170,23 +149,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 40,
+     "title": "Kindred of my car.",
+     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
+     "url": "https://redd.it/1y6u3ho",
+     "ups": 331,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The past few days have been draining",
+     "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
+     "url": "https://redd.it/1y5tgtv",
+     "ups": 7467,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We are all trying to find the guys who did this!",
+     "image": "https://i.redd.it/clmk05znq04i1.png",
+     "url": "https://redd.it/1y6bar0",
+     "ups": 341,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Gotcha haha",
+     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
+     "url": "https://redd.it/1y5kudv",
+     "ups": 7116,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T17:27:38.670381+00:00",
+   "fetched_at": "2026-11-27T17:57:43.995513+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Katie Miller car seat claim",
+     "text": "Medicare for All and universal healthcare",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eecf5d7b03b0",
      "likes": 0,
      "image": ""
     },
@@ -208,6 +208,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Grand Theft Auto VI",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Nvidia reinstates Jensen Huang",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Nvidia chip exports to China",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
@@ -216,17 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Silksong Sea of Sorrow release date",
+     "text": "FCC approves SpaceX Starmind satellites",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/83c4fcfd81e4",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
      "likes": 0,
      "image": ""
     },
@@ -240,14 +248,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Original characters as nameless NPCs",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/465ccea03082",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Thanksgiving storm knocks out power",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
@@ -256,25 +256,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Holiday food bank donations",
+     "text": "Birthday twin spectrum prompt",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba284217058",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "New York Times on Democratic spending plans",
+     "text": "Doug Ford urges fighting home invaders",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f8232ad211d7",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b110f123cf0f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army detonates lead azide in Iowa",
+     "text": "Katie Miller car seat claim",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7c265869e67d",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "papers",
      "author": "Lemmy Shitpost",
      "url": "https://quokk.au/c/lemmyshitpost/p/1373456/papers",
-     "likes": 45,
+     "likes": 96,
      "image": "https://lemmy.world/pictrs/image/b620f1ec-d445-418e-bd66-646cf9dc9928.webp"
     },
     {
@@ -291,65 +291,65 @@
      "text": "Needful Things",
      "author": "Comic Strips",
      "url": "https://sh.itjust.works/post/70570403",
-     "likes": 26,
+     "likes": 48,
      "image": "https://lemmy.world/pictrs/image/ae17bf03-b9d2-456f-81cb-41cf7e6506ae.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Pay No Attention to the Mystery $300 Million Trump Is Now Using for D.C. Renovations!",
+     "author": "Fauxmoi",
+     "url": "https://lemmy.zip/post/75767866",
+     "likes": 14,
+     "image": "https://lemmy.world/pictrs/image/e2c2b82d-5d50-4822-917a-b2a25f83e173.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Where\u2019s my free market?",
      "author": "Political Memes",
      "url": "https://sopuli.xyz/post/55163670",
-     "likes": 67,
+     "likes": 116,
      "image": "https://lemmy.world/pictrs/image/5ce102ea-bd29-4443-bb45-35a1e6b289e7.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "GTA 6 is apparently now running glitchless on Linux",
-     "author": "Gaming",
-     "url": "https://sopuli.xyz/post/55163723",
-     "likes": 38,
-     "image": "https://lemmy.world/pictrs/image/d9a8f47f-1726-437d-b7db-21cfd9e53214.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T17:27:39.221569+00:00",
+   "fetched_at": "2026-11-27T17:57:44.599167+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Debugging: Removing the needles from the haystack.",
      "source": "Programming joke"
     },
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "Archaeology really is a career in ruins.",
+     "text": "Where do young cows eat lunch? In the calf-ateria.",
      "source": "Dad joke"
     },
     {
-     "text": "People are shocked to discover I have a police record but I love their greatest hits!",
+     "text": "A steak pun is a rare medium well done.",
      "source": "Dad joke"
     },
     {
-     "text": "Why was Pavlov's beard so soft?  Because he conditioned it.",
+     "text": "Two dyslexics walk into a bra.",
      "source": "Dad joke"
     }
    ]
