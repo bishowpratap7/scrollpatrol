@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:24:52.221969+00:00",
+ "generated_at": "2026-11-27T07:54:57.800733+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,23 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T07:24:47.544583+00:00",
+   "fetched_at": "2026-11-27T07:54:54.868198+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "stopDoingGitHubDesktop",
+     "image": "https://i.redd.it/21cddl6p282i1.png",
+     "url": "https://redd.it/1xytdwd",
+     "ups": 1606,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "pythonSlow",
      "image": "https://i.redd.it/ry9x0ub1o43i1.png",
@@ -100,38 +114,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "getsBetterEveryHourIRefresh",
-     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
-     "url": "https://redd.it/1y557cw",
-     "ups": 8449,
+     "title": "yetAnotherJsonCommentsJoke",
+     "image": "https://i.redd.it/ipspl4jtve3i1.png",
+     "url": "https://redd.it/1y3r8ws",
+     "ups": 452,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 280,
+     "title": "blameTheUserNotTheSystem",
+     "image": "https://i.redd.it/5cyouxadmz3i1.png",
+     "url": "https://redd.it/1y663go",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 679,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3799,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "javaForShell",
-     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
-     "url": "https://redd.it/1xzc07i",
-     "ups": 571,
+     "title": "technicallyItCompiles",
+     "image": "https://i.redd.it/soi73zn4r92i1.png",
+     "url": "https://redd.it/1xz1mhm",
+     "ups": 876,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -142,24 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "A fairly common question I see from outsiders in these two communities.",
-     "image": "https://i.redd.it/l33xo9pzr14i1.png",
-     "url": "https://redd.it/1y6fpea",
-     "ups": 31,
+     "title": "Big back about to get bigger",
+     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
+     "url": "https://redd.it/1y603gc",
+     "ups": 55,
      "sub": "r/memes"
     },
     {
-     "title": "The 15 year olds porting GTA 6 to PC rn",
-     "image": "https://i.redd.it/59p7aynfiq3i1.gif",
-     "url": "https://redd.it/1y53xaf",
-     "ups": 4475,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Jason, my boiyah",
-     "image": "https://i.redd.it/gbdvxxrds14i1.png",
-     "url": "https://redd.it/1y6fk6s",
-     "ups": 41,
+     "title": "I have a constant stalker everywhere I go",
+     "image": "https://i.redd.it/mghjb0oe024i1.png",
+     "url": "https://redd.it/1y6gdnz",
+     "ups": 6,
      "sub": "r/memes"
     },
     {
@@ -170,26 +163,25 @@
      "sub": "r/memes"
     },
     {
-     "title": "I fear the toilet might be dying after that.",
-     "image": "https://i.redd.it/00wcoigpk24i1.png",
-     "url": "https://redd.it/1y6ig6n",
-     "ups": 11,
+     "title": "daily reminder",
+     "image": "https://i.redd.it/2l2weqc6904i1.png",
+     "url": "https://redd.it/1y693lx",
+     "ups": 39,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 474,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T07:24:50.742398+00:00",
+   "fetched_at": "2026-11-27T07:54:56.509051+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Thanksgiving Day celebrations",
@@ -200,9 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Elon Musk's government subsidies",
+     "text": "Boreen daily trivia scores",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Victoria votes in state election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
@@ -216,22 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Original characters as nameless NPCs",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/465ccea03082",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Bird photography",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
@@ -240,25 +224,41 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "New Avengers: Doomsday poster",
+     "text": "Ukraine claims Libya warship sinking",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Eagles vs. Cowboys",
+     "text": "King tides flood West Coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4a3f47821090",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Rockstar UK union vote",
+     "text": "Birthday twin spectrum prompt",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5ba1141ac7ec",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ff57499ceaf7",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Blade Runner 2099 series premiere",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/40b3fbb40d6b",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Holiday food bank donations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8ba284217058",
      "likes": 0,
      "image": ""
     },
@@ -280,40 +280,40 @@
     },
     {
      "kind": "Lemmy post",
-     "text": "The devil",
-     "author": "Political Memes",
-     "url": "https://sh.itjust.works/post/70544524",
-     "likes": 47,
-     "image": "https://lemmy.world/pictrs/image/c9ff5359-a6e5-4033-bf8f-622b8ee4b613.jpeg"
+     "text": "I was 19 when I found out my maternal grandpa was also my bio dad",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54904047",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/ea50d74c-48d4-413d-97bd-7f55dea7b50a.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Women urged to report sexual harassment locations",
+     "author": "London",
+     "url": "https://programming.dev/post/59972250",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/49b170c4-edd8-4c8f-9233-c1ff55083991.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Radar out Cold",
      "author": "cats",
      "url": "https://lemmy.ca/post/74427050",
-     "likes": 11,
+     "likes": 21,
      "image": "https://lemmy.world/pictrs/image/04d1dcd4-3f56-414e-885b-bc4e30de134e.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Even a broken clock..",
-     "author": "Political Memes",
-     "url": "https://lemmy.zip/post/75738606",
-     "likes": 29,
-     "image": "https://lemmy.zip/pictrs/image/d8542dc1-9c30-41d5-87eb-5c0e42bc0ae9.avif"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Anon's hair",
-     "author": "Greentext",
-     "url": "https://sh.itjust.works/post/70543996",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/9e559e72-1d56-483b-9d77-11ef1319c48f.png"
+     "text": "Ex-GOP strategist predicts how long Trump\u2019s GOP will pay for MAGA",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54904370",
+     "likes": 5,
+     "image": "https://lemmy.world/pictrs/image/7c7272dd-254a-4432-a301-ed39c2bb05f1.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T07:24:51.217245+00:00",
+   "fetched_at": "2026-11-27T07:54:57.084412+00:00",
    "stale": false,
    "items": [
     {
@@ -325,7 +325,11 @@
      "source": "Programming joke"
     },
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "\"We messed up the keming again guys.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +337,19 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"We messed up the keming again guys.\"",
+     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I\u2019ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it\u2019s Hans free.",
+     "text": "Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.",
      "source": "Dad joke"
     },
     {
-     "text": "Two parrots are sitting on a perch. One turns to the other and asks, \"do you smell fish?\"",
+     "text": "Yesterday I confused the words \"jacuzzi\" and \"yakuza\". Now I'm in hot water with the Japanese mafia.",
      "source": "Dad joke"
     },
     {
-     "text": "I was going to get a brain transplant, but I changed my mind",
+     "text": "I used to be addicted to soap, but I'm clean now.",
      "source": "Dad joke"
     }
    ]
