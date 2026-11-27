@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:28:22.657829+00:00",
+ "generated_at": "2026-11-27T20:58:37.149175+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,13 +89,34 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-27T20:28:18.897451+00:00",
+   "fetched_at": "2026-11-27T20:58:33.695693+00:00",
    "stale": false,
    "items": [
     {
      "title": "aiProductivity",
      "image": "https://i.redd.it/zclx20rsh34i1.png",
      "url": "https://redd.it/1y6lqcs",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "oOfOnePrimeChecker",
+     "image": "https://i.redd.it/dw8z1onwt73i1.png",
+     "url": "https://redd.it/1y2xogr",
+     "ups": 6272,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 496,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
+     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
+     "url": "https://redd.it/1y59oah",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
@@ -107,39 +128,11 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "diffVsCodeReviewNowadaysDotMD",
-     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
-     "url": "https://redd.it/1y56a13",
-     "ups": 223,
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 505,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyCorrect",
-     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
-     "url": "https://redd.it/1y5vntt",
-     "ups": 1204,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "stateOfCodeReview",
-     "image": "https://i.redd.it/m2pln0y0s64i1.png",
-     "url": "https://redd.it/1y6y8wg",
-     "ups": 78,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyItCompiles",
-     "image": "https://i.redd.it/soi73zn4r92i1.png",
-     "url": "https://redd.it/1xz1mhm",
-     "ups": 878,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Nightmares of my childhood",
-     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
-     "url": "https://redd.it/1y69hmj",
-     "ups": 136,
-     "sub": "r/memes"
     },
     {
      "title": "I saw my life flash before my eyes.",
@@ -149,10 +142,17 @@
      "sub": "r/memes"
     },
     {
-     "title": "Big back about to get bigger",
-     "image": "https://i.redd.it/zsqpv0v6by3i1.png",
-     "url": "https://redd.it/1y603gc",
-     "ups": 65,
+     "title": "I have a constant stalker everywhere I go",
+     "image": "https://i.redd.it/mghjb0oe024i1.png",
+     "url": "https://redd.it/1y6gdnz",
+     "ups": 12,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We are all trying to find the guys who did this!",
+     "image": "https://i.redd.it/clmk05znq04i1.png",
+     "url": "https://redd.it/1y6bar0",
+     "ups": 353,
      "sub": "r/memes"
     },
     {
@@ -163,62 +163,30 @@
      "sub": "r/memes"
     },
     {
+     "title": "I fear the toilet might be dying after that.",
+     "image": "https://i.redd.it/00wcoigpk24i1.png",
+     "url": "https://redd.it/1y6ig6n",
+     "ups": 15,
+     "sub": "r/memes"
+    },
+    {
      "title": "Kindred of my car.",
      "image": "https://i.redd.it/zx9xylzxw54i1.gif",
      "url": "https://redd.it/1y6u3ho",
      "ups": 773,
      "sub": "r/memes"
-    },
-    {
-     "title": "what would you say?",
-     "image": "https://i.redd.it/9cds18k5504i1.gif",
-     "url": "https://redd.it/1y68kkb",
-     "ups": 601,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-27T20:28:20.951648+00:00",
+   "fetched_at": "2026-11-27T20:58:35.780455+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Most famous person you're related to",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/947b3bbc998c",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Cybersecurity breach reported at CIA",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Banned Nvidia chips reported in Shanghai",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +200,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Thanksgiving Day celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Cybersecurity breach reported at CIA",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -240,9 +224,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "King tides flood West Coast",
+     "text": "Army detonates lead azide in Iowa",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Banned Nvidia chips reported in Shanghai",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
@@ -256,100 +248,108 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping's $225M debut",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Poilievre says NDP not for workers",
+     "text": "King tides flood West Coast",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a3b64f1cc0e5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58c3da2147e2",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Army detonates lead azide in Iowa",
+     "text": "Israeli strikes in Gaza",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Elon Musk's government subsidies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8",
+     "author": "Comic Strips",
+     "url": "https://sh.itjust.works/post/70577409",
+     "likes": 48,
+     "image": "https://lemmy.world/pictrs/image/9fa5cf96-a047-473e-85ba-99c7dbdba3b2.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "They're dead inside, does that count as one?",
      "author": "People Twitter",
      "url": "https://sh.itjust.works/post/70576337",
-     "likes": 31,
+     "likes": 93,
      "image": "https://lemmy.world/pictrs/image/2b90e9f5-93f2-4e22-9530-68a7f86f8858.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Remote Work",
-     "author": "Comic Strips",
-     "url": "https://sh.itjust.works/post/70575094",
-     "likes": 73,
-     "image": "https://lemmy.world/pictrs/image/305938a1-5df1-4311-888a-0cfd673e4407.webp"
+     "text": "Job Openings",
+     "author": "Programmer Humor",
+     "url": "https://sh.itjust.works/post/70577071",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/4725e2d4-fe65-42c5-b8a3-58774ffeb861.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Lost Art [PizzaCake]",
-     "author": "Comic Strips",
-     "url": "https://lemmy.blahaj.zone/post/51011732",
-     "likes": 167,
-     "image": "https://lemmy.world/pictrs/image/6fa56ed8-d211-48ed-a22a-3c2b277e7caa.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Literally nothing is in stock",
-     "author": "Selfhosted",
-     "url": "https://lemmy.world/post/54926974",
-     "likes": 33,
-     "image": "https://lemmy.world/pictrs/image/c70035c6-3eaa-4a3f-9830-e52834577ea9.png"
+     "text": "kitten blep",
+     "author": "cats",
+     "url": "https://lemmy.dbzer0.com/post/79040071",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/ec9f2333-89fa-479b-96c8-d23d712dd5a3.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-27T20:28:21.865695+00:00",
+   "fetched_at": "2026-11-27T20:58:36.615763+00:00",
    "stale": false,
    "items": [
-    {
-     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
     {
      "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.\r\n\r\nSo, I got a job at a travel agency.  Now, I know I'll be going places.",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I started a new business making yachts in my attic this year...the sails are going through the roof",
      "source": "Dad joke"
     },
     {
-     "text": "You know what they say about cliffhangers...",
+     "text": "What do you call an old snowman? Water.",
      "source": "Dad joke"
     },
     {
-     "text": "Why didn't the number 4 get into the nightclub? Because he is 2 square.",
+     "text": "When is a door not a door? When it's ajar.",
      "source": "Dad joke"
     }
    ]
