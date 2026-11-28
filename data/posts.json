@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T19:05:03.275805+00:00",
+ "generated_at": "2026-11-28T19:35:09.001542+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,50 +89,57 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T19:04:59.409169+00:00",
+   "fetched_at": "2026-11-28T19:35:05.537870+00:00",
    "stale": false,
    "items": [
     {
-     "title": "stateOfCodeReview",
-     "image": "https://i.redd.it/m2pln0y0s64i1.png",
-     "url": "https://redd.it/1y6y8wg",
-     "ups": 644,
+     "title": "rewriteItInRustTitanicEdition",
+     "image": "https://i.redd.it/rhdgtrw8574i1.png",
+     "url": "https://redd.it/1y70278",
+     "ups": 1512,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 186,
+     "title": "heDiscoveredCoding",
+     "image": "https://i.redd.it/gzapu4hvaa4i1.png",
+     "url": "https://redd.it/1y7dg1q",
+     "ups": 11952,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5977,
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 613,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "technicallyCorrect",
-     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
-     "url": "https://redd.it/1y5vntt",
-     "ups": 1355,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 275,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "itIsWithGreatPleasureToAnnounceMyFirstCommit",
-     "image": "https://i.redd.it/pxb629pb9o2i1.gif",
-     "url": "https://redd.it/1y0qxvd",
-     "ups": 521,
+     "title": "whenTheBottomSheetAndTheBugReportBothNeedToExpand",
+     "image": "https://i.redd.it/m4xn2pgrm34i1.png",
+     "url": "https://redd.it/1y6m8ms",
+     "ups": 6,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 677,
+     "title": "doesPEqualNp",
+     "image": "https://i.redd.it/2ypi9rxyw74i1.png",
+     "url": "https://redd.it/1y73qx9",
+     "ups": 1024,
      "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "It was always the same",
+     "image": "https://i.redd.it/0egmffra0e4i1.png",
+     "url": "https://redd.it/1y7rakh",
+     "ups": 43,
+     "sub": "r/memes"
     },
     {
      "title": "Kindred of my car.",
@@ -142,51 +149,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "It is soo frustrating",
-     "image": "https://i.redd.it/xzcd7ve50d4i1.png",
-     "url": "https://redd.it/1y7mo8t",
-     "ups": 4750,
+     "title": "Trying to manyfist it",
+     "image": "https://i.redd.it/e8vm3zeyac4i1.png",
+     "url": "https://redd.it/1y7k2xy",
+     "ups": 188,
      "sub": "r/memes"
     },
     {
-     "title": "Stay strong my PC brothers. Dino has us covered until GTA6 drops",
-     "image": "https://i.redd.it/4qlkv039j74i1.png",
-     "url": "https://redd.it/1y71xlo",
-     "ups": 28,
+     "title": "I fear I've made peak...",
+     "image": "https://i.redd.it/if146z0w834i1.png",
+     "url": "https://redd.it/1y6kuv7",
+     "ups": 454,
      "sub": "r/memes"
     },
     {
-     "title": "Built for off-road conditions btw",
-     "image": "https://i.redd.it/w143269g4e4i1.gif",
-     "url": "https://redd.it/1y7rtu6",
-     "ups": 10,
+     "title": "They will never see him coming.",
+     "image": "https://i.redd.it/xjcwdgvcw94i1.png",
+     "url": "https://redd.it/1y7c0k3",
+     "ups": 25,
      "sub": "r/memes"
     },
     {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 583,
-     "sub": "r/memes"
-    },
-    {
-     "title": "3??? 3?!?!?!",
-     "image": "https://i.redd.it/i0s0j0uwtd4i1.png",
-     "url": "https://redd.it/1y7qfxz",
-     "ups": 0,
+     "title": "i think iv figured out  why we always find dinosaurs in theses funky positions",
+     "image": "https://i.redd.it/4qkvbsexq84i1.png",
+     "url": "https://redd.it/1y77f4b",
+     "ups": 101,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T19:05:02.031210+00:00",
+   "fetched_at": "2026-11-28T19:35:07.573688+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Elon Musk's government subsidies",
+     "text": "Earthquake off Manhattan Beach",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/009cb287d0ef",
      "likes": 0,
      "image": ""
     },
@@ -200,25 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Earthquake off Manhattan Beach",
+     "text": "Trump's agenda after midterm elections",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/009cb287d0ef",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Ohio State vs. Michigan",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fefc92426496",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b032580ca23d",
      "likes": 0,
      "image": ""
     },
@@ -232,6 +216,22 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Thanksgiving Day celebrations",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers reportedly out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Disney's Hexed hits theaters",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fcd468eb9db",
@@ -240,25 +240,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "WWE's AI-voiced Bronson Reed tribute",
+     "text": "Manchester United relegation fears",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cc52c572630",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/304f81851fb7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Sunrise on the Reaping reviews",
+     "text": "Anthropic's Claude AI outage and use",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8099a383940e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c908fd3ad78d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Banned Nvidia chips reported in Shanghai",
+     "text": "Ohio State vs. Michigan",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fefc92426496",
      "likes": 0,
      "image": ""
     },
@@ -272,9 +272,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Trump's agenda after midterm elections",
+     "text": "Ukraine claims Libya warship sinking",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b032580ca23d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
      "likes": 0,
      "image": ""
     },
@@ -283,49 +283,41 @@
      "text": "those chuds really ruin every rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/51050857",
-     "likes": 15,
+     "likes": 55,
      "image": "https://lemmy.world/pictrs/image/b693e325-9e75-4cd8-97e5-c7818db1de18.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "if my ashes aren't used for something based then you have failed me",
-     "author": "Trans Memes",
-     "url": "https://lemmy.blahaj.zone/post/51048907",
-     "likes": 70,
-     "image": "https://lemmy.world/pictrs/image/693a2ede-de55-4734-8932-fbc05a1fe0ea.webp"
+     "text": "...",
+     "author": "memes",
+     "url": "https://piefed.social/post/2654558",
+     "likes": 43,
+     "image": "https://lemmy.world/pictrs/image/80eb102d-063f-41e7-bb1b-bbefa63d0384.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "Just cleaned and re-stringed my inheritance",
      "author": "Dull Men's Club",
      "url": "https://lemmy.zip/post/75827196",
-     "likes": 14,
+     "likes": 34,
      "image": "https://lemmy.zip/pictrs/image/d6b6f9ad-223d-4c41-9a20-a279b98af737.avif"
     },
     {
      "kind": "Lemmy post",
-     "text": "Were you worried about Y2K?",
-     "author": "Ask Lemmy",
-     "url": "https://piefed.blahaj.zone/c/asklemmy@lemmy.world/p/1105447/were-you-worried-about-y2k",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/ebed68f4-e3aa-4bfb-8238-4dce4a86df7d.jpeg"
+     "text": "I hate Mondays",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54964895",
+     "likes": 22,
+     "image": "https://lemmy.world/pictrs/image/cf70494c-27ac-4009-8d83-5640e40e8772.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T19:05:02.830258+00:00",
+   "fetched_at": "2026-11-28T19:35:08.366992+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
@@ -333,23 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "Hey Girl,\nRoses are #ff0000,\nViolets are #0000ff,\nI use hex codes,\nBut I'd use RGB for you.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "R.I.P. boiled water. You will be mist.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
      "source": "Dad joke"
     },
     {
-     "text": "Who is the coolest Doctor in the hospital? The hip Doctor!",
+     "text": "How do locomotives know where they're going? Lots of training",
      "source": "Dad joke"
     },
     {
-     "text": "Where does Napoleon keep his armies? In his sleevies.",
+     "text": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
      "source": "Dad joke"
     }
    ]
