@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T02:29:57.235157+00:00",
+ "generated_at": "2026-11-28T03:00:02.287539+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,16 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T02:29:53.798873+00:00",
+   "fetched_at": "2026-11-28T02:59:59.121459+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
      "image": "https://i.redd.it/mihtmnz2fs2i1.png",
@@ -107,52 +100,52 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateOfCodeReview",
-     "image": "https://i.redd.it/m2pln0y0s64i1.png",
-     "url": "https://redd.it/1y6y8wg",
-     "ups": 332,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 465,
+     "title": "thesePeopleAnnoyMe",
+     "image": "https://i.redd.it/6obc3sa54l3i1.png",
+     "url": "https://redd.it/1y4h7t0",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 523,
+     "title": "whenTheBottomSheetAndTheBugReportBothNeedToExpand",
+     "image": "https://i.redd.it/m4xn2pgrm34i1.png",
+     "url": "https://redd.it/1y6m8ms",
+     "ups": 7,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 291,
+     "title": "diffVsCodeReviewNowadaysDotMD",
+     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
+     "url": "https://redd.it/1y56a13",
+     "ups": 230,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I mean... It's only a matter of time right?",
-     "image": "https://i.redd.it/qz9c7p9g914i1.png",
-     "url": "https://redd.it/1y6dh1d",
-     "ups": 2139,
+     "title": "recursion",
+     "image": "https://i.redd.it/9c68q9667b2i1.png",
+     "url": "https://redd.it/1xz7flz",
+     "ups": 956,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I fear the toilet might be dying after that.",
+     "image": "https://i.redd.it/00wcoigpk24i1.png",
+     "url": "https://redd.it/1y6ig6n",
+     "ups": 15,
      "sub": "r/memes"
     },
     {
-     "title": "My friend sent me a view-once video, and I started sweating while watching it :)",
-     "image": "https://i.redd.it/knymlb56604i1.png",
-     "url": "https://redd.it/1y68p2z",
-     "ups": 49,
-     "sub": "r/memes"
-    },
-    {
-     "title": "We are all trying to find the guys who did this!",
-     "image": "https://i.redd.it/clmk05znq04i1.png",
-     "url": "https://redd.it/1y6bar0",
-     "ups": 358,
+     "title": "PT Cruiser",
+     "image": "https://i.redd.it/15fx59hjk64i1.png",
+     "url": "https://redd.it/1y6x7ea",
+     "ups": 190,
      "sub": "r/memes"
     },
     {
@@ -163,25 +156,40 @@
      "sub": "r/memes"
     },
     {
-     "title": "Who didn't cry for this?",
-     "image": "https://i.redd.it/6m0x2fter84i1.png",
-     "url": "https://redd.it/1y77gxl",
-     "ups": 284,
+     "title": "The past few days have been draining",
+     "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
+     "url": "https://redd.it/1y5tgtv",
+     "ups": 7892,
      "sub": "r/memes"
     },
     {
-     "title": "i think iv figured out  why we always find dinosaurs in theses funky positions",
-     "image": "https://i.redd.it/4qkvbsexq84i1.png",
-     "url": "https://redd.it/1y77f4b",
-     "ups": 43,
+     "title": "Unlocked a lot of memories",
+     "image": "https://i.redd.it/8ewqr988v74i1.gif",
+     "url": "https://redd.it/1y73il2",
+     "ups": 199,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Screwed the pooch",
+     "image": "https://i.redd.it/1z293322s74i1.png",
+     "url": "https://redd.it/1y7348f",
+     "ups": 24,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T02:29:56.352474+00:00",
+   "fetched_at": "2026-11-28T03:00:01.132479+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "WWE's AI-voiced Bronson Reed tribute",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cc52c572630",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Most famous person you're related to",
@@ -192,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "WWE's AI-voiced Bronson Reed tribute",
+     "text": "ICE reportedly called on lawyer's clients",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cc52c572630",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae05639304a3",
      "likes": 0,
      "image": ""
     },
@@ -216,30 +224,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Israeli strikes in Gaza",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Grand Theft Auto VI",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
@@ -248,9 +232,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
+     "text": "Victoria votes in state election",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
@@ -264,17 +248,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hackers breach Air Force cloud platform",
+     "text": "Macy's parade postponed to Saturday",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Calls to release Epstein files",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00d4241b94de",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army detonates lead azide in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Elon Musk's government subsidies",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/68567f362007",
      "likes": 0,
      "image": ""
     },
@@ -283,7 +283,7 @@
      "text": "Graffiti",
      "author": "Microblog Memes",
      "url": "https://lemmy.today/post/63976080",
-     "likes": 281,
+     "likes": 312,
      "image": "https://lemmy.world/pictrs/image/6898851a-1ed3-4bbe-99a6-6b8bfb2b61da.jpeg"
     },
     {
@@ -291,7 +291,7 @@
      "text": "Los Angeles schools block Google\u2019s AI features, consider dropping tech giant\u2019s products",
      "author": "Technology",
      "url": "https://lemmy.world/post/54933917",
-     "likes": 180,
+     "likes": 200,
      "image": "https://lemmy.world/pictrs/image/55ac55f7-b414-423b-9eb0-e633009062c9.jpeg"
     },
     {
@@ -299,7 +299,7 @@
      "text": "Hard Drive pricing has gotten bad",
      "author": "Selfhosted",
      "url": "https://lemmy.world/post/54934606",
-     "likes": 92,
+     "likes": 106,
      "image": "https://lemmy.world/pictrs/image/efec91ac-c26a-4dd7-979e-83e784b8c09d.webp"
     },
     {
@@ -307,21 +307,17 @@
      "text": "J.K Rowling to rewrite all of Harry Potter books in Rust",
      "author": "Lemmy Shitpost",
      "url": "https://feddit.online/c/lemmyshitpost@lemmy.world/p/2146871/j-k-rowling-to-rewrite-all-of-harry-potter-books-in-rust",
-     "likes": 239,
+     "likes": 262,
      "image": "https://lemmy.world/pictrs/image/99c04f90-c482-47a5-89ac-fd3928a33366.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T02:29:56.853287+00:00",
+   "fetched_at": "2026-11-28T03:00:01.719451+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "ASCII silly question, get a silly ANSI.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
@@ -329,36 +325,40 @@
      "source": "Programming joke"
     },
     {
-     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
-     "source": "Programming joke"
-    },
-    {
      "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Bad at golf? Join the club.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "I heard there was a new store called Moderation. They have everything there",
      "source": "Dad joke"
     },
     {
-     "text": "I ordered a chicken and an egg from Amazon. I'll let you know.",
+     "text": "Why did the kid throw the clock out the window? He wanted to see time fly!",
      "source": "Dad joke"
     },
     {
-     "text": "Why don't you find hippopotamuses hiding in trees?\r\nThey're really good at it.",
+     "text": "Atheism is a non-prophet organisation.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
