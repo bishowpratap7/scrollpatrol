@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T15:04:05.959110+00:00",
+ "generated_at": "2026-11-28T15:34:10.853187+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,78 +89,50 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T15:04:03.253678+00:00",
+   "fetched_at": "2026-11-28T15:34:07.852712+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2260,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "ninetyNineBottlesofBugs",
+     "image": "https://i.redd.it/dtrsows5ek2i1.png",
+     "url": "https://redd.it/1y08eoq",
+     "ups": 630,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nonAIMeme",
+     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
+     "url": "https://redd.it/1y5ywa5",
+     "ups": 2114,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "getsBetterEveryHourIRefresh",
+     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
+     "url": "https://redd.it/1y557cw",
+     "ups": 8783,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "iWantMyBrowserToBeAMemoryHog",
      "image": "https://i.redd.it/kc0caqlcym3i1.png",
      "url": "https://redd.it/1y4qogs",
-     "ups": 605,
+     "ups": 611,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 470,
+     "title": "doesPEqualNp",
+     "image": "https://i.redd.it/2ypi9rxyw74i1.png",
+     "url": "https://redd.it/1y73qx9",
+     "ups": 938,
      "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "aiProductivity",
-     "image": "https://i.redd.it/zclx20rsh34i1.png",
-     "url": "https://redd.it/1y6lqcs",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "versionControl",
-     "image": "https://i.redd.it/8oyh0yrg144i1.png",
-     "url": "https://redd.it/1y6nka4",
-     "ups": 1303,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "heDiscoveredCoding",
-     "image": "https://i.redd.it/gzapu4hvaa4i1.png",
-     "url": "https://redd.it/1y7dg1q",
-     "ups": 7014,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 529,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "Stay strong my PC brothers. Dino has us covered until GTA6 drops",
-     "image": "https://i.redd.it/4qlkv039j74i1.png",
-     "url": "https://redd.it/1y71xlo",
-     "ups": 29,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Unlocked a lot of memories",
-     "image": "https://i.redd.it/8ewqr988v74i1.gif",
-     "url": "https://redd.it/1y73il2",
-     "ups": 521,
-     "sub": "r/memes"
-    },
-    {
-     "title": "stock market is a scam",
-     "image": "https://i.redd.it/9h0ytlkhk74i1.png",
-     "url": "https://redd.it/1y72474",
-     "ups": 3,
-     "sub": "r/memes"
-    },
-    {
-     "title": "A fairly common question I see from outsiders in these two communities.",
-     "image": "https://i.redd.it/l33xo9pzr14i1.png",
-     "url": "https://redd.it/1y6fpea",
-     "ups": 148,
-     "sub": "r/memes"
     },
     {
      "title": "Seems like 90% of child names in fiction are either Timmy or Jimmy.",
@@ -170,16 +142,44 @@
      "sub": "r/memes"
     },
     {
-     "title": "my guy plutarch heavensbee was BOOKING it out of the capitol",
-     "image": "https://i.redd.it/g25yspv10c4i1.gif",
-     "url": "https://redd.it/1y7j4he",
-     "ups": 0,
+     "title": "what would you say?",
+     "image": "https://i.redd.it/9cds18k5504i1.gif",
+     "url": "https://redd.it/1y68kkb",
+     "ups": 770,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Sometimes I do wonder if it is like that",
+     "image": "https://i.redd.it/vxtti7kw324i1.png",
+     "url": "https://redd.it/1y6gr3g",
+     "ups": 65,
+     "sub": "r/memes"
+    },
+    {
+     "title": "We are all trying to find the guys who did this!",
+     "image": "https://i.redd.it/clmk05znq04i1.png",
+     "url": "https://redd.it/1y6bar0",
+     "ups": 374,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 578,
+     "sub": "r/memes"
+    },
+    {
+     "title": "The past few days have been draining",
+     "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
+     "url": "https://redd.it/1y5tgtv",
+     "ups": 8255,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T15:04:05.000426+00:00",
+   "fetched_at": "2026-11-28T15:34:09.937170+00:00",
    "stale": false,
    "items": [
     {
@@ -192,33 +192,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Millions of children lose SNAP",
+     "text": "Israeli strike hits Gaza clinic",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ecb69c932822",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "\"Define cinema with a photo\" trend",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/062b0da2c4f0",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Macy's parade postponed to Saturday",
+     "text": "Macy's 100th parade kicks off",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
@@ -232,22 +216,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "WWE's AI-voiced Bronson Reed tribute",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cc52c572630",
@@ -256,68 +224,100 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "American Airlines jets clip wings",
+     "text": "Thanksgiving Day celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e4bcf51aa364",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "NBC pulls ad on Israel aid",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/de2412b5cc51",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "\"Define cinema with a photo\" trend",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/062b0da2c4f0",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic's Claude AI outage and use",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c908fd3ad78d",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Millions of children lose SNAP",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ecb69c932822",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Army detonates lead azide in Iowa",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b986517c3ad5",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "When people form their opinion on hype",
-     "author": "linuxmemes",
-     "url": "https://piefed.social/c/linuxmemes@lemmy.world/p/2653783/when-people-form-their-opinion-on-hype",
-     "likes": 54,
-     "image": "https://lemmy.world/pictrs/image/5527e1d0-e6a8-4d59-bb8c-71a9854e1273.jpeg"
+     "text": "Tis the season",
+     "author": "Comic Strips",
+     "url": "https://eviltoast.org/post/33857958",
+     "likes": 36,
+     "image": "https://lemmy.world/pictrs/image/c94fe9d8-fc3e-4cf4-a7e8-af79ee635ab2.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "Hey, girl, how you doin\u2019?",
-     "author": "Raccoons",
-     "url": "https://lemmy.world/post/54954805",
-     "likes": 32,
-     "image": "https://lemmy.world/pictrs/image/f0beef2a-75e7-4bac-bb35-0c6e7c9f8e45.jpeg"
+     "text": "Fishing",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54956952",
+     "likes": 42,
+     "image": "https://lemmy.world/pictrs/image/8ec42c62-ff7a-4567-a60a-06fe4268b17f.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Anyone doing this over the weekend?",
-     "author": "NiceMemes",
-     "url": "https://piefed.blahaj.zone/c/NiceMemes@sopuli.xyz/p/1090516/anyone-doing-this-over-the-weekend",
-     "likes": 8,
-     "image": "https://lemmy.world/pictrs/image/c4018cdc-3c3b-478e-aff0-5bc43a486bd7.jpeg"
+     "text": "Thoughtful",
+     "author": "Comic Strips",
+     "url": "https://lemmy.world/post/54957137",
+     "likes": 34,
+     "image": "https://lemmy.world/pictrs/image/6fdc2d8c-156d-4008-b91a-3bcb2f4203c3.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "SBA #315 Time for a Commercial Break! SpongeBob Adventures is brought to you by...",
-     "author": "Lemmy Shitpost",
-     "url": "https://lemmy.world/post/54956111",
-     "likes": 12,
-     "image": "https://lemmy.world/pictrs/image/6a84b3e5-aaa6-4e7a-abfa-d88d66962e67.jpeg"
+     "text": "I work out hard",
+     "author": "Funny",
+     "url": "https://lemmy.world/post/54957270",
+     "likes": 28,
+     "image": "https://lemmy.world/pictrs/image/ed8f7746-0915-491f-af23-c26c485a2029.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T15:04:05.599880+00:00",
+   "fetched_at": "2026-11-28T15:34:10.395120+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I have a joke about Stack Overflow, but you would say it's a duplicate.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
      "source": "Programming joke"
     },
     {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "What kind of magic do cows believe in? MOODOO.",
+     "text": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.",
      "source": "Dad joke"
     },
     {
-     "text": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.",
+     "text": "Why was the picture sent to prison? It was framed.",
      "source": "Dad joke"
     },
     {
-     "text": "I don't trust stairs. They're always up to something.",
+     "text": "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.",
      "source": "Dad joke"
     }
    ]
