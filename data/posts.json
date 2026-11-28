@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T11:33:17.880049+00:00",
+ "generated_at": "2026-11-28T11:33:31.278245+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,23 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T11:33:13.442395+00:00",
+   "fetched_at": "2026-11-28T11:33:28.090323+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "compilersHateThisOneTrick",
-     "image": "https://i.redd.it/jmm944uup73i1.png",
-     "url": "https://redd.it/1y2x5i2",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "doesPEqualNp",
-     "image": "https://i.redd.it/2ypi9rxyw74i1.png",
-     "url": "https://redd.it/1y73qx9",
-     "ups": 788,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "thesePeopleAnnoyMe",
      "image": "https://i.redd.it/6obc3sa54l3i1.png",
@@ -114,52 +100,73 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "getsBetterEveryHourIRefresh",
-     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
-     "url": "https://redd.it/1y557cw",
-     "ups": 8758,
+     "title": "aiProductivity",
+     "image": "https://i.redd.it/zclx20rsh34i1.png",
+     "url": "https://redd.it/1y6lqcs",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "whenTheBottomSheetAndTheBugReportBothNeedToExpand",
-     "image": "https://i.redd.it/m4xn2pgrm34i1.png",
-     "url": "https://redd.it/1y6m8ms",
-     "ups": 6,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5975,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 185,
+     "title": "weAllHaveThisAbility",
+     "image": "https://i.redd.it/0t8l11pa053i1.png",
+     "url": "https://redd.it/1y2lttc",
+     "ups": 295,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Kindred of my car.",
-     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
-     "url": "https://redd.it/1y6u3ho",
-     "ups": 2761,
+     "title": "versionControl",
+     "image": "https://i.redd.it/8oyh0yrg144i1.png",
+     "url": "https://redd.it/1y6nka4",
+     "ups": 1268,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 608,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "what would you say?",
+     "image": "https://i.redd.it/9cds18k5504i1.gif",
+     "url": "https://redd.it/1y68kkb",
+     "ups": 744,
      "sub": "r/memes"
     },
     {
-     "title": "I fear I've made peak...",
-     "image": "https://i.redd.it/if146z0w834i1.png",
-     "url": "https://redd.it/1y6kuv7",
-     "ups": 441,
+     "title": "Claude ain't no snitch",
+     "image": "https://i.redd.it/cxjxzzh8n64i1.png",
+     "url": "https://redd.it/1y6xkwe",
+     "ups": 10561,
      "sub": "r/memes"
     },
     {
-     "title": "Gotcha haha",
-     "image": "https://i.redd.it/gxcguh9r5u3i1.png",
-     "url": "https://redd.it/1y5kudv",
-     "ups": 7584,
+     "title": "Nightmares of my childhood",
+     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
+     "url": "https://redd.it/1y69hmj",
+     "ups": 156,
      "sub": "r/memes"
     },
     {
-     "title": "We are all trying to find the guys who did this!",
-     "image": "https://i.redd.it/clmk05znq04i1.png",
-     "url": "https://redd.it/1y6bar0",
-     "ups": 365,
+     "title": "Screwed the pooch",
+     "image": "https://i.redd.it/1z293322s74i1.png",
+     "url": "https://redd.it/1y7348f",
+     "ups": 37,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 577,
      "sub": "r/memes"
     },
     {
@@ -168,18 +175,11 @@
      "url": "https://redd.it/1y71xlo",
      "ups": 23,
      "sub": "r/memes"
-    },
-    {
-     "title": "A fairly common question I see from outsiders in these two communities.",
-     "image": "https://i.redd.it/l33xo9pzr14i1.png",
-     "url": "https://redd.it/1y6fpea",
-     "ups": 141,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T11:33:16.496869+00:00",
+   "fetched_at": "2026-11-28T11:33:30.207158+00:00",
    "stale": false,
    "items": [
     {
@@ -313,27 +313,19 @@
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T11:33:17.220471+00:00",
+   "fetched_at": "2026-11-28T11:33:30.902602+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
      "source": "Programming joke"
     },
     {
-     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
@@ -341,15 +333,23 @@
      "source": "Programming joke"
     },
     {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. \r\nHe also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. \r\nThis made him a super calloused fragile mystic hexed by halitosis.",
+     "source": "Dad joke"
+    },
+    {
      "text": "What do you get when you cross a snowman with a vampire? Frostbite.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the coffee file a police report? It got mugged.",
-     "source": "Dad joke"
-    },
-    {
-     "text": "How do you get two whales in a car? Start in England and drive West.",
+     "text": "Yesterday, I accidentally swallowed some food coloring. The doctor says I\u2019m okay, but I feel like I\u2019ve dyed a little inside.",
      "source": "Dad joke"
     }
    ]
