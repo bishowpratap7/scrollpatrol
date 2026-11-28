@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:00:17.718005+00:00",
+ "generated_at": "2026-11-28T04:30:25.230790+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,99 +89,107 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T04:00:10.099094+00:00",
+   "fetched_at": "2026-11-28T04:30:19.602337+00:00",
    "stale": false,
    "items": [
     {
-     "title": "interestingTimes",
-     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
-     "url": "https://redd.it/1y1dz0b",
-     "ups": 3845,
+     "title": "nonAIMeme",
+     "image": "https://i.redd.it/y1m4ytaqyx3i1.png",
+     "url": "https://redd.it/1y5ywa5",
+     "ups": 2013,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "weAllHaveThisAbility",
-     "image": "https://i.redd.it/0t8l11pa053i1.png",
-     "url": "https://redd.it/1y2lttc",
-     "ups": 293,
+     "title": "stateOfCodeReview",
+     "image": "https://i.redd.it/m2pln0y0s64i1.png",
+     "url": "https://redd.it/1y6y8wg",
+     "ups": 380,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "bugFixing",
-     "image": "https://i.redd.it/m4g5ovj9te2i1.png",
-     "url": "https://redd.it/1xzlxtv",
-     "ups": 672,
+     "title": "aiProductivity",
+     "image": "https://i.redd.it/zclx20rsh34i1.png",
+     "url": "https://redd.it/1y6lqcs",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "approvedLgtm",
-     "image": "https://i.redd.it/e3qxiueyus3i1.png",
-     "url": "https://redd.it/1y5ehbi",
-     "ups": 522,
+     "title": "getsBetterEveryHourIRefresh",
+     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
+     "url": "https://redd.it/1y557cw",
+     "ups": 8713,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "newDevsBeLike",
-     "image": "https://i.redd.it/why2eporof2i1.png",
-     "url": "https://redd.it/1xzqgwe",
-     "ups": 2262,
+     "title": "semiJoinHasCommitmentIssues",
+     "image": "https://i.redd.it/im1qh0ihzx3i1.png",
+     "url": "https://redd.it/1y5yyvz",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "diffVsCodeReviewNowadaysDotMD",
-     "image": "https://i.redd.it/ts8yatkr6r3i1.png",
-     "url": "https://redd.it/1y56a13",
-     "ups": 230,
+     "title": "nothingIsMorePermanentThanATemporaryFix",
+     "image": "https://i.redd.it/unfdlds1sr3i1.png",
+     "url": "https://redd.it/1y58vju",
+     "ups": 1564,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Jason, my boiyah",
-     "image": "https://i.redd.it/gbdvxxrds14i1.png",
-     "url": "https://redd.it/1y6fk6s",
-     "ups": 77,
+     "title": "Kindred of my car.",
+     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
+     "url": "https://redd.it/1y6u3ho",
+     "ups": 1670,
      "sub": "r/memes"
     },
     {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 566,
+     "title": "How far they have fallen. I miss the old days",
+     "image": "https://i.redd.it/j8v39t4ak14i1.png",
+     "url": "https://redd.it/1y6enun",
+     "ups": 1904,
      "sub": "r/memes"
     },
     {
-     "title": "Claude ain't no snitch",
-     "image": "https://i.redd.it/cxjxzzh8n64i1.png",
-     "url": "https://redd.it/1y6xkwe",
-     "ups": 8363,
-     "sub": "r/memes"
-    },
-    {
-     "title": "what would you say?",
-     "image": "https://i.redd.it/9cds18k5504i1.gif",
-     "url": "https://redd.it/1y68kkb",
-     "ups": 669,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Stay strong my PC brothers. Dino has us covered until GTA6 drops",
-     "image": "https://i.redd.it/4qlkv039j74i1.png",
-     "url": "https://redd.it/1y71xlo",
-     "ups": 14,
+     "title": "Who didn't cry for this?",
+     "image": "https://i.redd.it/6m0x2fter84i1.png",
+     "url": "https://redd.it/1y77gxl",
+     "ups": 601,
      "sub": "r/memes"
     },
     {
      "title": "A fairly common question I see from outsiders in these two communities.",
      "image": "https://i.redd.it/l33xo9pzr14i1.png",
      "url": "https://redd.it/1y6fpea",
-     "ups": 115,
+     "ups": 123,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Screwed the pooch",
+     "image": "https://i.redd.it/1z293322s74i1.png",
+     "url": "https://redd.it/1y7348f",
+     "ups": 22,
+     "sub": "r/memes"
+    },
+    {
+     "title": "They can time travel",
+     "image": "https://i.redd.it/rqxwdde3i04i1.png",
+     "url": "https://redd.it/1y6a8jr",
+     "ups": 567,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T04:00:13.072663+00:00",
+   "fetched_at": "2026-11-28T04:30:24.538024+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Victoria votes in state election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "NBA Cup group play games",
@@ -208,9 +216,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE reportedly called on lawyer's clients",
+     "text": "Thanksgiving Day celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae05639304a3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Israeli strikes in Gaza",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +240,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
+     "text": "Banned Nvidia chips reported in Shanghai",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Gates Foundation funds AI school tools",
+     "text": "Thanksgiving storm knocks out power",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eb851329b118",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ce4371e3feb9",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Aaron Rodgers reportedly out",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "ICE reportedly called on lawyer's clients",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae05639304a3",
      "likes": 0,
      "image": ""
     },
@@ -247,77 +279,45 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Avengers: Doomsday fan theories",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e8c214304f07",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Banned Nvidia chips reported in Shanghai",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Medicare for All and universal healthcare",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/eecf5d7b03b0",
-     "likes": 0,
-     "image": ""
-    },
-    {
      "kind": "Lemmy post",
      "text": "Magic users",
      "author": "Lemmy Shitpost",
      "url": "https://lemmy.today/post/63984564",
-     "likes": 12,
+     "likes": 48,
      "image": "https://lemmy.world/pictrs/image/bf504d8c-a084-4eac-bafe-05903d523a89.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "forgot to say away again",
+     "text": "Horse a man",
      "author": "Lemmy Shitpost",
-     "url": "https://quokk.au/c/lemmyshitpost/p/1375163/forgot-to-say-away-again",
-     "likes": 24,
-     "image": "https://lemmy.world/pictrs/image/ff815366-cd0b-483d-a632-d0e0cf6c56d6.webp"
+     "url": "https://lemmy.today/post/63984562",
+     "likes": 33,
+     "image": "https://lemmy.world/pictrs/image/99d28467-92b9-466e-abe1-60d10f8f45bc.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Idris Elba",
-     "author": "Art Share\ud83c\udfa8",
-     "url": "https://lemmy.world/post/54939967",
-     "likes": 11,
-     "image": "https://lemmy.world/pictrs/image/2e737a95-b919-4fdf-9858-e87efa1d83b7.jpeg"
+     "text": "Turn it into a memorial site for Epstein victims?",
+     "author": "Political Memes",
+     "url": "https://lemmy.today/post/63985135",
+     "likes": 15,
+     "image": "https://lemmy.world/pictrs/image/e66e9527-c7b1-4a74-ae5d-a93d1ac3b1b4.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
-     "author": "News",
-     "url": "https://lemmy.world/post/54939556",
-     "likes": 25,
-     "image": "https://lemmy.world/pictrs/image/d82f9e3e-4513-43ee-b210-e12da410c485.jpeg"
+     "text": "The right rules",
+     "author": "196",
+     "url": "https://crazypeople.online/post/28158434",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/f09817ab-a48a-42a2-b39a-a0e8bdc1f7a7.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T04:00:17.368078+00:00",
+   "fetched_at": "2026-11-28T04:30:24.835367+00:00",
    "stale": false,
    "items": [
     {
-     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
@@ -325,31 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
      "source": "Programming joke"
     },
     {
-     "text": "I'd tell you a joke about NAT but I would have to translate.",
+     "text": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
      "source": "Programming joke"
     },
     {
-     "text": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
+     "text": "I was in an 80's band called the prevention. We were better than the cure.",
      "source": "Dad joke"
     },
     {
-     "text": "What do you call an eagle who can play the piano? Talonted!",
+     "text": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
      "source": "Dad joke"
     },
     {
-     "text": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.",
+     "text": "I tried to write a chemistry joke, but could never get a reaction.",
      "source": "Dad joke"
     }
    ]
