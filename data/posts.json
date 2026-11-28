@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T16:04:15.818889+00:00",
+ "generated_at": "2026-11-28T16:34:21.062983+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,23 +89,9 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T16:04:12.744247+00:00",
+   "fetched_at": "2026-11-28T16:34:18.120882+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
-     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
-     "url": "https://redd.it/1y59oah",
-     "ups": 0,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "technicallyCorrect",
-     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
-     "url": "https://redd.it/1y5vntt",
-     "ups": 1344,
-     "sub": "r/ProgrammerHumor"
-    },
     {
      "title": "doesPEqualNp",
      "image": "https://i.redd.it/2ypi9rxyw74i1.png",
@@ -114,17 +100,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "rewriteItInRustTitanicEdition",
-     "image": "https://i.redd.it/rhdgtrw8574i1.png",
-     "url": "https://redd.it/1y70278",
-     "ups": 1408,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 339,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "aiProductivity",
-     "image": "https://i.redd.it/zclx20rsh34i1.png",
-     "url": "https://redd.it/1y6lqcs",
-     "ups": 0,
+     "title": "devAndProject",
+     "image": "https://i.redd.it/6necvnddcp3i1.png",
+     "url": "https://redd.it/1y507pk",
+     "ups": 7265,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
+     "image": "https://i.redd.it/mihtmnz2fs2i1.png",
+     "url": "https://redd.it/1y16m3c",
+     "ups": 25,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -135,31 +128,24 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "I mean... It's only a matter of time right?",
-     "image": "https://i.redd.it/qz9c7p9g914i1.png",
-     "url": "https://redd.it/1y6dh1d",
-     "ups": 2283,
+     "title": "pythonSlow",
+     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
+     "url": "https://redd.it/1y2krvn",
+     "ups": 11884,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "Unlocked a lot of memories",
+     "image": "https://i.redd.it/8ewqr988v74i1.gif",
+     "url": "https://redd.it/1y73il2",
+     "ups": 543,
      "sub": "r/memes"
     },
     {
-     "title": "Who didn't cry for this?",
-     "image": "https://i.redd.it/6m0x2fter84i1.png",
-     "url": "https://redd.it/1y77gxl",
-     "ups": 1736,
-     "sub": "r/memes"
-    },
-    {
-     "title": "How far they have fallen. I miss the old days",
-     "image": "https://i.redd.it/j8v39t4ak14i1.png",
-     "url": "https://redd.it/1y6enun",
-     "ups": 1987,
-     "sub": "r/memes"
-    },
-    {
-     "title": "PT Cruiser",
-     "image": "https://i.redd.it/15fx59hjk64i1.png",
-     "url": "https://redd.it/1y6x7ea",
-     "ups": 246,
+     "title": "Trying to manyfist it",
+     "image": "https://i.redd.it/e8vm3zeyac4i1.png",
+     "url": "https://redd.it/1y7k2xy",
+     "ups": 148,
      "sub": "r/memes"
     },
     {
@@ -175,13 +161,43 @@
      "url": "https://redd.it/1y5t4b5",
      "ups": 4637,
      "sub": "r/memes"
+    },
+    {
+     "title": "i think iv figured out  why we always find dinosaurs in theses funky positions",
+     "image": "https://i.redd.it/4qkvbsexq84i1.png",
+     "url": "https://redd.it/1y77f4b",
+     "ups": 95,
+     "sub": "r/memes"
+    },
+    {
+     "title": "I mean, you could, but the odds are against you",
+     "image": "https://i.redd.it/d4h3d9djuc4i1.png",
+     "url": "https://redd.it/1y7m25u",
+     "ups": 0,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T16:04:14.876843+00:00",
+   "fetched_at": "2026-11-28T16:34:19.804071+00:00",
    "stale": false,
    "items": [
+    {
+     "kind": "Bluesky trend",
+     "text": "Millions of children lose SNAP",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ecb69c932822",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Anthropic's Claude AI outage and use",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c908fd3ad78d",
+     "likes": 0,
+     "image": ""
+    },
     {
      "kind": "Bluesky trend",
      "text": "Israeli strike hits Gaza clinic",
@@ -192,9 +208,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Storm rips Kennedy Center tarp",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/61278fbe7659",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
@@ -224,17 +240,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nvidia reinstates Jensen Huang",
+     "text": "Bird photography",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
+     "text": "Aaron Rodgers reportedly out",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
      "likes": 0,
      "image": ""
     },
@@ -248,22 +264,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "World tops 2C for six straight days",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/892aad2d4d59",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "Musk's USAID cuts and child deaths",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dad5b43394ca",
@@ -272,60 +272,60 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Millions of children lose SNAP",
+     "text": "BAAJA permitting reform bill",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ecb69c932822",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9c4fc14181b0",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "To be fair he's never seen his reflection either.",
-     "author": "Political Memes",
-     "url": "https://sopuli.xyz/post/55205025",
-     "likes": 28,
-     "image": "https://lemmy.world/pictrs/image/fdfac831-65a4-4210-a9f3-b626469e79e3.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Tis the season",
+     "text": "Realistic Medieval Fantasy [ToothBj]",
      "author": "Comic Strips",
-     "url": "https://eviltoast.org/post/33857958",
-     "likes": 77,
-     "image": "https://lemmy.world/pictrs/image/c94fe9d8-fc3e-4cf4-a7e8-af79ee635ab2.png"
+     "url": "https://lemmy.world/post/54958771",
+     "likes": 70,
+     "image": "https://lemmy.world/pictrs/image/02731781-2dd7-4dea-b554-3d7faab00d4c.webp"
     },
     {
      "kind": "Lemmy post",
-     "text": "Fishing",
-     "author": "Comic Strips",
-     "url": "https://lemmy.world/post/54956952",
-     "likes": 82,
-     "image": "https://lemmy.world/pictrs/image/8ec42c62-ff7a-4567-a60a-06fe4268b17f.jpeg"
+     "text": "Therapy makes you stronger",
+     "author": "memes",
+     "url": "https://lemmy.world/post/54958804",
+     "likes": 56,
+     "image": "https://lemmy.world/pictrs/image/a2007634-a8b8-4273-ae8d-82c665888e72.png"
     },
     {
      "kind": "Lemmy post",
-     "text": "I work out hard",
-     "author": "Funny",
-     "url": "https://lemmy.world/post/54957270",
-     "likes": 64,
-     "image": "https://lemmy.world/pictrs/image/ed8f7746-0915-491f-af23-c26c485a2029.jpeg"
+     "text": "The Other Brain",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54958700",
+     "likes": 46,
+     "image": "https://lemmy.world/pictrs/image/974aa0e6-0157-4fbd-a710-7f44419fb953.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "The \u201cPermitting Reform\u201d Bill Is a Declaration of War on Endangered Species | Federal protections for animals were a 20th century legislative triumph. Now they are on the brink of being wiped out.",
+     "author": "politics ",
+     "url": "https://lemmy.world/post/54959001",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/6a5ac15b-3368-48b9-95d9-3e3500b40ee7.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T16:04:15.353295+00:00",
+   "fetched_at": "2026-11-28T16:34:20.675542+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "A programmer puts two glasses on his bedside table before going to sleep.\nA full one, in case he gets thirsty, and an empty one, in case he doesn't.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
      "source": "Programming joke"
     },
     {
@@ -333,23 +333,23 @@
      "source": "Programming joke"
     },
     {
-     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "The generation of random numbers is too important to be left to chance.",
      "source": "Programming joke"
     },
     {
-     "text": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
+     "text": "I gave all my dead batteries away today, free of charge.",
      "source": "Dad joke"
     },
     {
-     "text": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.",
+     "text": "Why are skeletons so calm? Because nothing gets under their skin.",
      "source": "Dad joke"
     },
     {
-     "text": "My cat was just sick on the carpet, I don\u2019t think it\u2019s feline well.",
+     "text": "\"What time is it?\" I don't know... it keeps changing.",
      "source": "Dad joke"
     }
    ]
