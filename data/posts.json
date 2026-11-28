@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T16:34:21.062983+00:00",
+ "generated_at": "2026-11-28T16:34:35.657110+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,21 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T16:34:18.120882+00:00",
+   "fetched_at": "2026-11-28T16:34:32.142085+00:00",
    "stale": false,
    "items": [
     {
-     "title": "doesPEqualNp",
-     "image": "https://i.redd.it/2ypi9rxyw74i1.png",
-     "url": "https://redd.it/1y73qx9",
-     "ups": 938,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "notASingleCommentInSight",
-     "image": "https://i.redd.it/eonkabnxch3i1.png",
-     "url": "https://redd.it/1y42vx2",
-     "ups": 339,
+     "title": "compilersHateThisOneTrick",
+     "image": "https://i.redd.it/jmm944uup73i1.png",
+     "url": "https://redd.it/1y2x5i2",
+     "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -114,6 +107,13 @@
      "sub": "r/ProgrammerHumor"
     },
     {
+     "title": "iWantMyBrowserToBeAMemoryHog",
+     "image": "https://i.redd.it/kc0caqlcym3i1.png",
+     "url": "https://redd.it/1y4qogs",
+     "ups": 611,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
      "title": "dutchAiTranslatedJustFinishedAsHeJustCame",
      "image": "https://i.redd.it/mihtmnz2fs2i1.png",
      "url": "https://redd.it/1y16m3c",
@@ -121,31 +121,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 474,
+     "title": "technicallyCorrect",
+     "image": "https://i.redd.it/15jdh6vwyw3i1.png",
+     "url": "https://redd.it/1y5vntt",
+     "ups": 1344,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "pythonSlow",
-     "image": "https://i.redd.it/ry9x0ub1o43i1.png",
-     "url": "https://redd.it/1y2krvn",
-     "ups": 11884,
+     "title": "getsBetterEveryHourIRefresh",
+     "image": "https://i.redd.it/sj3zl7x8wq3i1.png",
+     "url": "https://redd.it/1y557cw",
+     "ups": 8783,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Unlocked a lot of memories",
-     "image": "https://i.redd.it/8ewqr988v74i1.gif",
-     "url": "https://redd.it/1y73il2",
-     "ups": 543,
+     "title": "my guy plutarch heavensbee was BOOKING it out of the capitol",
+     "image": "https://i.redd.it/g25yspv10c4i1.gif",
+     "url": "https://redd.it/1y7j4he",
+     "ups": 0,
      "sub": "r/memes"
     },
     {
-     "title": "Trying to manyfist it",
-     "image": "https://i.redd.it/e8vm3zeyac4i1.png",
-     "url": "https://redd.it/1y7k2xy",
-     "ups": 148,
+     "title": "It is soo frustrating",
+     "image": "https://i.redd.it/xzcd7ve50d4i1.png",
+     "url": "https://redd.it/1y7mo8t",
+     "ups": 2460,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Claude ain't no snitch",
+     "image": "https://i.redd.it/cxjxzzh8n64i1.png",
+     "url": "https://redd.it/1y6xkwe",
+     "ups": 11582,
      "sub": "r/memes"
     },
     {
@@ -156,17 +163,10 @@
      "sub": "r/memes"
     },
     {
-     "title": "2 and a half hours baby",
-     "image": "https://i.redd.it/tsresozl8w3i1.png",
-     "url": "https://redd.it/1y5t4b5",
-     "ups": 4637,
-     "sub": "r/memes"
-    },
-    {
-     "title": "i think iv figured out  why we always find dinosaurs in theses funky positions",
-     "image": "https://i.redd.it/4qkvbsexq84i1.png",
-     "url": "https://redd.it/1y77f4b",
-     "ups": 95,
+     "title": "Screwed the pooch",
+     "image": "https://i.redd.it/1z293322s74i1.png",
+     "url": "https://redd.it/1y7348f",
+     "ups": 54,
      "sub": "r/memes"
     },
     {
@@ -179,7 +179,7 @@
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T16:34:19.804071+00:00",
+   "fetched_at": "2026-11-28T16:34:34.886866+00:00",
    "stale": false,
    "items": [
     {
@@ -307,17 +307,17 @@
      "text": "The \u201cPermitting Reform\u201d Bill Is a Declaration of War on Endangered Species | Federal protections for animals were a 20th century legislative triumph. Now they are on the brink of being wiped out.",
      "author": "politics ",
      "url": "https://lemmy.world/post/54959001",
-     "likes": 19,
+     "likes": 20,
      "image": "https://lemmy.world/pictrs/image/6a5ac15b-3368-48b9-95d9-3e3500b40ee7.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T16:34:20.675542+00:00",
+   "fetched_at": "2026-11-28T16:34:35.276141+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
      "source": "Programming joke"
     },
     {
@@ -325,31 +325,31 @@
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "\"Honey, go to the store and buy some eggs.\"\n\"OK.\"\n\"Oh and while you're there, get some milk.\"\nHe never returned.",
+     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
+     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
      "source": "Programming joke"
     },
     {
-     "text": "I gave all my dead batteries away today, free of charge.",
+     "text": "Why do scuba divers fall backwards into the water? Because if they fell forwards they\u2019d still be in the boat.",
      "source": "Dad joke"
     },
     {
-     "text": "Why are skeletons so calm? Because nothing gets under their skin.",
+     "text": "What do you call cheese by itself? Provolone.",
      "source": "Dad joke"
     },
     {
-     "text": "\"What time is it?\" I don't know... it keeps changing.",
+     "text": "What do you do when your bunny gets wet? You get your hare dryer.",
      "source": "Dad joke"
     }
    ]
