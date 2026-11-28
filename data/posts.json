@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T10:33:05.634342+00:00",
+ "generated_at": "2026-11-28T11:03:11.227370+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,9 +89,16 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T10:33:01.728073+00:00",
+   "fetched_at": "2026-11-28T11:03:07.424808+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "versionControl",
+     "image": "https://i.redd.it/8oyh0yrg144i1.png",
+     "url": "https://redd.it/1y6nka4",
+     "ups": 1233,
+     "sub": "r/ProgrammerHumor"
+    },
     {
      "title": "riemannHypothesisSolved",
      "image": "https://i.redd.it/7313n4ui5y2i1.png",
@@ -100,73 +107,45 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "commentsInJson",
-     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
-     "url": "https://redd.it/1y1rd5z",
-     "ups": 5977,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
-     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
-     "url": "https://redd.it/1y59oah",
+     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
+     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
+     "url": "https://redd.it/1y59j8p",
      "ups": 0,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateOfCodeReview",
-     "image": "https://i.redd.it/m2pln0y0s64i1.png",
-     "url": "https://redd.it/1y6y8wg",
-     "ups": 478,
+     "title": "interestingTimes",
+     "image": "https://i.redd.it/6s2ekr7mut2i1.png",
+     "url": "https://redd.it/1y1dz0b",
+     "ups": 3860,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1525,
+     "title": "stateManagementOverseas",
+     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
+     "url": "https://redd.it/1y089ix",
+     "ups": 274,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "thesePeopleAnnoyMe",
-     "image": "https://i.redd.it/6obc3sa54l3i1.png",
-     "url": "https://redd.it/1y4h7t0",
-     "ups": 0,
+     "title": "thanksWebSphere",
+     "image": "https://i.redd.it/oern6i93ki2i1.png",
+     "url": "https://redd.it/1y02ivk",
+     "ups": 498,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "Jason, my boiyah",
-     "image": "https://i.redd.it/gbdvxxrds14i1.png",
-     "url": "https://redd.it/1y6fk6s",
-     "ups": 78,
+     "title": "Sometimes I do wonder if it is like that",
+     "image": "https://i.redd.it/vxtti7kw324i1.png",
+     "url": "https://redd.it/1y6gr3g",
+     "ups": 65,
      "sub": "r/memes"
     },
     {
-     "title": "They will never see him coming.",
-     "image": "https://i.redd.it/xjcwdgvcw94i1.png",
-     "url": "https://redd.it/1y7c0k3",
-     "ups": 19,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Kindred of my car.",
-     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
-     "url": "https://redd.it/1y6u3ho",
-     "ups": 2761,
-     "sub": "r/memes"
-    },
-    {
-     "title": "We are all trying to find the guys who did this!",
-     "image": "https://i.redd.it/clmk05znq04i1.png",
-     "url": "https://redd.it/1y6bar0",
-     "ups": 365,
-     "sub": "r/memes"
-    },
-    {
-     "title": "They can time travel",
-     "image": "https://i.redd.it/rqxwdde3i04i1.png",
-     "url": "https://redd.it/1y6a8jr",
-     "ups": 577,
+     "title": "Who didn't cry for this?",
+     "image": "https://i.redd.it/6m0x2fter84i1.png",
+     "url": "https://redd.it/1y77gxl",
+     "ups": 1358,
      "sub": "r/memes"
     },
     {
@@ -175,21 +154,34 @@
      "url": "https://redd.it/1y6kuv7",
      "ups": 441,
      "sub": "r/memes"
+    },
+    {
+     "title": "i think iv figured out  why we always find dinosaurs in theses funky positions",
+     "image": "https://i.redd.it/4qkvbsexq84i1.png",
+     "url": "https://redd.it/1y77f4b",
+     "ups": 80,
+     "sub": "r/memes"
+    },
+    {
+     "title": "A fairly common question I see from outsiders in these two communities.",
+     "image": "https://i.redd.it/l33xo9pzr14i1.png",
+     "url": "https://redd.it/1y6fpea",
+     "ups": 141,
+     "sub": "r/memes"
+    },
+    {
+     "title": "How far they have fallen. I miss the old days",
+     "image": "https://i.redd.it/j8v39t4ak14i1.png",
+     "url": "https://redd.it/1y6enun",
+     "ups": 1976,
+     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T10:33:04.456351+00:00",
+   "fetched_at": "2026-11-28T11:03:09.626123+00:00",
    "stale": false,
    "items": [
-    {
-     "kind": "Bluesky trend",
-     "text": "Israeli strike hits Gaza clinic",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
-     "likes": 0,
-     "image": ""
-    },
     {
      "kind": "Bluesky trend",
      "text": "Victoria votes in state election",
@@ -200,9 +192,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Grand Theft Auto VI",
+     "text": "Israeli strike hits Gaza clinic",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/672ee501d5a7",
      "likes": 0,
      "image": ""
     },
@@ -216,14 +208,6 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Boreen daily trivia scores",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
      "text": "WWE's AI-voiced Bronson Reed tribute",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cc52c572630",
@@ -232,9 +216,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "\"Define cinema with a photo\" trend",
+     "text": "Macy's parade postponed to Saturday",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/062b0da2c4f0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
@@ -248,84 +232,96 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
+     "text": "Anthropic's Claude AI outage and use",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c908fd3ad78d",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Nottingham Forest vs. Chelsea",
+     "text": "Banned Nvidia chips reported in Shanghai",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a9d3141ed19a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Ukraine claims Libya warship sinking",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6e83a5924f0d",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Hackers breach Air Force cloud platform",
+     "text": "November full supermoon",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/42a525891bb2",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7bd371cf1a31",
      "likes": 0,
      "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Costa Rica bars Francesca Albanese",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d44c0d7fa1e2",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Spain heads to snap election",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/248b96e13014",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Day 863 of posting a Daily Screenshots from the games I've been playing",
+     "author": "Games",
+     "url": "https://lemmy.world/post/54948524",
+     "likes": 11,
+     "image": "https://lemmy.world/pictrs/image/61109aef-6f82-45b1-8db0-9ba27c5dd1ce.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "clicker rule",
      "author": "196",
      "url": "https://lemmy.blahaj.zone/post/51033413",
-     "likes": 11,
+     "likes": 21,
      "image": "https://lemmy.world/pictrs/image/8de2d349-bb03-40c2-81e0-c88a280dbdaf.webp"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "It's not fair",
+     "author": "Waltstreetbets",
+     "url": "https://sopuli.xyz/post/55193773",
+     "likes": 9,
+     "image": "https://lemmy.world/pictrs/image/309f6a5d-1f02-450c-8582-54a90af0dc5c.webp"
     },
     {
      "kind": "Lemmy post",
      "text": "The files are editable!",
      "author": "Programming Circlejerk",
      "url": "https://sopuli.xyz/post/55192495",
-     "likes": 37,
+     "likes": 57,
      "image": "https://lemmy.world/pictrs/image/2b250dd7-2bda-49d6-8afd-bb32d7dafa72.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Rule",
-     "author": "196",
-     "url": "https://lemmy.today/post/63993280",
-     "likes": 29,
-     "image": "https://lemmy.world/pictrs/image/a0a145c0-b9a7-4173-b87d-b68edbae06e8.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Magic users",
-     "author": "Wizards",
-     "url": "https://lemmy.world/post/54946724",
-     "likes": 19,
-     "image": "https://lemmy.world/pictrs/image/3e82bc8b-677a-4d3b-add5-193fd2fae6ce.png"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T10:33:05.236599+00:00",
+   "fetched_at": "2026-11-28T11:03:10.810969+00:00",
    "stale": false,
    "items": [
     {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
+     "text": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
      "source": "Programming joke"
     },
     {
-     "text": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "text": "\"We messed up the keming again guys.\"",
      "source": "Programming joke"
     },
     {
@@ -333,32 +329,36 @@
      "source": "Programming joke"
     },
     {
-     "text": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
+     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
      "source": "Programming joke"
     },
     {
-     "text": "So a duck walks into a pharmacy and says \u201cGive me some chap-stick\u2026 and put it on my bill\u201d",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Why can't a bicycle stand on its own? It's two-tired.",
      "source": "Dad joke"
     },
     {
-     "text": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
+     "text": "I used to work for a soft drink can crusher. It was soda pressing.",
      "source": "Dad joke"
     },
     {
-     "text": "Why did the coffee file a police report? It got mugged.",
+     "text": "Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Booked for excessive virality. No bail.",
-  "meme_stash": "Contraband humor, seized hourly.",
-  "elsewhere": "Witness reports from across the social streets.",
-  "interrogation": "We asked the jokes nicely. They confessed."
+  "most_wanted": "Caught red-handed farming engagement.",
+  "meme_stash": "The stash grows. Nobody snitches.",
+  "elsewhere": "They post there. The party, however, is on X.",
+  "interrogation": "No dad joke survives interrogation."
  }
 }
