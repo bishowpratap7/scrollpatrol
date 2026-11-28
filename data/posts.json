@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T20:05:14.503981+00:00",
+ "generated_at": "2026-11-28T20:35:20.370608+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,35 +89,14 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T20:05:11.075271+00:00",
+   "fetched_at": "2026-11-28T20:35:16.839479+00:00",
    "stale": false,
    "items": [
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 477,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "fuckItWeBall",
-     "image": "https://i.redd.it/olciohqbhf3i1.png",
-     "url": "https://redd.it/1y3ug0u",
-     "ups": 193,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "learnedTheHardWay",
-     "image": "https://i.redd.it/u5lcmze1m94i1.png",
-     "url": "https://redd.it/1y7aw01",
-     "ups": 65,
-     "sub": "r/ProgrammerHumor"
-    },
-    {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
-     "ups": 0,
+     "title": "justYourNormalJavaDeveloper",
+     "image": "https://i.redd.it/c06objophe2i1.gif",
+     "url": "https://redd.it/1xzk42x",
+     "ups": 1529,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -128,17 +107,38 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "justYourNormalJavaDeveloper",
-     "image": "https://i.redd.it/c06objophe2i1.gif",
-     "url": "https://redd.it/1xzk42x",
-     "ups": 1529,
+     "title": "versionControl",
+     "image": "https://i.redd.it/8oyh0yrg144i1.png",
+     "url": "https://redd.it/1y6nka4",
+     "ups": 1373,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "It was always the same",
-     "image": "https://i.redd.it/0egmffra0e4i1.png",
-     "url": "https://redd.it/1y7rakh",
-     "ups": 133,
+     "title": "commentsInJson",
+     "image": "https://i.redd.it/qpbfr7yx6x2i1.png",
+     "url": "https://redd.it/1y1rd5z",
+     "ups": 5976,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "approvedLgtm",
+     "image": "https://i.redd.it/e3qxiueyus3i1.png",
+     "url": "https://redd.it/1y5ehbi",
+     "ups": 543,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "theOfficialWebsiteOfGTA6UsesJSONasAReferenceToOneOfItsCharactersBeingNamedJason",
+     "image": "https://i.redd.it/q5z7xpv1yr3i1.png",
+     "url": "https://redd.it/1y59oah",
+     "ups": 0,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "I fear I've made peak...",
+     "image": "https://i.redd.it/if146z0w834i1.png",
+     "url": "https://redd.it/1y6kuv7",
+     "ups": 464,
      "sub": "r/memes"
     },
     {
@@ -146,13 +146,6 @@
      "image": "https://i.redd.it/rqxwdde3i04i1.png",
      "url": "https://redd.it/1y6a8jr",
      "ups": 584,
-     "sub": "r/memes"
-    },
-    {
-     "title": "PT Cruiser",
-     "image": "https://i.redd.it/15fx59hjk64i1.png",
-     "url": "https://redd.it/1y6x7ea",
-     "ups": 254,
      "sub": "r/memes"
     },
     {
@@ -170,31 +163,30 @@
      "sub": "r/memes"
     },
     {
-     "title": "Unlocked a lot of memories",
-     "image": "https://i.redd.it/8ewqr988v74i1.gif",
-     "url": "https://redd.it/1y73il2",
-     "ups": 572,
+     "title": "Who didn't cry for this?",
+     "image": "https://i.redd.it/6m0x2fter84i1.png",
+     "url": "https://redd.it/1y77gxl",
+     "ups": 1900,
+     "sub": "r/memes"
+    },
+    {
+     "title": "How far they have fallen. I miss the old days",
+     "image": "https://i.redd.it/j8v39t4ak14i1.png",
+     "url": "https://redd.it/1y6enun",
+     "ups": 1997,
      "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T20:05:13.697550+00:00",
+   "fetched_at": "2026-11-28T20:35:19.423436+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "Millions of children lose SNAP",
+     "text": "David Fincher weighs retirement",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ecb69c932822",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Trump renames AI \"Super Intelligence\"",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4eb8c8d4267a",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae9b89f2fb37",
      "likes": 0,
      "image": ""
     },
@@ -208,6 +200,14 @@
     },
     {
      "kind": "Bluesky trend",
+     "text": "Trump renames AI \"Super Intelligence\"",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4eb8c8d4267a",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
      "text": "Macy's Thanksgiving Day Parade",
      "author": "",
      "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
@@ -216,25 +216,33 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "David Fincher weighs retirement",
+     "text": "Musk's USAID cuts and child deaths",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae9b89f2fb37",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dad5b43394ca",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "\"Define cinema with a photo\" trend",
+     "text": "Nvidia reinstates Jensen Huang",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/062b0da2c4f0",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/716f7ca460d4",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
+     "text": "Death of WWE's Bronson Reed",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cc52c572630",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "GTA 6's Jason and Lucia",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
@@ -248,17 +256,17 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Bird photography",
+     "text": "Banned Nvidia chips reported in Shanghai",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "US loses measles elimination status",
+     "text": "Trump's agenda after midterm elections",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b032580ca23d",
      "likes": 0,
      "image": ""
     },
@@ -271,85 +279,77 @@
      "image": ""
     },
     {
-     "kind": "Bluesky trend",
-     "text": "Musk's USAID cuts and child deaths",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/dad5b43394ca",
-     "likes": 0,
-     "image": ""
+     "kind": "Lemmy post",
+     "text": "Season\u2019s screamings",
+     "author": "cats",
+     "url": "https://lemmy.world/post/54966818",
+     "likes": 32,
+     "image": "https://lemmy.world/pictrs/image/cf61dd9e-aebb-46a1-a577-607a31225314.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "Environmental storytelling",
      "author": "I'm going to Hell for this",
      "url": "https://sopuli.xyz/post/55214155",
-     "likes": 28,
+     "likes": 65,
      "image": "https://lemmy.world/pictrs/image/9d28fcf4-e09c-4cce-acaa-81f6d2a29d9a.jpeg"
+    },
+    {
+     "kind": "Lemmy post",
+     "text": "Noodle wishes you a joyous holiday season and says if you try to take her out of her new toy she will annihilate your face",
+     "author": "cats",
+     "url": "https://sh.itjust.works/post/70627464",
+     "likes": 16,
+     "image": "https://lemmy.world/pictrs/image/b71ecbf0-9c94-4402-b050-fd5637765b04.jpeg"
     },
     {
      "kind": "Lemmy post",
      "text": "I does not have consciousness, the Pope agrees.",
      "author": "LLM",
      "url": "https://sopuli.xyz/post/55214257",
-     "likes": 21,
+     "likes": 50,
      "image": "https://lemmy.world/pictrs/image/df8963d5-1bda-4a59-a2e0-85a6e5f1234e.jpeg"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "Mustache",
-     "author": "Comic Strips",
-     "url": "https://lemmy.ml/post/55860925",
-     "likes": 20,
-     "image": "https://lemmy.world/pictrs/image/05cdfb39-2ba8-442e-948d-96bd2d7787a1.webp"
-    },
-    {
-     "kind": "Lemmy post",
-     "text": "those chuds really ruin every rule",
-     "author": "196",
-     "url": "https://lemmy.blahaj.zone/post/51050857",
-     "likes": 91,
-     "image": "https://lemmy.world/pictrs/image/b693e325-9e75-4cd8-97e5-c7818db1de18.webp"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T20:05:14.114933+00:00",
+   "fetched_at": "2026-11-28T20:35:19.964920+00:00",
    "stale": false,
    "items": [
+    {
+     "text": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "source": "Programming joke"
+    },
+    {
+     "text": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+     "source": "Programming joke"
+    },
     {
      "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
      "source": "Programming joke"
     },
     {
-     "text": "The generation of random numbers is too important to be left to chance.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
-     "source": "Programming joke"
-    },
-    {
-     "text": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
-     "source": "Programming joke"
-    },
-    {
-     "text": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads \u201cSmall medium at large.\u201d",
+     "text": "Why did the teddy bear say \u201cno\u201d to dessert? Because she was stuffed.",
      "source": "Dad joke"
     },
     {
-     "text": "How do you fix a broken pizza? With tomato paste.",
+     "text": "My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.",
      "source": "Dad joke"
     },
     {
-     "text": "When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow",
+     "text": "I accidentally took my cats meds last night. Don\u2019t ask meow.",
      "source": "Dad joke"
     }
    ]
