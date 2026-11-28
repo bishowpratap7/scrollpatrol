@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:30:34.144602+00:00",
+ "generated_at": "2026-11-28T06:00:40.327484+00:00",
  "sections": {
   "most_wanted": {
    "fetched_at": "2026-11-17T17:22:55.945826+00:00",
@@ -89,14 +89,28 @@
    ]
   },
   "meme_stash": {
-   "fetched_at": "2026-11-28T05:30:31.790681+00:00",
+   "fetched_at": "2026-11-28T06:00:35.678081+00:00",
    "stale": false,
    "items": [
     {
-     "title": "theNumberOfAiSlopAppsCloggingAppStoreIsTooDamnHigh",
-     "image": "https://i.redd.it/ivyre6s2xr3i1.png",
-     "url": "https://redd.it/1y59j8p",
-     "ups": 0,
+     "title": "notASingleCommentInSight",
+     "image": "https://i.redd.it/eonkabnxch3i1.png",
+     "url": "https://redd.it/1y42vx2",
+     "ups": 336,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "nothingIsMorePermanentThanATemporaryFix",
+     "image": "https://i.redd.it/unfdlds1sr3i1.png",
+     "url": "https://redd.it/1y58vju",
+     "ups": 1573,
+     "sub": "r/ProgrammerHumor"
+    },
+    {
+     "title": "javaForShell",
+     "image": "https://i.redd.it/6bk18o8xmc2i1.png",
+     "url": "https://redd.it/1xzc07i",
+     "ups": 574,
      "sub": "r/ProgrammerHumor"
     },
     {
@@ -107,32 +121,46 @@
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "stateManagementOverseas",
-     "image": "https://i.redd.it/y7odlsm0dk2i1.png",
-     "url": "https://redd.it/1y089ix",
-     "ups": 277,
+     "title": "newDevsBeLike",
+     "image": "https://i.redd.it/why2eporof2i1.png",
+     "url": "https://redd.it/1xzqgwe",
+     "ups": 2265,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "internshipNowadays",
-     "image": "https://i.redd.it/9jl9osob6a4i1.png",
-     "url": "https://redd.it/1y7czf8",
-     "ups": 564,
+     "title": "thisIsWhyWeDontReturnInFinallyBlocks",
+     "image": "https://i.redd.it/oc8vke7eel3i1.png",
+     "url": "https://redd.it/1y4ipsn",
+     "ups": 2695,
      "sub": "r/ProgrammerHumor"
     },
     {
-     "title": "yetAnotherJsonCommentsJoke",
-     "image": "https://i.redd.it/ipspl4jtve3i1.png",
-     "url": "https://redd.it/1y3r8ws",
-     "ups": 465,
-     "sub": "r/ProgrammerHumor"
+     "title": "Jason, my boiyah",
+     "image": "https://i.redd.it/gbdvxxrds14i1.png",
+     "url": "https://redd.it/1y6fk6s",
+     "ups": 76,
+     "sub": "r/memes"
     },
     {
-     "title": "whenTheBottomSheetAndTheBugReportBothNeedToExpand",
-     "image": "https://i.redd.it/m4xn2pgrm34i1.png",
-     "url": "https://redd.it/1y6m8ms",
-     "ups": 5,
-     "sub": "r/ProgrammerHumor"
+     "title": "what would you say?",
+     "image": "https://i.redd.it/9cds18k5504i1.gif",
+     "url": "https://redd.it/1y68kkb",
+     "ups": 690,
+     "sub": "r/memes"
+    },
+    {
+     "title": "2 and a half hours baby",
+     "image": "https://i.redd.it/tsresozl8w3i1.png",
+     "url": "https://redd.it/1y5t4b5",
+     "ups": 4120,
+     "sub": "r/memes"
+    },
+    {
+     "title": "Nightmares of my childhood",
+     "image": "https://i.redd.it/cdma2fw6c04i1.gif",
+     "url": "https://redd.it/1y69hmj",
+     "ups": 145,
+     "sub": "r/memes"
     },
     {
      "title": "I mean... It's only a matter of time right?",
@@ -142,59 +170,23 @@
      "sub": "r/memes"
     },
     {
-     "title": "Kindred of my car.",
-     "image": "https://i.redd.it/zx9xylzxw54i1.gif",
-     "url": "https://redd.it/1y6u3ho",
-     "ups": 1670,
-     "sub": "r/memes"
-    },
-    {
      "title": "Claude ain't no snitch",
      "image": "https://i.redd.it/cxjxzzh8n64i1.png",
      "url": "https://redd.it/1y6xkwe",
      "ups": 9001,
      "sub": "r/memes"
-    },
-    {
-     "title": "daily reminder",
-     "image": "https://i.redd.it/2l2weqc6904i1.png",
-     "url": "https://redd.it/1y693lx",
-     "ups": 64,
-     "sub": "r/memes"
-    },
-    {
-     "title": "Unlocked a lot of memories",
-     "image": "https://i.redd.it/8ewqr988v74i1.gif",
-     "url": "https://redd.it/1y73il2",
-     "ups": 259,
-     "sub": "r/memes"
-    },
-    {
-     "title": "The past few days have been draining",
-     "image": "https://i.redd.it/e5oa8m8ccw3i1.png",
-     "url": "https://redd.it/1y5tgtv",
-     "ups": 7945,
-     "sub": "r/memes"
     }
    ]
   },
   "elsewhere": {
-   "fetched_at": "2026-11-28T05:30:33.187712+00:00",
+   "fetched_at": "2026-11-28T06:00:39.554283+00:00",
    "stale": false,
    "items": [
     {
      "kind": "Bluesky trend",
-     "text": "NBA Cup group play games",
+     "text": "Victoria votes in state election",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f489236c392",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "Thanksgiving Day celebrations",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
      "likes": 0,
      "image": ""
     },
@@ -208,9 +200,9 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Victoria votes in state election",
+     "text": "Thanksgiving Day celebrations",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7a0e0bdaea55",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b30e2b26d3d6",
      "likes": 0,
      "image": ""
     },
@@ -224,33 +216,25 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "Aaron Rodgers reportedly out",
+     "text": "NBA Cup group play games",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4caa2c3f0c66",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2f489236c392",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Banned Nvidia chips reported in Shanghai",
+     "text": "Grand Theft Auto VI",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a4c1b75a716f",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/00fbbcfbde85",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "WWE's AI-voiced Bronson Reed tribute",
+     "text": "Boreen daily trivia scores",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2cc52c572630",
-     "likes": 0,
-     "image": ""
-    },
-    {
-     "kind": "Bluesky trend",
-     "text": "FCC approves SpaceX Starmind satellites",
-     "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/f11581ca7486",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6d6ef12d751f",
      "likes": 0,
      "image": ""
     },
@@ -264,101 +248,117 @@
     },
     {
      "kind": "Bluesky trend",
-     "text": "ICE reportedly called on lawyer's clients",
+     "text": "Macy's parade postponed to Saturday",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ae05639304a3",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/049763533cfe",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Bluesky trend",
-     "text": "Doctors in Congress urge RFK Jr. to resign",
+     "text": "World tops 2C for six straight days",
      "author": "",
-     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/53209bc9781e",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/892aad2d4d59",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "Quebec oath to the King",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/bb7164615f0f",
+     "likes": 0,
+     "image": ""
+    },
+    {
+     "kind": "Bluesky trend",
+     "text": "NYC rent freeze court case",
+     "author": "",
+     "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/383363689b55",
      "likes": 0,
      "image": ""
     },
     {
      "kind": "Lemmy post",
-     "text": "rule",
-     "author": "196",
-     "url": "https://lemmy.world/post/54941468",
-     "likes": 27,
-     "image": "https://lemmy.world/pictrs/image/4811f27f-2319-43b4-a177-874aaaee6f18.jpeg"
+     "text": "Tidal Bans AI Music, Moves to Delete 29 Million Slop Songs: Human-created music to our ears.",
+     "author": "Technology",
+     "url": "https://lemmy.world/post/54942490",
+     "likes": 17,
+     "image": "https://lemmy.world/pictrs/image/64850d68-376d-41a5-bc8f-7b02fb8dc505.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "The right rules",
-     "author": "196",
-     "url": "https://crazypeople.online/post/28158434",
-     "likes": 48,
-     "image": "https://lemmy.world/pictrs/image/f09817ab-a48a-42a2-b39a-a0e8bdc1f7a7.png"
+     "text": "Maybe his first words",
+     "author": "Lemmy Shitpost",
+     "url": "https://lemmy.world/post/54941979",
+     "likes": 19,
+     "image": "https://lemmy.world/pictrs/image/dcc6820b-5a31-4faf-9808-d9782d1b00d7.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "Turn it into a memorial site for Epstein victims?",
-     "author": "Political Memes",
-     "url": "https://lemmy.today/post/63985135",
-     "likes": 65,
-     "image": "https://lemmy.world/pictrs/image/e66e9527-c7b1-4a74-ae5d-a93d1ac3b1b4.jpeg"
+     "text": "2meirl4irl",
+     "author": "2meirl4meirl",
+     "url": "https://piefed.blahaj.zone/c/2meirl4meirl@lemmy.dbzer0.com/p/1090644/2meirl4irl",
+     "likes": 6,
+     "image": "https://lemmy.world/pictrs/image/261653ce-f319-4b5c-a1c8-8edb24ce455a.jpeg"
     },
     {
      "kind": "Lemmy post",
-     "text": "How to not see content you know you don\u2019t like rule",
-     "author": "196",
-     "url": "https://piefed.blahaj.zone/c/onehundredninetysix@lemmy.blahaj.zone/p/1104593/how-to-not-see-content-you-know-you-dont-like-rule",
-     "likes": 60,
-     "image": "https://lemmy.world/pictrs/image/6964f54d-0c34-4d8a-80a3-648ce47f024e.webp"
+     "text": "Anyone doing this today?",
+     "author": "aww",
+     "url": "https://piefed.blahaj.zone/c/aww@lemmy.world/p/1090619/anyone-doing-this-today",
+     "likes": 10,
+     "image": "https://lemmy.world/pictrs/image/611cf00d-200b-465e-8a0e-6fde89cb0acf.jpeg"
     }
    ]
   },
   "interrogation": {
-   "fetched_at": "2026-11-28T05:30:33.761712+00:00",
+   "fetched_at": "2026-11-28T06:00:39.977616+00:00",
    "stale": false,
    "items": [
     {
-     "text": "Judge: \"I sentence you to the maximum punishment...\"\nMe (thinking): \"Please be death, please be death...\"\nJudge: \"Learn Java!\"\nMe: \"Damn.\"",
+     "text": "I've got a really good UDP joke to tell you but I don\u2019t know if you'll get it.",
      "source": "Programming joke"
     },
     {
-     "text": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+     "text": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
      "source": "Programming joke"
     },
     {
-     "text": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+     "text": "// This line doesn't actually do anything, but the code stops working when I delete it.",
      "source": "Programming joke"
     },
     {
-     "text": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.",
+     "text": "I'd tell you a joke about NAT but I would have to translate.",
      "source": "Programming joke"
     },
     {
-     "text": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+     "text": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
      "source": "Programming joke"
     },
     {
-     "text": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+     "text": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
      "source": "Programming joke"
     },
     {
-     "text": "What is worse then finding a worm in your Apple? Finding half a worm in your Apple.",
+     "text": "How do you make holy water? You boil the hell out of it.",
      "source": "Dad joke"
     },
     {
-     "text": "What kind of bagel can fly? A plain bagel.",
+     "text": "How many tickles does it take to tickle an octopus? Ten-tickles!",
      "source": "Dad joke"
     },
     {
-     "text": "What did the shy pebble wish for? That she was a little boulder.",
+     "text": "What has a bed that you can\u2019t sleep in? A river.",
      "source": "Dad joke"
     }
    ]
   }
  },
  "quips": {
-  "most_wanted": "Caught red-handed farming engagement.",
-  "meme_stash": "The stash grows. Nobody snitches.",
-  "elsewhere": "They post there. The party, however, is on X.",
-  "interrogation": "No dad joke survives interrogation."
+  "most_wanted": "All suspects are trending until proven funny.",
+  "meme_stash": "Evidence bags full of memes. Again.",
+  "elsewhere": "Other platforms are talking. We listen so you don't have to.",
+  "interrogation": "Under the lamp, every joke talks."
  }
 }
